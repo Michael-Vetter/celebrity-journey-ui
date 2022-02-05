@@ -32077,12 +32077,12 @@
     "id": "c6695ebe-e4c4-4085-b11a-1e320461dd34",
     "description": "Dua Lipa - San Francisco, Masonic , February 13 2018",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2018-02-14",
-    "dateEvent": "",
+    "dateSort": "2018-02-13",
+    "dateEvent": "2018-02-13",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/masonic-auditorium-san-francisco-ca-53eec7bd.html"
       }
     ],
     "videos": [
@@ -32098,12 +32098,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Hotter Than Hell"
       }
     ]
   },
@@ -32145,12 +32145,12 @@
     "id": "43819da9-3abf-46ad-ae8b-dbb1de588256",
     "description": "Dua Lipa - Last Dance live Manchester Academy 10-10-17",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2017-10-11",
-    "dateEvent": "",
+    "dateSort": "2017-10-10",
+    "dateEvent": "2017-10-10",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "wiki",
+        "sourceLink": "https://en.wikipedia.org/wiki/List_of_Dua_Lipa_concert_tours"
       }
     ],
     "videos": [
@@ -32166,12 +32166,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Last Dance"
       }
     ]
   },
@@ -32179,12 +32179,12 @@
     "id": "db713aa3-18e0-4eb7-a08d-844db40837b8",
     "description": "Dua Lipa - Blow Your Mind - LIVE @ The Hollywood Palladium, Los Angeles, CA - 2-12-18",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2018-02-13",
-    "dateEvent": "",
+    "dateSort": "2018-02-12",
+    "dateEvent": "2018-02-12",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/hollywood-palladium-los-angeles-ca-6beeced2.html"
       }
     ],
     "videos": [
@@ -32200,12 +32200,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Blow Your Mind (Mwah)"
       }
     ]
   },
@@ -32213,12 +32213,12 @@
     "id": "4c01f574-e675-46e2-953d-210477eb23be",
     "description": "Dua Lipa - The Self-Titled Tour | The Van Buren - Phoenix, AZ | 02/09/18",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2018-04-21",
-    "dateEvent": "",
+    "dateSort": "2018-02-09",
+    "dateEvent": "2018-02-09",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/the-van-buren-phoenix-az-43eedf33.html"
       }
     ],
     "videos": [
@@ -32234,12 +32234,30 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Lost In Your Light"
+      },
+      {
+        "song": "Last Dance"
+      },
+      {
+        "song": "Blow Your Mind (Mwah)"
+      },
+      {
+        "song": "No Goodbyes"
+      },
+      {
+        "song": "IDGAF"
+      },
+      {
+        "song": "Scared To Be Lonely"
+      },
+      {
+        "song": "New Rules"
       }
     ]
   },
@@ -32247,8 +32265,8 @@
     "id": "ad953877-9228-4480-be6d-6cef1b36c714",
     "description": "Europa Plus LIVE 2017: DUA LIPA!",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2017-08-28",
-    "dateEvent": "",
+    "dateSort": "2017-07-29",
+    "dateEvent": "2017-07-29",
     "sourceForDateOfEvent": [
       {
         "sourceDescription": "",
@@ -32268,12 +32286,18 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Festival"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Blow Your Mind (Mwah)"
+      },
+      {
+        "song": "Be The One"
+      },
+      {
+        "song": "New Rules"
       }
     ]
   },
@@ -32281,12 +32305,12 @@
     "id": "12ff8dfb-97e7-45e7-b084-ca4952b8e932",
     "description": "Dua Lipa - Last Dance live Dot to Dot Festival, Manchester 27-05-16",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2016-05-30",
-    "dateEvent": "",
+    "dateSort": "2016-05-27",
+    "dateEvent": "2016-05-27",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "facebook",
+        "sourceLink": "https://www.facebook.com/events/manchester-bristol-and-nottingham/dot-to-dot-festival-2016/925232710884838/"
       }
     ],
     "videos": [
@@ -32302,12 +32326,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Festival"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Last Dance"
       }
     ]
   },
@@ -32315,12 +32339,12 @@
     "id": "8320d2ad-7b17-4bbc-93cf-17e84d6a9296",
     "description": "Dua Lipa - New Rules (Live) @ Yoyo, Paris (17.10.2017) HD",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2017-10-18",
-    "dateEvent": "",
+    "dateSort": "2017-10-17",
+    "dateEvent": "2017-10-17",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "wiki",
+        "sourceLink": "https://en.wikipedia.org/wiki/List_of_Dua_Lipa_concert_tours"
       }
     ],
     "videos": [
@@ -32336,12 +32360,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "New Rules"
       }
     ]
   },
@@ -32349,12 +32373,12 @@
     "id": "29d6f600-6a93-4099-be32-0a365f56c274",
     "description": "Dua Lipa - Be The One - LIVE @ The Hollywood Palladium, Los Angeles, CA - 2-12-18",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2018-02-13",
-    "dateEvent": "",
+    "dateSort": "2018-02-12",
+    "dateEvent": "2018-02-12",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/hollywood-palladium-los-angeles-ca-6beeced2.html"
       }
     ],
     "videos": [
@@ -32370,12 +32394,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Be The One"
       }
     ]
   },
@@ -32417,12 +32441,12 @@
     "id": "6adde498-e092-45e0-b532-37c88d0ec2ac",
     "description": "Dua Lipa - Hotter Than Hell (Live) @ Yoyo, Paris (17.10.2017) HD",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2017-10-18",
-    "dateEvent": "",
+    "dateSort": "2017-10-17",
+    "dateEvent": "2017-10-17",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "wiki",
+        "sourceLink": "https://en.wikipedia.org/wiki/List_of_Dua_Lipa_concert_tours"
       }
     ],
     "videos": [
@@ -32438,12 +32462,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Hotter Than Hell"
       }
     ]
   },
@@ -32452,11 +32476,11 @@
     "description": "Dua Lipa Acoustic Session @ Basta de Todo - Argentina HD",
     "dateDatabase": "12/05/2021",
     "dateSort": "2017-11-16",
-    "dateEvent": "",
+    "dateEvent": "2017-11-16",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/metro-951-estudios-buenos-aires-argentina-6be0f642.html"
       }
     ],
     "videos": [
@@ -32472,12 +32496,18 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Studio"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Blow Your Mind (Mwah)"
+      },
+      {
+        "song": "Be The One"
+      },
+      {
+        "song": "New Rules"
       }
     ]
   },
@@ -32485,12 +32515,12 @@
     "id": "9db4887e-65c2-4c81-b707-c9a3eb86bb67",
     "description": "Dua Lipa - Homesick live O2 Apollo, Manchester 14-04-18",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2018-04-17",
-    "dateEvent": "",
+    "dateSort": "2018-04-14",
+    "dateEvent": "2018-04-14",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/o2-apollo-manchester-manchester-england-3ecedd7.html"
       }
     ],
     "videos": [
@@ -32506,12 +32536,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Homesick"
       }
     ]
   },
@@ -32519,12 +32549,12 @@
     "id": "d8de797d-5554-4197-a856-c79671642d26",
     "description": "Dua Lipa - No Goodbyes - LIVE @ The Hollywood Palladium, Los Angeles, CA - 2-12-18",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2018-02-13",
-    "dateEvent": "",
+    "dateSort": "2018-02-12",
+    "dateEvent": "2018-02-12",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/hollywood-palladium-los-angeles-ca-6beeced2.html"
       }
     ],
     "videos": [
@@ -32540,12 +32570,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "No Goodbyes"
       }
     ]
   },
@@ -32553,12 +32583,12 @@
     "id": "e1f1f595-61ba-4617-b910-2c9726b022a4",
     "description": "Dua Lipa, One Kiss, Leeds Festival 2018,",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2018-08-28",
-    "dateEvent": "",
+    "dateSort": "2018-08-26",
+    "dateEvent": "2018-08-26",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/bramham-park-leeds-england-13e831b5.html"
       }
     ],
     "videos": [
@@ -32574,12 +32604,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Festival"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "One Kiss"
       }
     ]
   },
@@ -32587,12 +32617,12 @@
     "id": "dd4f00d5-fb6c-48f6-aa86-50b3096c7eb7",
     "description": "Dua Lipa, IDGAF, Leeds Festival 2018,",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2018-08-28",
-    "dateEvent": "",
+    "dateSort": "2018-08-26",
+    "dateEvent": "2018-08-26",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/bramham-park-leeds-england-13e831b5.html"
       }
     ],
     "videos": [
@@ -32608,12 +32638,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Festival"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "IDGAF"
       }
     ]
   },
@@ -32655,12 +32685,12 @@
     "id": "80c46a11-4a62-4d9f-8d88-ce5335870bec",
     "description": "Dua Lipa at Nob hill masonic, Be The One.",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2018-05-22",
-    "dateEvent": "",
+    "dateSort": "2018-02-13",
+    "dateEvent": "2018-02-13",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/masonic-auditorium-san-francisco-ca-53eec7bd.html"
       }
     ],
     "videos": [
@@ -32676,12 +32706,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Be The One"
       }
     ]
   },
@@ -32689,12 +32719,12 @@
     "id": "14a89962-fed8-4f36-b16b-873cfd7f1aa1",
     "description": "Martin Garrix w/ Dua Lipa - Scared To Be Lonely - July 2, 2017 - Hyde Park - London",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2017-07-03",
-    "dateEvent": "",
+    "dateSort": "2017-07-02",
+    "dateEvent": "2017-07-02",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/hyde-park-london-england-63e42a23.html"
       }
     ],
     "videos": [
@@ -32710,12 +32740,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Festival"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Scared To Be Lonely"
       }
     ]
   },
@@ -32723,12 +32753,12 @@
     "id": "fdff9e93-647b-48c5-8fae-971ef810b03a",
     "description": "Dua Lipa live at Mod club toronto canada",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2017-02-28",
-    "dateEvent": "",
+    "dateSort": "2017-02-27",
+    "dateEvent": "2017-02-27",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/mod-club-theatre-toronto-on-canada-1bf99570.html"
       }
     ],
     "videos": [
@@ -32744,12 +32774,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Hotter Than Hell"
       }
     ]
   },
@@ -32757,12 +32787,12 @@
     "id": "ff05f023-e066-4e14-8ad6-ac1cd6e52ccc",
     "description": "Dua Lipa - IDGAF - LIVE @ The Hollywood Palladium, Los Angeles, CA - 2-12-18",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2018-02-13",
-    "dateEvent": "",
+    "dateSort": "2018-02-12",
+    "dateEvent": "2018-02-12",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/hollywood-palladium-los-angeles-ca-6beeced2.html"
       }
     ],
     "videos": [
@@ -32778,12 +32808,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "IDGAF"
       }
     ]
   },
@@ -32825,12 +32855,12 @@
     "id": "047907e1-1b57-4f6c-a63b-ff68676740b7",
     "description": "Dua Lipa - My Love (Wale) / Lost In Your Light live O2 Apollo, Manchester 14-04-18",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2018-04-17",
-    "dateEvent": "",
+    "dateSort": "2018-04-14",
+    "dateEvent": "2018-04-14",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/o2-apollo-manchester-manchester-england-3ecedd7.html"
       }
     ],
     "videos": [
@@ -32846,12 +32876,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "My Love"
       }
     ]
   },
@@ -32859,12 +32889,12 @@
     "id": "0d17b78c-7257-41bd-9e7a-167c9ad3b514",
     "description": "Dua Lipa -  New Love - Glasgow O2 Academy October 2017",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2017-10-14",
-    "dateEvent": "",
+    "dateSort": "2017-10-11",
+    "dateEvent": "2017-10-11",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/o2-academy-glasgow-glasgow-scotland-3e3f997.html"
       }
     ],
     "videos": [
@@ -32880,12 +32910,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "New Love"
       }
     ]
   },
@@ -32893,12 +32923,12 @@
     "id": "fe16d1aa-59db-4b91-9d53-9e8822528007",
     "description": "Dua Lipa - Genesis - LIVE @ The Hollywood Palladium, Los Angeles, CA - 2-12-18",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2018-02-13",
-    "dateEvent": "",
+    "dateSort": "2018-02-12",
+    "dateEvent": "2018-02-12",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/hollywood-palladium-los-angeles-ca-6beeced2.html"
       }
     ],
     "videos": [
@@ -32914,12 +32944,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Genesis"
       }
     ]
   },
@@ -32961,12 +32991,12 @@
     "id": "c0390871-bf09-473b-a0ee-e38b6e889d14",
     "description": "Dua Lipa - Scared to be Lonely (Martin Garrix) live O2 Ritz, Manchester 12-04-17",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2017-04-13",
-    "dateEvent": "",
+    "dateSort": "2017-04-12",
+    "dateEvent": "2017-04-12",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "wiki",
+        "sourceLink": "https://en.wikipedia.org/wiki/List_of_Dua_Lipa_concert_tours"
       }
     ],
     "videos": [
@@ -32982,12 +33012,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Scared to be Lonely"
       }
     ]
   },
@@ -33029,12 +33059,12 @@
     "id": "de81a5b6-0f63-46f0-a01c-c7b3e2dd138c",
     "description": "Dua Lipa - Running live O2 Ritz, Manchester 12-04-17",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2017-04-13",
-    "dateEvent": "",
+    "dateSort": "2017-04-12",
+    "dateEvent": "2017-04-12",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "wiki",
+        "sourceLink": "https://en.wikipedia.org/wiki/List_of_Dua_Lipa_concert_tours"
       }
     ],
     "videos": [
@@ -33050,12 +33080,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Running"
       }
     ]
   },
@@ -33063,12 +33093,12 @@
     "id": "51ffe2e7-14cf-46bb-9a14-3e00d67597bf",
     "description": "Dua Lipa - Hotter than Hell - LIVE @ The Hollywood Palladium, Los Angeles, CA - 2-12-18",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2018-02-13",
-    "dateEvent": "",
+    "dateSort": "2018-02-12",
+    "dateEvent": "2018-02-12",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/hollywood-palladium-los-angeles-ca-6beeced2.html"
       }
     ],
     "videos": [
@@ -33084,12 +33114,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Hotter than Hell"
       }
     ]
   },
@@ -33131,11 +33161,11 @@
     "id": "d4db2ba3-5a08-4ae4-8c29-1f21e8570743",
     "description": "Dua Lipa plays FVM's Snapchat Snapchat",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2018-03-22",
-    "dateEvent": "",
+    "dateSort": "2018-03-02",
+    "dateEvent": "2018-03-02",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
+        "sourceDescription": "Not sure of the exact date, but this is the last day she was in New Zealand",
         "sourceLink": ""
       }
     ],
@@ -33152,7 +33182,7 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Interview"
       }
     ],
     "songs": [
@@ -33199,12 +33229,12 @@
     "id": "17a825cc-aed2-4aae-924a-7fa9f4a7187c",
     "description": "Dua Lipa “Hotter Than Hell” LIVE @ The Palladium Los Angeles, CA 2 8 18",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2018-02-15",
-    "dateEvent": "",
+    "dateSort": "2018-02-08",
+    "dateEvent": "2018-02-08",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/hollywood-palladium-los-angeles-ca-13eee19d.html"
       }
     ],
     "videos": [
@@ -33220,12 +33250,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Hotter Than Hell"
       }
     ]
   },
@@ -33267,12 +33297,12 @@
     "id": "177a92a4-1b33-41b1-9b36-15702514da5e",
     "description": "Dua lipa at the Qube in Amsterdam (Q-music)",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2017-09-07",
-    "dateEvent": "",
+    "dateSort": "2017-09-05",
+    "dateEvent": "2017-09-05",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/the-qube-amsterdam-netherlands-43e2db6f.html"
       }
     ],
     "videos": [
@@ -33288,12 +33318,42 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Festival"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Hotter Than Hell"
+      },
+      {
+        "song": "Dreams"
+      },
+      {
+        "song": "No Lie"
+      },
+      {
+        "song": "Lost In Your Light"
+      },
+      {
+        "song": "IDGAF"
+      },
+      {
+        "song": "Blow Your Mind (Mwah)"
+      },
+      {
+        "song": "Genesis"
+      },
+      {
+        "song": "Begging"
+      },
+      {
+        "song": "New Rules"
+      },
+      {
+        "song": "Scared To Be Lonely"
+      },
+      {
+        "song": "Be The One"
       }
     ]
   },
@@ -33301,12 +33361,12 @@
     "id": "97bcbcb9-a743-4e10-b484-e25dacca9c49",
     "description": "Dua Lipa: Self-Titled Tour San Francisco 2/13/2018",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2018-03-06",
-    "dateEvent": "",
+    "dateSort": "2018-02-13",
+    "dateEvent": "2018-02-13",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/masonic-auditorium-san-francisco-ca-53eec7bd.html"
       }
     ],
     "videos": [
@@ -33322,12 +33382,54 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Hotter Than Hell"
+      },
+      {
+        "song": "Dreams"
+      },
+      {
+        "song": "No Lie"
+      },
+      {
+        "song": "Lost in Your Light"
+      },
+      {
+        "song": "Garden"
+      },
+      {
+        "song": "Last Dance"
+      },
+      {
+        "song": "Blow Your Mind (Mwah)"
+      },
+      {
+        "song": "Thinking 'bout You"
+      },
+      {
+        "song": "New Love"
+      },
+      {
+        "song": "No Goodbyes"
+      },
+      {
+        "song": "IDGAF"
+      },
+      {
+        "song": "Scared to Be Lonely"
+      },
+      {
+        "song": "Begging"
+      },
+      {
+        "song": "Be the One"
+      },
+      {
+        "song": "New Rules"
       }
     ]
   },
@@ -33335,12 +33437,12 @@
     "id": "cb55f470-2094-4f27-89c4-434a24cceb84",
     "description": "Dua Lipa, Hotter Than Hell, Leeds Festival 2018,",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2018-08-28",
-    "dateEvent": "",
+    "dateSort": "2018-08-26",
+    "dateEvent": "2018-08-26",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/bramham-park-leeds-england-13e831b5.html"
       }
     ],
     "videos": [
@@ -33356,12 +33458,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Festival"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Hotter Than Hell"
       }
     ]
   },
@@ -33369,12 +33471,12 @@
     "id": "511f182c-6e81-4e35-a40d-a209a55e21be",
     "description": "Dua Lipa - Want To live Gorilla, Manchester 07-10-16",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2016-10-08",
-    "dateEvent": "",
+    "dateSort": "2016-10-07",
+    "dateEvent": "2016-10-07",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2016/gorilla-manchester-england-63fd2a2b.html"
       }
     ],
     "videos": [
@@ -33390,12 +33492,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Want To"
       }
     ]
   },
@@ -33403,11 +33505,11 @@
     "id": "e938a4d3-3541-4519-bece-f98c99329967",
     "description": "Entrevista exclusiva com a DUA LIPA",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2017-11-17",
-    "dateEvent": "",
+    "dateSort": "2017-11-09",
+    "dateEvent": "2017-11-09",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
+        "sourceDescription": "Dua mentions that yesterday was her first performance in Brazil, which was November 8",
         "sourceLink": ""
       }
     ],
@@ -33424,7 +33526,7 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Interview"
       }
     ],
     "songs": [
@@ -33437,12 +33539,12 @@
     "id": "55f09390-ec7b-4e73-9794-4911ac81eb38",
     "description": "Dua Lipa - Bad Together live O2 Ritz, Manchester 12-04-17",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2017-04-15",
-    "dateEvent": "",
+    "dateSort": "2017-04-12",
+    "dateEvent": "2017-04-12",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "wiki",
+        "sourceLink": "https://en.wikipedia.org/wiki/List_of_Dua_Lipa_concert_tours"
       }
     ],
     "videos": [
@@ -33458,12 +33560,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Bad Together"
       }
     ]
   },
@@ -33505,12 +33607,12 @@
     "id": "0da49680-6650-496a-aa77-18366677c74a",
     "description": "Concierto Dua Lipa Corona Capital 2017 Completo",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2018-01-09",
-    "dateEvent": "",
+    "dateSort": "2017-11-19",
+    "dateEvent": "2017-11-19",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/autodromo-hermanos-rodriguez-mexico-city-mexico-3be0e824.html"
       }
     ],
     "videos": [
@@ -33526,12 +33628,36 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Hotter Than Hell"
+      },
+      {
+        "song": "Blow Your Mind (Mwah)"
+      },
+      {
+        "song": "Lost in Your Light"
+      },
+      {
+        "song": "Genesis"
+      },
+      {
+        "song": "IDGAF"
+      },
+      {
+        "song": "Begging"
+      },
+      {
+        "song": "Scared to Be Lonely"
+      },
+      {
+        "song": "Be the One"
+      },
+      {
+        "song": "New Rules"
       }
     ]
   },
@@ -33539,12 +33665,12 @@
     "id": "b797347d-afa5-4133-935a-4b54b3c4097b",
     "description": "Dua Lipa - Hotter Than Hell live Gorilla, Manchester 07-10-16",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2016-10-08",
-    "dateEvent": "",
+    "dateSort": "2016-05-27",
+    "dateEvent": "2016-05-27",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "facebook",
+        "sourceLink": "https://www.facebook.com/events/manchester-bristol-and-nottingham/dot-to-dot-festival-2016/925232710884838/"
       }
     ],
     "videos": [
@@ -33560,12 +33686,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Hotter Than Hell"
       }
     ]
   },
@@ -33573,12 +33699,12 @@
     "id": "01adaad1-9418-44a0-b345-2743f90b3143",
     "description": "Dua Lipa - Scared to Be Lonely - LIVE @ The Hollywood Palladium, Los Angeles, CA - 2-12-18",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2018-02-13",
-    "dateEvent": "",
+    "dateSort": "2018-02-12",
+    "dateEvent": "2018-02-12",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/hollywood-palladium-los-angeles-ca-6beeced2.html"
       }
     ],
     "videos": [
@@ -33594,12 +33720,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Scared to Be Lonely"
       }
     ]
   },
@@ -33607,12 +33733,12 @@
     "id": "0d8c5dce-7c54-4a28-950e-cd9948445b6a",
     "description": "Dua Lipa - Begging live O2 Apollo, Manchester 14-04-18",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2018-04-17",
-    "dateEvent": "",
+    "dateSort": "2018-04-14",
+    "dateEvent": "2018-04-14",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/o2-apollo-manchester-manchester-england-3ecedd7.html"
       }
     ],
     "videos": [
@@ -33628,12 +33754,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Begging"
       }
     ]
   },
@@ -33641,12 +33767,12 @@
     "id": "1596dee7-c4e8-4430-a208-8bc6a9d4feb1",
     "description": "Dua Lipa - Hotter Than Hell live Dot to Dot Festival, Manchester 27-05-16",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2016-05-30",
-    "dateEvent": "",
+    "dateSort": "2016-05-27",
+    "dateEvent": "2016-05-27",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "facebook",
+        "sourceLink": "https://www.facebook.com/events/manchester-bristol-and-nottingham/dot-to-dot-festival-2016/925232710884838/"
       }
     ],
     "videos": [
@@ -33662,12 +33788,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Festival"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Hotter Than Hell"
       }
     ]
   },
@@ -33675,12 +33801,12 @@
     "id": "9e2bc120-b119-421f-9d94-4a9284d6398f",
     "description": "DUA LIPA New Rules HD, São Paulo 8 de novembro de 2017, Allianz, A HEAD FULL OF DREAMS TOUR COLDPLAY",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2017-11-11",
-    "dateEvent": "",
+    "dateSort": "2017-11-08",
+    "dateEvent": "2017-11-08",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "wiki",
+        "sourceLink": "https://en.wikipedia.org/wiki/A_Head_Full_of_Dreams_Tour"
       }
     ],
     "videos": [
@@ -33696,12 +33822,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "New Rules"
       }
     ]
   },
@@ -33709,12 +33835,12 @@
     "id": "3ed0214b-ca3b-426e-9540-54adb6239dd7",
     "description": "MEETING DUA LIPA AND WINNING A RADIO 1 TEEN AWARD!",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2017-11-03",
-    "dateEvent": "",
+    "dateSort": "2017-10-22",
+    "dateEvent": "2017-10-22",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/the-sse-arena-wembley-london-england-33e33049.html"
       }
     ],
     "videos": [
@@ -33730,7 +33856,7 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Interview"
       }
     ],
     "songs": [
@@ -33777,12 +33903,12 @@
     "id": "62759c44-0645-4495-91dc-c29e9aed6fcb",
     "description": "Dua Lipa - Billboard Music Award 2018",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2018-06-05",
-    "dateEvent": "",
+    "dateSort": "2018-05-20",
+    "dateEvent": "2018-05-20",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/mgm-grand-garden-arena-las-vegas-nv-73edd2b1.html"
       }
     ],
     "videos": [
@@ -33798,12 +33924,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Studio"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "New Rules"
       }
     ]
   },
@@ -33811,12 +33937,12 @@
     "id": "fa4bce5a-fc09-4db9-8023-3f213cc5d37b",
     "description": "Dua Lipa - New Rules (Teatro Vorterix, Buenos Aires, Argentina)",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2017-11-14",
-    "dateEvent": "",
+    "dateSort": "2017-11-13",
+    "dateEvent": "2017-11-13",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "wiki",
+        "sourceLink": "https://en.wikipedia.org/wiki/List_of_Dua_Lipa_concert_tours"
       }
     ],
     "videos": [
@@ -33832,12 +33958,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "New Rules"
       }
     ]
   },
@@ -33845,12 +33971,12 @@
     "id": "e6f89214-6be8-4ff8-8972-47123fd46047",
     "description": "Dua Lipa - New Love live O2 Apollo, Manchester 14-04-18",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2018-04-17",
-    "dateEvent": "",
+    "dateSort": "2018-04-14",
+    "dateEvent": "2018-04-14",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/o2-apollo-manchester-manchester-england-3ecedd7.html"
       }
     ],
     "videos": [
@@ -33866,12 +33992,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "New Love"
       }
     ]
   },
@@ -33879,12 +34005,12 @@
     "id": "d99b6623-a91d-42bb-bdb2-f074eb7015a8",
     "description": "Dua Lipa - IDGAF - Glasgow O2 Academy The Self Titled Tour October 2017",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2017-10-14",
-    "dateEvent": "",
+    "dateSort": "2017-10-11",
+    "dateEvent": "2017-10-11",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/o2-academy-glasgow-glasgow-scotland-3e3f997.html"
       }
     ],
     "videos": [
@@ -33900,12 +34026,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "IDGAF"
       }
     ]
   },
@@ -33913,12 +34039,12 @@
     "id": "236ec09e-920e-480f-a940-974e820c4f95",
     "description": "Dua Lipa - In Argentina 2017 ( FULL SHOW) The Self-Titled Tour",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2017-11-19",
-    "dateEvent": "",
+    "dateSort": "2017-11-13",
+    "dateEvent": "2017-11-13",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "video description and www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/teatro-vorterix-buenos-aires-argentina-7be09664.html"
       }
     ],
     "videos": [
@@ -33934,12 +34060,60 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Hotter Than Hell"
+      },
+      {
+        "song": "Dreams"
+      },
+      {
+        "song": "No Lie"
+      },
+      {
+        "song": "Lost In Your Light"
+      },
+      {
+        "song": "Garden"
+      },
+      {
+        "song": "Last Dance"
+      },
+      {
+        "song": "Blow Your Mind (Mwah)"
+      },
+      {
+        "song": "Thinking 'bout You"
+      },
+      {
+        "song": "New Love"
+      },
+      {
+        "song": "Genesis"
+      },
+      {
+        "song": "No Goodbyes"
+      },
+      {
+        "song": "IDGAF"
+      },
+      {
+        "song": "Scared To Be Lonely"
+      },
+      {
+        "song": "Begging"
+      },
+      {
+        "song": "Homesick"
+      },
+      {
+        "song": "Be The One"
+      },
+      {
+        "song": "New Rules"
       }
     ]
   },
@@ -33981,12 +34155,12 @@
     "id": "43594169-f793-4449-8b5f-897adc32e455",
     "description": "Dua lipa - Hotter Than Hell @Vogue theatre Vancouver",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2018-02-18",
-    "dateEvent": "",
+    "dateSort": "2018-02-16",
+    "dateEvent": "2018-02-16",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/vogue-theatre-vancouver-bc-canada-bee2d42.html"
       }
     ],
     "videos": [
@@ -34002,12 +34176,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Hotter Than Hell"
       }
     ]
   },
@@ -34015,12 +34189,12 @@
     "id": "ebf2c47a-381f-4391-ab8e-4d071d1536f5",
     "description": "Dua Lipa - New Rules - LIVE @ The Hollywood Palladium, Los Angeles, CA - 2-12-18",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2018-02-13",
-    "dateEvent": "",
+    "dateSort": "2018-02-12",
+    "dateEvent": "2018-02-12",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/hollywood-palladium-los-angeles-ca-6beeced2.html"
       }
     ],
     "videos": [
@@ -34036,12 +34210,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "New Rules"
       }
     ]
   },
@@ -34049,12 +34223,12 @@
     "id": "afef3bfe-cc87-4df3-9ebe-b92c666ba69c",
     "description": "Dua Lipa - Homesick - Glasgow O2 Academy October 2017",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2017-10-14",
-    "dateEvent": "",
+    "dateSort": "2017-10-11",
+    "dateEvent": "2017-10-11",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/o2-academy-glasgow-glasgow-scotland-3e3f997.html"
       }
     ],
     "videos": [
@@ -34070,12 +34244,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Homesick"
       }
     ]
   },
@@ -34083,12 +34257,12 @@
     "id": "58785026-a776-435f-a540-80e8eebf972d",
     "description": "Dua Lipa The Self - Titled tour Hollywood Palladium 2018",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2018-02-09",
-    "dateEvent": "",
+    "dateSort": "2018-02-08",
+    "dateEvent": "2018-02-08",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/hollywood-palladium-los-angeles-ca-13eee19d.html"
       }
     ],
     "videos": [
@@ -34104,12 +34278,57 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Hotter Than Hell"
+      },
+      {
+        "song": "Dreams"
+      },
+      {
+        "song": "No Lie"
+      },
+      {
+        "song": "Lost In Your Light"
+      },
+      {
+        "song": "Garden"
+      },
+      {
+        "song": "Last Dance"
+      },
+      {
+        "song": "Blow Your Mind (Mwah)"
+      },
+      {
+        "song": "Thinking 'bout You"
+      },
+      {
+        "song": "New Love"
+      },
+      {
+        "song": "Genesis"
+      },
+      {
+        "song": "No Goodbyes"
+      },
+      {
+        "song": "IDGAF"
+      },
+      {
+        "song": "Scared to Be Lonely"
+      },
+      {
+        "song": "Begging"
+      },
+      {
+        "song": "Be the One"
+      },
+      {
+        "song": "New Rules"
       }
     ]
   },
@@ -34117,12 +34336,12 @@
     "id": "7a491cd4-ff25-4993-ba88-beccce8b80a9",
     "description": "Dua Lipa- New Love- Hollywood Palladium",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2018-02-18",
-    "dateEvent": "",
+    "dateSort": "2018-02-12",
+    "dateEvent": "2018-02-12",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/hollywood-palladium-los-angeles-ca-6beeced2.html"
       }
     ],
     "videos": [
@@ -34138,12 +34357,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "New Love"
       }
     ]
   },
@@ -34151,12 +34370,12 @@
     "id": "2c132340-6022-435d-80c0-d3e7cd958c78",
     "description": "Dua Lipa - Blow Your Mind (Mwah) live O2 Ritz, Manchester 12-04-17",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2017-04-13",
-    "dateEvent": "",
+    "dateSort": "2017-04-12",
+    "dateEvent": "2017-04-12",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "wiki",
+        "sourceLink": "https://en.wikipedia.org/wiki/List_of_Dua_Lipa_concert_tours"
       }
     ],
     "videos": [
@@ -34172,12 +34391,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Blow Your Mind (Mwah)"
       }
     ]
   },
@@ -34185,12 +34404,12 @@
     "id": "e2a8a564-4c84-4017-8749-a0202a19debf",
     "description": "Hotter Than Hell - Dua Lipa 2/12/18 Hollywood Palladium",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2018-02-14",
-    "dateEvent": "",
+    "dateSort": "2018-02-12",
+    "dateEvent": "2018-02-12",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/hollywood-palladium-los-angeles-ca-6beeced2.html"
       }
     ],
     "videos": [
@@ -34206,12 +34425,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Hotter Than Hell"
       }
     ]
   },
@@ -34219,12 +34438,12 @@
     "id": "c5d4302b-de4b-4293-b956-88a32a2d4624",
     "description": "Dua Lipa Sings 'IDGAF'",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2018-03-14",
-    "dateEvent": "",
+    "dateSort": "2018-02-12",
+    "dateEvent": "2018-02-12",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/the-ellen-degeneres-show-burbank-ca-23ee30cf.html"
       }
     ],
     "videos": [
@@ -34240,12 +34459,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Studio"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "IDGAF"
       }
     ]
   },
@@ -34253,12 +34472,12 @@
     "id": "4f3f3e61-b320-43e3-9841-bed41ce7f8f5",
     "description": "Dua Lipa - New Love live Manchester Academy 10-10-17",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2017-10-11",
-    "dateEvent": "",
+    "dateSort": "2017-10-10",
+    "dateEvent": "2017-10-10",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "wiki",
+        "sourceLink": "https://en.wikipedia.org/wiki/List_of_Dua_Lipa_concert_tours"
       }
     ],
     "videos": [
@@ -34274,12 +34493,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Concert"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "New Love"
       }
     ]
   },
@@ -34287,12 +34506,12 @@
     "id": "04702e94-b008-47f1-8830-646b1b1d1d6c",
     "description": "Dua Lipa, Be The One, Leeds Festival 2018",
     "dateDatabase": "12/05/2021",
-    "dateSort": "2018-08-28",
-    "dateEvent": "",
+    "dateSort": "2018-08-26",
+    "dateEvent": "2018-08-26",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "",
-        "sourceLink": ""
+        "sourceDescription": "www.setlist.fm",
+        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/bramham-park-leeds-england-13e831b5.html"
       }
     ],
     "videos": [
@@ -34308,12 +34527,12 @@
     ],
     "categories": [
       {
-        "category": "uncat"
+        "category": "Festival"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Be The One"
       }
     ]
   },

@@ -12,7 +12,7 @@ const videos = require("../Data/dualipavideo.json");
 const ListOfIds = data.map((_) => _.videos[0].videoId);
 let IdString = "";
 ListOfIds.forEach((_) => (IdString += "," + _));
-console.log("IdString", IdString);
+//console.log("IdString", IdString);
 
 const DuaLipa = () => {
   return (

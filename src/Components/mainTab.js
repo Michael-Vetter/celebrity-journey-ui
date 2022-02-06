@@ -4,26 +4,42 @@ import Tab from "react-bootstrap/Tab";
 import Tabs from "react-bootstrap/Tabs";
 import CalendarView from "./calendarView";
 import DuaLipa from "./duaLipa";
+import { Container, Row, Col } from "react-bootstrap";
 
-const MainTab = () => {
+const MainTab = (props) => {
   return (
     <div>
-      <div className="container-fluid">
-        <h1>Main Tab</h1>
-        <Tabs
-          defaultActiveKey="Calendar"
-          id="uncontrolled-tab-example"
-          className="mb-3"
-          mountOnEnter={true}
-        >
-          <Tab eventKey="Calendar" title="Calendar">
-            <CalendarView />
-          </Tab>
-          <Tab eventKey="All Videos" title="Profile">
-            <DuaLipa />
-          </Tab>
-        </Tabs>
-      </div>
+      <Container fluid>
+        <Row>
+          <Col sm={0} lg={0} xl={1}></Col>
+          <Col sm={12} lg={12} xl={10}>
+            <h1>Dua Lipa Fan Site</h1>
+            <h4>
+              This site lists most Youtube videos showing performances,
+              interviews, and fan encounters with Dua Lipa.
+            </h4>
+            <Tabs
+              defaultActiveKey="Calendar"
+              id="uncontrolled-tab-example"
+              className="mb-3"
+              mountOnEnter={true}
+            >
+              <Tab eventKey="Calendar" title="Calendar View">
+                <CalendarView
+                  showEventModal={props.showEventModal}
+                  setShowEventModal={props.setShowEventModal}
+                  eventDate={props.eventDate}
+                  setEventDate={props.setEventDate}
+                />
+              </Tab>
+              <Tab eventKey="All Videos" title="All Videos">
+                <DuaLipa />
+              </Tab>
+            </Tabs>
+          </Col>
+          <Col sm={0} lg={0} xl={1}></Col>
+        </Row>
+      </Container>
     </div>
   );
 };

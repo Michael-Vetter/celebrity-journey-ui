@@ -18,10 +18,8 @@ const DuaLipa = () => {
   return (
     <div>
       <div className="container-fluid">
-        <h1>Dua Lipa</h1>
         <h4>
-          This site lists most Youtube videos showing performances, interviews,
-          and fan encounters with Dua Lipa. (work in progress)
+          This tab contains every video from the Calendar view in a single page.
         </h4>
         <div className="row row-cols-sm-1 row-cols-md-2 row-cols-lg-3  row-cols-xl-4 p-1 m-10">
           {data.map((record, index) => {

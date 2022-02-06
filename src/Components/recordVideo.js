@@ -35,12 +35,15 @@ const RecordVideo = (props) => {
     //console.log("video", video);
     return (
       <div>
-        <a href={urlItem[0].url + video.id} rel="noreferrer" target="_blank">
-          <img
-            src={video.snippet.thumbnails.medium.url}
-            alt={video.snippet.localized.title}
-          />
-        </a>
+        <div>
+          <a href={urlItem[0].url + video.id} rel="noreferrer" target="_blank">
+            <img
+              className="img-fluid"
+              src={video.snippet.thumbnails.medium.url}
+              alt={video.snippet.localized.title}
+            />
+          </a>
+        </div>
         <div>
           <span className="fw-bold">
             {props.videoIndex + 1}) Date of Event:{" "}

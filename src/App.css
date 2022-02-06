@@ -24,6 +24,24 @@
   color: white;
 }
 
+.modal-90w {
+  width: 90% !important;
+  max-width: none !important;
+}
+
+.imageHeader {
+  width: 120px;
+  height: auto;
+  position: relative;
+}
+
+.imageHeader:hover {
+  width: 400px;
+  height: auto;
+  z-index: 10;
+  position: relative;
+}
+
 .App-link {
   color: #61dafb;
 }

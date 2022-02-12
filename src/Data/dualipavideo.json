@@ -1492,49 +1492,6 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Vce8byQo6ZSkx3GbYJIthJQbj34",
-    "id": "1D7US1A-J1Q",
-    "snippet": {
-      "publishedAt": "2021-09-18T05:57:16Z",
-      "channelId": "UCJ3FqaVJN3IJEUiuEQnnCwQ",
-      "title": "[ Dua lipa ] new rules | at the iheartradio • music festival 2021",
-      "description": "#dualipa #iheartradio",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/1D7US1A-J1Q/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/1D7US1A-J1Q/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/1D7US1A-J1Q/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "always hearts",
-      "categoryId": "10",
-      "liveBroadcastContent": "none",
-      "defaultLanguage": "es-419",
-      "localized": {
-        "title": "[ Dua lipa ] new rules | at the iheartradio • music festival 2021",
-        "description": "#dualipa #iheartradio"
-      },
-      "defaultAudioLanguage": "es-419"
-    },
-    "statistics": {
-      "viewCount": "3233",
-      "likeCount": "82",
-      "favoriteCount": "0",
-      "commentCount": "2"
-    }
-  },
-  {
-    "kind": "youtube#video",
     "etag": "4qcIaI_Sfx1IDAJjyV2ZKA5N0Q0",
     "id": "1DHK2rx8JjY",
     "snippet": {
@@ -18942,49 +18899,6 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "6uGP85_1j2VEzhfzGVfoYrFQGVs",
-    "id": "f_wVPDiULKw",
-    "snippet": {
-      "publishedAt": "2021-09-18T06:02:13Z",
-      "channelId": "UCJ3FqaVJN3IJEUiuEQnnCwQ",
-      "title": "[ Dua lipa ] physical | at the iheartradio • music festival 2021",
-      "description": "#iheartradio #dualipa",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/f_wVPDiULKw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/f_wVPDiULKw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/f_wVPDiULKw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "always hearts",
-      "categoryId": "10",
-      "liveBroadcastContent": "none",
-      "defaultLanguage": "es-419",
-      "localized": {
-        "title": "[ Dua lipa ] physical | at the iheartradio • music festival 2021",
-        "description": "#iheartradio #dualipa"
-      },
-      "defaultAudioLanguage": "es-419"
-    },
-    "statistics": {
-      "viewCount": "3849",
-      "likeCount": "82",
-      "favoriteCount": "0",
-      "commentCount": "5"
-    }
-  },
-  {
-    "kind": "youtube#video",
     "etag": "QrkYnMMNd3q_WjklTpWHzXH98io",
     "id": "G-MV4xfKNgg",
     "snippet": {
@@ -28585,49 +28499,6 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "ZM76r1Xg6QAmJj9X7lcreJH5lo4",
-    "id": "kdaPxj3s0EQ",
-    "snippet": {
-      "publishedAt": "2021-09-18T05:52:09Z",
-      "channelId": "UCJ3FqaVJN3IJEUiuEQnnCwQ",
-      "title": "[ Dua lipa ] Hallucinate | at the iheartradio • music festival 2021",
-      "description": "#dualipa #iheartradio",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/kdaPxj3s0EQ/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/kdaPxj3s0EQ/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/kdaPxj3s0EQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "always hearts",
-      "categoryId": "10",
-      "liveBroadcastContent": "none",
-      "defaultLanguage": "es-419",
-      "localized": {
-        "title": "[ Dua lipa ] Hallucinate | at the iheartradio • music festival 2021",
-        "description": "#dualipa #iheartradio"
-      },
-      "defaultAudioLanguage": "es-419"
-    },
-    "statistics": {
-      "viewCount": "3212",
-      "likeCount": "85",
-      "favoriteCount": "0",
-      "commentCount": "3"
-    }
-  },
-  {
-    "kind": "youtube#video",
     "etag": "0l3gCyfEhUKpZKJ1ECeD9-4THnc",
     "id": "Kjmu_VQ91SY",
     "snippet": {
@@ -30694,49 +30565,6 @@
       "likeCount": "3587",
       "favoriteCount": "0",
       "commentCount": "127"
-    }
-  },
-  {
-    "kind": "youtube#video",
-    "etag": "Uc8hxVGUhCLx620nkhs5ogp6A5Q",
-    "id": "lUzp7Q1ul3Y",
-    "snippet": {
-      "publishedAt": "2021-09-18T05:54:49Z",
-      "channelId": "UCJ3FqaVJN3IJEUiuEQnnCwQ",
-      "title": "[ Dua lipa ] Love again | at the iheartradio • music festival 2021",
-      "description": "#iheartradio #dualipa",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/lUzp7Q1ul3Y/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/lUzp7Q1ul3Y/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/lUzp7Q1ul3Y/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "always hearts",
-      "categoryId": "10",
-      "liveBroadcastContent": "none",
-      "defaultLanguage": "es-419",
-      "localized": {
-        "title": "[ Dua lipa ] Love again | at the iheartradio • music festival 2021",
-        "description": "#iheartradio #dualipa"
-      },
-      "defaultAudioLanguage": "es-419"
-    },
-    "statistics": {
-      "viewCount": "1855",
-      "likeCount": "59",
-      "favoriteCount": "0",
-      "commentCount": "4"
     }
   },
   {
@@ -59528,49 +59356,6 @@
       "likeCount": "275",
       "favoriteCount": "0",
       "commentCount": "8"
-    }
-  },
-  {
-    "kind": "youtube#video",
-    "etag": "d59Z0fWJAptNomUNrQ2u4uwuJpY",
-    "id": "_Rh0zBJd5Y4",
-    "snippet": {
-      "publishedAt": "2021-09-18T05:45:52Z",
-      "channelId": "UCJ3FqaVJN3IJEUiuEQnnCwQ",
-      "title": "[ Dua lipa ] Levitating/don't start now | at the iheartradio • music festival 2021",
-      "description": "#dualipa #iheartradio",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/_Rh0zBJd5Y4/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/_Rh0zBJd5Y4/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/_Rh0zBJd5Y4/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        }
-      },
-      "channelTitle": "always hearts",
-      "categoryId": "10",
-      "liveBroadcastContent": "none",
-      "defaultLanguage": "es-419",
-      "localized": {
-        "title": "[ Dua lipa ] Levitating/don't start now | at the iheartradio • music festival 2021",
-        "description": "#dualipa #iheartradio"
-      },
-      "defaultAudioLanguage": "es-419"
-    },
-    "statistics": {
-      "viewCount": "48542",
-      "likeCount": "1088",
-      "favoriteCount": "0",
-      "commentCount": "50"
     }
   },
   {

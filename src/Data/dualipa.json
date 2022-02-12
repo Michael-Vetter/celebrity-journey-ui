@@ -2793,7 +2793,7 @@
   },
   {
     "id": "d26cf93f-ebcd-4891-af02-35b0cc867ebf",
-    "description": "Dua Lipa Details Her Lockdown Anniversary With Anwar Hadid | Inteview | Capital",
+    "description": "Dua Lipa Details Her Lockdown Anniversary With Anwar Hadid | Interview | Capital",
     "dateDatabase": "12/04/2021",
     "dateSort": "2020-06-19",
     "dateEvent": "",
@@ -3638,40 +3638,6 @@
     "songs": [
       {
         "song": "Be The One"
-      }
-    ]
-  },
-  {
-    "id": "fe345de9-3773-4ebe-a05a-ff433571262f",
-    "description": "[ Dua lipa ] new rules | at the iheartradio • music festival 2021",
-    "dateDatabase": "12/05/2021",
-    "dateSort": "2021-09-17",
-    "dateEvent": "2021-09-17",
-    "sourceForDateOfEvent": [
-      {
-        "sourceDescription": "www.setlist.fm",
-        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2021/t-mobile-arena-las-vegas-nv-6b8c6e2a.html"
-      }
-    ],
-    "videos": [
-      {
-        "source": "youtube",
-        "videoId": "1D7US1A-J1Q",
-        "videoImage": "",
-        "views": "",
-        "dateUpload": "2021-09-18",
-        "videoDescription": "[ Dua lipa ] new rules | at the iheartradio • music festival 2021",
-        "videoComments": ""
-      }
-    ],
-    "categories": [
-      {
-        "category": "Festival"
-      }
-    ],
-    "songs": [
-      {
-        "song": "New Rules"
       }
     ]
   },
@@ -5437,7 +5403,7 @@
     ],
     "categories": [
       {
-        "category": "Interiew"
+        "category": "Interview"
       }
     ],
     "songs": [
@@ -7092,7 +7058,7 @@
     ],
     "categories": [
       {
-        "category": "Inteview"
+        "category": "Interview"
       }
     ],
     "songs": [
@@ -7643,40 +7609,6 @@
     "songs": [
       {
         "song": "Be The One"
-      }
-    ]
-  },
-  {
-    "id": "f7f2c955-a7b7-448c-8c5e-db6101c4bfc4",
-    "description": "[ Dua lipa ] physical | at the iheartradio • music festival 2021",
-    "dateDatabase": "12/05/2021",
-    "dateSort": "2021-09-17",
-    "dateEvent": "2021-09-17",
-    "sourceForDateOfEvent": [
-      {
-        "sourceDescription": "www.setlist.fm",
-        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2021/t-mobile-arena-las-vegas-nv-6b8c6e2a.html"
-      }
-    ],
-    "videos": [
-      {
-        "source": "youtube",
-        "videoId": "f_wVPDiULKw",
-        "videoImage": "",
-        "views": "",
-        "dateUpload": "2021-09-18",
-        "videoDescription": "[ Dua lipa ] physical | at the iheartradio • music festival 2021",
-        "videoComments": ""
-      }
-    ],
-    "categories": [
-      {
-        "category": "Festival"
-      }
-    ],
-    "songs": [
-      {
-        "song": "Physical"
       }
     ]
   },
@@ -9663,40 +9595,6 @@
     ]
   },
   {
-    "id": "f7503b85-7556-46b6-80d6-68ab75493b09",
-    "description": "[ Dua lipa ] Hallucinate | at the iheartradio • music festival 2021",
-    "dateDatabase": "12/05/2021",
-    "dateSort": "2021-09-17",
-    "dateEvent": "2021-09-17",
-    "sourceForDateOfEvent": [
-      {
-        "sourceDescription": "www.setlist.fm",
-        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2021/t-mobile-arena-las-vegas-nv-6b8c6e2a.html"
-      }
-    ],
-    "videos": [
-      {
-        "source": "youtube",
-        "videoId": "kdaPxj3s0EQ",
-        "videoImage": "",
-        "views": "",
-        "dateUpload": "2021-09-18",
-        "videoDescription": "[ Dua lipa ] Hallucinate | at the iheartradio • music festival 2021",
-        "videoComments": ""
-      }
-    ],
-    "categories": [
-      {
-        "category": "Festival"
-      }
-    ],
-    "songs": [
-      {
-        "song": "Hallucinate"
-      }
-    ]
-  },
-  {
     "id": "7a827abb-e6f6-4d34-944a-33a9eb338351",
     "description": "Dua Lipa - Homesick (feat. Chris Martin from Coldplay) - Live in São Paulo",
     "dateDatabase": "12/05/2021",
@@ -10224,40 +10122,6 @@
     "songs": [
       {
         "song": ""
-      }
-    ]
-  },
-  {
-    "id": "b7b7cf7a-1665-4d2a-ba5a-04b36fc059ae",
-    "description": "[ Dua lipa ] Love again | at the iheartradio • music festival 2021",
-    "dateDatabase": "12/05/2021",
-    "dateSort": "2021-09-17",
-    "dateEvent": "2021-09-17",
-    "sourceForDateOfEvent": [
-      {
-        "sourceDescription": "www.setlist.fm",
-        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2021/t-mobile-arena-las-vegas-nv-6b8c6e2a.html"
-      }
-    ],
-    "videos": [
-      {
-        "source": "youtube",
-        "videoId": "lUzp7Q1ul3Y",
-        "videoImage": "",
-        "views": "",
-        "dateUpload": "2021-09-18",
-        "videoDescription": "[ Dua lipa ] Love again | at the iheartradio • music festival 2021",
-        "videoComments": ""
-      }
-    ],
-    "categories": [
-      {
-        "category": "Festival"
-      }
-    ],
-    "songs": [
-      {
-        "song": "Love Again"
       }
     ]
   },
@@ -11744,7 +11608,7 @@
     ],
     "categories": [
       {
-        "category": "Interiew"
+        "category": "Interview"
       }
     ],
     "songs": [
@@ -11941,7 +11805,7 @@
     ],
     "categories": [
       {
-        "category": "studio"
+        "category": "Studio"
       }
     ],
     "songs": [
@@ -12318,7 +12182,7 @@
     ],
     "categories": [
       {
-        "category": "Fan encounter"
+        "category": "Fan Encounter"
       }
     ],
     "songs": [
@@ -12658,7 +12522,7 @@
     ],
     "categories": [
       {
-        "category": "Interiew"
+        "category": "Interview"
       }
     ],
     "songs": [
@@ -16987,15 +16851,15 @@
     ],
     "categories": [
       {
-        "category": "Levitating"
-      },
-      {
-        "category": "Pretty Please"
+        "category": "Studio"
       }
     ],
     "songs": [
       {
-        "song": ""
+        "song": "Levitating"
+      },
+      {
+        "song": "Pretty Please"
       }
     ]
   },
@@ -17024,7 +16888,7 @@
     ],
     "categories": [
       {
-        "category": "studio"
+        "category": "Studio"
       }
     ],
     "songs": [
@@ -17423,43 +17287,6 @@
     ]
   },
   {
-    "id": "1b751ece-2c32-49a7-a298-eb4889face9e",
-    "description": "[ Dua lipa ] Levitating/don't start now | at the iheartradio • music festival 2021",
-    "dateDatabase": "12/05/2021",
-    "dateSort": "2021-09-17",
-    "dateEvent": "2021-09-17",
-    "sourceForDateOfEvent": [
-      {
-        "sourceDescription": "www.setlist.fm",
-        "sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2021/t-mobile-arena-las-vegas-nv-6b8c6e2a.html"
-      }
-    ],
-    "videos": [
-      {
-        "source": "youtube",
-        "videoId": "_Rh0zBJd5Y4",
-        "videoImage": "",
-        "views": "",
-        "dateUpload": "2021-09-18",
-        "videoDescription": "[ Dua lipa ] Levitating/don't start now | at the iheartradio • music festival 2021",
-        "videoComments": ""
-      }
-    ],
-    "categories": [
-      {
-        "category": "Festival"
-      }
-    ],
-    "songs": [
-      {
-        "song": "Levitating"
-      },
-      {
-        "song": "Don't Start Now"
-      }
-    ]
-  },
-  {
     "id": "ffcdc6f5-cc16-4652-9cbd-469ca2c3db06",
     "description": "Dua Lipa live Formula 1 Singapore September 2018 Gran Prix Singapore Airlines F1",
     "dateDatabase": "12/05/2021",
@@ -17654,7 +17481,7 @@
     ],
     "categories": [
       {
-        "category": "studio"
+        "category": "Studio"
       }
     ],
     "songs": [
@@ -17824,7 +17651,7 @@
     ],
     "categories": [
       {
-        "category": "studio"
+        "category": "Studio"
       }
     ],
     "songs": [
@@ -19626,7 +19453,7 @@
     ],
     "categories": [
       {
-        "category": "Interiew"
+        "category": "Interview"
       }
     ],
     "songs": [
@@ -21438,7 +21265,7 @@
     ],
     "categories": [
       {
-        "category": "Interiew"
+        "category": "Interview"
       }
     ],
     "songs": [
@@ -21472,7 +21299,7 @@
     ],
     "categories": [
       {
-        "category": "Interiew"
+        "category": "Interview"
       }
     ],
     "songs": [
@@ -21642,7 +21469,7 @@
     ],
     "categories": [
       {
-        "category": "Interiew"
+        "category": "Interview"
       }
     ],
     "songs": [
@@ -21778,7 +21605,7 @@
     ],
     "categories": [
       {
-        "category": "Interiew"
+        "category": "Interview"
       }
     ],
     "songs": [
@@ -25792,7 +25619,7 @@
     ],
     "categories": [
       {
-        "category": "Interiew"
+        "category": "Interview"
       }
     ],
     "songs": [
@@ -26166,7 +25993,7 @@
     ],
     "categories": [
       {
-        "category": "Interiew"
+        "category": "Interview"
       }
     ],
     "songs": [
@@ -27291,7 +27118,7 @@
     ],
     "categories": [
       {
-        "category": "studio"
+        "category": "Studio"
       }
     ],
     "songs": [
@@ -28025,7 +27852,7 @@
     "dateEvent": "2016-03-03",
     "sourceForDateOfEvent": [
       {
-        "sourceDescription": "Dua did a studio performance the same day",
+        "sourceDescription": "Dua did a Studio performance the same day",
         "sourceLink": "https://www.youtube.com/watch?v=TcRigZ9Uozc"
       }
     ],
@@ -30481,7 +30308,7 @@
     ],
     "categories": [
       {
-        "category": "Interiew"
+        "category": "Interview"
       }
     ],
     "songs": [
@@ -33273,7 +33100,7 @@
     ],
     "categories": [
       {
-        "category": "Interiew"
+        "category": "Interview"
       }
     ],
     "songs": [

@@ -33,7 +33,14 @@ const MainTab = (props) => {
                 />
               </Tab>
               <Tab eventKey="All Videos" title="All Videos">
-                <DuaLipa />
+                <DuaLipa
+                  videos={props.videos}
+                  setVideos={props.setVideos}
+                  showFilters={props.showFilters}
+                  setShowFilters={props.setShowFilters}
+                  categoriesState={props.categoriesState}
+                  setCategoriesState={props.setCategoriesState}
+                />
               </Tab>
             </Tabs>
           </Col>

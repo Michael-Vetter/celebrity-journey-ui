@@ -40,6 +40,8 @@ const MainTab = (props) => {
                   setShowFilters={props.setShowFilters}
                   categoriesState={props.categoriesState}
                   setCategoriesState={props.setCategoriesState}
+                  songsState={props.songsState}
+                  setSongsState={props.setSongsState}
                 />
               </Tab>
             </Tabs>

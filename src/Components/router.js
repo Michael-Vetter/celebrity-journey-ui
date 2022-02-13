@@ -7,7 +7,6 @@ import Home from "./home";
 import MainTab from "./mainTab";
 
 const ReactRouterSetup = (props) => {
-  console.log("enter ReactRouterSetup");
   return (
     <Router>
       <Routes>
@@ -27,6 +26,8 @@ const ReactRouterSetup = (props) => {
               setShowFilters={props.setShowFilters}
               categoriesState={props.categoriesState}
               setCategoriesState={props.setCategoriesState}
+              songsState={props.songsState}
+              setSongsState={props.setSongsState}
             />
           }
         />

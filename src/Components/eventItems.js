@@ -36,7 +36,18 @@ export default function EventItems(props) {
           })}
         </div>
         <h2>Videos</h2>
-        <div hidden={eventVideos.length > 0}>No videos for this date</div>
+        <div hidden={eventVideos.length > 0}>
+          No videos for this date
+          <h3>
+            <a
+              href="https://www.instagram.com/wherewasdualipa/"
+              rel="noreferrer"
+              target="_blank"
+            >
+              Have a video for this event? DM me on Instagram
+            </a>
+          </h3>
+        </div>
         <div className="row row-cols-sm-1 row-cols-md-2 row-cols-lg-3  row-cols-xl-4 p-1 m-10">
           {eventVideos.map((record, index) => {
             return (

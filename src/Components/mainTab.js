@@ -14,9 +14,20 @@ const MainTab = (props) => {
           <Col sm={0} lg={0} xl={1}></Col>
           <Col sm={12} lg={12} xl={10}>
             <h1>Dua Lipa Fan Site</h1>
-            <h4>
+            <h3>
               This site lists most Youtube videos showing performances,
               interviews, and fan encounters with Dua Lipa.
+            </h3>
+            <h4>
+              <a
+                href="https://www.instagram.com/wherewasdualipa/"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Follow me on Instagram @wherewasdualipa
+              </a>{" "}
+              (If I'm missing a video or have any suggestions, DM me on
+              Instagram)
             </h4>
             <Tabs
               defaultActiveKey="Calendar"

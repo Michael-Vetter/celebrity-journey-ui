@@ -90,7 +90,7 @@ const CalendarView = (props) => {
                   localizer={localizer}
                   defaultDate={new Date(month.month + " 1, " + year.year)}
                   defaultView="month"
-                  style={{ height: "50vh" }}
+                  style={{ height: "60vh" }}
                   toolbar={false}
                   events={eventPanels}
                   onSelectEvent={showEvents}

@@ -22,14 +22,14 @@ const DuaLipa = (props) => {
       }
       return "";
     });
-    console.log("newCatFilter", newCatFilter);
+    //console.log("newCatFilter", newCatFilter);
     let newData = [];
     if (newCatFilter.length > 0) {
       newData = data.filter(
         (_) => newCatFilter.indexOf(_.categories[0].category) >= 0
       );
     }
-    console.log("1", newData.length);
+    //console.log("1", newData.length);
     let newSongFilter = "";
     props.songsState.map((s, index) => {
       if (s) {
@@ -37,32 +37,34 @@ const DuaLipa = (props) => {
       }
       return "";
     });
-    console.log("newSongFilter", newSongFilter);
-    if (newSongFilter.length > 0 && newData.length === 0) {
-      console.log("song filter 1");
-      newData = data.filter((_) => {
-        let found = false;
-        _.songs.forEach((s) => {
-          if (newSongFilter.indexOf(s.song) > 0) {
-            found = true;
-          }
+    //console.log("newSongFilter", newSongFilter);
+    if (newSongFilter.length > 0) {
+      if (newData.length === 0) {
+        //console.log("song filter 1");
+        newData = data.filter((_) => {
+          let found = false;
+          _.songs.forEach((s) => {
+            if (newSongFilter.indexOf(s.song) > 0) {
+              found = true;
+            }
+          });
+          return found;
         });
-        return found;
-      });
-    } else {
-      console.log("song filter 1");
-      newData = newData.filter((_) => {
-        let found = false;
-        _.songs.forEach((s) => {
-          if (newSongFilter.indexOf(s.song) > 0) {
-            found = true;
-          }
+      } else {
+        //console.log("song filter 1");
+        newData = newData.filter((_) => {
+          let found = false;
+          _.songs.forEach((s) => {
+            if (newSongFilter.indexOf(s.song) > 0) {
+              found = true;
+            }
+          });
+          return found;
         });
-        return found;
-      });
+      }
     }
 
-    console.log("2", newData.length);
+    //console.log("2", newData.length);
     if (newSongFilter.length > 0 || newCatFilter.length > 0) {
       props.setVideos(newData);
     } else {

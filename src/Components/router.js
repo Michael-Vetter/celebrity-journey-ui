@@ -28,6 +28,9 @@ const ReactRouterSetup = (props) => {
               setCategoriesState={props.setCategoriesState}
               songsState={props.songsState}
               setSongsState={props.setSongsState}
+              ip={props.ip}
+              ipCount={props.ipCount}
+              setIpCount={props.setIpCount}
             />
           }
         />

@@ -1,6 +1,7 @@
 import React from "react";
 import Moment from "react-moment";
 import styled from "styled-components";
+import Logger from "./logger";
 
 const sourceUrl = [
   {
@@ -29,6 +30,14 @@ const RecordVideo = (props) => {
   } else {
     DateOfEvent = "Unknown";
   }
+
+  const openVideoLink = (url, logData) => {
+    console.log("url", url);
+    console.log("logData", logData);
+    Logger(logData);
+    window.open(url, "_blank");
+  };
+
   //console.log("videos", videos);
   if (videos && videos[0]) {
     const video = videos[0];
@@ -36,13 +45,28 @@ const RecordVideo = (props) => {
     return (
       <div>
         <div>
-          <a href={urlItem[0].url + video.id} rel="noreferrer" target="_blank">
+          <a
+            onClick={() =>
+              openVideoLink(
+                urlItem[0].url + video.id,
+                video.snippet.localized.title + " (" + video.id + ")"
+              )
+            }
+            href="#!"
+          >
             <img
               className="img-fluid"
               src={video.snippet.thumbnails.medium.url}
               alt={video.snippet.localized.title}
             />
           </a>
+          {/* <a href={urlItem[0].url + video.id} rel="noreferrer" target="_blank">
+            <img
+              className="img-fluid"
+              src={video.snippet.thumbnails.medium.url}
+              alt={video.snippet.localized.title}
+            />
+          </a> */}
         </div>
         <div>
           <span className="fw-bold">

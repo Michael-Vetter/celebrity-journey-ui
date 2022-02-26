@@ -612,74 +612,6 @@
 		]
 	},
 	{
-		"id": "cd67e4c2-f7e0-4f5a-9e3e-c56380e5f77d",
-		"description": "Dua Lipa - Want To LIVE HD (2016) LA Debut! Hollywood Bardot",
-		"dateDatabase": "11/28/2021",
-		"dateSort": "2016-05-09",
-		"dateEvent": "2016-05-09",
-		"sourceForDateOfEvent": [
-			{
-				"sourceDescription": "video description",
-				"sourceLink": ""
-			}
-		],
-		"videos": [
-			{
-				"source": "youtube",
-				"videoId": "6EDHwaFbNNE",
-				"videoImage": "",
-				"views": "",
-				"dateUpload": "2016-06-10",
-				"videoDescription": "",
-				"videoComments": ""
-			}
-		],
-		"categories": [
-			{
-				"category": "Concert"
-			}
-		],
-		"songs": [
-			{
-				"song": "Want To"
-			}
-		]
-	},
-	{
-		"id": "cc941d95-b5c1-4232-aa9f-2c2139468d91",
-		"description": "Dua Lipa - Last Dance LIVE HD (2016) LA Debut! Hollywood Bardot",
-		"dateDatabase": "11/28/2021",
-		"dateSort": "2016-05-09",
-		"dateEvent": "2016-05-09",
-		"sourceForDateOfEvent": [
-			{
-				"sourceDescription": "",
-				"sourceLink": ""
-			}
-		],
-		"videos": [
-			{
-				"source": "youtube",
-				"videoId": "E_ODytxZ-xE",
-				"videoImage": "",
-				"views": "",
-				"dateUpload": "2016-06-10",
-				"videoDescription": "",
-				"videoComments": ""
-			}
-		],
-		"categories": [
-			{
-				"category": "Concert"
-			}
-		],
-		"songs": [
-			{
-				"song": "Last Dance"
-			}
-		]
-	},
-	{
 		"id": "9036b392-2471-4f92-9cb9-76b5d40d748d",
 		"description": "Dua Lipa - New Love LIVE HD (2016) LA Debut! Hollywood Bardot",
 		"dateDatabase": "11/28/2021",
@@ -714,40 +646,6 @@
 		]
 	},
 	{
-		"id": "738f7d99-b63a-440d-90ca-4cd1f536837b",
-		"description": "Dua Lipa - Be The One LIVE HD (2016) LA Debut! Hollywood Bardot",
-		"dateDatabase": "11/28/2021",
-		"dateSort": "2016-05-09",
-		"dateEvent": "2016-05-09",
-		"sourceForDateOfEvent": [
-			{
-				"sourceDescription": "",
-				"sourceLink": ""
-			}
-		],
-		"videos": [
-			{
-				"source": "youtube",
-				"videoId": "eR0rwq-0RJw",
-				"videoImage": "",
-				"views": "",
-				"dateUpload": "2016-06-10",
-				"videoDescription": "",
-				"videoComments": ""
-			}
-		],
-		"categories": [
-			{
-				"category": "Concert"
-			}
-		],
-		"songs": [
-			{
-				"song": "Be The One"
-			}
-		]
-	},
-	{
 		"id": "21944283-8617-4cab-8dd0-02ae7413c1d0",
 		"description": "Dua Lipa - Bad Together LIVE HD (2016) LA Debut! Hollywood Bardot",
 		"dateDatabase": "11/28/2021",
@@ -778,74 +676,6 @@
 		"songs": [
 			{
 				"song": "Bad Together"
-			}
-		]
-	},
-	{
-		"id": "f2a4f1a9-a539-40e1-ae6d-8deaa6941f40",
-		"description": "Dua Lipa - Blow Your Mind (MWAH!) LIVE HD (2016) LA Debut! Hollywood Bardot",
-		"dateDatabase": "11/28/2021",
-		"dateSort": "2016-05-09",
-		"dateEvent": "2016-05-09",
-		"sourceForDateOfEvent": [
-			{
-				"sourceDescription": "description in Blow Your Mind video",
-				"sourceLink": "https://www.youtube.com/watch?v=C1u4Uk7r6RI"
-			}
-		],
-		"videos": [
-			{
-				"source": "youtube",
-				"videoId": "C1u4Uk7r6RI",
-				"videoImage": "",
-				"views": "",
-				"dateUpload": "2016-05-22",
-				"videoDescription": "",
-				"videoComments": ""
-			}
-		],
-		"categories": [
-			{
-				"category": "Concert"
-			}
-		],
-		"songs": [
-			{
-				"song": "Blow Your Mind (Mwah!)"
-			}
-		]
-	},
-	{
-		"id": "128f92b6-5630-4afb-96a2-27daafc2ff01",
-		"description": "Dua Lipa - Thinkin' Bout You LIVE HD (2016) LA Debut! Hollywood Bardot",
-		"dateDatabase": "11/28/2021",
-		"dateSort": "2016-05-09",
-		"dateEvent": "2016-05-09",
-		"sourceForDateOfEvent": [
-			{
-				"sourceDescription": "video description",
-				"sourceLink": ""
-			}
-		],
-		"videos": [
-			{
-				"source": "youtube",
-				"videoId": "Gl7NRk_RImI",
-				"videoImage": "",
-				"views": "",
-				"dateUpload": "2016-06-10",
-				"videoDescription": "",
-				"videoComments": ""
-			}
-		],
-		"categories": [
-			{
-				"category": "Concert"
-			}
-		],
-		"songs": [
-			{
-				"song": "Thinking 'Bout You"
 			}
 		]
 	},
@@ -904,40 +734,6 @@
 			},
 			{
 				"song": "Be The One"
-			}
-		]
-	},
-	{
-		"id": "dc3c4ea7-bdca-4e80-9ad3-9b207ad04ce9",
-		"description": "Dua Lipa - Hotter Than Hell LIVE HD (2016) LA Debut! Hollywood Bardot",
-		"dateDatabase": "11/28/2021",
-		"dateSort": "2016-05-09",
-		"dateEvent": "2016-05-09",
-		"sourceForDateOfEvent": [
-			{
-				"sourceDescription": "",
-				"sourceLink": ""
-			}
-		],
-		"videos": [
-			{
-				"source": "youtube",
-				"videoId": "fbiIHX32lDw",
-				"videoImage": "",
-				"views": "",
-				"dateUpload": "2016-05-22",
-				"videoDescription": "",
-				"videoComments": ""
-			}
-		],
-		"categories": [
-			{
-				"category": "Concert"
-			}
-		],
-		"songs": [
-			{
-				"song": "Hotter Than Hell"
 			}
 		]
 	},

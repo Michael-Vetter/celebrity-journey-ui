@@ -32,8 +32,8 @@ const RecordVideo = (props) => {
   }
 
   const openVideoLink = (url, logData) => {
-    console.log("url", url);
-    console.log("logData", logData);
+    //console.log("url", url);
+    //console.log("logData", logData);
     Logger(logData);
     window.open(url, "_blank");
   };

@@ -42263,5 +42263,6179 @@
 				"song": "We're Good"
 			}
 		]
+	},
+	{
+		"id": "5bacffb5-8956-44bc-bfbc-24dcfbeb33ef",
+		"description": "Dua Lipa Levitating from Milwaukee Wisconsin 2/24/2022",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-23",
+		"dateEvent": "2022-02-23",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/fiserv-forum-milwaukee-wi-5b88578c.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "3gS3ArBAlfA",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-25",
+				"videoDescription": "Dua Lipa Levitating from Milwaukee Wisconsin 2/24/2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "5db1cf41-1f99-441d-90b2-cea48682f435",
+		"description": "Dua Lipa - Don’t Start Now (Milwaukee 2.23.22)",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-23",
+		"dateEvent": "2022-02-23",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/fiserv-forum-milwaukee-wi-5b88578c.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "c95FLj4qpU4",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-24",
+				"videoDescription": "Dua Lipa - Don’t Start Now (Milwaukee 2.23.22)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Don't Start Now"
+			}
+		]
+	},
+	{
+		"id": "6a080fce-fdbc-4495-ad8f-186778d6f228",
+		"description": "Dua Lipa - Cold Heart (Live in Milwaukee, WI 2/23/2022)",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-23",
+		"dateEvent": "2022-02-23",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/fiserv-forum-milwaukee-wi-5b88578c.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "d2765gWxXuQ",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-25",
+				"videoDescription": "Dua Lipa - Cold Heart (Live in Milwaukee, WI 2/23/2022)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Cold Heart"
+			}
+		]
+	},
+	{
+		"id": "6515dc6b-9dcb-4935-9974-17e97ac12a42",
+		"description": "Dua Lipa - We're Good (Live in Milwaukee, WI 2/23/2022)",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-23",
+		"dateEvent": "2022-02-23",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/fiserv-forum-milwaukee-wi-5b88578c.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "HhhB8krvPCg",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-25",
+				"videoDescription": "Dua Lipa - We're Good (Live in Milwaukee, WI 2/23/2022)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "We're Good"
+			}
+		]
+	},
+	{
+		"id": "c21cbc7b-10a7-4ff5-8cfb-ff0bdf19c867",
+		"description": "Dua Lipa - Physical (Live in Milwaukee, WI 2/23/2022)",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-23",
+		"dateEvent": "2022-02-23",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/fiserv-forum-milwaukee-wi-5b88578c.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "km7sW0NxYtA",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-25",
+				"videoDescription": "Dua Lipa - Physical (Live in Milwaukee, WI 2/23/2022)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Physical"
+			}
+		]
+	},
+	{
+		"id": "600620c9-890d-4eea-b171-86efe4ac9d78",
+		"description": "Dua Lipa Performs \"New Rules\" and \"I Can Be\" With Fans",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2018-06-11",
+		"dateEvent": "2018-06-11",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "facebook.com",
+				"sourceLink": "https://m.facebook.com/events/hits-973-presents-hits-sessions-starring-dua-lipa/227337051193525/"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "kyweyzSB0Wk",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2018-07-10",
+				"videoDescription": "Dua Lipa Performs \"New Rules\" and \"I Can Be\" With Fans",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Studio"
+			}
+		],
+		"songs": [
+			{
+				"song": "Thinking 'Bout You"
+			},
+			{
+				"song": "Be The One"
+			},
+			{
+				"song": "New Rules"
+			}
+		]
+	},
+	{
+		"id": "69452aaa-a20c-4247-9272-ff570387e6c7",
+		"description": "Dua Lipa Gets Real!: Moving out of her mom's house | Being a Waitress| New Rules",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2018-06-11",
+		"dateEvent": "2018-06-11",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "facebook.com",
+				"sourceLink": "https://m.facebook.com/events/hits-973-presents-hits-sessions-starring-dua-lipa/227337051193525/"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "lBEiRq_X3RE",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2018-06-15",
+				"videoDescription": "Dua Lipa Gets Real!: Moving out of her mom's house | Being a Waitress| New Rules",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Interview"
+			}
+		],
+		"songs": [
+			{
+				"song": ""
+			}
+		]
+	},
+	{
+		"id": "acebb337-445f-43d0-a476-dec5f004286f",
+		"description": "Dua Lipa Future Nostalgia Tour Concert Vlog | Milwaukee WI 2/23/22",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-23",
+		"dateEvent": "2022-02-23",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/fiserv-forum-milwaukee-wi-5b88578c.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "LD2EHcgVGi8",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-25",
+				"videoDescription": "Dua Lipa Future Nostalgia Tour Concert Vlog | Milwaukee WI 2/23/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": ""
+			}
+		]
+	},
+	{
+		"id": "fd4672d7-fafd-4765-90d4-b59c39dbfd79",
+		"description": "Dua Lipa - Levitating (Live in Milwaukee, WI 2/23/2022)",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-23",
+		"dateEvent": "2022-02-23",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/fiserv-forum-milwaukee-wi-5b88578c.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "PiZRRqO6fmA",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-25",
+				"videoDescription": "Dua Lipa - Levitating (Live in Milwaukee, WI 2/23/2022)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "a211e177-8eeb-49ea-897f-8f1ae802a5f5",
+		"description": "Dua Lipa - Don't Start Now (Live in Milwaukee, WI 2/23/2022)",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-23",
+		"dateEvent": "2022-02-23",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/fiserv-forum-milwaukee-wi-5b88578c.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "UOIqPPgCOB4",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-25",
+				"videoDescription": "Dua Lipa - Don't Start Now (Live in Milwaukee, WI 2/23/2022)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Don't Start Now"
+			}
+		]
+	},
+	{
+		"id": "6862339c-09b5-44ac-b38e-a1e2ecacc939",
+		"description": "Dua Lipa - Don’t Start Now Future Nostalgia Tour Detroit",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-25",
+		"dateEvent": "2022-02-25",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/little-caesars-arena-detroit-mi-4b884bfe.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "61Nyw75P5LI",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-26",
+				"videoDescription": "Dua Lipa - Don’t Start Now Future Nostalgia Tour Detroit",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Don't Start Now"
+			}
+		]
+	},
+	{
+		"id": "ba8e7d36-7a2c-428d-84dd-877a0766c09f",
+		"description": "Dua Lipa - Levitating (Detroit Future Nostalgia Tour)",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-25",
+		"dateEvent": "2022-02-25",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/little-caesars-arena-detroit-mi-4b884bfe.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "aKVVOqbWp14",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-26",
+				"videoDescription": "Dua Lipa - Levitating (Detroit Future Nostalgia Tour)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "99a47971-0ce3-4a3c-94e3-4a9452675f00",
+		"description": "Dua Lipa - Physical live @ Little Caesars Arena Detroit 2-25-22",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-25",
+		"dateEvent": "2022-02-25",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/little-caesars-arena-detroit-mi-4b884bfe.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "h61-gFNlG30",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-26",
+				"videoDescription": "Dua Lipa - Physical live @ Little Caesars Arena Detroit 2-25-22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Physical"
+			}
+		]
+	},
+	{
+		"id": "38853ded-0e73-410c-a572-cadcbd49a318",
+		"description": "Dua Lipa & Elton John - Cold Heart live @ Little Caesars Arena Detroit 2-25-22",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-25",
+		"dateEvent": "2022-02-25",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/little-caesars-arena-detroit-mi-4b884bfe.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "iFQENed_Fe4",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-26",
+				"videoDescription": "Dua Lipa & Elton John - Cold Heart live @ Little Caesars Arena Detroit 2-25-22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Cold Heart"
+			}
+		]
+	},
+	{
+		"id": "247e22d6-cc52-4439-bed2-ac1b89453865",
+		"description": "Dua Lipa - Levitating live @ Little Caesars Arena Detroit 2-25-22",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-25",
+		"dateEvent": "2022-02-25",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/little-caesars-arena-detroit-mi-4b884bfe.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "NBhzgYv8EE8",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-27",
+				"videoDescription": "Dua Lipa - Levitating live @ Little Caesars Arena Detroit 2-25-22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "d465826f-2ee5-4e2c-869f-c7b12ffb68cd",
+		"description": "Calvin Harris ft. Dua Lipa - One Kiss live @ Little Caesars Arena Detroit 2-25-22",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-25",
+		"dateEvent": "2022-02-25",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/little-caesars-arena-detroit-mi-4b884bfe.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "nJGwSX8LJHk",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-26",
+				"videoDescription": "Calvin Harris ft. Dua Lipa - One Kiss live @ Little Caesars Arena Detroit 2-25-22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "One Kiss"
+			}
+		]
+	},
+	{
+		"id": "1f1b2518-648b-4c4a-8f18-4b998288c25c",
+		"description": "Dua Lipa - Don't start now live @ Little Caesars Arena Detroit 2-25-22",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-25",
+		"dateEvent": "2022-02-25",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/little-caesars-arena-detroit-mi-4b884bfe.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "Qg-oYqvXTaA",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-26",
+				"videoDescription": "Dua Lipa - Don't start now live @ Little Caesars Arena Detroit 2-25-22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Don't Start Now"
+			}
+		]
+	},
+	{
+		"id": "6ee50611-06f0-43c5-b4ef-1d555caecc96",
+		"description": "Dua Lipa - Cool Future Nostalgia Tour Detroit",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-25",
+		"dateEvent": "2022-02-25",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/little-caesars-arena-detroit-mi-4b884bfe.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "rctx0NOraGU",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-26",
+				"videoDescription": "Dua Lipa - Cool Future Nostalgia Tour Detroit",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Cool"
+			}
+		]
+	},
+	{
+		"id": "044d853e-7bac-472b-bcd2-cc805d08017e",
+		"description": "Dua Lipa - Future Nostalgia live @ Little Caesars Arena Detroit 2-25-22",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-25",
+		"dateEvent": "2022-02-25",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/little-caesars-arena-detroit-mi-4b884bfe.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "W-iumfBThq0",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-26",
+				"videoDescription": "Dua Lipa - Future Nostalgia live @ Little Caesars Arena Detroit 2-25-22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Future Nostalgia"
+			}
+		]
+	},
+	{
+		"id": "0cb8cd9b-2162-4d84-b5f2-b6ff0038085b",
+		"description": "Dua Lipa - Love Again live @ Little Caesars Arena Detroit 2-25-22",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-25",
+		"dateEvent": "2022-02-25",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/little-caesars-arena-detroit-mi-4b884bfe.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "wF3Q2xV9K8U",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-26",
+				"videoDescription": "Dua Lipa - Love Again live @ Little Caesars Arena Detroit 2-25-22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Love Again"
+			}
+		]
+	},
+	{
+		"id": "21d6f460-ea78-448d-8ee4-15b411a947cb",
+		"description": "Dua Lipa - Pretty Please Future Nostalgia Tour Detroit",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-25",
+		"dateEvent": "2022-02-25",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/little-caesars-arena-detroit-mi-4b884bfe.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "zDJtPuMxWW4",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-26",
+				"videoDescription": "Dua Lipa - Pretty Please Future Nostalgia Tour Detroit",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Pretty Please"
+			}
+		]
+	},
+	{
+		"id": "a176a40b-bb83-4530-808d-ab0f8448161d",
+		"description": "Dua Lipa Future Nostalgia World Tour : 2/26/22 Columbus Ohio Levitating",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-26",
+		"dateEvent": "2022-02-26",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/value-city-arena-columbus-oh-138841b1.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "17zPv401w1s",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-28",
+				"videoDescription": "Dua Lipa Future Nostalgia World Tour : 2/26/22 Columbus Ohio Levitating",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "3ff4616c-fe6e-488e-bae5-dad7425f1776",
+		"description": "Dua Lipa Columbus Ohio Feb 26th",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-26",
+		"dateEvent": "2022-02-26",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/value-city-arena-columbus-oh-138841b1.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "2nt9d-MPzc0",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-28",
+				"videoDescription": "Dua Lipa Columbus Ohio Feb 26th",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Physical"
+			}
+		]
+	},
+	{
+		"id": "8d5db12b-4313-47fe-9363-e35d9dfa45a2",
+		"description": "Dua lipa Columbus Ohio Feb26",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-26",
+		"dateEvent": "2022-02-26",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/value-city-arena-columbus-oh-138841b1.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "71mGMh8SXK4",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-28",
+				"videoDescription": "Dua lipa Columbus Ohio Feb26",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "New Rules"
+			}
+		]
+	},
+	{
+		"id": "fc87ce33-7abc-4d82-a26e-28529617b941",
+		"description": "Dua Lipa Columbus, Ohio Feb 26th",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-26",
+		"dateEvent": "2022-02-26",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/value-city-arena-columbus-oh-138841b1.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "8O2FqKfJG24",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-27",
+				"videoDescription": "Dua Lipa Columbus, Ohio Feb 26th",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Future Nostalgia"
+			}
+		]
+	},
+	{
+		"id": "9fcdf6ba-f5ee-416b-a586-ce11eee020ae",
+		"description": "Dua Lipa",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-26",
+		"dateEvent": "2022-02-26",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/value-city-arena-columbus-oh-138841b1.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "AcvRtbYBvgA",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-27",
+				"videoDescription": "Dua Lipa",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "New Rules"
+			}
+		]
+	},
+	{
+		"id": "71612d71-fde8-4c03-a582-0e17ccabb03d",
+		"description": "February 27, 2022",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-26",
+		"dateEvent": "2022-02-26",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/value-city-arena-columbus-oh-138841b1.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "aogrI8idc24",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-27",
+				"videoDescription": "February 27, 2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Electricity"
+			}
+		]
+	},
+	{
+		"id": "e2fe5619-1085-47b3-9bb1-02ac89bc0d50",
+		"description": "Dua Lipa Columbus Ohio Feb26th",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-26",
+		"dateEvent": "2022-02-26",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/value-city-arena-columbus-oh-138841b1.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "CQPABcy9rXU",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-28",
+				"videoDescription": "Dua Lipa Columbus Ohio Feb26th",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Boys Will Be Boys"
+			}
+		]
+	},
+	{
+		"id": "80683056-13ba-48ec-bae8-edac1f4dfdc8",
+		"description": "Dua Lipa Columbus Ohio Feb.26",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-26",
+		"dateEvent": "2022-02-26",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/value-city-arena-columbus-oh-138841b1.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "CvGRqSA7DVI",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-27",
+				"videoDescription": "Dua Lipa Columbus Ohio Feb.26",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "1644bcc5-0657-4fd7-a61a-0e4ebbfcbad7",
+		"description": "Dua Lipa Columbus Ohio Feb26",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-26",
+		"dateEvent": "2022-02-26",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/value-city-arena-columbus-oh-138841b1.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "D28LLNJBzWE",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-28",
+				"videoDescription": "Dua Lipa Columbus Ohio Feb26",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Cool"
+			}
+		]
+	},
+	{
+		"id": "3915c256-fc74-400e-a13f-ce2be11622e9",
+		"description": "February 27, 2022",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-26",
+		"dateEvent": "2022-02-26",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/value-city-arena-columbus-oh-138841b1.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "e6aCN8B1-K0",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-27",
+				"videoDescription": "February 27, 2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "One Kiss"
+			}
+		]
+	},
+	{
+		"id": "26bd050e-0bbc-42e5-bac9-7203498a4e6c",
+		"description": "Dua lipa live Columbus Ohio.",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-26",
+		"dateEvent": "2022-02-26",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/value-city-arena-columbus-oh-138841b1.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "e808JkTwIt8",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-27",
+				"videoDescription": "Dua lipa live Columbus Ohio.",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "511c4466-7261-453c-b4a9-d20c8928d4f3",
+		"description": "Dua Lipa",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-26",
+		"dateEvent": "2022-02-26",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/value-city-arena-columbus-oh-138841b1.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "eAqp4xCD5ys",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-27",
+				"videoDescription": "Dua Lipa",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Cool"
+			}
+		]
+	},
+	{
+		"id": "8cb2831b-bb15-435f-a766-af1c061aab8b",
+		"description": "Dua Lipa Live Columbus, Ohio",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-26",
+		"dateEvent": "2022-02-26",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/value-city-arena-columbus-oh-138841b1.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "fZsrbAxaUfY",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-27",
+				"videoDescription": "Dua Lipa Live Columbus, Ohio",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Cold Heart"
+			}
+		]
+	},
+	{
+		"id": "3698e98f-70d6-4b21-bc46-0d170596670e",
+		"description": "Dua Lipa Future Nostalgia World Tour: 2/26/22 Columbus Ohio ￼ Physical",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-26",
+		"dateEvent": "2022-02-26",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/value-city-arena-columbus-oh-138841b1.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "G3b_crpmNjY",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-28",
+				"videoDescription": "Dua Lipa Future Nostalgia World Tour: 2/26/22 Columbus Ohio ￼ Physical",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Physical"
+			}
+		]
+	},
+	{
+		"id": "152c44f1-bc32-4202-b55f-7809d6ec86a2",
+		"description": "Dua Lipa Columbus, Ohio Feb.26th",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-26",
+		"dateEvent": "2022-02-26",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/value-city-arena-columbus-oh-138841b1.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "gCWEAc1nEVU",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-27",
+				"videoDescription": "Dua Lipa Columbus, Ohio Feb.26th",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Hallucinate"
+			}
+		]
+	},
+	{
+		"id": "19f5db0a-a3d9-4ec8-959e-ae910b7ab22e",
+		"description": "Dua Lipa Columbus Ohio Feb.26",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-26",
+		"dateEvent": "2022-02-26",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/value-city-arena-columbus-oh-138841b1.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "GIQz1o9RM5c",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-28",
+				"videoDescription": "Dua Lipa Columbus Ohio Feb.26",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "We're Good"
+			}
+		]
+	},
+	{
+		"id": "4034e936-c89c-4615-9f80-7e38bd9a71a4",
+		"description": "Dua lipa Columbus Ohio Feb26",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-26",
+		"dateEvent": "2022-02-26",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/value-city-arena-columbus-oh-138841b1.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "HowLMOk22eI",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-28",
+				"videoDescription": "Dua lipa Columbus Ohio Feb26",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Love Again"
+			}
+		]
+	},
+	{
+		"id": "6fbd08ca-5980-4ddd-a948-225bfad279f0",
+		"description": "#dualipa in Columbus, Ohio",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-26",
+		"dateEvent": "2022-02-26",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/value-city-arena-columbus-oh-138841b1.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "IsYjbJGwbKw",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-27",
+				"videoDescription": "#dualipa in Columbus, Ohio",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Electricity"
+			}
+		]
+	},
+	{
+		"id": "4548fbb6-febf-467c-b556-fe02bf17126e",
+		"description": "Dua Lipa Columbus Ohio Feb.26",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-26",
+		"dateEvent": "2022-02-26",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/value-city-arena-columbus-oh-138841b1.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "Kn2Wj32nCi4",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-27",
+				"videoDescription": "Dua Lipa Columbus Ohio Feb.26",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Don't Start Now"
+			}
+		]
+	},
+	{
+		"id": "96c7db32-362b-462c-9c0c-92d40cfe5a85",
+		"description": "Dua Lipa Columbus, Ohio",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-26",
+		"dateEvent": "2022-02-26",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/value-city-arena-columbus-oh-138841b1.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "KTIinsMWPoM",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-27",
+				"videoDescription": "Dua Lipa Columbus, Ohio",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Fever"
+			}
+		]
+	},
+	{
+		"id": "d1b44a92-e5c0-4c4d-850d-028d225344ec",
+		"description": "Dua Lipa opener Columbus 2/26/2022",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-26",
+		"dateEvent": "2022-02-26",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/value-city-arena-columbus-oh-138841b1.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "MFhi560O6vU",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-27",
+				"videoDescription": "Dua Lipa opener Columbus 2/26/2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Physical"
+			}
+		]
+	},
+	{
+		"id": "0a8f6f66-3663-4f43-adc4-4269161d6723",
+		"description": "Dua Lipa",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-26",
+		"dateEvent": "2022-02-26",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/value-city-arena-columbus-oh-138841b1.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "MHWZtOvIYok",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-27",
+				"videoDescription": "Dua Lipa",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Break My Heart"
+			}
+		]
+	},
+	{
+		"id": "d27e865c-aa66-43ae-acb4-c4b58cb900de",
+		"description": "Dua Lipa Future Nostalgia World Tour : Columbus Ohio 2/26/22",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-26",
+		"dateEvent": "2022-02-26",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/value-city-arena-columbus-oh-138841b1.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "nBxbLCCQFQc",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-28",
+				"videoDescription": "Dua Lipa Future Nostalgia World Tour : Columbus Ohio 2/26/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "We're Good"
+			}
+		]
+	},
+	{
+		"id": "adb4ff85-a126-42a2-a0a3-dc058f579b14",
+		"description": "Dua Lipa Columbus, Ohio Feb,26",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-26",
+		"dateEvent": "2022-02-26",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/value-city-arena-columbus-oh-138841b1.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "o1Y9CTn68LM",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-27",
+				"videoDescription": "Dua Lipa Columbus, Ohio Feb,26",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Future Nostalgia"
+			}
+		]
+	},
+	{
+		"id": "3388c498-f409-4f23-9b7d-29d508979142",
+		"description": "Dua Lipa Columbus Ohio Feb.26",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-26",
+		"dateEvent": "2022-02-26",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/value-city-arena-columbus-oh-138841b1.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "oFSCPIno3Vc",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-28",
+				"videoDescription": "Dua Lipa Columbus Ohio Feb.26",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Be The One"
+			}
+		]
+	},
+	{
+		"id": "f7f51367-b9cf-445b-9288-802e1976fe0e",
+		"description": "Dua Lipa in Columbus, Ohio. #perfection #dualipa",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-26",
+		"dateEvent": "2022-02-26",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/value-city-arena-columbus-oh-138841b1.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "rHERY2RkyZk",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-27",
+				"videoDescription": "Dua Lipa in Columbus, Ohio. #perfection #dualipa",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Future Nostalgia"
+			}
+		]
+	},
+	{
+		"id": "b126f70b-e6b5-4f57-a3aa-ed9a6a9d7148",
+		"description": "Dua Lipa Columbus Ohio Feb.26",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-26",
+		"dateEvent": "2022-02-26",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/value-city-arena-columbus-oh-138841b1.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "ru37XBiqWZc",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-28",
+				"videoDescription": "Dua Lipa Columbus Ohio Feb.26",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Good In Bed"
+			}
+		]
+	},
+	{
+		"id": "982784b8-f117-4f67-add4-a6e2aa1ad33a",
+		"description": "Dua lipa Columbus Ohio Feb26",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-26",
+		"dateEvent": "2022-02-26",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/value-city-arena-columbus-oh-138841b1.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "rX0fHBsq9Dg",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-28",
+				"videoDescription": "Dua lipa Columbus Ohio Feb26",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Pretty Please"
+			}
+		]
+	},
+	{
+		"id": "ac5bcace-1ee0-4da8-a089-90dc7804fe26",
+		"description": "Dua Lipa Columbus Ohio will rename all once uploaded lol almost done",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-26",
+		"dateEvent": "2022-02-26",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/value-city-arena-columbus-oh-138841b1.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "vmCRHtCF_Pk",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-28",
+				"videoDescription": "Dua Lipa Columbus Ohio will rename all once uploaded lol almost done",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Break My Heart"
+			}
+		]
+	},
+	{
+		"id": "e0123594-f54c-485c-9266-9a8fd805e8ca",
+		"description": "Dua Lipa Finale",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-26",
+		"dateEvent": "2022-02-26",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/value-city-arena-columbus-oh-138841b1.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "z-uqcIocano",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-27",
+				"videoDescription": "Dua Lipa Finale",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Don't Start Now"
+			}
+		]
+	},
+	{
+		"id": "8edb3367-53e5-4189-9c9e-e0e2116afea7",
+		"description": "DUA LIPA - COMPLETE  SHOW - Elmont NY - 2/21/22 UBS ARENA",
+		"dateDatabase": "12/05/2021",
+		"dateSort": "2022-02-21",
+		"dateEvent": "2022-02-21",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/ubs-arena-elmont-ny-3b88609c.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "eoU7Tg2JLWQ",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-26",
+				"videoDescription": "DUA LIPA - COMPLETE  SHOW - Elmont NY - 2/21/22 UBS ARENA",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Physical"
+			},
+			{
+				"song": "New Rules"
+			},
+			{
+				"song": "Love Again"
+			},
+			{
+				"song": "Cool"
+			},
+			{
+				"song": "Pretty Please"
+			},
+			{
+				"song": "Break My Heart"
+			},
+			{
+				"song": "Be The One"
+			},
+			{
+				"song": "We're Good"
+			},
+			{
+				"song": "Good In Bed"
+			},
+			{
+				"song": "Fever"
+			},
+			{
+				"song": "Boys Will Be Boys"
+			},
+			{
+				"song": "One Kiss"
+			},
+			{
+				"song": "Electricity"
+			},
+			{
+				"song": "Hallucinate"
+			},
+			{
+				"song": "Cold Heart"
+			},
+			{
+				"song": "Levitating"
+			},
+			{
+				"song": "Future Nostalgia"
+			},
+			{
+				"song": "Don't Start Now"
+			}
+		]
+	},
+	{
+		"id": "ced6d19b-b28b-484a-9eeb-6619b7173c77",
+		"description": "Dua Lipa-Be the One-MSG, NYC(3/1/2022) 4k HD-BEST QUALITY",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "-NPuNP6Bmgs",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa-Be the One-MSG, NYC(3/1/2022) 4k HD-BEST QUALITY",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Be The One"
+			}
+		]
+	},
+	{
+		"id": "23eb2d00-ce4a-4867-a70f-f6298cb84348",
+		"description": "DUA LIPA - NEW RULES -  Live @MSG,NYC - 3/11/22 -4K",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "16wzbWl4syA",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "DUA LIPA - NEW RULES -  Live @MSG,NYC - 3/11/22 -4K",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "New Rules"
+			}
+		]
+	},
+	{
+		"id": "bfbd05cf-5dff-41ab-aeef-2f967ae6ec0f",
+		"description": "Dua Lipa & Angèle - Fever (Madison Square Garden 3/1/22)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "1acKGOnZUv8",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa & Angèle - Fever (Madison Square Garden 3/1/22)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Fever"
+			}
+		]
+	},
+	{
+		"id": "c891a938-42af-49bd-b5c5-a098c03f1308",
+		"description": "Dua Lipa - Pretty Please | Future Nostalgia Tour | Madison Square Garden, NY",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "2bc9NcDyHZE",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-05",
+				"videoDescription": "Dua Lipa - Pretty Please | Future Nostalgia Tour | Madison Square Garden, NY",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Pretty Please"
+			}
+		]
+	},
+	{
+		"id": "500ab9a9-2791-4433-a7c1-465488362b3f",
+		"description": "Dua Lipa - Be the One (Madison Square Garden 3/1/22)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "2_cj5_-F3mw",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa - Be the One (Madison Square Garden 3/1/22)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Be The One"
+			}
+		]
+	},
+	{
+		"id": "7f7f4f46-8276-4318-ae5b-b7a32dba3250",
+		"description": "DUA LIPA - LEVITATION - Live @MSG,NYC - 3/1/22 - 4K",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "35ZADcQWMCE",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "DUA LIPA - LEVITATION - Live @MSG,NYC - 3/1/22 - 4K",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "bab42af9-77ef-4a6c-b4b7-8f2598b31f3c",
+		"description": "Dua Lipa- (live)- Love Again and Cool- MSG,NY,  3-1-22",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "3jNf6wGJ-hw",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa- (live)- Love Again and Cool- MSG,NY,  3-1-22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Love Again"
+			},
+			{
+				"song": "Cool"
+			}
+		]
+	},
+	{
+		"id": "820f1bc7-1462-413b-a3e7-a0223f73b53a",
+		"description": "Dua Lipa - New Rules (Madison Square Garden 3/1/22)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "3VAc4KEvSO8",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa - New Rules (Madison Square Garden 3/1/22)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "New Rules"
+			}
+		]
+	},
+	{
+		"id": "82cf8e3d-0707-4795-899b-354a7f9eac53",
+		"description": "Dua Lipa - Boys Will Be Boys (Madison Square Garden 3/1/22)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "4hnG0sz4PyY",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa - Boys Will Be Boys (Madison Square Garden 3/1/22)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Boys Will Be Boys"
+			}
+		]
+	},
+	{
+		"id": "e6bd3fb9-93b0-4dd0-b022-6218b60f4441",
+		"description": "Dua Lipa (live)- Boys Will Be Boys, MSG, NY, 3-1-22",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "4wd6yWivRNM",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa (live)- Boys Will Be Boys, MSG, NY, 3-1-22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Boys Will Be Boys"
+			}
+		]
+	},
+	{
+		"id": "e6e8eb40-0c3c-4b26-a793-0fac78160a36",
+		"description": "DUA LIPA - PHYSICAL - Live - MSG,NYC - 3/1/22 - 4K",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "588uyEmBV8I",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "DUA LIPA - PHYSICAL - Live - MSG,NYC - 3/1/22 - 4K",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Physical"
+			}
+		]
+	},
+	{
+		"id": "bb0504e4-0271-4bc2-accc-777379ad7daf",
+		"description": "DUA LIPA  - GOOD IN BED - Live @MSG,NYC - 3/1/22 - 4K",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "5gO02h98HTs",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-03",
+				"videoDescription": "DUA LIPA  - GOOD IN BED - Live @MSG,NYC - 3/1/22 - 4K",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Good In Bed"
+			}
+		]
+	},
+	{
+		"id": "e72083a8-4ad4-4d22-b193-8051a79b87cf",
+		"description": "Dua Lipa - Cool (Madison Square Garden 3/1/22)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "6crTP_CgQOI",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa - Cool (Madison Square Garden 3/1/22)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Cool"
+			}
+		]
+	},
+	{
+		"id": "0260a94b-fafb-45b4-8267-53c833cc7b7b",
+		"description": "Dua Lipa-Boys Will be Boys/One Kiss-MSG, NYC(3/1/2022) 4K HD BEST QUALITY",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "8MEg-zr49yk",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-03",
+				"videoDescription": "Dua Lipa-Boys Will be Boys/One Kiss-MSG, NYC(3/1/2022) 4K HD BEST QUALITY",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Boys Will Be Boys"
+			},
+			{
+				"song": "One Kiss"
+			}
+		]
+	},
+	{
+		"id": "8cb67fae-4cd3-4b6f-92d5-78fe9b24e417",
+		"description": "Dua Lipa - Cold Heart [Elton John] (Madison Square Garden 3/1/22)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "9m1DMI7j_34",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa - Cold Heart [Elton John] (Madison Square Garden 3/1/22)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Cold Heart"
+			}
+		]
+	},
+	{
+		"id": "f1f7970d-3553-4c96-ade8-ee4de29766c2",
+		"description": "Dua Lipa (live)- Good In Bed, MSG,NY, 3-1-22",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "aK6xghpipCY",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa (live)- Good In Bed, MSG,NY, 3-1-22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Good In Bed"
+			}
+		]
+	},
+	{
+		"id": "38a5c0ec-898e-4764-80c9-7cd8aeb1816c",
+		"description": "Dua Lipa (live)- Physical ,MSG, NY, 3-1-22",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "byibOGMZYos",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa (live)- Physical ,MSG, NY, 3-1-22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Physical"
+			}
+		]
+	},
+	{
+		"id": "19ee5720-1fa8-4021-92b7-6a1b86b759e2",
+		"description": "Dua Lipa (live)- Pretty Please- MSG, NY, 3-1-22",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "dF7t4gt4Whg",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa (live)- Pretty Please- MSG, NY, 3-1-22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Pretty Please"
+			}
+		]
+	},
+	{
+		"id": "297b3d6e-9640-43d5-8d88-22167f6b0f8e",
+		"description": "Dua Lipa- (live)- Hallucinate, MSG,NY, 3-1-22",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "dzHg6XIS7W0",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa- (live)- Hallucinate, MSG,NY, 3-1-22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Hallucinate"
+			}
+		]
+	},
+	{
+		"id": "cd0b6f46-dc48-4b67-9c35-319cfde7ce57",
+		"description": "Dua Lipa (live)- Be The One, MSG, NY, 3-1-22",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "eKjHKedOkGc",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa (live)- Be The One, MSG, NY, 3-1-22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Be The One"
+			}
+		]
+	},
+	{
+		"id": "918eb75f-344d-4407-82f2-3008a24e509c",
+		"description": "Dua Lipa (live)- Don't Start Now, MSG,NY, 3-1-22",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "fjbFz3-7QYU",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa (live)- Don't Start Now, MSG,NY, 3-1-22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Don't Start Now"
+			}
+		]
+	},
+	{
+		"id": "ca8f06b8-afda-4e7d-b787-07b9cfa3b1a4",
+		"description": "Dua Lipa-Levitating -MSG, NY(3/1/2022) 4k HD-BEST QUALITY",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "G5jBMKD5MKk",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa-Levitating -MSG, NY(3/1/2022) 4k HD-BEST QUALITY",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "3a53cbf1-f3bc-42b1-b011-0aac46d4d238",
+		"description": "DUA LIPA - COOL - Live @MSG,NYC - 3/1/22",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "gJprAc7DasY",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "DUA LIPA - COOL - Live @MSG,NYC - 3/1/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Cool"
+			}
+		]
+	},
+	{
+		"id": "7e062496-403f-45ce-9f43-25f3ee606769",
+		"description": "DUA LIPA - HALLUCINATE - Live @MSG,NYC - 3/1/22 - 4K",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "hdzrhBsAnSA",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-03",
+				"videoDescription": "DUA LIPA - HALLUCINATE - Live @MSG,NYC - 3/1/22 - 4K",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Hallucinate"
+			}
+		]
+	},
+	{
+		"id": "307489af-9384-4788-b744-221baa96c876",
+		"description": "Dua Lipa - Hallucinate | Future Nostalgia Tour, Madison Square Garden, NY",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "hrP6770oR-o",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-03",
+				"videoDescription": "Dua Lipa - Hallucinate | Future Nostalgia Tour, Madison Square Garden, NY",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Hallucinate"
+			}
+		]
+	},
+	{
+		"id": "5c246f68-0dd4-4a6a-867d-69fa32131e28",
+		"description": "Dua Lipa - Pretty Please (Madison Square Garden 3/1/22)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "iG3bCQ1NzWY",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa - Pretty Please (Madison Square Garden 3/1/22)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Pretty Please"
+			}
+		]
+	},
+	{
+		"id": "1acc3b7b-9674-4a19-82b3-ce71edd91a15",
+		"description": "Dua Lipa - We're Good (Madison Square Garden 3/1/22)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "Iiica0C8WSg",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa - We're Good (Madison Square Garden 3/1/22)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "We're Good"
+			}
+		]
+	},
+	{
+		"id": "044e3de0-3334-4c20-b885-cd2386e3ecfc",
+		"description": "Dua Lipa (live)- Break My Heart, MSG, NY, 3-1-22",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "ITi04t4BDj4",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa (live)- Break My Heart, MSG, NY, 3-1-22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Break My Heart"
+			}
+		]
+	},
+	{
+		"id": "27dfdcef-36c2-4b0b-bba3-2ad06f318a76",
+		"description": "DUA LIPA - BE THE ONE - Live @MSG,NY - 3 /1/22 - 4K",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "J4heD_FvILY",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "DUA LIPA - BE THE ONE - Live @MSG,NY - 3 /1/22 - 4K",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Be The One"
+			}
+		]
+	},
+	{
+		"id": "185cef0f-18d5-4fbb-b172-79dd11c124d0",
+		"description": "Dua Lipa-IDGAF/We’re Good/Good in Bed-MSG, NYC(3/1/2022) 4k HD-BEST QUALITY",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "JOY-HqPU2g4",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa-IDGAF/We’re Good/Good in Bed-MSG, NYC(3/1/2022) 4k HD-BEST QUALITY",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "We're Good"
+			},
+			{
+				"song": "Good In Bed"
+			}
+		]
+	},
+	{
+		"id": "89269117-4116-4187-8024-45a2452739a6",
+		"description": "Dua Lipa - Break My Heart (Madison Square Garden 3/1/22)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "ktDV1YBN30M",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa - Break My Heart (Madison Square Garden 3/1/22)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Break My Heart"
+			}
+		]
+	},
+	{
+		"id": "cb4f3b68-3c06-4daa-8200-4eb82994abf3",
+		"description": "Dua Lipa - Be The One | Future Nostalgia Tour | Madison Square Garden, NY",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "LJJmU7z4z-A",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-04",
+				"videoDescription": "Dua Lipa - Be The One | Future Nostalgia Tour | Madison Square Garden, NY",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Be The One"
+			}
+		]
+	},
+	{
+		"id": "2fa8ab7e-8041-452c-819a-ae9f762accb5",
+		"description": "Dua Lipa - Electricity (Madison Square Garden 3/1/22)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "m75PP25g6Z0",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa - Electricity (Madison Square Garden 3/1/22)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Electricity"
+			}
+		]
+	},
+	{
+		"id": "f4d45087-65ea-4fb2-b678-5de5dfc2f3d8",
+		"description": "Dua Lipa (live)- Cold Heart ,MSG, NY, 3-1-22",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "MF3Jtls4Jns",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa (live)- Cold Heart ,MSG, NY, 3-1-22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Cold Heart"
+			}
+		]
+	},
+	{
+		"id": "2d21346a-8b56-4994-b005-37c7a16b797a",
+		"description": "DUA LIPA - ONE KISS - Live @MSG,NYC - 3/1/22 - 4K",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "O0qCqLCLxK8",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "DUA LIPA - ONE KISS - Live @MSG,NYC - 3/1/22 - 4K",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "One Kiss"
+			}
+		]
+	},
+	{
+		"id": "ed25822d-b9a7-492e-bae4-77c7740f32d3",
+		"description": "DUA LIPA - FUTURE NOSTALGIA  - Live @MSG,NYC - 3/1/22 - 4K",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "OekcAw8L5Bo",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "DUA LIPA - FUTURE NOSTALGIA  - Live @MSG,NYC - 3/1/22 - 4K",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Future Nostalgia"
+			}
+		]
+	},
+	{
+		"id": "2dddacd7-6ba5-4fca-8e98-f99718dc64cb",
+		"description": "Dua Lipa (live)- Levitating, MSG, NY, 3-1-22",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "oYUufZKNEP0",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa (live)- Levitating, MSG, NY, 3-1-22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "4d08fdcd-0fa9-4605-aab6-36b4a6fe3323",
+		"description": "Dua Lipa-Physical/No Rules-MSG, NYC(3/1/2022) 4k HD BEST QUALITY",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "qr_Z0dFSzb0",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa-Physical/No Rules-MSG, NYC(3/1/2022) 4k HD BEST QUALITY",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Physical"
+			}
+		]
+	},
+	{
+		"id": "4e3ca26d-45a0-4e67-9190-58140e14b3ae",
+		"description": "Dua Lipa - Levitating (Madison Square Garden 3/1/22)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "Rb1FwTQ5ioI",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa - Levitating (Madison Square Garden 3/1/22)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "35ae6c17-8353-4eea-89cb-33551f228d59",
+		"description": "DUA LIPA - COMPLETE  SHOW - Live @MSG,NYC - 3/1/22 - 4K",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "rlxwNLLZSnM",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-04",
+				"videoDescription": "DUA LIPA - COMPLETE  SHOW - Live @MSG,NYC - 3/1/22 - 4K",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Physical"
+			},
+			{
+				"song": "New Rules"
+			},
+			{
+				"song": "Love Again"
+			},
+			{
+				"song": "Cool"
+			},
+			{
+				"song": "Pretty Please"
+			},
+			{
+				"song": "Break My Heart"
+			},
+			{
+				"song": "Be The One"
+			},
+			{
+				"song": "We're Good"
+			},
+			{
+				"song": "Good In Bed"
+			},
+			{
+				"song": "Fever"
+			},
+			{
+				"song": "Boys Will Be Boys"
+			},
+			{
+				"song": "One Kiss"
+			},
+			{
+				"song": "Electricity"
+			},
+			{
+				"song": "Hallucinate"
+			},
+			{
+				"song": "Cold Heart"
+			},
+			{
+				"song": "Levitating"
+			},
+			{
+				"song": "Future Nostalgia"
+			},
+			{
+				"song": "Don't Start Now"
+			}
+		]
+	},
+	{
+		"id": "175ed517-b200-4136-9eff-e02def723c74",
+		"description": "Dua Lipa (live)- We're Good- MSG, NY, 3-1-22",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "ryHCefWbrMM",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa (live)- We're Good- MSG, NY, 3-1-22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "We're Good"
+			}
+		]
+	},
+	{
+		"id": "0f444b1c-292a-456c-acf3-27a6ad3da5d7",
+		"description": "Dua Lipa - Future Nostalgia (Madison Square Garden 3/1/22)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "SgEzF5KJFqQ",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa - Future Nostalgia (Madison Square Garden 3/1/22)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Future Nostalgia"
+			}
+		]
+	},
+	{
+		"id": "4a3dd38a-a94f-4a8a-aae6-e3d76a01c751",
+		"description": "Dua Lipa - One Kiss (Madison Square Garden 3/1/22)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "tgLmkZ37DJw",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa - One Kiss (Madison Square Garden 3/1/22)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "One Kiss"
+			}
+		]
+	},
+	{
+		"id": "c1c47dfa-2f6f-44f2-b25c-d912c916c5a7",
+		"description": "Dua Lipa - Hallucinate (Madison Square Garden 3/1/22)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "U81a0-N4cpo",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa - Hallucinate (Madison Square Garden 3/1/22)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Hallucinate"
+			}
+		]
+	},
+	{
+		"id": "54e56f9a-d3f1-4b3b-a379-8007cb96ba6d",
+		"description": "DUA LIPA - COLD HEART - Live @MSG,NYC - 3/1/22 - 4K",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "V6bkUkcta3Q",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "DUA LIPA - COLD HEART - Live @MSG,NYC - 3/1/22 - 4K",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Cold Heart"
+			}
+		]
+	},
+	{
+		"id": "b4af8b13-cd3b-417f-ad0e-7ad9e98c55ab",
+		"description": "Dua Lipa - Good in Bed (with cuts) | Future Nostalgia Tour | Madison Square Garden m, NY.",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "v7vuluIUDN4",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-05",
+				"videoDescription": "Dua Lipa - Good in Bed (with cuts) | Future Nostalgia Tour | Madison Square Garden m, NY.",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Good In Bed"
+			}
+		]
+	},
+	{
+		"id": "45703b61-7490-4d0f-846c-13e8d5c1fb5f",
+		"description": "DUA LIPA - PRETTY PLEASE - Live @MSG,NYC 3/1/22 - 4K",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "VaGnzyMvTGM",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-03",
+				"videoDescription": "DUA LIPA - PRETTY PLEASE - Live @MSG,NYC 3/1/22 - 4K",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Pretty Please"
+			}
+		]
+	},
+	{
+		"id": "0093c638-f59d-4c8d-a08f-caebd173b096",
+		"description": "DUA LIPA - BREAK MY HEART - Live @MSG,NYC - 3/1/22 - 4K",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "W-MKwgd4ASU",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-03",
+				"videoDescription": "DUA LIPA - BREAK MY HEART - Live @MSG,NYC - 3/1/22 - 4K",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Break My Heart"
+			}
+		]
+	},
+	{
+		"id": "7210e2ee-32d2-451a-9e33-37aeaf6c5e7b",
+		"description": "DUA LIPA - DON'T START NOW - (FINALE) - NYC - 3/1/22 - 4K",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "WShOm2LdZ4E",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "DUA LIPA - DON'T START NOW - (FINALE) - NYC - 3/1/22 - 4K",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Don't Start Now"
+			}
+		]
+	},
+	{
+		"id": "75ebaa53-ef3d-4b4a-a08a-e44951feae15",
+		"description": "Dua Lipa- Fever with Angèle,  MSG, NY, 3-1-22",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "wzPZUYrmcQY",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa- Fever with Angèle,  MSG, NY, 3-1-22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Fever"
+			}
+		]
+	},
+	{
+		"id": "571f3655-6485-42e8-b9ab-7db88fa5b3ea",
+		"description": "DUA LIPA - LOVE AGAIN - Live @MSG NYC - 3/1/22 - 4K",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "xMXNUx-li6w",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-03",
+				"videoDescription": "DUA LIPA - LOVE AGAIN - Live @MSG NYC - 3/1/22 - 4K",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Love Again"
+			}
+		]
+	},
+	{
+		"id": "f044e5d5-eb2c-4f31-bf23-e96244383970",
+		"description": "Dua Lipa - Love Again (Madison Square Garden 3/1/22)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "y11YAhhoIsk",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa - Love Again (Madison Square Garden 3/1/22)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Love Again"
+			}
+		]
+	},
+	{
+		"id": "2442c58b-18d3-43e2-bb24-5cbead8d6130",
+		"description": "Dua Lipa - Don’t start now | Future Nostalgia Tour | Madison Square Garden, NY",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "Y1OCzkKf43Y",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-04",
+				"videoDescription": "Dua Lipa - Don’t start now | Future Nostalgia Tour | Madison Square Garden, NY",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Don't Start Now"
+			}
+		]
+	},
+	{
+		"id": "38d395a7-6af7-488a-abaf-8bf367c66f2d",
+		"description": "Dua Lipa - Don't Start Now (Madison Square Garden 3/1/22)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "yBzBt7SVcU8",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa - Don't Start Now (Madison Square Garden 3/1/22)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Don't Start Now"
+			}
+		]
+	},
+	{
+		"id": "bf07bfe6-4ddf-4e78-8bba-dd9d9e03bbf6",
+		"description": "Dua Lipa /Angele-Fever-NYC(3/1/2022) 4k HD BEST QUALITY",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "YOm0B5FUVFg",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa /Angele-Fever-NYC(3/1/2022) 4k HD BEST QUALITY",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Fever"
+			}
+		]
+	},
+	{
+		"id": "7b985d63-123a-4ed1-8e27-6bb2c4b9c132",
+		"description": "Dua Lipa-Pretty Please/Break My Heart-MSG, NY(3/1/2022) 4K HD-BEST QUALITY",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "zGLrjYsJs_Q",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa-Pretty Please/Break My Heart-MSG, NY(3/1/2022) 4K HD-BEST QUALITY",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Pretty Please"
+			},
+			{
+				"song": "Break My Heart"
+			}
+		]
+	},
+	{
+		"id": "f44378d9-f1ff-4d92-baa5-6d9abb51e75b",
+		"description": "DUA LIPA - BOYS WILL BE BOYS - Live - @MSG,NYC - 3/1/22",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "zh7PESxFqvc",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "DUA LIPA - BOYS WILL BE BOYS - Live - @MSG,NYC - 3/1/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Boys Will Be Boys"
+			}
+		]
+	},
+	{
+		"id": "c9053957-05a3-466f-8f84-9182f46d669c",
+		"description": "Dua Lipa - Physical (Madison Square Garden 3/1/22)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "ZlJRJwX0Vyg",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa - Physical (Madison Square Garden 3/1/22)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Physical"
+			}
+		]
+	},
+	{
+		"id": "cefafc91-4bef-4527-b7a6-7ca5f8a8f762",
+		"description": "DUA LIPA - FEVER -   w/ANGELE - Live @ MSG,NYC - 3/1/22",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-01",
+		"dateEvent": "2022-03-01",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/madison-square-garden-new-york-ny-3389b0f5.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "_dRd6aXNMZ4",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "DUA LIPA - FEVER -   w/ANGELE - Live @ MSG,NYC - 3/1/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Fever"
+			}
+		]
+	},
+	{
+		"id": "775bebc6-be37-4a4a-b0fc-6dcfc7323a9c",
+		"description": "Dua Lipa on Reclaiming Her Viral Dance and Working with Elton John | The Tonight Show",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-03",
+		"dateEvent": "2022-03-03",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "",
+				"sourceLink": ""
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "enW-fNTOnWM",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-04",
+				"videoDescription": "Dua Lipa on Reclaiming Her Viral Dance and Working with Elton John | The Tonight Show",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Interview"
+			}
+		],
+		"songs": [
+			{
+				"song": ""
+			}
+		]
+	},
+	{
+		"id": "6dd292db-a632-4658-8965-be2bc981c7c3",
+		"description": "Dua Lipa Surprises 80-Year-Old Superfan Papa Richy | The Tonight Show Starring Jimmy Fallon",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-03",
+		"dateEvent": "2022-03-03",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "",
+				"sourceLink": ""
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "gHH69xT4vKw",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-04",
+				"videoDescription": "Dua Lipa Surprises 80-Year-Old Superfan Papa Richy | The Tonight Show Starring Jimmy Fallon",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Interview"
+			}
+		],
+		"songs": [
+			{
+				"song": ""
+			}
+		]
+	},
+	{
+		"id": "e2c588be-f463-4cea-a1d2-d19ecd48b74b",
+		"description": "Dua Lipa - Don’t Start Now - Washington DC - 3/3/2022",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-02",
+		"dateEvent": "2022-03-02",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/capital-one-arena-washington-dc-1b89a960.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "-Ns33uCb2tU",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-03",
+				"videoDescription": "Dua Lipa - Don’t Start Now - Washington DC - 3/3/2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Don't Start Now"
+			}
+		]
+	},
+	{
+		"id": "12ccc123-3119-48f2-a632-622833aa6c58",
+		"description": "4K Dua Lipa Love Again, Washington DC",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-02",
+		"dateEvent": "2022-03-02",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/capital-one-arena-washington-dc-1b89a960.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "3tiJo5qayDg",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-04",
+				"videoDescription": "4K Dua Lipa Love Again, Washington DC",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Love Again"
+			}
+		]
+	},
+	{
+		"id": "7bb94d63-9dcd-44d7-ae6a-76ab1228556b",
+		"description": "4K Dua Lipa New Rules Mic Drop, Washington DC Capital One Arena",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-02",
+		"dateEvent": "2022-03-02",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/capital-one-arena-washington-dc-1b89a960.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "7m9ZAqykVi8",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-06",
+				"videoDescription": "4K Dua Lipa New Rules Mic Drop, Washington DC Capital One Arena",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "New Rules"
+			}
+		]
+	},
+	{
+		"id": "a9ad51ba-2014-434e-a830-a32999393cd4",
+		"description": "4K Dua Lipa Break My Heart, Washington DC",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-02",
+		"dateEvent": "2022-03-02",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/capital-one-arena-washington-dc-1b89a960.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "B6YtYeH97JA",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-04",
+				"videoDescription": "4K Dua Lipa Break My Heart, Washington DC",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Break My Heart"
+			}
+		]
+	},
+	{
+		"id": "a5ced5c0-24fc-44d3-b99b-60b376dce668",
+		"description": "\"Levitating & Future Nostalgia & Dont Start Now\" Dua Lipa@Cap Arena Washington DC 3/2/22",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-02",
+		"dateEvent": "2022-03-02",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/capital-one-arena-washington-dc-1b89a960.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "cjUPtxeJKNM",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-03",
+				"videoDescription": "\"Levitating & Future Nostalgia & Dont Start Now\" Dua Lipa@Cap Arena Washington DC 3/2/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			},
+			{
+				"song": "Future Nostalgia"
+			},
+			{
+				"song": "Don't Start Now"
+			}
+		]
+	},
+	{
+		"id": "5206c158-3b29-441f-b3a4-57f766f2330a",
+		"description": "4K Dua Lipa Electricity & Hallucinate, Washington DC",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-02",
+		"dateEvent": "2022-03-02",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/capital-one-arena-washington-dc-1b89a960.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "cKd8yz1wJwg",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-04",
+				"videoDescription": "4K Dua Lipa Electricity & Hallucinate, Washington DC",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Electricity"
+			},
+			{
+				"song": "Hallucinate"
+			}
+		]
+	},
+	{
+		"id": "8a220432-2a57-4430-bbe9-23ec1113c8aa",
+		"description": "4K Dua Lipa Fever, Washington DC",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-02",
+		"dateEvent": "2022-03-02",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/capital-one-arena-washington-dc-1b89a960.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "GASk7MPlq8A",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-04",
+				"videoDescription": "4K Dua Lipa Fever, Washington DC",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Fever"
+			}
+		]
+	},
+	{
+		"id": "b16adaa4-91eb-4670-bba7-5f73f2d3081e",
+		"description": "4K Dua Lipa Levitating, Washington DC Capital One Arena",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-02",
+		"dateEvent": "2022-03-02",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/capital-one-arena-washington-dc-1b89a960.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "HRBXL53BMIA",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-05",
+				"videoDescription": "4K Dua Lipa Levitating, Washington DC Capital One Arena",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "6b47e34d-cc5c-4847-83af-bc6a9b7276b1",
+		"description": "4K Dua Lipa New Rules /  Mic Drop",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-02",
+		"dateEvent": "2022-03-02",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/capital-one-arena-washington-dc-1b89a960.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "JVXJEBniYPg",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-03",
+				"videoDescription": "4K Dua Lipa New Rules /  Mic Drop",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "New Rules"
+			}
+		]
+	},
+	{
+		"id": "20f54838-35f9-493a-9dc1-be026d1b1027",
+		"description": "4K Dua Lipa Future Nostalgia, Washington DC",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-02",
+		"dateEvent": "2022-03-02",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/capital-one-arena-washington-dc-1b89a960.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "k8_H-EXWvU8",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-04",
+				"videoDescription": "4K Dua Lipa Future Nostalgia, Washington DC",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Future Nostalgia"
+			}
+		]
+	},
+	{
+		"id": "f1ddd452-5084-4fc6-b3f5-947f967095e0",
+		"description": "\"Pretty Please & Break My Heart & Be the One\" Dua Lipa@Cap Arena Washington DC 3/2/22",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-02",
+		"dateEvent": "2022-03-02",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/capital-one-arena-washington-dc-1b89a960.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "kR3g4ut6tkQ",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-03",
+				"videoDescription": "\"Pretty Please & Break My Heart & Be the One\" Dua Lipa@Cap Arena Washington DC 3/2/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Pretty Please"
+			},
+			{
+				"song": "Break My Heart"
+			},
+			{
+				"song": "Be The One"
+			}
+		]
+	},
+	{
+		"id": "21928696-8ea2-4870-a169-f0dc857db6d6",
+		"description": "4K Dua Lipa Physical,  Washington DC",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-02",
+		"dateEvent": "2022-03-02",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/capital-one-arena-washington-dc-1b89a960.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "lkDRw4KdKng",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-04",
+				"videoDescription": "4K Dua Lipa Physical,  Washington DC",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Physical"
+			}
+		]
+	},
+	{
+		"id": "700d76e0-b72a-4504-ab27-424003da5ff0",
+		"description": "\"Dua Loses Mic to Crowd & Physical & New Rules & Again \" Dua Lipa@Washington DC 3/2/22",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-02",
+		"dateEvent": "2022-03-02",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/capital-one-arena-washington-dc-1b89a960.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "LozaYUCw85U",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-03",
+				"videoDescription": "\"Dua Loses Mic to Crowd & Physical & New Rules & Again \" Dua Lipa@Washington DC 3/2/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Physical"
+			},
+			{
+				"song": "New Rules"
+			},
+			{
+				"song": "Love Again"
+			}
+		]
+	},
+	{
+		"id": "0017945a-3226-45c5-b72e-246f2c751fba",
+		"description": "4K Dua Lipa Electricity, Washington DC",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-02",
+		"dateEvent": "2022-03-02",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/capital-one-arena-washington-dc-1b89a960.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "oHC1DQii5gc",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-04",
+				"videoDescription": "4K Dua Lipa Electricity, Washington DC",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Electricity"
+			}
+		]
+	},
+	{
+		"id": "6cda8a77-377f-413e-b82d-83abb620ea15",
+		"description": "4K Dua Lipa Pretty Please, Washington DC",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-02",
+		"dateEvent": "2022-03-02",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/capital-one-arena-washington-dc-1b89a960.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "P9kSl_zt6SU",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-04",
+				"videoDescription": "4K Dua Lipa Pretty Please, Washington DC",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Pretty Please"
+			}
+		]
+	},
+	{
+		"id": "7767b880-da68-472a-9f00-94a03a5b848f",
+		"description": "4K Dua Lipa Good In Bed, Washington DC",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-02",
+		"dateEvent": "2022-03-02",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/capital-one-arena-washington-dc-1b89a960.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "PCwQ0xMq2ew",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-04",
+				"videoDescription": "4K Dua Lipa Good In Bed, Washington DC",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Good In Bed"
+			}
+		]
+	},
+	{
+		"id": "0d2273f5-a872-4cdc-b742-2f80336136f4",
+		"description": "4K Dua Lipa We're Good, Washington DC",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-02",
+		"dateEvent": "2022-03-02",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/capital-one-arena-washington-dc-1b89a960.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "sKM89DsVPcc",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-04",
+				"videoDescription": "4K Dua Lipa We're Good, Washington DC",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "We're Good"
+			}
+		]
+	},
+	{
+		"id": "1d567aca-ba9a-457d-ba31-be0b966dfc4d",
+		"description": "4K Dua Lipa Boys Will Be Boys, Washington DC",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-02",
+		"dateEvent": "2022-03-02",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/capital-one-arena-washington-dc-1b89a960.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "Twhtc4ZAXM0",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-04",
+				"videoDescription": "4K Dua Lipa Boys Will Be Boys, Washington DC",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Boys Will Be Boys"
+			}
+		]
+	},
+	{
+		"id": "183a561e-e71d-4355-af51-cf58f89573ec",
+		"description": "4K Dua Lipa Levitating,  Washington DC",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-02",
+		"dateEvent": "2022-03-02",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/capital-one-arena-washington-dc-1b89a960.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "tXvrQmyi47U",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-04",
+				"videoDescription": "4K Dua Lipa Levitating,  Washington DC",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "d4d7dc3a-f859-4e10-a21f-bbb0a3be641d",
+		"description": "4K Dua Lipa Future Nostalgia Washington DC",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-02",
+		"dateEvent": "2022-03-02",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/capital-one-arena-washington-dc-1b89a960.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "wbtdiQoey58",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-03",
+				"videoDescription": "4K Dua Lipa Future Nostalgia Washington DC",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Future Nostalgia"
+			}
+		]
+	},
+	{
+		"id": "b764208e-b6a8-42b0-b08f-09e4b637edf6",
+		"description": "4K Dua Lipa Don't Start Now, Washington DC",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-02",
+		"dateEvent": "2022-03-02",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/capital-one-arena-washington-dc-1b89a960.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "XXjeApBsN-E",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-04",
+				"videoDescription": "4K Dua Lipa Don't Start Now, Washington DC",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Don't Start Now"
+			}
+		]
+	},
+	{
+		"id": "4155105c-bf09-435f-97be-deb5a9eebfc9",
+		"description": "4K Dua Lipa Cool, Washington DC",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-02",
+		"dateEvent": "2022-03-02",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/capital-one-arena-washington-dc-1b89a960.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "yE95PfpCWIo",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-04",
+				"videoDescription": "4K Dua Lipa Cool, Washington DC",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Cool"
+			}
+		]
+	},
+	{
+		"id": "e8060f84-5898-4e26-aefc-ea01c043b3b5",
+		"description": "4K Dua Lipa One Kiss, Washington DC",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-02",
+		"dateEvent": "2022-03-02",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/capital-one-arena-washington-dc-1b89a960.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "ZW2TMP2s3Q0",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-04",
+				"videoDescription": "4K Dua Lipa One Kiss, Washington DC",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "One Kiss"
+			}
+		]
+	},
+	{
+		"id": "122c2e35-9437-4c44-9ce4-fd5b07f935fc",
+		"description": "Dua Lipa - Fever Live @ Prudential Center, Newark (2022)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-04",
+		"dateEvent": "2022-03-04",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/prudential-center-newark-nj-6389a2ab.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "412q3lNUoQk",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-05",
+				"videoDescription": "Dua Lipa - Fever Live @ Prudential Center, Newark (2022)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Fever"
+			}
+		]
+	},
+	{
+		"id": "6d4f233d-28e1-4c72-88a9-4ced6c2470a4",
+		"description": "Dua Lipa - Levitating (Live From New Jersey - Future Nostalgia Tour)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-04",
+		"dateEvent": "2022-03-04",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/prudential-center-newark-nj-6389a2ab.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "AuyBZdEXSX4",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-05",
+				"videoDescription": "Dua Lipa - Levitating (Live From New Jersey - Future Nostalgia Tour)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "0e38a844-a445-4b3f-8193-ecdec864e7eb",
+		"description": "Dua Lipa - Break My Heart Live @ Prudential Center, Newark (2022)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-04",
+		"dateEvent": "2022-03-04",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/prudential-center-newark-nj-6389a2ab.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "BVRGAQ5O5IA",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-05",
+				"videoDescription": "Dua Lipa - Break My Heart Live @ Prudential Center, Newark (2022)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Break My Heart"
+			}
+		]
+	},
+	{
+		"id": "e4a4c81b-446c-484e-ba0f-e0f261900fb7",
+		"description": "Electricity - Dua Lipa",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-04",
+		"dateEvent": "2022-03-04",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/prudential-center-newark-nj-6389a2ab.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "e194uI1hYMw",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-05",
+				"videoDescription": "Electricity - Dua Lipa",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Electricity"
+			}
+		]
+	},
+	{
+		"id": "2eae4f3a-a186-4065-8d4e-113055c7ed0a",
+		"description": "Don't Stop Now - Dua Lipa",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-04",
+		"dateEvent": "2022-03-04",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/prudential-center-newark-nj-6389a2ab.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "ecICa02hK_0",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-05",
+				"videoDescription": "Don't Stop Now - Dua Lipa",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Don't Start Now"
+			}
+		]
+	},
+	{
+		"id": "a2016f62-3064-4edf-8b72-2331a80195bb",
+		"description": "DUA LIPA LIVE PRUDENTIAL CENTER, March 4th, 2022. Close up Finale!",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-04",
+		"dateEvent": "2022-03-04",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/prudential-center-newark-nj-6389a2ab.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "GxTe6FSlueQ",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-05",
+				"videoDescription": "DUA LIPA LIVE PRUDENTIAL CENTER, March 4th, 2022. Close up Finale!",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Future Nostalgia"
+			},
+			{
+				"song": "Don't Start Now"
+			}
+		]
+	},
+	{
+		"id": "09e653f7-8623-45ad-b8a9-0b546a2165f7",
+		"description": "Dua Lipa - Levitating Live @ Prudential Center, Newark (2022)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-04",
+		"dateEvent": "2022-03-04",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/prudential-center-newark-nj-6389a2ab.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "hf9LRqaxEkE",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-05",
+				"videoDescription": "Dua Lipa - Levitating Live @ Prudential Center, Newark (2022)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "8d16acc5-fe7e-4859-a26f-c9d03cc7d268",
+		"description": "Dua Lipa - Future Nostalgia Tour @ Prudential Center, Newark (2022)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-04",
+		"dateEvent": "2022-03-04",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/prudential-center-newark-nj-6389a2ab.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "IKvoL7en0H8",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-06",
+				"videoDescription": "Dua Lipa - Future Nostalgia Tour @ Prudential Center, Newark (2022)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Physical"
+			},
+			{
+				"song": "New Rules"
+			},
+			{
+				"song": "One Kiss"
+			},
+			{
+				"song": "Cold Heart"
+			},
+			{
+				"song": "Don't Start Now"
+			}
+		]
+	},
+	{
+		"id": "892e3ac4-9cea-4488-be9e-a2c7dbd07e08",
+		"description": "Dua Lipa , Cold Heart/Rocketman,  Live, 3/6/22, Prudential Center, Newark,  New Jersey.",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-04",
+		"dateEvent": "2022-03-04",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/prudential-center-newark-nj-6389a2ab.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "iLjtDh4_eWc",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-05",
+				"videoDescription": "Dua Lipa , Cold Heart/Rocketman,  Live, 3/6/22, Prudential Center, Newark,  New Jersey.",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Cold Heart"
+			}
+		]
+	},
+	{
+		"id": "99f21b10-e51c-4214-b7c9-4a54b51926a4",
+		"description": "Dua Lipa, Levitating, Live, 3/6/22, Newark, New Jersey.",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-04",
+		"dateEvent": "2022-03-04",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/prudential-center-newark-nj-6389a2ab.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "KBLR8CYJDNU",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-05",
+				"videoDescription": "Dua Lipa, Levitating, Live, 3/6/22, Newark, New Jersey.",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "d519430c-8668-4efb-beb8-81d51e7e71e6",
+		"description": "Dua Lipa Live, Levitating! Prudential center, Newark close up",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-04",
+		"dateEvent": "2022-03-04",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/prudential-center-newark-nj-6389a2ab.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "oyT30f2uNGw",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-05",
+				"videoDescription": "Dua Lipa Live, Levitating! Prudential center, Newark close up",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "275f71c8-a142-44ca-8578-7f4ea6569497",
+		"description": "Opening Dua Lipa Prudential Center NJ 3/4/2022",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-04",
+		"dateEvent": "2022-03-04",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/prudential-center-newark-nj-6389a2ab.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "OZ0I8UEe9pI",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-05",
+				"videoDescription": "Opening Dua Lipa Prudential Center NJ 3/4/2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Physical"
+			}
+		]
+	},
+	{
+		"id": "de5d090a-fc68-4f3f-adee-ebfbccb78998",
+		"description": "New Rules Dua Lipa",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-04",
+		"dateEvent": "2022-03-04",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/prudential-center-newark-nj-6389a2ab.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "pwBA6vMiczs",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-05",
+				"videoDescription": "New Rules Dua Lipa",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "New Rules"
+			}
+		]
+	},
+	{
+		"id": "b8b28c24-239a-4122-914c-283b5d8a4e71",
+		"description": "Rocket Man - Dua Lipa",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-04",
+		"dateEvent": "2022-03-04",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/prudential-center-newark-nj-6389a2ab.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "yjvycXnlZEo",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-05",
+				"videoDescription": "Rocket Man - Dua Lipa",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Cold Heart"
+			}
+		]
+	},
+	{
+		"id": "e8e4e022-1fe8-4ce8-9222-4df430ccbd50",
+		"description": "Levitating - Dua Lipa",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-04",
+		"dateEvent": "2022-03-04",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/prudential-center-newark-nj-6389a2ab.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "_BoOeQZUHuo",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-05",
+				"videoDescription": "Levitating - Dua Lipa",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "38831d95-2b75-4e9e-a36d-7b81d1cd7a60",
+		"description": "Dua Lipa performing \"Good in Bed\" in Buffalo, NY",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-05",
+		"dateEvent": "2022-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/keybank-center-buffalo-ny-1b8999a0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "3kG8RGOG3aE",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-06",
+				"videoDescription": "Dua Lipa performing \"Good in Bed\" in Buffalo, NY",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Good In Bed"
+			}
+		]
+	},
+	{
+		"id": "6cb292d5-de01-41a5-b23a-e90fdf3c8a26",
+		"description": "Dua Lipa excerpts. Keybank Center, Buffalo NY.  March 5th. 2022(2)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-05",
+		"dateEvent": "2022-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/keybank-center-buffalo-ny-1b8999a0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "3WPUcwsPxe0",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-07",
+				"videoDescription": "Dua Lipa excerpts. Keybank Center, Buffalo NY.  March 5th. 2022(2)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Break My Heart"
+			}
+		]
+	},
+	{
+		"id": "cbd5ee15-66b1-40da-95f6-91d0b02f4fe7",
+		"description": "Dua Lipa in Buffalo - \"Levitating\"",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-05",
+		"dateEvent": "2022-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/keybank-center-buffalo-ny-1b8999a0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "7YjqPDAX3tI",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-06",
+				"videoDescription": "Dua Lipa in Buffalo - \"Levitating\"",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "baf5a4a6-0590-4f92-aa71-8d749b27e6e7",
+		"description": "Dua Lipa. Keybank Center, Buffalo NY.   3/5/22(4)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-05",
+		"dateEvent": "2022-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/keybank-center-buffalo-ny-1b8999a0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "9vDAvkO3gzY",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-07",
+				"videoDescription": "Dua Lipa. Keybank Center, Buffalo NY.   3/5/22(4)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "d2eccb84-9197-4dc2-932e-c141d466035a",
+		"description": "Dua Lipa. Keybank Center, Buffalo NY.   3/5/22(3)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-05",
+		"dateEvent": "2022-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/keybank-center-buffalo-ny-1b8999a0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "AVqMQEKu5ow",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-07",
+				"videoDescription": "Dua Lipa. Keybank Center, Buffalo NY.   3/5/22(3)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "80a60250-0303-4168-a93d-73b7d630c8cb",
+		"description": "Dua Lipa excerpts. Keybank Center, Buffalo NY.  March 5th. 2022(4)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-05",
+		"dateEvent": "2022-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/keybank-center-buffalo-ny-1b8999a0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "C1O4d1XH8Wo",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-07",
+				"videoDescription": "Dua Lipa excerpts. Keybank Center, Buffalo NY.  March 5th. 2022(4)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Good In Bed"
+			}
+		]
+	},
+	{
+		"id": "d4f1b296-d9a3-4b96-b6cc-d94c851a3a8d",
+		"description": "Dua Lipa live in Buffalo, NY performing \"Physical\"",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-05",
+		"dateEvent": "2022-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/keybank-center-buffalo-ny-1b8999a0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "Ce1IEpO2_TU",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-06",
+				"videoDescription": "Dua Lipa live in Buffalo, NY performing \"Physical\"",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Physical"
+			}
+		]
+	},
+	{
+		"id": "d219350e-7bc2-4e44-99c7-fc1cc73380c4",
+		"description": "Dua Lipa. Keybank Center. Buffalo NY.  March 5th,  2022(1)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-05",
+		"dateEvent": "2022-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/keybank-center-buffalo-ny-1b8999a0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "eEciJQ2jLd4",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-07",
+				"videoDescription": "Dua Lipa. Keybank Center. Buffalo NY.  March 5th,  2022(1)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Future Nostalgia"
+			}
+		]
+	},
+	{
+		"id": "1462821a-cfa9-46af-8446-c22294b5ce76",
+		"description": "Dua Lipa. March 5th. Keybank Center  Buffalo NY",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-05",
+		"dateEvent": "2022-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/keybank-center-buffalo-ny-1b8999a0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "ep8DaxFB0ag",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-06",
+				"videoDescription": "Dua Lipa. March 5th. Keybank Center  Buffalo NY",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Physical"
+			}
+		]
+	},
+	{
+		"id": "0fd0a9d9-30c1-46f8-ade6-efb675be8b7e",
+		"description": "Dua Lipa - Break My Heart - Buffalo KeyBank Arena",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-05",
+		"dateEvent": "2022-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/keybank-center-buffalo-ny-1b8999a0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "eXSV2Eu1xg4",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-07",
+				"videoDescription": "Dua Lipa - Break My Heart - Buffalo KeyBank Arena",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Break My Heart"
+			}
+		]
+	},
+	{
+		"id": "1c3d509f-9d46-4a04-9275-b4c3f1a8adae",
+		"description": "Dua Lipa - Physical - Buffalo KeyBank Center",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-05",
+		"dateEvent": "2022-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/keybank-center-buffalo-ny-1b8999a0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "FB6WADIsnkA",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-07",
+				"videoDescription": "Dua Lipa - Physical - Buffalo KeyBank Center",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Physical"
+			}
+		]
+	},
+	{
+		"id": "011b49ae-41e9-41c6-badb-85981e8bff77",
+		"description": "Dua Lipa - Be The One - Buffalo KeyBank Arena",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-05",
+		"dateEvent": "2022-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/keybank-center-buffalo-ny-1b8999a0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "fEKGl3e67SI",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-07",
+				"videoDescription": "Dua Lipa - Be The One - Buffalo KeyBank Arena",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Be The One"
+			}
+		]
+	},
+	{
+		"id": "54508b01-457e-45fe-bb17-a52fb7ad1d75",
+		"description": "Dua Lipa excerpts. Keybank Center, Buffalo NY.  March 5th. 2022(1)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-05",
+		"dateEvent": "2022-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/keybank-center-buffalo-ny-1b8999a0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "GD5tN4XqVl8",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-07",
+				"videoDescription": "Dua Lipa excerpts. Keybank Center, Buffalo NY.  March 5th. 2022(1)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Love Again"
+			}
+		]
+	},
+	{
+		"id": "64585163-0c56-48d6-9a3e-3183ce593f19",
+		"description": "Dua Lipa excerpts. Keybank Center, Buffalo NY.  March 5th. 2022(5)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-05",
+		"dateEvent": "2022-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/keybank-center-buffalo-ny-1b8999a0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "GknjWOtxHEw",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-07",
+				"videoDescription": "Dua Lipa excerpts. Keybank Center, Buffalo NY.  March 5th. 2022(5)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "One Kiss"
+			}
+		]
+	},
+	{
+		"id": "f9b83aae-7cdf-4b26-baf2-7027563fc18e",
+		"description": "Dua Lipa excerpts. Keybank Center, Buffalo NY.  March 5th. 2022(3)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-05",
+		"dateEvent": "2022-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/keybank-center-buffalo-ny-1b8999a0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "HeluRG6tE3Q",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-07",
+				"videoDescription": "Dua Lipa excerpts. Keybank Center, Buffalo NY.  March 5th. 2022(3)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "We're Good"
+			}
+		]
+	},
+	{
+		"id": "c110c440-6beb-49c4-8b9f-8c18c8afc0bd",
+		"description": "Dua Lipa - Love Again - Buffalo KeyBank Arena",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-05",
+		"dateEvent": "2022-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/keybank-center-buffalo-ny-1b8999a0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "nMGCLv_LTJY",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-07",
+				"videoDescription": "Dua Lipa - Love Again - Buffalo KeyBank Arena",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Love Again"
+			}
+		]
+	},
+	{
+		"id": "92c640a9-9bb2-43b1-b63c-5a3d95ece1b8",
+		"description": "Dua Lipa. Keybank Center, Buffalo NY.   3/5/22(2)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-05",
+		"dateEvent": "2022-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/keybank-center-buffalo-ny-1b8999a0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "ouKQ5REVbPA",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-07",
+				"videoDescription": "Dua Lipa. Keybank Center, Buffalo NY.   3/5/22(2)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Cold Heart"
+			}
+		]
+	},
+	{
+		"id": "74c4da38-008b-43ae-ab70-d8b9ec6ce77c",
+		"description": "Dua Lipa - One Kiss - Buffalo KeyBank Arena",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-05",
+		"dateEvent": "2022-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/keybank-center-buffalo-ny-1b8999a0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "VlXGIDCkkhw",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-08",
+				"videoDescription": "Dua Lipa - One Kiss - Buffalo KeyBank Arena",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "One Kiss"
+			}
+		]
+	},
+	{
+		"id": "4985a9f6-1db3-488a-970c-d41a1c662f95",
+		"description": "Dua Lipa - Physical - Buffalo KeyBank Arena",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-05",
+		"dateEvent": "2022-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/keybank-center-buffalo-ny-1b8999a0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "wnsEpXc0sxQ",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-07",
+				"videoDescription": "Dua Lipa - Physical - Buffalo KeyBank Arena",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Physical"
+			}
+		]
+	},
+	{
+		"id": "aad7abbe-a572-4d63-9b6f-2c7ff60c5229",
+		"description": "Dua Lipa - Hallucinate - Buffalo KeyBank Arena",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-05",
+		"dateEvent": "2022-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/keybank-center-buffalo-ny-1b8999a0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "woIQMB-JDAM",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-08",
+				"videoDescription": "Dua Lipa - Hallucinate - Buffalo KeyBank Arena",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Hallucinate"
+			}
+		]
+	},
+	{
+		"id": "75728265-bdc6-4d2b-b70c-57ade98f28c3",
+		"description": "Dua Lipa - Boys Will Be Boys - Buffalo KeyBank Arena",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-05",
+		"dateEvent": "2022-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/keybank-center-buffalo-ny-1b8999a0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "wsl3yCOhYQM",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-08",
+				"videoDescription": "Dua Lipa - Boys Will Be Boys - Buffalo KeyBank Arena",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Boys Will Be Boys"
+			}
+		]
+	},
+	{
+		"id": "6ab62e9e-54c0-485b-9882-bcfe895a9156",
+		"description": "Dua Lipa. Keybank Center. Buffalo NY.  March 5th,  2022(2)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-05",
+		"dateEvent": "2022-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/keybank-center-buffalo-ny-1b8999a0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "WYbksnZombQ",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-07",
+				"videoDescription": "Dua Lipa. Keybank Center. Buffalo NY.  March 5th,  2022(2)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Don't Start Now"
+			}
+		]
+	},
+	{
+		"id": "d20fd4e0-311a-443f-b910-a9648d1cdda2",
+		"description": "Dua Lipa. Keybank Center, Buffalo NY.   3/5/22(1)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-05",
+		"dateEvent": "2022-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/keybank-center-buffalo-ny-1b8999a0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "xmwA0Ny7-tk",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-07",
+				"videoDescription": "Dua Lipa. Keybank Center, Buffalo NY.   3/5/22(1)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Electricity"
+			}
+		]
+	},
+	{
+		"id": "cd7793bb-331a-4cd8-acc1-8be452f792ac",
+		"description": "Dua Lipa - New Rules - Buffalo KeyBank Arena",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-05",
+		"dateEvent": "2022-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/keybank-center-buffalo-ny-1b8999a0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "ye5sW-3fyXE",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-07",
+				"videoDescription": "Dua Lipa - New Rules - Buffalo KeyBank Arena",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "New Rules"
+			}
+		]
+	},
+	{
+		"id": "a7524988-86dc-4830-85f9-d4b575162f27",
+		"description": "Dua Lipa - We're Good - Buffalo KeyBank Arena",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-05",
+		"dateEvent": "2022-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/keybank-center-buffalo-ny-1b8999a0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "yH8c92YEsJ0",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-08",
+				"videoDescription": "Dua Lipa - We're Good - Buffalo KeyBank Arena",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "We're Good"
+			}
+		]
+	},
+	{
+		"id": "19463efc-f84d-4c0a-a051-c8923f63e8ca",
+		"description": "Dua Lipa - Good in Bed",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-05",
+		"dateEvent": "2022-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/keybank-center-buffalo-ny-1b8999a0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "ZJEgS1qYrac",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-08",
+				"videoDescription": "Dua Lipa - Good in Bed",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Good In Bed"
+			}
+		]
 	}
 ]

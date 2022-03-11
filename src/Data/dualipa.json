@@ -48437,5 +48437,634 @@
 				"song": "Good In Bed"
 			}
 		]
+	},
+	{
+		"id": "4c113ea8-bd80-4212-9be6-af919b1e2153",
+		"description": "Dua Lipa - Don't Start Now - 2022-03-08 - Minneapolis, Minnesota",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-08",
+		"dateEvent": "2022-03-08",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/target-center-minneapolis-mn-5b898bd0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "4lFwEIjhcOA",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-09",
+				"videoDescription": "Dua Lipa - Don't Start Now - 2022-03-08 - Minneapolis, Minnesota",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Don't Start Now"
+			}
+		]
+	},
+	{
+		"id": "e528b2fa-a085-4bb7-aaa4-5b9d75de325f",
+		"description": "Dua Lipa - The Future Nostalgia Tour (Live) Full Concert 2022",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-02-16",
+		"dateEvent": "2022-02-16",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/spectrum-center-charlotte-nc-3b887cb4.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "5XCQkMyr6Gk",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-02",
+				"videoDescription": "Dua Lipa - The Future Nostalgia Tour (Live) Full Concert 2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Physical"
+			},
+			{
+				"song": "New Rules"
+			},
+			{
+				"song": "Love Again"
+			},
+			{
+				"song": "Cool"
+			},
+			{
+				"song": "Pretty Please"
+			},
+			{
+				"song": "Break My Heart"
+			},
+			{
+				"song": "Be The One"
+			},
+			{
+				"song": "We're Good"
+			},
+			{
+				"song": "Good In Bed"
+			},
+			{
+				"song": "Fever"
+			},
+			{
+				"song": "Boys Will Be Boys"
+			},
+			{
+				"song": "One Kiss"
+			},
+			{
+				"song": "Electricity"
+			},
+			{
+				"song": "Hallucinate"
+			},
+			{
+				"song": "Cold Heart"
+			},
+			{
+				"song": "Levitating"
+			},
+			{
+				"song": "Future Nostalgia"
+			},
+			{
+				"song": "Don't Start Now"
+			}
+		]
+	},
+	{
+		"id": "811c9184-3b67-46c7-9e1e-ae55a5edf43e",
+		"description": "Intro and Physical by Dua Lipa live at Target Center, MN 3/8/2022",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-08",
+		"dateEvent": "2022-03-08",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/target-center-minneapolis-mn-5b898bd0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "bcfToPOEv-Q",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-09",
+				"videoDescription": "Intro and Physical by Dua Lipa live at Target Center, MN 3/8/2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Physical"
+			}
+		]
+	},
+	{
+		"id": "41b0dcee-6ff4-4264-a494-9009f923ecef",
+		"description": "Dua Lipa-Cool (Live: Minneapolis, MN 3/8/22)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-08",
+		"dateEvent": "2022-03-08",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/target-center-minneapolis-mn-5b898bd0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "bW4Y_dFC-00",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-09",
+				"videoDescription": "Dua Lipa-Cool (Live: Minneapolis, MN 3/8/22)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Cool"
+			}
+		]
+	},
+	{
+		"id": "ed8b4257-6fab-4ad4-9d3c-00520cdc0a90",
+		"description": "Dua Lipa-Levitating (Live: Minneapolis, MN 3/8/22)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-08",
+		"dateEvent": "2022-03-08",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/target-center-minneapolis-mn-5b898bd0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "cD0o1dsalv8",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-09",
+				"videoDescription": "Dua Lipa-Levitating (Live: Minneapolis, MN 3/8/22)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "e684b486-46b4-4ed2-9236-fbfe173db9a1",
+		"description": "Dua Lipa - Levitating - Target Center",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-08",
+		"dateEvent": "2022-03-08",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/target-center-minneapolis-mn-5b898bd0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "cmnlPhspCn8",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-09",
+				"videoDescription": "Dua Lipa - Levitating - Target Center",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "cc9fd6e4-dc40-4b88-bdb2-52c50b253466",
+		"description": "Dua Lipa - Levitating - 2022-03-08 - Minneapolis, Minnesota",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-08",
+		"dateEvent": "2022-03-08",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/target-center-minneapolis-mn-5b898bd0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "DTg5d9prhSk",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-09",
+				"videoDescription": "Dua Lipa - Levitating - 2022-03-08 - Minneapolis, Minnesota",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "7266462a-7eaa-45f1-a3d6-e44d6b65621d",
+		"description": "Dua Lipa performs “Levitating” live in Minneapolis on March 8, 2022",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-08",
+		"dateEvent": "2022-03-08",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/target-center-minneapolis-mn-5b898bd0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "It2YgwjVz50",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-09",
+				"videoDescription": "Dua Lipa performs “Levitating” live in Minneapolis on March 8, 2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "5b35b76c-4b1d-418e-918b-2e17631e17bd",
+		"description": "Dua Lipa - Break My Heart - 2022-03-08 - Minneapolis, Minnesota",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-08",
+		"dateEvent": "2022-03-08",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/target-center-minneapolis-mn-5b898bd0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "NmMV_GCgnyE",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-09",
+				"videoDescription": "Dua Lipa - Break My Heart - 2022-03-08 - Minneapolis, Minnesota",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Break My Heart"
+			}
+		]
+	},
+	{
+		"id": "666464b1-375d-4829-b989-27f93bcc4bc0",
+		"description": "Dua Lipa - Cold Heart - 2022-03-08 - Minneapolis, Minnesota",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-08",
+		"dateEvent": "2022-03-08",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/target-center-minneapolis-mn-5b898bd0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "NnF5ikUx9xc",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-09",
+				"videoDescription": "Dua Lipa - Cold Heart - 2022-03-08 - Minneapolis, Minnesota",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Cold Heart"
+			}
+		]
+	},
+	{
+		"id": "1fd5b504-4b12-4349-971d-5182975242c4",
+		"description": "Dua Lipa - New Rules - 2022-03-08 - Minneapolis, Minnesota",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-08",
+		"dateEvent": "2022-03-08",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/target-center-minneapolis-mn-5b898bd0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "oo3LY5DpwZc",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-09",
+				"videoDescription": "Dua Lipa - New Rules - 2022-03-08 - Minneapolis, Minnesota",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "New Rules"
+			}
+		]
+	},
+	{
+		"id": "20d4dd4e-acab-49c1-bf03-698668beff21",
+		"description": "Levitating by Dua Lipa live at Target Center, MN 3/8/2022",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-08",
+		"dateEvent": "2022-03-08",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/target-center-minneapolis-mn-5b898bd0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "RxE36gX3-iQ",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-09",
+				"videoDescription": "Levitating by Dua Lipa live at Target Center, MN 3/8/2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "c398cc42-cd98-4161-816a-e63af6a44db7",
+		"description": "Dua Lipa - Fever - 2022-03-08 - Minneapolis, Minnesota",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-08",
+		"dateEvent": "2022-03-08",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/target-center-minneapolis-mn-5b898bd0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "rYsYqXhBR9I",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-09",
+				"videoDescription": "Dua Lipa - Fever - 2022-03-08 - Minneapolis, Minnesota",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Fever"
+			}
+		]
+	},
+	{
+		"id": "f397ac2d-5013-4175-9b00-8da113286115",
+		"description": "Dua Lipa - Future Nostalgia Tour - Target Center",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-08",
+		"dateEvent": "2022-03-08",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/target-center-minneapolis-mn-5b898bd0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "spcBOatxPo0",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-09",
+				"videoDescription": "Dua Lipa - Future Nostalgia Tour - Target Center",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Love Again"
+			}
+		]
+	},
+	{
+		"id": "ec873a83-94c6-4b19-b6a1-15d89a9cf206",
+		"description": "Dua Lipa - Physical - 2022-03-08 - Minneapolis, Minnesota",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-08",
+		"dateEvent": "2022-03-08",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/target-center-minneapolis-mn-5b898bd0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "SSWMPlsXI-k",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-09",
+				"videoDescription": "Dua Lipa - Physical - 2022-03-08 - Minneapolis, Minnesota",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Physical"
+			}
+		]
+	},
+	{
+		"id": "9c76eb56-01b6-4eb4-9250-c68382ed5c5a",
+		"description": "Dua Lipa - Cool - Target Center Minneapolis - 3/8/22",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-08",
+		"dateEvent": "2022-03-08",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/target-center-minneapolis-mn-5b898bd0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "UL_hjjBWKg8",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-10",
+				"videoDescription": "Dua Lipa - Cool - Target Center Minneapolis - 3/8/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Cool"
+			}
+		]
+	},
+	{
+		"id": "e9702639-024a-4b90-8337-44eed8792938",
+		"description": "Dua Lipa - We've Good - 2022-03-08 - Minneapolis, Minnesota",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-08",
+		"dateEvent": "2022-03-08",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/target-center-minneapolis-mn-5b898bd0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "z8NxwI4K_Wo",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-09",
+				"videoDescription": "Dua Lipa - We've Good - 2022-03-08 - Minneapolis, Minnesota",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "We're Good"
+			}
+		]
 	}
 ]

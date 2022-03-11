@@ -6949,6 +6949,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "I3SgyUZAQfkK4gSsdL_ddcGr-3U",
+    "id": "4lFwEIjhcOA",
+    "snippet": {
+      "publishedAt": "2022-03-09T09:56:39Z",
+      "channelId": "UCrgm6qYopayYUHL_Wc-4Ddg",
+      "title": "Dua Lipa - Don't Start Now - 2022-03-08 - Minneapolis, Minnesota",
+      "description": "Dua Lipa - Don't Start Now - 2022-03-08 - Minneapolis, Minnesota",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4lFwEIjhcOA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4lFwEIjhcOA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4lFwEIjhcOA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4lFwEIjhcOA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4lFwEIjhcOA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Michael Miller",
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Don't Start Now - 2022-03-08 - Minneapolis, Minnesota",
+        "description": "Dua Lipa - Don't Start Now - 2022-03-08 - Minneapolis, Minnesota"
+      }
+    },
+    "statistics": {
+      "viewCount": "839",
+      "likeCount": "30",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "2MSIlLKDkRBD3lYDAbQV0DCgr3w",
     "id": "4RmI_TkMbrI",
     "snippet": {
@@ -8436,6 +8487,58 @@
       "likeCount": "5994",
       "favoriteCount": "0",
       "commentCount": "190"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "g9uZ2qQnps4Qf3pvD8IQSq-vJsw",
+    "id": "5XCQkMyr6Gk",
+    "snippet": {
+      "publishedAt": "2022-03-02T00:30:10Z",
+      "channelId": "UCBp52PwHLJkALXFirOENaiA",
+      "title": "Dua Lipa - The Future Nostalgia Tour (Live) Full Concert 2022",
+      "description": "#DuaLipa #FutureNostalgia #FutureNostalgiaTour",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5XCQkMyr6Gk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5XCQkMyr6Gk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5XCQkMyr6Gk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5XCQkMyr6Gk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5XCQkMyr6Gk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "WorldMusic",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - The Future Nostalgia Tour (Live) Full Concert 2022",
+        "description": "#DuaLipa #FutureNostalgia #FutureNostalgiaTour"
+      },
+      "defaultAudioLanguage": "es-419"
+    },
+    "statistics": {
+      "viewCount": "14613",
+      "likeCount": "273",
+      "favoriteCount": "0",
+      "commentCount": "14"
     }
   },
   {
@@ -14787,6 +14890,58 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "n7VfzqvuVSy_AkoZCN4sxHMya0g",
+    "id": "bcfToPOEv-Q",
+    "snippet": {
+      "publishedAt": "2022-03-09T04:57:00Z",
+      "channelId": "UC-4lM2lHUPvbSKoTY_WQnvQ",
+      "title": "Intro and Physical by Dua Lipa live at Target Center, MN 3/8/2022",
+      "description": "Intro and Physical by Dua Lipa live at Target Center, Minneapolis MN 3/8/2022\n\nDua Lipa Future Nostalgia Tour",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bcfToPOEv-Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bcfToPOEv-Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bcfToPOEv-Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bcfToPOEv-Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bcfToPOEv-Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Lauren Laufman",
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Intro and Physical by Dua Lipa live at Target Center, MN 3/8/2022",
+        "description": "Intro and Physical by Dua Lipa live at Target Center, Minneapolis MN 3/8/2022\n\nDua Lipa Future Nostalgia Tour"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "statistics": {
+      "viewCount": "278",
+      "likeCount": "15",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "xyKyi2LJ5c1CqFpMUwRbYcwYLQM",
     "id": "bcpNsJslP60",
     "snippet": {
@@ -16186,6 +16341,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "iP1yDwfT_xmbVGxjSLxB2guU7DU",
+    "id": "bW4Y_dFC-00",
+    "snippet": {
+      "publishedAt": "2022-03-09T06:39:01Z",
+      "channelId": "UCwQm3fhNF9Xg9WUhtGGdUuw",
+      "title": "Dua Lipa-Cool (Live: Minneapolis, MN 3/8/22)",
+      "description": "Live at Target Center",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bW4Y_dFC-00/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bW4Y_dFC-00/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bW4Y_dFC-00/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bW4Y_dFC-00/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bW4Y_dFC-00/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DMoir5150",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa-Cool (Live: Minneapolis, MN 3/8/22)",
+        "description": "Live at Target Center"
+      }
+    },
+    "statistics": {
+      "viewCount": "170",
+      "likeCount": "4",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "wsaRu_do0dr88GYbJdNUE5NB_Jc",
     "id": "bWSsnMGptA4",
     "snippet": {
@@ -17371,6 +17577,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "sFh9JAIYnA_NYlafeeFYYVr5VAA",
+    "id": "cD0o1dsalv8",
+    "snippet": {
+      "publishedAt": "2022-03-09T10:44:56Z",
+      "channelId": "UCwQm3fhNF9Xg9WUhtGGdUuw",
+      "title": "Dua Lipa-Levitating (Live: Minneapolis, MN 3/8/22)",
+      "description": "Live At Target Center",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cD0o1dsalv8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cD0o1dsalv8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cD0o1dsalv8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cD0o1dsalv8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cD0o1dsalv8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DMoir5150",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa-Levitating (Live: Minneapolis, MN 3/8/22)",
+        "description": "Live At Target Center"
+      }
+    },
+    "statistics": {
+      "viewCount": "61",
+      "likeCount": "4",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "hrkqt9RpeT-O2GlOFV5ZsbNefRc",
     "id": "cd7QQvaUnvo",
     "snippet": {
@@ -18280,6 +18537,57 @@
       "likeCount": "943",
       "favoriteCount": "0",
       "commentCount": "81"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "nBF5_7ZNmxu4EfnJAQYy8oi34xc",
+    "id": "cmnlPhspCn8",
+    "snippet": {
+      "publishedAt": "2022-03-09T06:32:55Z",
+      "channelId": "UCIASjad4RbNxIpW1L0yL5KA",
+      "title": "Dua Lipa - Levitating - Target Center",
+      "description": "Future Nostalgia Tour 3/8/22",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cmnlPhspCn8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cmnlPhspCn8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cmnlPhspCn8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cmnlPhspCn8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cmnlPhspCn8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Matt Schaak",
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Levitating - Target Center",
+        "description": "Future Nostalgia Tour 3/8/22"
+      }
+    },
+    "statistics": {
+      "viewCount": "100",
+      "likeCount": "5",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -21122,6 +21430,57 @@
       "likeCount": "234",
       "favoriteCount": "0",
       "commentCount": "22"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "zaVBuWDWKzEulVNIrIC9yqMiUTw",
+    "id": "DTg5d9prhSk",
+    "snippet": {
+      "publishedAt": "2022-03-09T09:52:19Z",
+      "channelId": "UCrgm6qYopayYUHL_Wc-4Ddg",
+      "title": "Dua Lipa - Levitating - 2022-03-08 - Minneapolis, Minnesota",
+      "description": "Dua Lipa - Levitating - 2022-03-08 - Minneapolis, Minnesota",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DTg5d9prhSk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DTg5d9prhSk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DTg5d9prhSk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DTg5d9prhSk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DTg5d9prhSk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Michael Miller",
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Levitating - 2022-03-08 - Minneapolis, Minnesota",
+        "description": "Dua Lipa - Levitating - 2022-03-08 - Minneapolis, Minnesota"
+      }
+    },
+    "statistics": {
+      "viewCount": "181",
+      "likeCount": "7",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -34778,6 +35137,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "Ib5aT3BsAK3Ic4PxdNKndkc7KZs",
+    "id": "It2YgwjVz50",
+    "snippet": {
+      "publishedAt": "2022-03-09T07:10:53Z",
+      "channelId": "UCrxZmETdkRStj8FeHDzQ_gQ",
+      "title": "Dua Lipa performs “Levitating” live in Minneapolis on March 8, 2022",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/It2YgwjVz50/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/It2YgwjVz50/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/It2YgwjVz50/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/It2YgwjVz50/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/It2YgwjVz50/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Clinton Forry",
+      "categoryId": "15",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa performs “Levitating” live in Minneapolis on March 8, 2022",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "343",
+      "likeCount": "16",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "8FiaSw6ukalVFh-JEIq9wRY70r4",
     "id": "ITi04t4BDj4",
     "snippet": {
@@ -46690,6 +47100,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "R8dam1Yd_yirOS_g0NYe1jtBAFs",
+    "id": "NmMV_GCgnyE",
+    "snippet": {
+      "publishedAt": "2022-03-09T09:17:56Z",
+      "channelId": "UCrgm6qYopayYUHL_Wc-4Ddg",
+      "title": "Dua Lipa - Break My Heart - 2022-03-08 - Minneapolis, Minnesota",
+      "description": "Dua Lipa - Break My Heart - 2022-03-08 - Minneapolis, Minnesota",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NmMV_GCgnyE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NmMV_GCgnyE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NmMV_GCgnyE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NmMV_GCgnyE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NmMV_GCgnyE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Michael Miller",
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Break My Heart - 2022-03-08 - Minneapolis, Minnesota",
+        "description": "Dua Lipa - Break My Heart - 2022-03-08 - Minneapolis, Minnesota"
+      }
+    },
+    "statistics": {
+      "viewCount": "191",
+      "likeCount": "6",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "8DGBerKFqu4KFmycVLQ_sDpDJw4",
     "id": "NmZohpC-6cs",
     "snippet": {
@@ -46751,6 +47212,57 @@
       "likeCount": "119291",
       "favoriteCount": "0",
       "commentCount": "2722"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "zWRvTvK3FmKi5WC0fVi5_tuioaU",
+    "id": "NnF5ikUx9xc",
+    "snippet": {
+      "publishedAt": "2022-03-09T09:36:41Z",
+      "channelId": "UCrgm6qYopayYUHL_Wc-4Ddg",
+      "title": "Dua Lipa - Cold Heart - 2022-03-08 - Minneapolis, Minnesota",
+      "description": "Dua Lipa - Cold Heart - 2022-03-08 - Minneapolis, Minnesota",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NnF5ikUx9xc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NnF5ikUx9xc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NnF5ikUx9xc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NnF5ikUx9xc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NnF5ikUx9xc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Michael Miller",
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Cold Heart - 2022-03-08 - Minneapolis, Minnesota",
+        "description": "Dua Lipa - Cold Heart - 2022-03-08 - Minneapolis, Minnesota"
+      }
+    },
+    "statistics": {
+      "viewCount": "277",
+      "likeCount": "10",
+      "favoriteCount": "0",
+      "commentCount": "2"
     }
   },
   {
@@ -49608,6 +50120,57 @@
     "statistics": {
       "viewCount": "6950",
       "likeCount": "134",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "QVhKRbhs9QMGNj_EPqbu8qyU8gU",
+    "id": "oo3LY5DpwZc",
+    "snippet": {
+      "publishedAt": "2022-03-09T09:08:12Z",
+      "channelId": "UCrgm6qYopayYUHL_Wc-4Ddg",
+      "title": "Dua Lipa - New Rules - 2022-03-08 - Minneapolis, Minnesota",
+      "description": "Dua Lipa - New Rules - 2022-03-08 - Minneapolis, Minnesota",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oo3LY5DpwZc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oo3LY5DpwZc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oo3LY5DpwZc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/oo3LY5DpwZc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/oo3LY5DpwZc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Michael Miller",
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - New Rules - 2022-03-08 - Minneapolis, Minnesota",
+        "description": "Dua Lipa - New Rules - 2022-03-08 - Minneapolis, Minnesota"
+      }
+    },
+    "statistics": {
+      "viewCount": "294",
+      "likeCount": "9",
       "favoriteCount": "0",
       "commentCount": "0"
     }
@@ -58768,6 +59331,58 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "vH45qh5cHKwzmP1xNgRO-I5--Ko",
+    "id": "RxE36gX3-iQ",
+    "snippet": {
+      "publishedAt": "2022-03-09T04:57:54Z",
+      "channelId": "UC-4lM2lHUPvbSKoTY_WQnvQ",
+      "title": "Levitating by Dua Lipa live at Target Center, MN 3/8/2022",
+      "description": "Levitating by Dua Lipa live at Target Center, Minneapolis MN 3/8/2022\n\nDua Lipa Future Nostalgia Tour",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RxE36gX3-iQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RxE36gX3-iQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RxE36gX3-iQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/RxE36gX3-iQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/RxE36gX3-iQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Lauren Laufman",
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Levitating by Dua Lipa live at Target Center, MN 3/8/2022",
+        "description": "Levitating by Dua Lipa live at Target Center, Minneapolis MN 3/8/2022\n\nDua Lipa Future Nostalgia Tour"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "statistics": {
+      "viewCount": "109",
+      "likeCount": "7",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "OLpaLN88rIBEszbtMEz6wWLLS_s",
     "id": "rybb1zy6bhQ",
     "snippet": {
@@ -58972,6 +59587,57 @@
       "likeCount": "658",
       "favoriteCount": "0",
       "commentCount": "24"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "p0SjMGxVzdhpbbxpeHkQJ5BOh4s",
+    "id": "rYsYqXhBR9I",
+    "snippet": {
+      "publishedAt": "2022-03-09T09:26:50Z",
+      "channelId": "UCrgm6qYopayYUHL_Wc-4Ddg",
+      "title": "Dua Lipa - Fever - 2022-03-08 - Minneapolis, Minnesota",
+      "description": "Dua Lipa - Fever - 2022-03-08 - Minneapolis, Minnesota",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rYsYqXhBR9I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rYsYqXhBR9I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rYsYqXhBR9I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rYsYqXhBR9I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rYsYqXhBR9I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Michael Miller",
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Fever - 2022-03-08 - Minneapolis, Minnesota",
+        "description": "Dua Lipa - Fever - 2022-03-08 - Minneapolis, Minnesota"
+      }
+    },
+    "statistics": {
+      "viewCount": "187",
+      "likeCount": "10",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -60602,6 +61268,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "iwTV-sHo2lCtvNXy2bTIEdXPkdE",
+    "id": "spcBOatxPo0",
+    "snippet": {
+      "publishedAt": "2022-03-09T06:13:12Z",
+      "channelId": "UCIASjad4RbNxIpW1L0yL5KA",
+      "title": "Dua Lipa - Future Nostalgia Tour - Target Center",
+      "description": "Love Again, Cool, Good in Bed, Hallucinate, and Don’t Start Now from the Future Nostalgia Tour at Target Center on 3/8/22.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/spcBOatxPo0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/spcBOatxPo0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/spcBOatxPo0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/spcBOatxPo0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/spcBOatxPo0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Matt Schaak",
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Future Nostalgia Tour - Target Center",
+        "description": "Love Again, Cool, Good in Bed, Hallucinate, and Don’t Start Now from the Future Nostalgia Tour at Target Center on 3/8/22."
+      }
+    },
+    "statistics": {
+      "viewCount": "167",
+      "likeCount": "5",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "AqteuY2GVZLDq7s6s8OWj56n1P4",
     "id": "SstsZFTmYnw",
     "snippet": {
@@ -60660,6 +61377,57 @@
       "likeCount": "12",
       "favoriteCount": "0",
       "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "LKoRXatKlRCZSlO_MfKu5ng3KGo",
+    "id": "SSWMPlsXI-k",
+    "snippet": {
+      "publishedAt": "2022-03-09T09:03:33Z",
+      "channelId": "UCrgm6qYopayYUHL_Wc-4Ddg",
+      "title": "Dua Lipa - Physical - 2022-03-08 - Minneapolis, Minnesota",
+      "description": "Dua Lipa - Physical - 2022-03-08 - Minneapolis, Minnesota",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SSWMPlsXI-k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SSWMPlsXI-k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SSWMPlsXI-k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SSWMPlsXI-k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SSWMPlsXI-k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Michael Miller",
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Physical - 2022-03-08 - Minneapolis, Minnesota",
+        "description": "Dua Lipa - Physical - 2022-03-08 - Minneapolis, Minnesota"
+      }
+    },
+    "statistics": {
+      "viewCount": "677",
+      "likeCount": "22",
+      "favoriteCount": "0",
+      "commentCount": "3"
     }
   },
   {
@@ -65038,6 +65806,57 @@
       "likeCount": "376",
       "favoriteCount": "0",
       "commentCount": "9"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "I48hIShlvpgXZQMIwFlFIeGPSp4",
+    "id": "UL_hjjBWKg8",
+    "snippet": {
+      "publishedAt": "2022-03-10T00:49:40Z",
+      "channelId": "UC0cA5LgckT5op52HC1zustQ",
+      "title": "Dua Lipa - Cool - Target Center Minneapolis - 3/8/22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UL_hjjBWKg8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UL_hjjBWKg8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UL_hjjBWKg8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UL_hjjBWKg8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UL_hjjBWKg8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "TheMilkThistle1",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Cool - Target Center Minneapolis - 3/8/22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "36",
+      "likeCount": "3",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -77675,6 +78494,57 @@
     "statistics": {
       "viewCount": "34",
       "likeCount": "1",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "bEx6CrTMBWhoI-UrrNQ-4dCD2yw",
+    "id": "z8NxwI4K_Wo",
+    "snippet": {
+      "publishedAt": "2022-03-09T09:22:04Z",
+      "channelId": "UCrgm6qYopayYUHL_Wc-4Ddg",
+      "title": "Dua Lipa - We've Good - 2022-03-08 - Minneapolis, Minnesota",
+      "description": "Dua Lipa - We've Good - 2022-03-08 - Minneapolis, Minnesota",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/z8NxwI4K_Wo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/z8NxwI4K_Wo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/z8NxwI4K_Wo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/z8NxwI4K_Wo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/z8NxwI4K_Wo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Michael Miller",
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - We've Good - 2022-03-08 - Minneapolis, Minnesota",
+        "description": "Dua Lipa - We've Good - 2022-03-08 - Minneapolis, Minnesota"
+      }
+    },
+    "statistics": {
+      "viewCount": "130",
+      "likeCount": "5",
       "favoriteCount": "0",
       "commentCount": "0"
     }

@@ -3971,6 +3971,58 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "nPrYKGcSDE6IiNqqODgjBx_yOWM",
+    "id": "2MxPe9s48Rc",
+    "snippet": {
+      "publishedAt": "2022-03-13T06:41:59Z",
+      "channelId": "UCUAGn1LJC4-neWWmjZsk47g",
+      "title": "Dua Lipa Future Nostalgia Tour - Houston - Cool Fancam",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2MxPe9s48Rc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2MxPe9s48Rc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2MxPe9s48Rc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2MxPe9s48Rc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2MxPe9s48Rc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "krystel babaran",
+      "tags": ["dua lipa", "future nostalgia", "future nostalgia tour", "cool"],
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Future Nostalgia Tour - Houston - Cool Fancam",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "134",
+      "likeCount": "10",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "7LrmzhZcs55cbAqDEnTpzS63yXg",
     "id": "2myUUyR3mdw",
     "snippet": {
@@ -4312,6 +4364,63 @@
       "likeCount": "30",
       "favoriteCount": "0",
       "commentCount": "2"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "Pz0M3-DHfH5V49Kno1a4MKCbLco",
+    "id": "2tWa0Rr6Imw",
+    "snippet": {
+      "publishedAt": "2022-03-13T06:57:49Z",
+      "channelId": "UCUAGn1LJC4-neWWmjZsk47g",
+      "title": "Dua Lipa Future Nostalgia Tour - Houston -Cold Heart Fancam",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2tWa0Rr6Imw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2tWa0Rr6Imw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2tWa0Rr6Imw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2tWa0Rr6Imw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2tWa0Rr6Imw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "krystel babaran",
+      "tags": [
+        "dua lipa",
+        "future nostalgia",
+        "future nostalgia tour",
+        "cold heart"
+      ],
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Future Nostalgia Tour - Houston -Cold Heart Fancam",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "183",
+      "likeCount": "8",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -8491,6 +8600,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "q8_cj6LF_AunphIZmqZCM22h3Cg",
+    "id": "5WaZtNDG1EE",
+    "snippet": {
+      "publishedAt": "2022-03-14T07:38:24Z",
+      "channelId": "UC1hQ1K5xxGFOi02UaMdv1Mw",
+      "title": "Dua Lipa - The Future Nostalgia Tour - Don’t Start Now - Dallas, TX 3.13.22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5WaZtNDG1EE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5WaZtNDG1EE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5WaZtNDG1EE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5WaZtNDG1EE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5WaZtNDG1EE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mico Manhard",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - The Future Nostalgia Tour - Don’t Start Now - Dallas, TX 3.13.22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "121",
+      "likeCount": "6",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "g9uZ2qQnps4Qf3pvD8IQSq-vJsw",
     "id": "5XCQkMyr6Gk",
     "snippet": {
@@ -12048,6 +12208,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "gQ65FBWrRQxaVU7i3s46gvulJXE",
+    "id": "9a6oJ8ZI-I0",
+    "snippet": {
+      "publishedAt": "2022-03-14T00:13:43Z",
+      "channelId": "UCpMuOts3M-A9NtsQ6IHOYLw",
+      "title": "Dua Lipa - Break my Heart (Future Nostalgia Tour) Houston, tx",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9a6oJ8ZI-I0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9a6oJ8ZI-I0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9a6oJ8ZI-I0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9a6oJ8ZI-I0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9a6oJ8ZI-I0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Edward Vera",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Break my Heart (Future Nostalgia Tour) Houston, tx",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "70",
+      "likeCount": "5",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "VFpECH1cVvwd3TgMBrO34To6LAc",
     "id": "9BcbNf9i07Y",
     "snippet": {
@@ -12618,6 +12829,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "uop8Za-eGQG1T1gOz1h6uSwTrYo",
+    "id": "9RzrBN6nuJM",
+    "snippet": {
+      "publishedAt": "2022-03-14T05:49:20Z",
+      "channelId": "UC1hQ1K5xxGFOi02UaMdv1Mw",
+      "title": "Dua Lipa - The Future Nostalgia Tour - New Rules - Dallas, TX - 3.13.22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9RzrBN6nuJM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9RzrBN6nuJM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9RzrBN6nuJM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9RzrBN6nuJM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9RzrBN6nuJM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mico Manhard",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - The Future Nostalgia Tour - New Rules - Dallas, TX - 3.13.22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "127",
+      "likeCount": "6",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "dDTpeRu8iYZgQiOBOMp0KR7oMFQ",
     "id": "9vDAvkO3gzY",
     "snippet": {
@@ -12747,6 +13009,108 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "XkOoPAZZ5VPncQy4bCxaee_jFs4",
+    "id": "9XvurMN6Yhc",
+    "snippet": {
+      "publishedAt": "2022-03-14T06:49:36Z",
+      "channelId": "UCkoI0tAKRkVmuuVlFA8tt4g",
+      "title": "Dua Lipa Cold Heart Live American Airlines Center Dallas, Texas 03/13/22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9XvurMN6Yhc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9XvurMN6Yhc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9XvurMN6Yhc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9XvurMN6Yhc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9XvurMN6Yhc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Alfred Rossy Mark Padilla",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Cold Heart Live American Airlines Center Dallas, Texas 03/13/22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "157",
+      "likeCount": "7",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "NHE1hY3U4UTTTSS2Hmg6_u3J6fQ",
+    "id": "9zgOf1shNoI",
+    "snippet": {
+      "publishedAt": "2022-03-14T06:31:27Z",
+      "channelId": "UC1hQ1K5xxGFOi02UaMdv1Mw",
+      "title": "Dua Lipa - The Future Nostalgia Tour - We’re Good - Dallas, TX 3.13.22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9zgOf1shNoI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9zgOf1shNoI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9zgOf1shNoI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9zgOf1shNoI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9zgOf1shNoI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mico Manhard",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - The Future Nostalgia Tour - We’re Good - Dallas, TX 3.13.22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "46",
+      "likeCount": "1",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "Vf-Vx5_L8S6MszwZCb3tSgRIHg8",
     "id": "9zoAEG979sM",
     "snippet": {
@@ -12857,6 +13221,57 @@
       "likeCount": "108",
       "favoriteCount": "0",
       "commentCount": "2"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "IGob-LHGFHiKvFbcqgPMc31d5tg",
+    "id": "A2BgMvK2_MM",
+    "snippet": {
+      "publishedAt": "2022-03-14T23:24:30Z",
+      "channelId": "UCV-PtOlztTCiPGnRmzgtWmA",
+      "title": "Dua Lipa Dallas Levitating 3-13-2022",
+      "description": "Dua Lipa performing Levitating at the American Airlines Center in Dalla, Tx. Recorded 3-13-2022.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/A2BgMvK2_MM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/A2BgMvK2_MM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/A2BgMvK2_MM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/A2BgMvK2_MM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/A2BgMvK2_MM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "David Rosado",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Dallas Levitating 3-13-2022",
+        "description": "Dua Lipa performing Levitating at the American Airlines Center in Dalla, Tx. Recorded 3-13-2022."
+      }
+    },
+    "statistics": {
+      "viewCount": "8",
+      "likeCount": "1",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -14734,6 +15149,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "jD9br4eqmzd0ldIM3UAT1QWCuBY",
+    "id": "B3h4FxIM38A",
+    "snippet": {
+      "publishedAt": "2022-03-14T05:40:54Z",
+      "channelId": "UC1hQ1K5xxGFOi02UaMdv1Mw",
+      "title": "Dua Lipa - The Future Nostalgia Tour - Opening / Physical - Dallas, TX 3.13.22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/B3h4FxIM38A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/B3h4FxIM38A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/B3h4FxIM38A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/B3h4FxIM38A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/B3h4FxIM38A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mico Manhard",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - The Future Nostalgia Tour - Opening / Physical - Dallas, TX 3.13.22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "298",
+      "likeCount": "15",
+      "favoriteCount": "0",
+      "commentCount": "5"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "ceADcXc9bR9x98QREiVG7Z7q4VQ",
     "id": "B4dXMmxp2CE",
     "snippet": {
@@ -15041,6 +15507,72 @@
       "likeCount": "820",
       "favoriteCount": "0",
       "commentCount": "60"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "zFybiRN82v9UwcpgzSsKh5D1Rjs",
+    "id": "bEZG-0Kmxes",
+    "snippet": {
+      "publishedAt": "2022-03-14T04:30:46Z",
+      "channelId": "UCgh8CB_37D2GynRtzyKpq-w",
+      "title": "Dua Lipa - PHYSICAL LIVE at FUTURE NOSTALGIA TOUR @ HOUSTON TOYOTA CENTER Mar 12, 2022",
+      "description": "Dua Lipa opening the Future Nostalgia Tour and performing Physical at the Houston Toyota Center March 12, 2022",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bEZG-0Kmxes/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bEZG-0Kmxes/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bEZG-0Kmxes/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bEZG-0Kmxes/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bEZG-0Kmxes/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "CrisGarxia",
+      "tags": [
+        "dua lipa",
+        "dula peep",
+        "future nostalgia tour",
+        "future nostalgia tour houston",
+        "dua lipa houston",
+        "dua lipa Houston texas",
+        "physical live",
+        "physical houston",
+        "dua lipa physical houston",
+        "dua lipa houston live",
+        "dula peep live"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en-US",
+      "localized": {
+        "title": "Dua Lipa - PHYSICAL LIVE at FUTURE NOSTALGIA TOUR @ HOUSTON TOYOTA CENTER Mar 12, 2022",
+        "description": "Dua Lipa opening the Future Nostalgia Tour and performing Physical at the Houston Toyota Center March 12, 2022"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "statistics": {
+      "viewCount": "175",
+      "likeCount": "8",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -18541,6 +19073,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "I13N9wOjjMw6H0s0LbUwZGZKm2k",
+    "id": "Ckhj7YgZPu8",
+    "snippet": {
+      "publishedAt": "2022-03-13T22:46:06Z",
+      "channelId": "UCpMuOts3M-A9NtsQ6IHOYLw",
+      "title": "Dua Lipa - Levitating (Future Nostalgia Tour) Houston, tx",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ckhj7YgZPu8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ckhj7YgZPu8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ckhj7YgZPu8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Ckhj7YgZPu8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Ckhj7YgZPu8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Edward Vera",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Levitating (Future Nostalgia Tour) Houston, tx",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "172",
+      "likeCount": "4",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "nBF5_7ZNmxu4EfnJAQYy8oi34xc",
     "id": "cmnlPhspCn8",
     "snippet": {
@@ -18586,6 +19169,57 @@
     "statistics": {
       "viewCount": "100",
       "likeCount": "5",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "H4bbI4q6fD0i1nlpP7EytewldBQ",
+    "id": "co9wojiN2aw",
+    "snippet": {
+      "publishedAt": "2022-03-11T21:59:11Z",
+      "channelId": "UC_gVDsrGTx_JGlsIVjn4rkg",
+      "title": "Dua Lipa - Levitating / Chicago, IL / March 9, 2022",
+      "description": "I do not own the rights to this music. Part of Dua Lipa's Future Nostalgia Tour at the United Center in Chicago, IL.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/co9wojiN2aw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/co9wojiN2aw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/co9wojiN2aw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/co9wojiN2aw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/co9wojiN2aw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Aaroosh Mishra",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Levitating / Chicago, IL / March 9, 2022",
+        "description": "I do not own the rights to this music. Part of Dua Lipa's Future Nostalgia Tour at the United Center in Chicago, IL."
+      }
+    },
+    "statistics": {
+      "viewCount": "102",
+      "likeCount": "7",
       "favoriteCount": "0",
       "commentCount": "0"
     }
@@ -21479,6 +22113,57 @@
     "statistics": {
       "viewCount": "181",
       "likeCount": "7",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "MOvnLpuz0W5qvTW7L4jTWs_L_dw",
+    "id": "DTs3Av-xSkE",
+    "snippet": {
+      "publishedAt": "2022-03-14T06:14:47Z",
+      "channelId": "UCVgneaz5sHaBw7xrvumNiaw",
+      "title": "Dua Lipa - \"We're Good\" - 3/13/2022 - American Airlines Center - Dallas ,TX",
+      "description": "Future Nostalgia tour. Shot with a Canon SX610 HS.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DTs3Av-xSkE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DTs3Av-xSkE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DTs3Av-xSkE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DTs3Av-xSkE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DTs3Av-xSkE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "VIDS2013",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - \"We're Good\" - 3/13/2022 - American Airlines Center - Dallas ,TX",
+        "description": "Future Nostalgia tour. Shot with a Canon SX610 HS."
+      }
+    },
+    "statistics": {
+      "viewCount": "85",
+      "likeCount": "2",
       "favoriteCount": "0",
       "commentCount": "0"
     }
@@ -24796,6 +25481,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "YlPiJJB0G49zEc8Cl_OOwwXXekY",
+    "id": "F60WA2owUsE",
+    "snippet": {
+      "publishedAt": "2022-03-14T07:24:26Z",
+      "channelId": "UC1hQ1K5xxGFOi02UaMdv1Mw",
+      "title": "Dua Lipa - The Future Nostalgia Tour - Future Nostalgia - Dallas, TX 3.13.22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/F60WA2owUsE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/F60WA2owUsE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/F60WA2owUsE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/F60WA2owUsE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/F60WA2owUsE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mico Manhard",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - The Future Nostalgia Tour - Future Nostalgia - Dallas, TX 3.13.22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "108",
+      "likeCount": "6",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "uxs7BA-bjG946sI0OULwBAbz2Ag",
     "id": "f6bKPfSe4AQ",
     "snippet": {
@@ -25578,6 +26314,57 @@
       "likeCount": "10241",
       "favoriteCount": "0",
       "commentCount": "402"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "gN49fDnG3-iQQ7LKiC-rXq1ErFI",
+    "id": "fHfRIlU1XSg",
+    "snippet": {
+      "publishedAt": "2022-03-10T17:47:26Z",
+      "channelId": "UCjhEKjsrAD4pMRaghWs5iiA",
+      "title": "Dua Lipa, part Electricity, full Hallucinate, March 9, 2022, Chicago, IL",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fHfRIlU1XSg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fHfRIlU1XSg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fHfRIlU1XSg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fHfRIlU1XSg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fHfRIlU1XSg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "rottendorf11",
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa, part Electricity, full Hallucinate, March 9, 2022, Chicago, IL",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "135",
+      "likeCount": "3",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -29267,6 +30054,52 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "9HHKdSUaMRkoJ5iNENBCNz1kCLU",
+    "id": "Gu0pu-6p-5A",
+    "snippet": {
+      "publishedAt": "2022-03-14T07:30:30Z",
+      "channelId": "UC1hQ1K5xxGFOi02UaMdv1Mw",
+      "title": "Dua Lipa - The Future Nostalgia Tour - One Kiss / Electricity - Dallas, TX - 3.13.22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Gu0pu-6p-5A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Gu0pu-6p-5A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Gu0pu-6p-5A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Gu0pu-6p-5A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Mico Manhard",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - The Future Nostalgia Tour - One Kiss / Electricity - Dallas, TX - 3.13.22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "96",
+      "likeCount": "7",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "Tv-qSEKUo_IvjjvjmjlyWv5Kwj8",
     "id": "Gu5UXZfpo8M",
     "snippet": {
@@ -29937,6 +30770,57 @@
       "likeCount": "39",
       "favoriteCount": "0",
       "commentCount": "1"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "tLwPKuGNdsJ8lEfnYc_hySbbQi4",
+    "id": "HCwdVzmnRMU",
+    "snippet": {
+      "publishedAt": "2022-03-14T05:59:14Z",
+      "channelId": "UC1hQ1K5xxGFOi02UaMdv1Mw",
+      "title": "Dua Lipa - The Future Nostalgia Tour - Love Again / Cool - Dallas, TX 3.13.22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HCwdVzmnRMU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HCwdVzmnRMU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HCwdVzmnRMU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/HCwdVzmnRMU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/HCwdVzmnRMU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mico Manhard",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - The Future Nostalgia Tour - Love Again / Cool - Dallas, TX 3.13.22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "93",
+      "likeCount": "6",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -37714,6 +38598,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "748sFvDEvnU4jJ0ol5gIYh0hPPI",
+    "id": "jUW2Z_N5K94",
+    "snippet": {
+      "publishedAt": "2022-03-13T05:18:32Z",
+      "channelId": "UC3JQyPjgaFe5EeK-gDTmCcw",
+      "title": "Dua Lipa - Break My Heart - Houston - Future Nostalgia Tour",
+      "description": "Dua Lipa performing Break My Heart during the Future Nostalgia Tour in Houston, Texas.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jUW2Z_N5K94/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jUW2Z_N5K94/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jUW2Z_N5K94/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jUW2Z_N5K94/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jUW2Z_N5K94/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "The Concertaholic",
+      "categoryId": "25",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Break My Heart - Houston - Future Nostalgia Tour",
+        "description": "Dua Lipa performing Break My Heart during the Future Nostalgia Tour in Houston, Texas."
+      }
+    },
+    "statistics": {
+      "viewCount": "1526",
+      "likeCount": "50",
+      "favoriteCount": "0",
+      "commentCount": "6"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "ERNw7t59Fcp6mKIebUNnU5Qqd2o",
     "id": "JV15hoMXVQk",
     "snippet": {
@@ -39184,6 +40119,65 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "C6pWCjFG-ZRDQUo52U37hNV2o30",
+    "id": "KBlCt8AAbco",
+    "snippet": {
+      "publishedAt": "2022-03-13T07:07:33Z",
+      "channelId": "UCUAGn1LJC4-neWWmjZsk47g",
+      "title": "Dua Lipa Future Nostalgia Tour - Houston - Boys will be Boys, One Kiss, Electricity Medley Fancam",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KBlCt8AAbco/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KBlCt8AAbco/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KBlCt8AAbco/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KBlCt8AAbco/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KBlCt8AAbco/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "krystel babaran",
+      "tags": [
+        "dua lipa",
+        "future nostalgia",
+        "future nostalgia tour",
+        "one kiss",
+        "electricity",
+        "boys will be boys"
+      ],
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Future Nostalgia Tour - Houston - Boys will be Boys, One Kiss, Electricity Medley Fancam",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "306",
+      "likeCount": "11",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "xNN1n7w-ROXF6CWiOBbYbgFBVxE",
     "id": "KBLR8CYJDNU",
     "snippet": {
@@ -39439,6 +40433,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "dHbPwmB7pbK-SGnoLMqcm1Z08gM",
+    "id": "kCfzJUkz4tE",
+    "snippet": {
+      "publishedAt": "2022-03-14T06:24:10Z",
+      "channelId": "UC1hQ1K5xxGFOi02UaMdv1Mw",
+      "title": "Dua Lipa - The Future Nostalgia Tour - Be The One - Dallas, TX 3.13.22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kCfzJUkz4tE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kCfzJUkz4tE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kCfzJUkz4tE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kCfzJUkz4tE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kCfzJUkz4tE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mico Manhard",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - The Future Nostalgia Tour - Be The One - Dallas, TX 3.13.22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "78",
+      "likeCount": "1",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "7htLUFi5bU3VuVuIiYzRfWY1zlU",
     "id": "kCHl5etEoxI",
     "snippet": {
@@ -39500,6 +40545,99 @@
       "likeCount": "145",
       "favoriteCount": "0",
       "commentCount": "8"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "G0AMlK-al_CkK-WueblC_oS29Dw",
+    "id": "KdFLeviEmjo",
+    "snippet": {
+      "publishedAt": "2022-03-10T07:49:23Z",
+      "channelId": "UCeqj-HsY9HH7tETeg5qAZyA",
+      "title": "Dua Lipa - Break My Heart Live Chicago Illinois March, 9 , 2022 @ United Center",
+      "description": "Do not own any rights to the song, check out the music video to break my heart here https://youtu.be/Nj2U6rhnucI\n\n\nAlso check out remaining tour dates for the future nostalgic tour here https://www.dualipa.com/home/?ref=https://www.google.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KdFLeviEmjo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KdFLeviEmjo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KdFLeviEmjo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Roy Moreno",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Break My Heart Live Chicago Illinois March, 9 , 2022 @ United Center",
+        "description": "Do not own any rights to the song, check out the music video to break my heart here https://youtu.be/Nj2U6rhnucI\n\n\nAlso check out remaining tour dates for the future nostalgic tour here https://www.dualipa.com/home/?ref=https://www.google.com/"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "statistics": {
+      "viewCount": "646",
+      "likeCount": "17",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "l0sMFsXS8-0gaDndwXh0AfcavXU",
+    "id": "ke74gJyWwGk",
+    "snippet": {
+      "publishedAt": "2022-03-13T13:51:59Z",
+      "channelId": "UCUAGn1LJC4-neWWmjZsk47g",
+      "title": "Dua Lipa Future Nostalgia - Houston - Don't Start Now Fan Cam",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ke74gJyWwGk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ke74gJyWwGk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ke74gJyWwGk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ke74gJyWwGk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ke74gJyWwGk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "krystel babaran",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Future Nostalgia - Houston - Don't Start Now Fan Cam",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "263",
+      "likeCount": "9",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -39670,6 +40808,57 @@
       "likeCount": "50",
       "favoriteCount": "0",
       "commentCount": "1"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "YFAizyrp9k0sCQ1tkAUGsKYqn0c",
+    "id": "KKaUfkkSK7w",
+    "snippet": {
+      "publishedAt": "2022-03-13T17:02:26Z",
+      "channelId": "UCpMuOts3M-A9NtsQ6IHOYLw",
+      "title": "Dua Lipa - Physical/New Rules (Future Nostalgia Tour) Houston, tx",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KKaUfkkSK7w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KKaUfkkSK7w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KKaUfkkSK7w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KKaUfkkSK7w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KKaUfkkSK7w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Edward Vera",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Physical/New Rules (Future Nostalgia Tour) Houston, tx",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "435",
+      "likeCount": "14",
+      "favoriteCount": "0",
+      "commentCount": "2"
     }
   },
   {
@@ -41479,6 +42668,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "5rutAYXeDnoEqYy-KHMK7ai0K6A",
+    "id": "L4S-DJuwUL0",
+    "snippet": {
+      "publishedAt": "2022-03-14T06:31:11Z",
+      "channelId": "UCkoI0tAKRkVmuuVlFA8tt4g",
+      "title": "Dua Lipa Love Again Live American Airlines Center Dallas, Texas 03/13/22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/L4S-DJuwUL0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/L4S-DJuwUL0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/L4S-DJuwUL0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/L4S-DJuwUL0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/L4S-DJuwUL0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Alfred Rossy Mark Padilla",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Love Again Live American Airlines Center Dallas, Texas 03/13/22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "295",
+      "likeCount": "16",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "o67D3yQZuDfah9GaC0UktN6ajeg",
     "id": "L69uCMx8lns",
     "snippet": {
@@ -42625,6 +43865,63 @@
       "likeCount": "504",
       "favoriteCount": "0",
       "commentCount": "27"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "Nva6JAaX7Lm3d4Elrxn0mmRjAwc",
+    "id": "lnlOXivSp6M",
+    "snippet": {
+      "publishedAt": "2022-03-13T06:46:09Z",
+      "channelId": "UCUAGn1LJC4-neWWmjZsk47g",
+      "title": "Dua Lipa Future Nostalgia Tour - Houston - New Rules Fancam",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lnlOXivSp6M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lnlOXivSp6M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lnlOXivSp6M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lnlOXivSp6M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lnlOXivSp6M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "krystel babaran",
+      "tags": [
+        "dua lipa",
+        "future nostalgia",
+        "future nostalgia tour",
+        "new rules"
+      ],
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Future Nostalgia Tour - Houston - New Rules Fancam",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "117",
+      "likeCount": "7",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -44191,6 +45488,48 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "SAIhHAq9Rhjj4m6eiHqam8XZseQ",
+    "id": "mdM9DQK0ZT4",
+    "snippet": {
+      "publishedAt": "2022-03-10T13:15:41Z",
+      "channelId": "UCeqj-HsY9HH7tETeg5qAZyA",
+      "title": "Dua Lipa - Don’t Start Now Live Chicago Illinois 03/09/22 @ United Center",
+      "description": "Do not own any rights to the song, check out Don’t Start Now Music Video Here https://youtu.be/oygrmJFKYZY\n\nAlso check out remaining tour dates for the future nostalgic tour here https://www.dualipa.com/home/?ref=https://www.google.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mdM9DQK0ZT4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mdM9DQK0ZT4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mdM9DQK0ZT4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Roy Moreno",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Don’t Start Now Live Chicago Illinois 03/09/22 @ United Center",
+        "description": "Do not own any rights to the song, check out Don’t Start Now Music Video Here https://youtu.be/oygrmJFKYZY\n\nAlso check out remaining tour dates for the future nostalgic tour here https://www.dualipa.com/home/?ref=https://www.google.com/"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "statistics": {
+      "viewCount": "2170",
+      "likeCount": "44",
+      "favoriteCount": "0",
+      "commentCount": "3"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "xYephrVlzQLlXbzhi8dVNl6fGjg",
     "id": "MF3Jtls4Jns",
     "snippet": {
@@ -44463,6 +45802,57 @@
       "likeCount": "19",
       "favoriteCount": "0",
       "commentCount": "1"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "42de1i8bEuK2bffEsZ1tvPpJYg8",
+    "id": "mHnapzT-4vg",
+    "snippet": {
+      "publishedAt": "2022-03-14T06:41:49Z",
+      "channelId": "UC1hQ1K5xxGFOi02UaMdv1Mw",
+      "title": "Dua Lipa - The Future Nostalgia Tour - Good in Bed - Dallas, TX 3.13.22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mHnapzT-4vg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mHnapzT-4vg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mHnapzT-4vg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mHnapzT-4vg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mHnapzT-4vg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mico Manhard",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - The Future Nostalgia Tour - Good in Bed - Dallas, TX 3.13.22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "124",
+      "likeCount": "7",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -44922,6 +46312,57 @@
     "statistics": {
       "viewCount": "5184",
       "likeCount": "65",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "5iwKcbkj94PrGmZjDHT16Zdw_UY",
+    "id": "mKCDKtgs11U",
+    "snippet": {
+      "publishedAt": "2022-03-10T17:07:36Z",
+      "channelId": "UCjhEKjsrAD4pMRaghWs5iiA",
+      "title": "Dua Lipa, Cold Heart, March 9, 2022, Chicago, IL",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mKCDKtgs11U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mKCDKtgs11U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mKCDKtgs11U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mKCDKtgs11U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mKCDKtgs11U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "rottendorf11",
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa, Cold Heart, March 9, 2022, Chicago, IL",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "109",
+      "likeCount": "3",
       "favoriteCount": "0",
       "commentCount": "0"
     }
@@ -45555,6 +46996,57 @@
       "likeCount": "46988",
       "favoriteCount": "0",
       "commentCount": "749"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "LVOhoZqvU5UMJ_gyjKqB0XlezCU",
+    "id": "MOOGlo4OG14",
+    "snippet": {
+      "publishedAt": "2022-03-13T08:37:55Z",
+      "channelId": "UCpMuOts3M-A9NtsQ6IHOYLw",
+      "title": "Dua Lipa - Fever (Future Nostalgia Tour) Houston, Tx",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MOOGlo4OG14/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MOOGlo4OG14/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MOOGlo4OG14/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MOOGlo4OG14/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/MOOGlo4OG14/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Edward Vera",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Fever (Future Nostalgia Tour) Houston, Tx",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "282",
+      "likeCount": "9",
+      "favoriteCount": "0",
+      "commentCount": "1"
     }
   },
   {
@@ -47048,6 +48540,63 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "5cueIDsrOvaUDvfQoNV2z-tXs80",
+    "id": "nL4TCX7YyTo",
+    "snippet": {
+      "publishedAt": "2022-03-13T06:50:33Z",
+      "channelId": "UCUAGn1LJC4-neWWmjZsk47g",
+      "title": "Dua Lipa Future Nostalgia Tour - Houston - Hallucinate Fancam",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nL4TCX7YyTo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nL4TCX7YyTo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nL4TCX7YyTo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/nL4TCX7YyTo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/nL4TCX7YyTo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "krystel babaran",
+      "tags": [
+        "dua lipa",
+        "future nostalgia",
+        "future nostalgia tour",
+        "hallucinate"
+      ],
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Future Nostalgia Tour - Houston - Hallucinate Fancam",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "114",
+      "likeCount": "4",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "A1_zEK-HhTaOXTOt11il4B7bMhc",
     "id": "nMGCLv_LTJY",
     "snippet": {
@@ -47360,6 +48909,57 @@
       "likeCount": "24",
       "favoriteCount": "0",
       "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "lkLBk1Nm0_j8dlIyP5lrkk4zmCc",
+    "id": "NPL4kZkkNlQ",
+    "snippet": {
+      "publishedAt": "2022-03-14T18:03:23Z",
+      "channelId": "UCpMuOts3M-A9NtsQ6IHOYLw",
+      "title": "Dua Lipa - Club Nostalgia/One Kiss (Future  Nostalgia Tour) Houston, tx",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NPL4kZkkNlQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NPL4kZkkNlQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NPL4kZkkNlQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NPL4kZkkNlQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NPL4kZkkNlQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Edward Vera",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Club Nostalgia/One Kiss (Future  Nostalgia Tour) Houston, tx",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "63",
+      "likeCount": "6",
+      "favoriteCount": "0",
+      "commentCount": "2"
     }
   },
   {
@@ -47732,6 +49332,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "q-UGKN5Em1vZJNEj0HEUz5L7hss",
+    "id": "NTmEWc_1bpg",
+    "snippet": {
+      "publishedAt": "2022-03-14T06:27:49Z",
+      "channelId": "UCVgneaz5sHaBw7xrvumNiaw",
+      "title": "Dua Lipa - \"Love Again\" - 3/13/2022 - American Airlines Center - Dallas ,TX",
+      "description": "Future Nostalgia tour. Shot with a Canon SX610 HS.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NTmEWc_1bpg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NTmEWc_1bpg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NTmEWc_1bpg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NTmEWc_1bpg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NTmEWc_1bpg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "VIDS2013",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - \"Love Again\" - 3/13/2022 - American Airlines Center - Dallas ,TX",
+        "description": "Future Nostalgia tour. Shot with a Canon SX610 HS."
+      }
+    },
+    "statistics": {
+      "viewCount": "42",
+      "likeCount": "2",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "ST5dwFL_yy8mBG3DoY1I9K3AitU",
     "id": "ntULHoPoGKc",
     "snippet": {
@@ -47824,6 +49475,48 @@
     "statistics": {
       "viewCount": "246",
       "likeCount": "9",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "TCNju6u6K-tqrACfxqcjbrcS2bM",
+    "id": "nUSEqC8dTdA",
+    "snippet": {
+      "publishedAt": "2022-03-10T12:07:17Z",
+      "channelId": "UCeqj-HsY9HH7tETeg5qAZyA",
+      "title": "Dua Lipa - We’re Good Live Chicago Illinois March , 9 , 2022 @ United Center",
+      "description": "Do not own any right to the song. Check out We’re Good music video here https://youtu.be/jr47YisIsz8\n\nAlso check out remaining tour dates for the future nostalgic tour here https://www.dualipa.com/home/?ref=https://www.google.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nUSEqC8dTdA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nUSEqC8dTdA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nUSEqC8dTdA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Roy Moreno",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - We’re Good Live Chicago Illinois March , 9 , 2022 @ United Center",
+        "description": "Do not own any right to the song. Check out We’re Good music video here https://youtu.be/jr47YisIsz8\n\nAlso check out remaining tour dates for the future nostalgic tour here https://www.dualipa.com/home/?ref=https://www.google.com/"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "statistics": {
+      "viewCount": "359",
+      "likeCount": "16",
       "favoriteCount": "0",
       "commentCount": "0"
     }
@@ -52235,6 +53928,63 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "qbqszMS7yyZnnAGRNXmvrFTp_UM",
+    "id": "PCT5Q3A7gbI",
+    "snippet": {
+      "publishedAt": "2022-03-13T06:53:29Z",
+      "channelId": "UCUAGn1LJC4-neWWmjZsk47g",
+      "title": "Dua Lipa Future Nostalgia Tour - Houston - Be The One Fancam",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PCT5Q3A7gbI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PCT5Q3A7gbI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PCT5Q3A7gbI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PCT5Q3A7gbI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PCT5Q3A7gbI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "krystel babaran",
+      "tags": [
+        "dua lipa",
+        "future nostalgia",
+        "future nostalgia tour",
+        "be the one"
+      ],
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Future Nostalgia Tour - Houston - Be The One Fancam",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "144",
+      "likeCount": "4",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "2DkWM7HvnNHnS7HDOAy0asPXXv4",
     "id": "PCwQ0xMq2ew",
     "snippet": {
@@ -54463,6 +56213,48 @@
       "likeCount": "4843",
       "favoriteCount": "0",
       "commentCount": "93"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "BBIWPT-hq58VjwXntuHzCNV0_qk",
+    "id": "QAgNHOiCw94",
+    "snippet": {
+      "publishedAt": "2022-03-10T07:49:38Z",
+      "channelId": "UCeqj-HsY9HH7tETeg5qAZyA",
+      "title": "Dua Lipa - Love Again Live Chicago Illinois @ United Center March-09-2022",
+      "description": "Do not own any right to the song, check out the Love Again music video here https://youtu.be/BC19kwABFwc\n\nAlso check out remaining tour dates for the future nostalgic tour here https://www.dualipa.com/home/?ref=https://www.google.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QAgNHOiCw94/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QAgNHOiCw94/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QAgNHOiCw94/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Roy Moreno",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Love Again Live Chicago Illinois @ United Center March-09-2022",
+        "description": "Do not own any right to the song, check out the Love Again music video here https://youtu.be/BC19kwABFwc\n\nAlso check out remaining tour dates for the future nostalgic tour here https://www.dualipa.com/home/?ref=https://www.google.com/"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "statistics": {
+      "viewCount": "877",
+      "likeCount": "33",
+      "favoriteCount": "0",
+      "commentCount": "2"
     }
   },
   {
@@ -58060,6 +59852,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "6__egPuELwspuFWKohwWW553JrM",
+    "id": "RlbnwJ1PoCE",
+    "snippet": {
+      "publishedAt": "2022-03-10T16:35:31Z",
+      "channelId": "UCMWBWwAZLj4-i6Y_zv7UQkQ",
+      "title": "Dua Lipa - Future Nostalgia (United Center - Chicago, Illinois 03-09-2022)",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RlbnwJ1PoCE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RlbnwJ1PoCE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RlbnwJ1PoCE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/RlbnwJ1PoCE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/RlbnwJ1PoCE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Luis Nicolás Taboada",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Future Nostalgia (United Center - Chicago, Illinois 03-09-2022)",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "756",
+      "likeCount": "26",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "di7sCFPZgkJ6X1I3iOFtXckL_5I",
     "id": "rLw40xGBM4o",
     "snippet": {
@@ -59280,6 +61123,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "rQUqj10opWnlH6LEXZ0gu7f2bmM",
+    "id": "RWR9-7kBFJY",
+    "snippet": {
+      "publishedAt": "2022-03-14T05:01:36Z",
+      "channelId": "UCV-PtOlztTCiPGnRmzgtWmA",
+      "title": "Dua Lipa Dallas opening Physical",
+      "description": "Dua Lipa Dallas 3-13-22",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RWR9-7kBFJY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RWR9-7kBFJY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RWR9-7kBFJY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/RWR9-7kBFJY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/RWR9-7kBFJY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "David Rosado",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Dallas opening Physical",
+        "description": "Dua Lipa Dallas 3-13-22"
+      }
+    },
+    "statistics": {
+      "viewCount": "208",
+      "likeCount": "17",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "QDtDnS2o7w29EOvxcoSXfnBeW-s",
     "id": "rX0fHBsq9Dg",
     "snippet": {
@@ -59738,6 +61632,115 @@
       "likeCount": "57",
       "favoriteCount": "0",
       "commentCount": "3"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "4K0F7Pq34SByLr_IoxdXq1vjOrI",
+    "id": "s-dzRAOgOXY",
+    "snippet": {
+      "publishedAt": "2022-03-13T06:54:50Z",
+      "channelId": "UCUAGn1LJC4-neWWmjZsk47g",
+      "title": "Dua Lipa Future Nostalgia Tour - Houston - We're good Fancam",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/s-dzRAOgOXY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/s-dzRAOgOXY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/s-dzRAOgOXY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/s-dzRAOgOXY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/s-dzRAOgOXY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "krystel babaran",
+      "tags": [
+        "dua lipa",
+        "future nostalgia",
+        "future nostalgia tour",
+        "we're good"
+      ],
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Future Nostalgia Tour - Houston - We're good Fancam",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "128",
+      "likeCount": "5",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "87cnnEq6F8IJvKVaAGqybeLT1pw",
+    "id": "S0OTB-Aw45Q",
+    "snippet": {
+      "publishedAt": "2022-03-12T18:46:44Z",
+      "channelId": "UCjhEKjsrAD4pMRaghWs5iiA",
+      "title": "Dua Lipa, Be The One, March 9, 2022, Chicago",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/S0OTB-Aw45Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/S0OTB-Aw45Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/S0OTB-Aw45Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/S0OTB-Aw45Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/S0OTB-Aw45Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "rottendorf11",
+      "tags": ["#YouCut"],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa, Be The One, March 9, 2022, Chicago",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "36",
+      "likeCount": "0",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -61692,6 +63695,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "rJKTMWBqbD3MJ3PWkD0i1qwWS7I",
+    "id": "sUtwow3m8SQ",
+    "snippet": {
+      "publishedAt": "2022-03-14T07:25:53Z",
+      "channelId": "UCkoI0tAKRkVmuuVlFA8tt4g",
+      "title": "Dua Lipa Don’t Start Now Live American Airlines Center Dallas, Texas 03/13/22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sUtwow3m8SQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sUtwow3m8SQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sUtwow3m8SQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/sUtwow3m8SQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/sUtwow3m8SQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Alfred Rossy Mark Padilla",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Don’t Start Now Live American Airlines Center Dallas, Texas 03/13/22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "244",
+      "likeCount": "14",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "pAj36xQC5tIH7CXhzHJj-J-vFko",
     "id": "sVK2W567NR8",
     "snippet": {
@@ -61791,6 +63845,63 @@
       "likeCount": "2",
       "favoriteCount": "0",
       "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "ZGbRO5x7bmUXfUpfljlTuyf1-k0",
+    "id": "SWh8x5k4Y0o",
+    "snippet": {
+      "publishedAt": "2022-03-13T07:02:55Z",
+      "channelId": "UCUAGn1LJC4-neWWmjZsk47g",
+      "title": "Dua Lipa Future Nostalgia Tour - Houston - Levitating Fancam",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SWh8x5k4Y0o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SWh8x5k4Y0o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SWh8x5k4Y0o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SWh8x5k4Y0o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SWh8x5k4Y0o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "krystel babaran",
+      "tags": [
+        "dua lipa",
+        "future nosalgia",
+        "future nostalgia tour",
+        "levitating"
+      ],
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Future Nostalgia Tour - Houston - Levitating Fancam",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "238",
+      "likeCount": "9",
+      "favoriteCount": "0",
+      "commentCount": "2"
     }
   },
   {
@@ -64751,6 +66862,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "lDxusokY6MTr8gFzoTtC3Pvj8Ao",
+    "id": "u6iJwniJImI",
+    "snippet": {
+      "publishedAt": "2022-03-10T17:11:56Z",
+      "channelId": "UCjhEKjsrAD4pMRaghWs5iiA",
+      "title": "Dua Lipa, Levitating, March 9, 2022, Chicago, IL",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/u6iJwniJImI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/u6iJwniJImI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/u6iJwniJImI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/u6iJwniJImI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/u6iJwniJImI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "rottendorf11",
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa, Levitating, March 9, 2022, Chicago, IL",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "477",
+      "likeCount": "13",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "u_0I31uCKC7oUbCgMT7YD9K3zmA",
     "id": "U78SmNx84_Y",
     "snippet": {
@@ -65298,6 +67460,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "taWFto7tuyPswPNcF-RFj4WvG2Q",
+    "id": "UGVVlqxbCls",
+    "snippet": {
+      "publishedAt": "2022-03-10T17:51:56Z",
+      "channelId": "UCjhEKjsrAD4pMRaghWs5iiA",
+      "title": "Dua Lipa, Don't Start Now, March 9, 2022, Chicago, IL",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UGVVlqxbCls/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UGVVlqxbCls/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UGVVlqxbCls/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UGVVlqxbCls/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UGVVlqxbCls/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "rottendorf11",
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa, Don't Start Now, March 9, 2022, Chicago, IL",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "97",
+      "likeCount": "2",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "Xucf6MZuObW4PA6tPWUuNGbE644",
     "id": "UHc-b89Fjck",
     "snippet": {
@@ -65689,6 +67902,63 @@
       "likeCount": "10342",
       "favoriteCount": "0",
       "commentCount": "416"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "iL3oadUf0_689gFlkl-SyHTWpE8",
+    "id": "UjbWsOhOakU",
+    "snippet": {
+      "publishedAt": "2022-03-13T06:49:04Z",
+      "channelId": "UCUAGn1LJC4-neWWmjZsk47g",
+      "title": "Dua Lipa Future Nostalgia Tour - Houston - Pretty Please Fancam",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UjbWsOhOakU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UjbWsOhOakU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UjbWsOhOakU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UjbWsOhOakU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UjbWsOhOakU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "krystel babaran",
+      "tags": [
+        "dua lipa",
+        "future nostalgia",
+        "future nostalgia tour",
+        "pretty please"
+      ],
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Future Nostalgia Tour - Houston - Pretty Please Fancam",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "178",
+      "likeCount": "11",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -69080,6 +71350,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "RS_5J_Ui9TLPieMnkO4YtWIUY7o",
+    "id": "vpuzyrQm_hk",
+    "snippet": {
+      "publishedAt": "2022-03-14T07:25:51Z",
+      "channelId": "UC1hQ1K5xxGFOi02UaMdv1Mw",
+      "title": "Dua Lipa - The Future Nostalgia Tour - Boys Will Be Boys - Dallas, TX 3.13.22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vpuzyrQm_hk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vpuzyrQm_hk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vpuzyrQm_hk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vpuzyrQm_hk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vpuzyrQm_hk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mico Manhard",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - The Future Nostalgia Tour - Boys Will Be Boys - Dallas, TX 3.13.22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "68",
+      "likeCount": "6",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "TPBt9S-P5mnaVVmDqW8gSUzj9m4",
     "id": "vPXWF-y6Iwc",
     "snippet": {
@@ -69180,6 +71501,57 @@
       "likeCount": "14616",
       "favoriteCount": "0",
       "commentCount": "529"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "byhdxDcvXzwtUO13B8DVHLoprGA",
+    "id": "vqruJ5fIb-E",
+    "snippet": {
+      "publishedAt": "2022-03-14T07:16:43Z",
+      "channelId": "UC1hQ1K5xxGFOi02UaMdv1Mw",
+      "title": "Dua Lipa - The Future Nostalgia Tour - Cold Heart (PNAU Remix) - Dallas, TX 3.13.22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vqruJ5fIb-E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vqruJ5fIb-E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vqruJ5fIb-E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vqruJ5fIb-E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vqruJ5fIb-E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mico Manhard",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - The Future Nostalgia Tour - Cold Heart (PNAU Remix) - Dallas, TX 3.13.22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "73",
+      "likeCount": "5",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -70469,6 +72841,57 @@
     "statistics": {
       "viewCount": "2228",
       "likeCount": "41",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "Xoqh9vemgzjHxuqyyUPgKth1zMk",
+    "id": "WdyIrbHStBE",
+    "snippet": {
+      "publishedAt": "2022-03-14T07:26:08Z",
+      "channelId": "UC1hQ1K5xxGFOi02UaMdv1Mw",
+      "title": "Dua Lipa - The Future Nostalgia Tour - Electricity / Hallucinate - Dallas, TX 3.13.22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WdyIrbHStBE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WdyIrbHStBE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WdyIrbHStBE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WdyIrbHStBE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WdyIrbHStBE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mico Manhard",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - The Future Nostalgia Tour - Electricity / Hallucinate - Dallas, TX 3.13.22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "68",
+      "likeCount": "2",
       "favoriteCount": "0",
       "commentCount": "0"
     }
@@ -72675,6 +75098,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "pAHRnVZUA7k3P55jhNsrJOaJeQk",
+    "id": "WWhrr158aWI",
+    "snippet": {
+      "publishedAt": "2022-03-14T06:11:55Z",
+      "channelId": "UC1hQ1K5xxGFOi02UaMdv1Mw",
+      "title": "Dua Lipa - The Future Nostalgia Tour - Break My Heart - Dallas, TX 3.13.22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WWhrr158aWI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WWhrr158aWI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WWhrr158aWI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WWhrr158aWI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WWhrr158aWI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mico Manhard",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - The Future Nostalgia Tour - Break My Heart - Dallas, TX 3.13.22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "50",
+      "likeCount": "3",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "nTKuGuFpF0EYmHli8lZP_sL2fHU",
     "id": "WxaJzdlv2Sg",
     "snippet": {
@@ -72831,6 +75305,57 @@
     "statistics": {
       "viewCount": "247",
       "likeCount": "12",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "LjQjJWR6fk7-G8mTUtcBiz-enpw",
+    "id": "X-G0u-b8aEg",
+    "snippet": {
+      "publishedAt": "2022-03-14T09:22:31Z",
+      "channelId": "UCpMuOts3M-A9NtsQ6IHOYLw",
+      "title": "Dua Lipa - Love Again (Future Nostalgia Tour) Houston, tx",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/X-G0u-b8aEg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/X-G0u-b8aEg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/X-G0u-b8aEg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/X-G0u-b8aEg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/X-G0u-b8aEg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Edward Vera",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Love Again (Future Nostalgia Tour) Houston, tx",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "77",
+      "likeCount": "5",
       "favoriteCount": "0",
       "commentCount": "0"
     }
@@ -73011,6 +75536,49 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "or_KWddFSD-uHFN85D4IiHJmE1I",
+    "id": "x91veAlXPFc",
+    "snippet": {
+      "publishedAt": "2022-03-10T12:50:10Z",
+      "channelId": "UCeqj-HsY9HH7tETeg5qAZyA",
+      "title": "Dua Lipa - Cold Heart ( PNAU Remix ) Live Chicago Illinois March , 9 , 2022 @ United Center",
+      "description": "Do not own any rights to the song, check out Music video here https://youtu.be/qod03PVTLqk\n\nAlso check out remaining tour dates for the future nostalgic tour here https://www.dualipa.com/home/?ref=https://www.google.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/x91veAlXPFc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/x91veAlXPFc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/x91veAlXPFc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Roy Moreno",
+      "tags": ["#EltonJohn #DuaLipa"],
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Cold Heart ( PNAU Remix ) Live Chicago Illinois March , 9 , 2022 @ United Center",
+        "description": "Do not own any rights to the song, check out Music video here https://youtu.be/qod03PVTLqk\n\nAlso check out remaining tour dates for the future nostalgic tour here https://www.dualipa.com/home/?ref=https://www.google.com/"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "statistics": {
+      "viewCount": "1538",
+      "likeCount": "35",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "BPElqYWuBQT5kf1JNQRj8bMLqZ0",
     "id": "xC1gfJP78XE",
     "snippet": {
@@ -73117,6 +75685,63 @@
       "likeCount": "3303",
       "favoriteCount": "0",
       "commentCount": "100"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "KDGK3zNmP5mJfLacUVOc58CEzEM",
+    "id": "XcrbBPN1mOs",
+    "snippet": {
+      "publishedAt": "2022-03-13T06:40:06Z",
+      "channelId": "UCUAGn1LJC4-neWWmjZsk47g",
+      "title": "Dua Lipa Future Nostalgia Tour - Houston - Physical Fancam",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XcrbBPN1mOs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XcrbBPN1mOs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XcrbBPN1mOs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XcrbBPN1mOs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/XcrbBPN1mOs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "krystel babaran",
+      "tags": [
+        "dua lipa",
+        "future nostalgia",
+        "future nostalgia tour",
+        "physical"
+      ],
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Future Nostalgia Tour - Houston - Physical Fancam",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "458",
+      "likeCount": "16",
+      "favoriteCount": "0",
+      "commentCount": "1"
     }
   },
   {
@@ -73578,6 +76203,57 @@
       "likeCount": "2935",
       "favoriteCount": "0",
       "commentCount": "97"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "pcYUpmOF3LD8FhPUsnfofcsYZAk",
+    "id": "xIDjWSUY65o",
+    "snippet": {
+      "publishedAt": "2022-03-14T07:35:35Z",
+      "channelId": "UC1hQ1K5xxGFOi02UaMdv1Mw",
+      "title": "Dua Lipa - The Future Nostalgia Tour - Levitating - Dallas, TX 3.13.22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xIDjWSUY65o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xIDjWSUY65o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xIDjWSUY65o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xIDjWSUY65o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xIDjWSUY65o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mico Manhard",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - The Future Nostalgia Tour - Levitating - Dallas, TX 3.13.22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "85",
+      "likeCount": "3",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -74133,6 +76809,108 @@
       "likeCount": "182",
       "favoriteCount": "0",
       "commentCount": "3"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "tHtPcsS_ftgyLoTZexGJTKHiI_E",
+    "id": "XpMmyWoll2g",
+    "snippet": {
+      "publishedAt": "2022-03-14T06:06:30Z",
+      "channelId": "UC1hQ1K5xxGFOi02UaMdv1Mw",
+      "title": "Dua Lipa - The Future Nostalgia Tour - Pretty Please - Dallas, TX 3.13.22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XpMmyWoll2g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XpMmyWoll2g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XpMmyWoll2g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XpMmyWoll2g/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/XpMmyWoll2g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mico Manhard",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - The Future Nostalgia Tour - Pretty Please - Dallas, TX 3.13.22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "40",
+      "likeCount": "3",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "QXoOavYwafjI9u0qr6g_8hxCTA4",
+    "id": "XqBEfgPS5Rg",
+    "snippet": {
+      "publishedAt": "2022-03-14T06:18:58Z",
+      "channelId": "UCkoI0tAKRkVmuuVlFA8tt4g",
+      "title": "Dua Lipa Physical Live American Airlines Center Dallas, Texas 03/13/22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XqBEfgPS5Rg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XqBEfgPS5Rg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XqBEfgPS5Rg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XqBEfgPS5Rg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/XqBEfgPS5Rg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Alfred Rossy Mark Padilla",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Physical Live American Airlines Center Dallas, Texas 03/13/22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "70",
+      "likeCount": "4",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -77629,6 +80407,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "LRsBhMqcA_WHb7KcXmjNyokOFww",
+    "id": "YR1TKo6coEc",
+    "snippet": {
+      "publishedAt": "2022-03-10T17:20:19Z",
+      "channelId": "UCjhEKjsrAD4pMRaghWs5iiA",
+      "title": "Dua Lipa, Future Nostalgia, March 9, 2022, Chicago, IL",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YR1TKo6coEc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YR1TKo6coEc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YR1TKo6coEc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/YR1TKo6coEc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/YR1TKo6coEc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "rottendorf11",
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa, Future Nostalgia, March 9, 2022, Chicago, IL",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "90",
+      "likeCount": "4",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "u1zxdRuIpXKjBE4sG3F-FxFPsVA",
     "id": "Yr2OPqGRwiQ",
     "snippet": {
@@ -77774,6 +80603,57 @@
       "likeCount": "12008",
       "favoriteCount": "0",
       "commentCount": "410"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "aIyI3iuaa6RSpaG7rrd416RzcOQ",
+    "id": "YTBkmhu4Csg",
+    "snippet": {
+      "publishedAt": "2022-03-14T09:46:31Z",
+      "channelId": "UCpMuOts3M-A9NtsQ6IHOYLw",
+      "title": "Dua Lipa - Don’t Start Now (Future Nostalgia Tour) Houston, tx",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YTBkmhu4Csg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YTBkmhu4Csg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YTBkmhu4Csg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/YTBkmhu4Csg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/YTBkmhu4Csg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Edward Vera",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Don’t Start Now (Future Nostalgia Tour) Houston, tx",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "139",
+      "likeCount": "4",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -77944,6 +80824,52 @@
       "likeCount": "10",
       "favoriteCount": "0",
       "commentCount": "1"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "vdk6eFQkSgCIB_0Ed3RUtLJegzc",
+    "id": "YvN7DaDlCb4",
+    "snippet": {
+      "publishedAt": "2022-03-14T06:49:40Z",
+      "channelId": "UC1hQ1K5xxGFOi02UaMdv1Mw",
+      "title": "Dua Lipa - The Future Nostalgia Tour - Fever - Dallas, TX 3.13.22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YvN7DaDlCb4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YvN7DaDlCb4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YvN7DaDlCb4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/YvN7DaDlCb4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Mico Manhard",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - The Future Nostalgia Tour - Fever - Dallas, TX 3.13.22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "60",
+      "likeCount": "4",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -79090,6 +82016,57 @@
       "likeCount": "38",
       "favoriteCount": "0",
       "commentCount": "2"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "ne0if37jCdMbqwi0PdOyBDmfNZE",
+    "id": "zGvtdCAfbgA",
+    "snippet": {
+      "publishedAt": "2022-03-14T06:42:18Z",
+      "channelId": "UCVgneaz5sHaBw7xrvumNiaw",
+      "title": "Dua Lipa - \"Levitating\" - 3/13/2022 - American Airlines Center - Dallas ,TX",
+      "description": "Future Nostalgia tour. Shot with a Canon SX610 IS.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zGvtdCAfbgA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zGvtdCAfbgA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zGvtdCAfbgA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zGvtdCAfbgA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zGvtdCAfbgA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "VIDS2013",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - \"Levitating\" - 3/13/2022 - American Airlines Center - Dallas ,TX",
+        "description": "Future Nostalgia tour. Shot with a Canon SX610 IS."
+      }
+    },
+    "statistics": {
+      "viewCount": "72",
+      "likeCount": "3",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -81578,6 +84555,49 @@
       "likeCount": "49",
       "favoriteCount": "0",
       "commentCount": "1"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "u-SBVFTTyIN--ebS5eWjusoatWg",
+    "id": "_3ARTo8gAOg",
+    "snippet": {
+      "publishedAt": "2022-03-10T12:24:43Z",
+      "channelId": "UCeqj-HsY9HH7tETeg5qAZyA",
+      "title": "Dua Lipa - Hallucinate Live Chicago Illinois March , 9 , 2022 @ United Center",
+      "description": "Do not own any rights to the song, check out Hallucinate music video here https://youtu.be/qcZ7e9EOQTY\n\nAlso check out remaining tour dates for the future nostalgic tour here https://www.dualipa.com/home/?ref=https://www.google.com/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_3ARTo8gAOg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_3ARTo8gAOg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_3ARTo8gAOg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Roy Moreno",
+      "tags": ["#DuaLipa #FutureNostalgia"],
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Hallucinate Live Chicago Illinois March , 9 , 2022 @ United Center",
+        "description": "Do not own any rights to the song, check out Hallucinate music video here https://youtu.be/qcZ7e9EOQTY\n\nAlso check out remaining tour dates for the future nostalgic tour here https://www.dualipa.com/home/?ref=https://www.google.com/"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "statistics": {
+      "viewCount": "884",
+      "likeCount": "15",
+      "favoriteCount": "0",
+      "commentCount": "2"
     }
   },
   {

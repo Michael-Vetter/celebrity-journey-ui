@@ -49066,5 +49066,2014 @@
 				"song": "We're Good"
 			}
 		]
+	},
+	{
+		"id": "7a16d978-65c1-41ad-b1ad-79f120a56b0a",
+		"description": "Dua Lipa - Levitating / Chicago, IL / March 9, 2022",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-09",
+		"dateEvent": "2022-03-09",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/united-center-chicago-il-5b8983b0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "co9wojiN2aw",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-11",
+				"videoDescription": "Dua Lipa - Levitating / Chicago, IL / March 9, 2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "1dd611d0-190d-4e15-92ee-728019e28e07",
+		"description": "Dua Lipa, part Electricity, full Hallucinate, March 9, 2022, Chicago, IL",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-09",
+		"dateEvent": "2022-03-09",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/united-center-chicago-il-5b8983b0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "fHfRIlU1XSg",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-10",
+				"videoDescription": "Dua Lipa, part Electricity, full Hallucinate, March 9, 2022, Chicago, IL",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Electricity"
+			},
+			{
+				"song": "Hallucinate"
+			}
+		]
+	},
+	{
+		"id": "8f2a1a0b-5fcd-42b1-b105-c213fe91a390",
+		"description": "Dua Lipa - Break My Heart Live Chicago Illinois March, 9 , 2022 @ United Center",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-09",
+		"dateEvent": "2022-03-09",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/united-center-chicago-il-5b8983b0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "KdFLeviEmjo",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-10",
+				"videoDescription": "Dua Lipa - Break My Heart Live Chicago Illinois March, 9 , 2022 @ United Center",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Break My Heart"
+			}
+		]
+	},
+	{
+		"id": "aafd999e-f5bf-461e-9f8f-fcb44572414b",
+		"description": "Dua Lipa - Don’t Start Now Live Chicago Illinois 03/09/22 @ United Center",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-09",
+		"dateEvent": "2022-03-09",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/united-center-chicago-il-5b8983b0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "mdM9DQK0ZT4",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-10",
+				"videoDescription": "Dua Lipa - Don’t Start Now Live Chicago Illinois 03/09/22 @ United Center",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Don't Start Now"
+			}
+		]
+	},
+	{
+		"id": "37908a1f-eda5-4098-844c-07f7feca8a74",
+		"description": "Dua Lipa, Cold Heart, March 9, 2022, Chicago, IL",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-09",
+		"dateEvent": "2022-03-09",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/united-center-chicago-il-5b8983b0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "mKCDKtgs11U",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-10",
+				"videoDescription": "Dua Lipa, Cold Heart, March 9, 2022, Chicago, IL",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Cold Heart"
+			}
+		]
+	},
+	{
+		"id": "9bba9fd8-56b5-4413-8671-ba5a89c35429",
+		"description": "Dua Lipa - We’re Good Live Chicago Illinois March , 9 , 2022 @ United Center",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-09",
+		"dateEvent": "2022-03-09",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/united-center-chicago-il-5b8983b0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "nUSEqC8dTdA",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-10",
+				"videoDescription": "Dua Lipa - We’re Good Live Chicago Illinois March , 9 , 2022 @ United Center",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "We're Good"
+			}
+		]
+	},
+	{
+		"id": "d07aba1e-a5ef-47b3-84ad-40807a7c99c8",
+		"description": "Dua Lipa - Love Again Live Chicago Illinois @ United Center March-09-2022",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-09",
+		"dateEvent": "2022-03-09",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/united-center-chicago-il-5b8983b0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "QAgNHOiCw94",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-10",
+				"videoDescription": "Dua Lipa - Love Again Live Chicago Illinois @ United Center March-09-2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Love Again"
+			}
+		]
+	},
+	{
+		"id": "9d323db5-27a8-478b-8620-787120885f1b",
+		"description": "Dua Lipa - Future Nostalgia (United Center - Chicago, Illinois 03-09-2022)",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-09",
+		"dateEvent": "2022-03-09",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/united-center-chicago-il-5b8983b0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "RlbnwJ1PoCE",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-10",
+				"videoDescription": "Dua Lipa - Future Nostalgia (United Center - Chicago, Illinois 03-09-2022)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Future Nostalgia"
+			}
+		]
+	},
+	{
+		"id": "47db1a96-62b4-4c8a-bbc2-897958cdc8aa",
+		"description": "Dua Lipa, Be The One, March 9, 2022, Chicago",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-09",
+		"dateEvent": "2022-03-09",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/united-center-chicago-il-5b8983b0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "S0OTB-Aw45Q",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-12",
+				"videoDescription": "Dua Lipa, Be The One, March 9, 2022, Chicago",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Be The One"
+			}
+		]
+	},
+	{
+		"id": "98b6d28e-65e5-4042-bf47-6969aafbd6bc",
+		"description": "Dua Lipa, Levitating, March 9, 2022, Chicago, IL",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-09",
+		"dateEvent": "2022-03-09",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/united-center-chicago-il-5b8983b0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "u6iJwniJImI",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-10",
+				"videoDescription": "Dua Lipa, Levitating, March 9, 2022, Chicago, IL",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "38a6e5e6-d438-4d99-99f3-6ca2d19199ce",
+		"description": "Dua Lipa, Don't Start Now, March 9, 2022, Chicago, IL",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-09",
+		"dateEvent": "2022-03-09",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/united-center-chicago-il-5b8983b0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "UGVVlqxbCls",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-10",
+				"videoDescription": "Dua Lipa, Don't Start Now, March 9, 2022, Chicago, IL",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Don't Start Now"
+			}
+		]
+	},
+	{
+		"id": "0d72e201-5577-4f9d-9ecb-56eda30629cf",
+		"description": "Dua Lipa - Cold Heart ( PNAU Remix ) Live Chicago Illinois March , 9 , 2022 @ United Center",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-09",
+		"dateEvent": "2022-03-09",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/united-center-chicago-il-5b8983b0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "x91veAlXPFc",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-10",
+				"videoDescription": "Dua Lipa - Cold Heart ( PNAU Remix ) Live Chicago Illinois March , 9 , 2022 @ United Center",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Cold Heart"
+			}
+		]
+	},
+	{
+		"id": "26f096bb-842c-453b-9c49-49627c008547",
+		"description": "Dua Lipa, Future Nostalgia, March 9, 2022, Chicago, IL",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-09",
+		"dateEvent": "2022-03-09",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/united-center-chicago-il-5b8983b0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "YR1TKo6coEc",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-10",
+				"videoDescription": "Dua Lipa, Future Nostalgia, March 9, 2022, Chicago, IL",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Future Nostalgia"
+			}
+		]
+	},
+	{
+		"id": "154014cc-eba7-47ad-afa4-4ac33518e515",
+		"description": "Dua Lipa - Hallucinate Live Chicago Illinois March , 9 , 2022 @ United Center",
+		"dateDatabase": "03/06/2022",
+		"dateSort": "2022-03-09",
+		"dateEvent": "2022-03-09",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/united-center-chicago-il-5b8983b0.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "_3ARTo8gAOg",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-10",
+				"videoDescription": "Dua Lipa - Hallucinate Live Chicago Illinois March , 9 , 2022 @ United Center",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Hallucinate"
+			}
+		]
+	},
+	{
+		"id": "217aa2de-981f-4d04-86ca-c728131ab8c6",
+		"description": "Dua Lipa Future Nostalgia Tour - Houston - Cool Fancam",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-12",
+		"dateEvent": "2022-03-12",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/toyota-center-houston-tx-389e9e7.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "2MxPe9s48Rc",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-13",
+				"videoDescription": "Dua Lipa Future Nostalgia Tour - Houston - Cool Fancam",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "2c347a29-4824-42c5-98fb-a3c2efce8cf8",
+		"description": "Dua Lipa Future Nostalgia Tour - Houston -Cold Heart Fancam",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-12",
+		"dateEvent": "2022-03-12",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/toyota-center-houston-tx-389e9e7.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "2tWa0Rr6Imw",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-13",
+				"videoDescription": "Dua Lipa Future Nostalgia Tour - Houston -Cold Heart Fancam",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "ad03b0c9-70c1-4adf-8634-051607d6487f",
+		"description": "Dua Lipa - Break my Heart (Future Nostalgia Tour) Houston, tx",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-12",
+		"dateEvent": "2022-03-12",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/toyota-center-houston-tx-389e9e7.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "9a6oJ8ZI-I0",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-14",
+				"videoDescription": "Dua Lipa - Break my Heart (Future Nostalgia Tour) Houston, tx",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "e1a3c7a6-eff6-4f43-9629-c96f62992b14",
+		"description": "Dua Lipa - PHYSICAL LIVE at FUTURE NOSTALGIA TOUR @ HOUSTON TOYOTA CENTER Mar 12, 2022",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-12",
+		"dateEvent": "2022-03-12",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/toyota-center-houston-tx-389e9e7.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "bEZG-0Kmxes",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-14",
+				"videoDescription": "Dua Lipa - PHYSICAL LIVE at FUTURE NOSTALGIA TOUR @ HOUSTON TOYOTA CENTER Mar 12, 2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "3b0a4f56-05f2-49a8-bfef-586be6273628",
+		"description": "Dua Lipa - Levitating (Future Nostalgia Tour) Houston, tx",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-12",
+		"dateEvent": "2022-03-12",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/toyota-center-houston-tx-389e9e7.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "Ckhj7YgZPu8",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-13",
+				"videoDescription": "Dua Lipa - Levitating (Future Nostalgia Tour) Houston, tx",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "bf8c203c-7be4-4087-b69f-672bc4a48b4f",
+		"description": "Dua Lipa - Break My Heart - Houston - Future Nostalgia Tour",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-12",
+		"dateEvent": "2022-03-12",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/toyota-center-houston-tx-389e9e7.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "jUW2Z_N5K94",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-13",
+				"videoDescription": "Dua Lipa - Break My Heart - Houston - Future Nostalgia Tour",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "d1d7da37-5db2-4902-9ef6-38b57691aa07",
+		"description": "Dua Lipa Future Nostalgia Tour - Houston - Boys will be Boys, One Kiss, Electricity Medley Fancam",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-12",
+		"dateEvent": "2022-03-12",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/toyota-center-houston-tx-389e9e7.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "KBlCt8AAbco",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-13",
+				"videoDescription": "Dua Lipa Future Nostalgia Tour - Houston - Boys will be Boys, One Kiss, Electricity Medley Fancam",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "8d586c36-8404-4f9e-955f-e6b5ace94707",
+		"description": "Dua Lipa Future Nostalgia - Houston - Don't Start Now Fan Cam",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-12",
+		"dateEvent": "2022-03-12",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/toyota-center-houston-tx-389e9e7.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "ke74gJyWwGk",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-13",
+				"videoDescription": "Dua Lipa Future Nostalgia - Houston - Don't Start Now Fan Cam",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "65edae0d-86f7-40a1-8c6b-965b071c255e",
+		"description": "Dua Lipa - Physical/New Rules (Future Nostalgia Tour) Houston, tx",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-12",
+		"dateEvent": "2022-03-12",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/toyota-center-houston-tx-389e9e7.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "KKaUfkkSK7w",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-13",
+				"videoDescription": "Dua Lipa - Physical/New Rules (Future Nostalgia Tour) Houston, tx",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "eb9c5070-3a7e-44c4-ad6b-652b74b57a9a",
+		"description": "Dua Lipa Future Nostalgia Tour - Houston - New Rules Fancam",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-12",
+		"dateEvent": "2022-03-12",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/toyota-center-houston-tx-389e9e7.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "lnlOXivSp6M",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-13",
+				"videoDescription": "Dua Lipa Future Nostalgia Tour - Houston - New Rules Fancam",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "f01eda2b-00f4-41ff-9c22-cacf225048a4",
+		"description": "Dua Lipa - Fever (Future Nostalgia Tour) Houston, Tx",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-12",
+		"dateEvent": "2022-03-12",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/toyota-center-houston-tx-389e9e7.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "MOOGlo4OG14",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-13",
+				"videoDescription": "Dua Lipa - Fever (Future Nostalgia Tour) Houston, Tx",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "e01a373a-1bbb-449c-a48d-b3c7c389cfbe",
+		"description": "Dua Lipa Future Nostalgia Tour - Houston - Hallucinate Fancam",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-12",
+		"dateEvent": "2022-03-12",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/toyota-center-houston-tx-389e9e7.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "nL4TCX7YyTo",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-13",
+				"videoDescription": "Dua Lipa Future Nostalgia Tour - Houston - Hallucinate Fancam",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "a79927bd-b42d-49f6-b3c5-91b14628eddf",
+		"description": "Dua Lipa - Club Nostalgia/One Kiss (Future  Nostalgia Tour) Houston, tx",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-12",
+		"dateEvent": "2022-03-12",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/toyota-center-houston-tx-389e9e7.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "NPL4kZkkNlQ",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-14",
+				"videoDescription": "Dua Lipa - Club Nostalgia/One Kiss (Future  Nostalgia Tour) Houston, tx",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "02aaac1b-561a-4232-85c4-391672e3ba58",
+		"description": "Dua Lipa Future Nostalgia Tour - Houston - Be The One Fancam",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-12",
+		"dateEvent": "2022-03-12",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/toyota-center-houston-tx-389e9e7.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "PCT5Q3A7gbI",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-13",
+				"videoDescription": "Dua Lipa Future Nostalgia Tour - Houston - Be The One Fancam",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "307a4d38-8472-4b2b-8fec-32fa2b77051a",
+		"description": "Dua Lipa Future Nostalgia Tour - Houston - We're good Fancam",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-12",
+		"dateEvent": "2022-03-12",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/toyota-center-houston-tx-389e9e7.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "s-dzRAOgOXY",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-13",
+				"videoDescription": "Dua Lipa Future Nostalgia Tour - Houston - We're good Fancam",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "a6f3f4fb-8ccd-4c2b-8553-326228b8b33e",
+		"description": "Dua Lipa Future Nostalgia Tour - Houston - Levitating Fancam",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-12",
+		"dateEvent": "2022-03-12",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/toyota-center-houston-tx-389e9e7.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "SWh8x5k4Y0o",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-13",
+				"videoDescription": "Dua Lipa Future Nostalgia Tour - Houston - Levitating Fancam",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "ac9ecb69-41b8-466c-b84e-437e62f98640",
+		"description": "Dua Lipa Future Nostalgia Tour - Houston - Pretty Please Fancam",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-12",
+		"dateEvent": "2022-03-12",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/toyota-center-houston-tx-389e9e7.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "UjbWsOhOakU",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-13",
+				"videoDescription": "Dua Lipa Future Nostalgia Tour - Houston - Pretty Please Fancam",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "b5d44896-e556-45a4-afc0-897ba35b0b34",
+		"description": "Dua Lipa - Love Again (Future Nostalgia Tour) Houston, tx",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-12",
+		"dateEvent": "2022-03-12",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/toyota-center-houston-tx-389e9e7.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "X-G0u-b8aEg",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-14",
+				"videoDescription": "Dua Lipa - Love Again (Future Nostalgia Tour) Houston, tx",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "0da9abef-a4df-4585-8dc1-8f96171b0d49",
+		"description": "Dua Lipa Future Nostalgia Tour - Houston - Physical Fancam",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-12",
+		"dateEvent": "2022-03-12",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/toyota-center-houston-tx-389e9e7.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "XcrbBPN1mOs",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-13",
+				"videoDescription": "Dua Lipa Future Nostalgia Tour - Houston - Physical Fancam",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "b8e61fd5-d0f5-4cdc-8ac0-aa2cb76d7034",
+		"description": "Dua Lipa - Don’t Start Now (Future Nostalgia Tour) Houston, tx",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-12",
+		"dateEvent": "2022-03-12",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/toyota-center-houston-tx-389e9e7.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "YTBkmhu4Csg",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-14",
+				"videoDescription": "Dua Lipa - Don’t Start Now (Future Nostalgia Tour) Houston, tx",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "94167bad-e096-442d-bc5a-75814370db4a",
+		"description": "Dua Lipa - The Future Nostalgia Tour - Don’t Start Now - Dallas, TX 3.13.22",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "5WaZtNDG1EE",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-14",
+				"videoDescription": "Dua Lipa - The Future Nostalgia Tour - Don’t Start Now - Dallas, TX 3.13.22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "8abea6a3-d619-4b62-b491-11b0ab904e03",
+		"description": "Dua Lipa - The Future Nostalgia Tour - New Rules - Dallas, TX - 3.13.22",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "9RzrBN6nuJM",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-14",
+				"videoDescription": "Dua Lipa - The Future Nostalgia Tour - New Rules - Dallas, TX - 3.13.22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "e369dd31-ade6-497c-86ba-dfdc477a9d77",
+		"description": "Dua Lipa Cold Heart Live American Airlines Center Dallas, Texas 03/13/22",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "9XvurMN6Yhc",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-14",
+				"videoDescription": "Dua Lipa Cold Heart Live American Airlines Center Dallas, Texas 03/13/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "4c11c9dc-5cd7-4a20-b996-b69dc6f74389",
+		"description": "Dua Lipa - The Future Nostalgia Tour - We’re Good - Dallas, TX 3.13.22",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "9zgOf1shNoI",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-14",
+				"videoDescription": "Dua Lipa - The Future Nostalgia Tour - We’re Good - Dallas, TX 3.13.22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "d7e0ae4e-4a5e-4431-a45a-7f55908f2f08",
+		"description": "Dua Lipa Dallas Levitating 3-13-2022",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "A2BgMvK2_MM",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-14",
+				"videoDescription": "Dua Lipa Dallas Levitating 3-13-2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "a55dea97-68c2-4d98-a299-63acbcaf0d64",
+		"description": "Dua Lipa - The Future Nostalgia Tour - Opening / Physical - Dallas, TX 3.13.22",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "B3h4FxIM38A",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-14",
+				"videoDescription": "Dua Lipa - The Future Nostalgia Tour - Opening / Physical - Dallas, TX 3.13.22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "3e939845-a3f3-4cbb-94e3-a2ff3104cfc4",
+		"description": "Dua Lipa - \"We're Good\" - 3/13/2022 - American Airlines Center - Dallas ,TX",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "DTs3Av-xSkE",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-14",
+				"videoDescription": "Dua Lipa - \"We're Good\" - 3/13/2022 - American Airlines Center - Dallas ,TX",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "b6e24f79-edc2-4221-9804-145b725c5491",
+		"description": "Dua Lipa - The Future Nostalgia Tour - Future Nostalgia - Dallas, TX 3.13.22",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "F60WA2owUsE",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-14",
+				"videoDescription": "Dua Lipa - The Future Nostalgia Tour - Future Nostalgia - Dallas, TX 3.13.22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "58e7ed2d-246a-4c45-b8f8-b5a9103a0a94",
+		"description": "Dua Lipa - The Future Nostalgia Tour - One Kiss / Electricity - Dallas, TX - 3.13.22",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "Gu0pu-6p-5A",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-14",
+				"videoDescription": "Dua Lipa - The Future Nostalgia Tour - One Kiss / Electricity - Dallas, TX - 3.13.22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "8e8dca89-8a7b-41e8-98ce-3e6ae9423036",
+		"description": "Dua Lipa - The Future Nostalgia Tour - Love Again / Cool - Dallas, TX 3.13.22",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "HCwdVzmnRMU",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-14",
+				"videoDescription": "Dua Lipa - The Future Nostalgia Tour - Love Again / Cool - Dallas, TX 3.13.22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "35e985ae-bf2c-4236-bbcf-20cdf03df463",
+		"description": "Dua Lipa - The Future Nostalgia Tour - Be The One - Dallas, TX 3.13.22",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "kCfzJUkz4tE",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-14",
+				"videoDescription": "Dua Lipa - The Future Nostalgia Tour - Be The One - Dallas, TX 3.13.22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "8125c530-0ad2-4bcf-99ad-6fd22b2bd623",
+		"description": "Dua Lipa Love Again Live American Airlines Center Dallas, Texas 03/13/22",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "L4S-DJuwUL0",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-14",
+				"videoDescription": "Dua Lipa Love Again Live American Airlines Center Dallas, Texas 03/13/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "b3d1aa2b-8e3c-4787-b58b-7771ee5bf585",
+		"description": "Dua Lipa - The Future Nostalgia Tour - Good in Bed - Dallas, TX 3.13.22",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "mHnapzT-4vg",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-14",
+				"videoDescription": "Dua Lipa - The Future Nostalgia Tour - Good in Bed - Dallas, TX 3.13.22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "6516cd43-01c0-4b8f-a7b0-8e071d0d1962",
+		"description": "Dua Lipa - \"Love Again\" - 3/13/2022 - American Airlines Center - Dallas ,TX",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "NTmEWc_1bpg",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-14",
+				"videoDescription": "Dua Lipa - \"Love Again\" - 3/13/2022 - American Airlines Center - Dallas ,TX",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "2f3e5d63-fb48-4b6c-bffb-c77e7b326d27",
+		"description": "Dua Lipa Dallas opening Physical",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "RWR9-7kBFJY",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-14",
+				"videoDescription": "Dua Lipa Dallas opening Physical",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "a7754b63-b971-4cc6-a2ae-04c2f40e3ed8",
+		"description": "Dua Lipa Don’t Start Now Live American Airlines Center Dallas, Texas 03/13/22",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "sUtwow3m8SQ",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-14",
+				"videoDescription": "Dua Lipa Don’t Start Now Live American Airlines Center Dallas, Texas 03/13/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "c59b54df-6d47-42f9-a0fa-978d61b39032",
+		"description": "Dua Lipa - The Future Nostalgia Tour - Boys Will Be Boys - Dallas, TX 3.13.22",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "vpuzyrQm_hk",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-14",
+				"videoDescription": "Dua Lipa - The Future Nostalgia Tour - Boys Will Be Boys - Dallas, TX 3.13.22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "5e92793b-8e3d-415b-b661-f1c13f98ba82",
+		"description": "Dua Lipa - The Future Nostalgia Tour - Cold Heart (PNAU Remix) - Dallas, TX 3.13.22",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "vqruJ5fIb-E",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-14",
+				"videoDescription": "Dua Lipa - The Future Nostalgia Tour - Cold Heart (PNAU Remix) - Dallas, TX 3.13.22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "321b652f-aec0-4e68-ae70-e268a6fd1e3a",
+		"description": "Dua Lipa - The Future Nostalgia Tour - Electricity / Hallucinate - Dallas, TX 3.13.22",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "WdyIrbHStBE",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-14",
+				"videoDescription": "Dua Lipa - The Future Nostalgia Tour - Electricity / Hallucinate - Dallas, TX 3.13.22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "36569ce1-1315-4e18-a3e9-2c92c59bd3e8",
+		"description": "Dua Lipa - The Future Nostalgia Tour - Break My Heart - Dallas, TX 3.13.22",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "WWhrr158aWI",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-14",
+				"videoDescription": "Dua Lipa - The Future Nostalgia Tour - Break My Heart - Dallas, TX 3.13.22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "ef4b6e46-a1bc-4070-821d-0afcaf603293",
+		"description": "Dua Lipa - The Future Nostalgia Tour - Levitating - Dallas, TX 3.13.22",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "xIDjWSUY65o",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-14",
+				"videoDescription": "Dua Lipa - The Future Nostalgia Tour - Levitating - Dallas, TX 3.13.22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "285a179f-a47a-4575-9d5b-24e50642573f",
+		"description": "Dua Lipa - The Future Nostalgia Tour - Pretty Please - Dallas, TX 3.13.22",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "XpMmyWoll2g",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-14",
+				"videoDescription": "Dua Lipa - The Future Nostalgia Tour - Pretty Please - Dallas, TX 3.13.22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "16d67c49-5cb8-40de-b3e7-eee92c6e7b6c",
+		"description": "Dua Lipa Physical Live American Airlines Center Dallas, Texas 03/13/22",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "XqBEfgPS5Rg",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-14",
+				"videoDescription": "Dua Lipa Physical Live American Airlines Center Dallas, Texas 03/13/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "74f0496a-3254-4948-9238-d1da4ef9225c",
+		"description": "Dua Lipa - The Future Nostalgia Tour - Fever - Dallas, TX 3.13.22",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "YvN7DaDlCb4",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-14",
+				"videoDescription": "Dua Lipa - The Future Nostalgia Tour - Fever - Dallas, TX 3.13.22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
+	},
+	{
+		"id": "96439e20-87d7-4223-b8bd-a62a5ebe5362",
+		"description": "Dua Lipa - \"Levitating\" - 3/13/2022 - American Airlines Center - Dallas ,TX",
+		"dateDatabase": "03/14/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "zGvtdCAfbgA",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-14",
+				"videoDescription": "Dua Lipa - \"Levitating\" - 3/13/2022 - American Airlines Center - Dallas ,TX",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "needSong"
+			}
+		]
 	}
 ]

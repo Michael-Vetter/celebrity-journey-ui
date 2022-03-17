@@ -100,6 +100,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "o2MoZOTw1TLEmtFnZfEEsTZG3QI",
+    "id": "-6kkZtE1-i0",
+    "snippet": {
+      "publishedAt": "2017-03-13T15:14:07Z",
+      "channelId": "UCCiUoUErcU8tPHdtecHAyfw",
+      "title": "Dua Lipa - Thinkin' Bout You - Houston, TX 03.11.17",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-6kkZtE1-i0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-6kkZtE1-i0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-6kkZtE1-i0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-6kkZtE1-i0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-6kkZtE1-i0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sloane Conner",
+      "categoryId": "23",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Thinkin' Bout You - Houston, TX 03.11.17",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "163",
+      "likeCount": "5",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "VHICgc83uq2HBKgWG6xHfgBOHAc",
     "id": "-7hQRFXz7YY",
     "snippet": {
@@ -236,6 +287,58 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "zhjY8ai61w1G2LyfRNs5L1wSOP4",
+    "id": "-AD18wDGnYU",
+    "snippet": {
+      "publishedAt": "2017-04-02T03:09:13Z",
+      "channelId": "UCp_KmeBcYxc1aievmxjXuoQ",
+      "title": "Dua Lipa Performing 'Blow Your Mind' at LOS40 in Spain (03.31)",
+      "description": "Dua Lipa Performing 'Blow Your Mind' at LOS40 in Spain (03.31)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-AD18wDGnYU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-AD18wDGnYU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-AD18wDGnYU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-AD18wDGnYU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Dua Lipa Videos",
+      "tags": [
+        "dua lipa",
+        "blow your mind",
+        "scared to be lonely",
+        "martin garrix"
+      ],
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Performing 'Blow Your Mind' at LOS40 in Spain (03.31)",
+        "description": "Dua Lipa Performing 'Blow Your Mind' at LOS40 in Spain (03.31)"
+      }
+    },
+    "statistics": {
+      "viewCount": "1577",
+      "likeCount": "33",
+      "favoriteCount": "0",
+      "commentCount": "3"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "qT6MIMR-ONfHow1fCXn-OeWh68s",
     "id": "-CyN7ZbbV2o",
     "snippet": {
@@ -301,6 +404,64 @@
       "likeCount": "1305",
       "favoriteCount": "0",
       "commentCount": "38"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "Zvx5UbPribipMEl3ifw2yucfagc",
+    "id": "-d2pNSwmHXo",
+    "snippet": {
+      "publishedAt": "2016-10-08T00:53:52Z",
+      "channelId": "UCL0lyK4uME4KuoJEzc8mYsQ",
+      "title": "Dua Lipa   For Julian, live at the Academy Dublin",
+      "description": "Dua Lipa performs..for Julian at the Academy in Dublin on October 5th 2016.  This song is not on her album \n\nwww.dualipa.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-d2pNSwmHXo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-d2pNSwmHXo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-d2pNSwmHXo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-d2pNSwmHXo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-d2pNSwmHXo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DabbyNoNa",
+      "tags": [
+        "dua lipa",
+        "for julian",
+        "not on her album",
+        "dublin",
+        "the academy"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa   For Julian, live at the Academy Dublin",
+        "description": "Dua Lipa performs..for Julian at the Academy in Dublin on October 5th 2016.  This song is not on her album \n\nwww.dualipa.com"
+      }
+    },
+    "statistics": {
+      "viewCount": "6646",
+      "likeCount": "216",
+      "favoriteCount": "0",
+      "commentCount": "7"
     }
   },
   {
@@ -1191,6 +1352,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "cQllwo1eFKC6mNaTPs8PN5GXqFo",
+    "id": "09Le0DUB9LQ",
+    "snippet": {
+      "publishedAt": "2018-06-07T05:53:45Z",
+      "channelId": "UCCiUoUErcU8tPHdtecHAyfw",
+      "title": "Dua Lipa - Scared to Be Lonely - Houston, TX 06.05.18",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/09Le0DUB9LQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/09Le0DUB9LQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/09Le0DUB9LQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/09Le0DUB9LQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/09Le0DUB9LQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sloane Conner",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Scared to Be Lonely - Houston, TX 06.05.18",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "146",
+      "likeCount": "3",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "l9gBnZDhB6rqipi78a9SWM792E8",
     "id": "0BPNDm52HaI",
     "snippet": {
@@ -1485,6 +1697,47 @@
       "likeCount": "171389",
       "favoriteCount": "0",
       "commentCount": "3653"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "JRddoKswbMaw1MIW-bhVTm_lLb0",
+    "id": "0MKD8i3ZRpg",
+    "snippet": {
+      "publishedAt": "2022-03-08T02:34:32Z",
+      "channelId": "UCa46vQBD7_OoDesSg3ITl4g",
+      "title": "Dua Lipa- We’re Good (Future Nostalgia Tour)",
+      "description": "March 4th 2022",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0MKD8i3ZRpg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0MKD8i3ZRpg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0MKD8i3ZRpg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Alexis Soriano",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa- We’re Good (Future Nostalgia Tour)",
+        "description": "March 4th 2022"
+      }
+    },
+    "statistics": {
+      "viewCount": "110",
+      "likeCount": "6",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -3213,6 +3466,59 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "326xmMGGGN-HXCQ1T94_xqVsVs8",
+    "id": "1YxfNDzG9Y8",
+    "snippet": {
+      "publishedAt": "2017-03-05T05:06:29Z",
+      "channelId": "UC68vj3nHm3kH9vrGlAjzOGA",
+      "title": "Dua Lipa - Genesis (Live in Boston 2017)",
+      "description": "\"Genesis\" by Dua Lipa\n\nPerforming live in Boston on March 4, 2017",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1YxfNDzG9Y8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1YxfNDzG9Y8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1YxfNDzG9Y8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1YxfNDzG9Y8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1YxfNDzG9Y8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Ishrar Hussain",
+      "tags": ["dua lipa", "genesis", "boston", "2017", "concert", "live"],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Dua Lipa - Genesis (Live in Boston 2017)",
+        "description": "\"Genesis\" by Dua Lipa\n\nPerforming live in Boston on March 4, 2017"
+      }
+    },
+    "statistics": {
+      "viewCount": "23183",
+      "likeCount": "412",
+      "favoriteCount": "0",
+      "commentCount": "10"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "8A1rEUzREer5BSxdBVc0ELOiK7A",
     "id": "1Zb6-rWWn2s",
     "snippet": {
@@ -4368,6 +4674,54 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "ZgJYpzSqf6wguyf-EDTVKAlvMZ8",
+    "id": "2sT391H3xC0",
+    "snippet": {
+      "publishedAt": "2017-03-09T01:09:00Z",
+      "channelId": "UCp_KmeBcYxc1aievmxjXuoQ",
+      "title": "Dua Lipa Performing 'Bad Together' Live (03.05)",
+      "description": "Dua Lipa Performing \"Bad Togther\" 03.05 in Washington D.C at Rock N Roll Hotel with her tour from US.\n(vía @hadidmez on Twitter).",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2sT391H3xC0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2sT391H3xC0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2sT391H3xC0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Dua Lipa Videos",
+      "tags": [
+        "dua lipa",
+        "live",
+        "performing",
+        "fifth harmony",
+        "lauren jauregui"
+      ],
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Performing 'Bad Together' Live (03.05)",
+        "description": "Dua Lipa Performing \"Bad Togther\" 03.05 in Washington D.C at Rock N Roll Hotel with her tour from US.\n(vía @hadidmez on Twitter)."
+      }
+    },
+    "statistics": {
+      "viewCount": "293",
+      "likeCount": "4",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "Pz0M3-DHfH5V49Kno1a4MKCbLco",
     "id": "2tWa0Rr6Imw",
     "snippet": {
@@ -4754,6 +5108,71 @@
       "likeCount": "166",
       "favoriteCount": "0",
       "commentCount": "5"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "EuEUbefRHjbn1YGus44CNgS-Gr0",
+    "id": "2ZFcMH-BEow",
+    "snippet": {
+      "publishedAt": "2017-03-07T01:24:28Z",
+      "channelId": "UCp_KmeBcYxc1aievmxjXuoQ",
+      "title": "Dua Lipa Performing Scared To Be Lonely Live (03.05)",
+      "description": "Dua Lipa Performing \"Scared To Be Lonely\" 03.05 in Washington D.C at Rock N Roll Hotel with her tour from US.\n(vía @hadidmez on Twitter)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2ZFcMH-BEow/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2ZFcMH-BEow/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2ZFcMH-BEow/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2ZFcMH-BEow/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2ZFcMH-BEow/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dua Lipa Videos",
+      "tags": [
+        "dua lipa live",
+        "live",
+        "fifth harmony",
+        "love",
+        "dua lipa",
+        "vivo",
+        "camila",
+        "cabello",
+        "lauren",
+        "jauregui"
+      ],
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Dua Lipa Performing Scared To Be Lonely Live (03.05)",
+        "description": "Dua Lipa Performing \"Scared To Be Lonely\" 03.05 in Washington D.C at Rock N Roll Hotel with her tour from US.\n(vía @hadidmez on Twitter)"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "statistics": {
+      "viewCount": "5817",
+      "likeCount": "58",
+      "favoriteCount": "0",
+      "commentCount": "2"
     }
   },
   {
@@ -6073,6 +6492,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "6L-KNpMdyxxB8ToQXDkX9Zoy8aw",
+    "id": "3Z6tgOUQR1A",
+    "snippet": {
+      "publishedAt": "2017-03-13T15:08:55Z",
+      "channelId": "UCCiUoUErcU8tPHdtecHAyfw",
+      "title": "Dua Lipa - No Lie - Houston, TX 03.11.17",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3Z6tgOUQR1A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3Z6tgOUQR1A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3Z6tgOUQR1A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3Z6tgOUQR1A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3Z6tgOUQR1A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sloane Conner",
+      "categoryId": "23",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - No Lie - Houston, TX 03.11.17",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "47445",
+      "likeCount": "1305",
+      "favoriteCount": "0",
+      "commentCount": "15"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "-d1jSsfYY9-d-6SPvu527NK8Db8",
     "id": "3_GrykNC_eQ",
     "snippet": {
@@ -6784,6 +7254,58 @@
       "likeCount": "949",
       "favoriteCount": "0",
       "commentCount": "54"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "iAvKBaeqMkFbgDOO0YDA_xAiTmM",
+    "id": "4hJnQsJi1YA",
+    "snippet": {
+      "publishedAt": "2017-03-07T02:02:37Z",
+      "channelId": "UCp_KmeBcYxc1aievmxjXuoQ",
+      "title": "Dua Lipa Performing 'Room For 2' Live (03.05)",
+      "description": "Dua Lipa Performing \"Room For 2\" 03.05 in Washington D.C at Rock N Roll Hotel with her tour from US.\n(vía @hadidmez on Twitter).",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4hJnQsJi1YA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4hJnQsJi1YA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4hJnQsJi1YA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4hJnQsJi1YA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4hJnQsJi1YA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dua Lipa Videos",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Dua Lipa Performing 'Room For 2' Live (03.05)",
+        "description": "Dua Lipa Performing \"Room For 2\" 03.05 in Washington D.C at Rock N Roll Hotel with her tour from US.\n(vía @hadidmez on Twitter)."
+      }
+    },
+    "statistics": {
+      "viewCount": "330",
+      "likeCount": "13",
+      "favoriteCount": "0",
+      "commentCount": "1"
     }
   },
   {
@@ -7754,6 +8276,65 @@
       "likeCount": "79",
       "favoriteCount": "0",
       "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "uLW1mJVPRb80rj1zn5niLkFTOLg",
+    "id": "58VFikvukcs",
+    "snippet": {
+      "publishedAt": "2017-04-16T01:37:25Z",
+      "channelId": "UCL0lyK4uME4KuoJEzc8mYsQ",
+      "title": "Dua Lipa, Thinking about you , O2 Empire Shepards Bush, London",
+      "description": "Dua Lipa sings  Thinking 'Bout You at the 02 Empire Shepards Bush  on April 13th 2017",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/58VFikvukcs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/58VFikvukcs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/58VFikvukcs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/58VFikvukcs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/58VFikvukcs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DabbyNoNa",
+      "tags": [
+        "Dua Lipa",
+        "london",
+        "shepards bush",
+        "empire",
+        "thinking about you",
+        "thinking 'bout you"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa, Thinking about you , O2 Empire Shepards Bush, London",
+        "description": "Dua Lipa sings  Thinking 'Bout You at the 02 Empire Shepards Bush  on April 13th 2017"
+      }
+    },
+    "statistics": {
+      "viewCount": "179",
+      "likeCount": "5",
+      "favoriteCount": "0",
+      "commentCount": "4"
     }
   },
   {
@@ -9131,6 +9712,57 @@
       "likeCount": "23872",
       "favoriteCount": "0",
       "commentCount": "520"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "gk8zw4O_jvJkUSdeShATCYwx5p8",
+    "id": "6bamjH_6EUc",
+    "snippet": {
+      "publishedAt": "2017-03-12T22:01:11Z",
+      "channelId": "UCCiUoUErcU8tPHdtecHAyfw",
+      "title": "Dua Lipa - Bad Together - Houston, TX 03.11.17",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6bamjH_6EUc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6bamjH_6EUc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6bamjH_6EUc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6bamjH_6EUc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6bamjH_6EUc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sloane Conner",
+      "categoryId": "23",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Bad Together - Houston, TX 03.11.17",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "393",
+      "likeCount": "13",
+      "favoriteCount": "0",
+      "commentCount": "2"
     }
   },
   {
@@ -11507,6 +12139,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "231x-dLSWQfzZp8egQtGmA_uKSA",
+    "id": "8mHjR-JqTyY",
+    "snippet": {
+      "publishedAt": "2017-03-13T15:27:28Z",
+      "channelId": "UCCiUoUErcU8tPHdtecHAyfw",
+      "title": "Dua Lipa - Genesis - Houston, TX 03.11.17",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8mHjR-JqTyY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8mHjR-JqTyY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8mHjR-JqTyY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8mHjR-JqTyY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8mHjR-JqTyY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sloane Conner",
+      "categoryId": "23",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Genesis - Houston, TX 03.11.17",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "698",
+      "likeCount": "13",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "Vv13hl97LgdSUVK7HBMdYa-2PPg",
     "id": "8O2FqKfJG24",
     "snippet": {
@@ -12880,6 +13563,99 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "1cmaDLaCLIkk5vW5xSdp7AXh7rs",
+    "id": "9t1rGI4KYJc",
+    "snippet": {
+      "publishedAt": "2022-03-08T01:39:56Z",
+      "channelId": "UCa46vQBD7_OoDesSg3ITl4g",
+      "title": "Dua Lipa- Don’t Start Now (Future Nostalgia Tour)",
+      "description": "March 4th 2022",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9t1rGI4KYJc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9t1rGI4KYJc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9t1rGI4KYJc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Alexis Soriano",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa- Don’t Start Now (Future Nostalgia Tour)",
+        "description": "March 4th 2022"
+      }
+    },
+    "statistics": {
+      "viewCount": "1272",
+      "likeCount": "44",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "KaEZ-CH6Zkzf-TQsiac_XEGHR7I",
+    "id": "9TpveXyChLI",
+    "snippet": {
+      "publishedAt": "2017-03-05T04:58:58Z",
+      "channelId": "UC68vj3nHm3kH9vrGlAjzOGA",
+      "title": "Dua Lipa - Last Dance & Want To (Live in Boston 2017)",
+      "description": "\"Last Dance\" & \"Want To\" by Dua Lipa\n\nPerforming live in Boston on March 4, 2017",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9TpveXyChLI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9TpveXyChLI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9TpveXyChLI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Ishrar Hussain",
+      "tags": [
+        "dua lipa",
+        "last dance",
+        "want to",
+        "boston",
+        "2017",
+        "concert",
+        "live"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Dua Lipa - Last Dance & Want To (Live in Boston 2017)",
+        "description": "\"Last Dance\" & \"Want To\" by Dua Lipa\n\nPerforming live in Boston on March 4, 2017"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "statistics": {
+      "viewCount": "24755",
+      "likeCount": "548",
+      "favoriteCount": "0",
+      "commentCount": "13"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "dDTpeRu8iYZgQiOBOMp0KR7oMFQ",
     "id": "9vDAvkO3gzY",
     "snippet": {
@@ -13221,6 +13997,65 @@
       "likeCount": "108",
       "favoriteCount": "0",
       "commentCount": "2"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "U4iGwnlyFJNMGA6ublewAgaOkVI",
+    "id": "A28xFmbPJCc",
+    "snippet": {
+      "publishedAt": "2017-04-15T23:35:51Z",
+      "channelId": "UCL0lyK4uME4KuoJEzc8mYsQ",
+      "title": "Dual Lipa, Hotter than Hell, O2 Empire , Shepard's Bush  April 2017",
+      "description": "Dua lipa, o2 empire, Shepards bush, april 13th 2017",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/A28xFmbPJCc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/A28xFmbPJCc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/A28xFmbPJCc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/A28xFmbPJCc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/A28xFmbPJCc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DabbyNoNa",
+      "tags": [
+        "empire",
+        "dua lipa",
+        "o2",
+        "london",
+        "hotter than hell",
+        "shepards bush"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dual Lipa, Hotter than Hell, O2 Empire , Shepard's Bush  April 2017",
+        "description": "Dua lipa, o2 empire, Shepards bush, april 13th 2017"
+      }
+    },
+    "statistics": {
+      "viewCount": "543",
+      "likeCount": "12",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -15352,6 +16187,66 @@
       "likeCount": "101",
       "favoriteCount": "0",
       "commentCount": "6"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "2E9Uc4EL15wKp1-gGM1FW4j8xiQ",
+    "id": "Ba9KuykBWx0",
+    "snippet": {
+      "publishedAt": "2017-04-17T14:10:23Z",
+      "channelId": "UCL0lyK4uME4KuoJEzc8mYsQ",
+      "title": "Dua Lipa, Last Dance, O2 Empire London , April 13th 2017",
+      "description": "Dua Lipa sings Last Dance to a full house at the O2 Empire Shepards Bush London on April 13th 2017.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ba9KuykBWx0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ba9KuykBWx0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ba9KuykBWx0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Ba9KuykBWx0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Ba9KuykBWx0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DabbyNoNa",
+      "tags": [
+        "Dua Lipa",
+        "o2",
+        "empire",
+        "london",
+        "april",
+        "13th",
+        "last dance"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa, Last Dance, O2 Empire London , April 13th 2017",
+        "description": "Dua Lipa sings Last Dance to a full house at the O2 Empire Shepards Bush London on April 13th 2017."
+      }
+    },
+    "statistics": {
+      "viewCount": "4966",
+      "likeCount": "61",
+      "favoriteCount": "0",
+      "commentCount": "2"
     }
   },
   {
@@ -19124,6 +20019,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "n1cxBTIV35P5fNav73w2slC26E4",
+    "id": "CLl2XwRBcGs",
+    "snippet": {
+      "publishedAt": "2018-06-06T05:51:19Z",
+      "channelId": "UCCiUoUErcU8tPHdtecHAyfw",
+      "title": "Dua Lipa - Blow Your Mind - Houston, TX 06.05.18",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CLl2XwRBcGs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CLl2XwRBcGs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CLl2XwRBcGs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/CLl2XwRBcGs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/CLl2XwRBcGs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sloane Conner",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Blow Your Mind - Houston, TX 06.05.18",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "1696",
+      "likeCount": "23",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "nBF5_7ZNmxu4EfnJAQYy8oi34xc",
     "id": "cmnlPhspCn8",
     "snippet": {
@@ -21301,6 +22247,61 @@
       "likeCount": "52544",
       "favoriteCount": "0",
       "commentCount": "623"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "ZwIVykGP3a62QhG0luUjIKQjChA",
+    "id": "DK9Gskh3Fpw",
+    "snippet": {
+      "publishedAt": "2017-11-11T21:32:07Z",
+      "channelId": "UCp_KmeBcYxc1aievmxjXuoQ",
+      "title": "Dua Lipa Cantando New Rules En Sao Pablo (09.11)",
+      "description": "Dua Lipa Cantando New Rules en Sao Pablo el día 9 de noviembre, en su tour por Latinoamerica.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DK9Gskh3Fpw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DK9Gskh3Fpw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DK9Gskh3Fpw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Dua Lipa Videos",
+      "tags": [
+        "dua lipa",
+        "brasil",
+        "new rules",
+        "cancion",
+        "musica",
+        "justin bieber",
+        "selena gomez",
+        "argentina",
+        "chile",
+        "colombia",
+        "peru",
+        "paraguay"
+      ],
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Cantando New Rules En Sao Pablo (09.11)",
+        "description": "Dua Lipa Cantando New Rules en Sao Pablo el día 9 de noviembre, en su tour por Latinoamerica."
+      }
+    },
+    "statistics": {
+      "viewCount": "111",
+      "likeCount": "3",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -24305,6 +25306,47 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "fFAOy-deSJmHNDJlpCneiwOqrPU",
+    "id": "En37sVzpz1c",
+    "snippet": {
+      "publishedAt": "2022-03-08T02:17:29Z",
+      "channelId": "UCa46vQBD7_OoDesSg3ITl4g",
+      "title": "Dua Lipa- Boys Will Be Boys (Future Nostalgia Tour)",
+      "description": "March 4th 2022",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/En37sVzpz1c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/En37sVzpz1c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/En37sVzpz1c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Alexis Soriano",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa- Boys Will Be Boys (Future Nostalgia Tour)",
+        "description": "March 4th 2022"
+      }
+    },
+    "statistics": {
+      "viewCount": "59",
+      "likeCount": "4",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "cDbVAtqlNZm3SmFRo2lBHqzSp1c",
     "id": "enW-fNTOnWM",
     "snippet": {
@@ -24636,6 +25678,57 @@
     "statistics": {
       "viewCount": "1275",
       "likeCount": "54",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "yjyLh5_xLsOPczQfGkXOfyEF2pQ",
+    "id": "erxJIMn6eoM",
+    "snippet": {
+      "publishedAt": "2018-06-07T05:15:13Z",
+      "channelId": "UCCiUoUErcU8tPHdtecHAyfw",
+      "title": "Dua Lipa - Thinking ‘Bout You - Houston, TX 06.05.18",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/erxJIMn6eoM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/erxJIMn6eoM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/erxJIMn6eoM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/erxJIMn6eoM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/erxJIMn6eoM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sloane Conner",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Thinking ‘Bout You - Houston, TX 06.05.18",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "250",
+      "likeCount": "2",
       "favoriteCount": "0",
       "commentCount": "0"
     }
@@ -25068,6 +26161,57 @@
       "likeCount": "37",
       "favoriteCount": "0",
       "commentCount": "1"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "xWfT8UuK-4cx5F9g0ZWeHjuSjm0",
+    "id": "EX9JGwzJ0fs",
+    "snippet": {
+      "publishedAt": "2017-03-12T18:21:19Z",
+      "channelId": "UCCiUoUErcU8tPHdtecHAyfw",
+      "title": "Dua Lipa - Want To - Houston TX, 03.11.17",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EX9JGwzJ0fs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EX9JGwzJ0fs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EX9JGwzJ0fs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/EX9JGwzJ0fs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/EX9JGwzJ0fs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sloane Conner",
+      "categoryId": "23",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Want To - Houston TX, 03.11.17",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "10813",
+      "likeCount": "285",
+      "favoriteCount": "0",
+      "commentCount": "16"
     }
   },
   {
@@ -25682,6 +26826,58 @@
       "likeCount": "71042",
       "favoriteCount": "0",
       "commentCount": "1646"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "XJkxgM_UiqlWn1VTtUppsQSijmo",
+    "id": "F9VSUBrhS9E",
+    "snippet": {
+      "publishedAt": "2018-04-15T21:12:06Z",
+      "channelId": "UCL0lyK4uME4KuoJEzc8mYsQ",
+      "title": "Dua Lipa , Garden, Olympia Dublin April 10th 2018",
+      "description": "Dua Lipa performs Garden at the Olympia Theatre in Dublin on April 10th 2018",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/F9VSUBrhS9E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/F9VSUBrhS9E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/F9VSUBrhS9E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/F9VSUBrhS9E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/F9VSUBrhS9E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DabbyNoNa",
+      "tags": ["Dua Lipa", "olympia theatre", "2018", "april", "garden"],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa , Garden, Olympia Dublin April 10th 2018",
+        "description": "Dua Lipa performs Garden at the Olympia Theatre in Dublin on April 10th 2018"
+      }
+    },
+    "statistics": {
+      "viewCount": "3236",
+      "likeCount": "103",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -27538,6 +28734,54 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "eh-LxGkAOpds_d9lfplBW2v8zUk",
+    "id": "fYJP2SozEy8",
+    "snippet": {
+      "publishedAt": "2017-03-09T01:11:16Z",
+      "channelId": "UCp_KmeBcYxc1aievmxjXuoQ",
+      "title": "Dua Lipa Performing 'Hotter Than Hell' Live (03.05)",
+      "description": "Dua Lipa Performing \"Hotter Than Hell\" 03.05 in Washington D.C at Rock N Roll Hotel with her tour from US.\n(vía @hadidmez on Twitter).",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fYJP2SozEy8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fYJP2SozEy8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fYJP2SozEy8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Dua Lipa Videos",
+      "tags": [
+        "dua lipa",
+        "performing",
+        "live",
+        "fifth harmony",
+        "lauren jauregui"
+      ],
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Performing 'Hotter Than Hell' Live (03.05)",
+        "description": "Dua Lipa Performing \"Hotter Than Hell\" 03.05 in Washington D.C at Rock N Roll Hotel with her tour from US.\n(vía @hadidmez on Twitter)."
+      }
+    },
+    "statistics": {
+      "viewCount": "452",
+      "likeCount": "9",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "WQk2Fobl8iqZrGeGA-J-NVtNwD4",
     "id": "fZB-ptAnoQc",
     "snippet": {
@@ -28715,6 +29959,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "vdsKXzQwLomWUWyHc5w8H0PzWT4",
+    "id": "GAlo0HIBOO0",
+    "snippet": {
+      "publishedAt": "2018-06-07T05:28:34Z",
+      "channelId": "UCCiUoUErcU8tPHdtecHAyfw",
+      "title": "Dua Lipa - New Love - Houston, TX 06.05.18",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GAlo0HIBOO0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GAlo0HIBOO0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GAlo0HIBOO0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GAlo0HIBOO0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GAlo0HIBOO0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sloane Conner",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - New Love - Houston, TX 06.05.18",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "105",
+      "likeCount": "1",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "nRAHkpxyJWd3VmHsxa6K-DUCqio",
     "id": "GASk7MPlq8A",
     "snippet": {
@@ -29371,6 +30666,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "jkfmEAk_1f_Hf9M7MBuM5csZM1k",
+    "id": "GHcmi4Pn_nA",
+    "snippet": {
+      "publishedAt": "2018-06-06T21:20:20Z",
+      "channelId": "UCCiUoUErcU8tPHdtecHAyfw",
+      "title": "Dua Lipa - Lost in Your Light - Houston, TX 06.05.18",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GHcmi4Pn_nA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GHcmi4Pn_nA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GHcmi4Pn_nA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GHcmi4Pn_nA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GHcmi4Pn_nA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sloane Conner",
+      "categoryId": "23",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Lost in Your Light - Houston, TX 06.05.18",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "135",
+      "likeCount": "4",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "z9_rq_l71JHA6OCq4Uwi8_nuFpY",
     "id": "gHH69xT4vKw",
     "snippet": {
@@ -29759,6 +31105,57 @@
       "likeCount": "1425",
       "favoriteCount": "0",
       "commentCount": "73"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "BSHBb33wL96Y5Cs5VU4px3CLrpY",
+    "id": "GPYBaYBBiGI",
+    "snippet": {
+      "publishedAt": "2018-04-11T22:09:43Z",
+      "channelId": "UCL0lyK4uME4KuoJEzc8mYsQ",
+      "title": "Dua Lipa, Homesick , Dublin Olympia, 10th April 2018.",
+      "description": "Dua Lipa performs Homesick on the second night of her two nights at the Olympia Dublin on April 4th 2018",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GPYBaYBBiGI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GPYBaYBBiGI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GPYBaYBBiGI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GPYBaYBBiGI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GPYBaYBBiGI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DabbyNoNa",
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa, Homesick , Dublin Olympia, 10th April 2018.",
+        "description": "Dua Lipa performs Homesick on the second night of her two nights at the Olympia Dublin on April 4th 2018"
+      }
+    },
+    "statistics": {
+      "viewCount": "3688",
+      "likeCount": "88",
+      "favoriteCount": "0",
+      "commentCount": "2"
     }
   },
   {
@@ -31394,6 +32791,64 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "e7fTQ29il2LXS1KVPlSe-L4YedM",
+    "id": "Hiw1Ra12InI",
+    "snippet": {
+      "publishedAt": "2017-03-09T01:20:23Z",
+      "channelId": "UCp_KmeBcYxc1aievmxjXuoQ",
+      "title": "Dua Lipa Performing 'Thinking Bout You' Live (03.05)",
+      "description": "Dua Lipa Performing \"Thinking Bout You\" 03.05 in Washington D.C at Rock N Roll Hotel with her tour from US.\n(vía @hadidmez on Twitter).",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Hiw1Ra12InI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Hiw1Ra12InI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Hiw1Ra12InI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Hiw1Ra12InI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Hiw1Ra12InI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dua Lipa Videos",
+      "tags": [
+        "dua lipa",
+        "performing",
+        "live",
+        "fifth harmony",
+        "lauren jauregui"
+      ],
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Performing 'Thinking Bout You' Live (03.05)",
+        "description": "Dua Lipa Performing \"Thinking Bout You\" 03.05 in Washington D.C at Rock N Roll Hotel with her tour from US.\n(vía @hadidmez on Twitter)."
+      }
+    },
+    "statistics": {
+      "viewCount": "158",
+      "likeCount": "4",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "08wKafYVoiO5cxAy8dPsNG2luG4",
     "id": "HJCa-p6EZis",
     "snippet": {
@@ -31530,6 +32985,65 @@
       "likeCount": "86063",
       "favoriteCount": "0",
       "commentCount": "1788"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "txG7kp3fn5hBwdxStJ2XTDrRotA",
+    "id": "hjz2K_y_o3g",
+    "snippet": {
+      "publishedAt": "2016-10-06T08:37:35Z",
+      "channelId": "UCL0lyK4uME4KuoJEzc8mYsQ",
+      "title": "Dua Lipa,  Blow Your Mind (Mwah)  at the Academy Dublin",
+      "description": "Dua Lipa performs Blow your mind  (Mwah) to a full house at the Academy Dublin on October 201\nwww.dualipa.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hjz2K_y_o3g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hjz2K_y_o3g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hjz2K_y_o3g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hjz2K_y_o3g/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hjz2K_y_o3g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DabbyNoNa",
+      "tags": [
+        "Dua Lipa",
+        "the academy",
+        "dublin",
+        "blow your mind",
+        "october 5th 2016",
+        "mwah"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa,  Blow Your Mind (Mwah)  at the Academy Dublin",
+        "description": "Dua Lipa performs Blow your mind  (Mwah) to a full house at the Academy Dublin on October 201\nwww.dualipa.com"
+      }
+    },
+    "statistics": {
+      "viewCount": "13258",
+      "likeCount": "213",
+      "favoriteCount": "0",
+      "commentCount": "7"
     }
   },
   {
@@ -38598,6 +40112,67 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "Grvi9F-E1ZfViKXTtAOdgOO1B3s",
+    "id": "juCCRJY4KVE",
+    "snippet": {
+      "publishedAt": "2017-03-05T05:24:16Z",
+      "channelId": "UC68vj3nHm3kH9vrGlAjzOGA",
+      "title": "Dua Lipa - Blow Your Mind (Live in Boston 2017)",
+      "description": "\"Blow Your Mind (Mwah)\" by Dua Lipa\n\nPerforming live in Boston on March 4, 2017",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/juCCRJY4KVE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/juCCRJY4KVE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/juCCRJY4KVE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/juCCRJY4KVE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/juCCRJY4KVE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Ishrar Hussain",
+      "tags": [
+        "dua lipa",
+        "blow your mind",
+        "boston",
+        "2017",
+        "concert",
+        "live",
+        "mwah"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Dua Lipa - Blow Your Mind (Live in Boston 2017)",
+        "description": "\"Blow Your Mind (Mwah)\" by Dua Lipa\n\nPerforming live in Boston on March 4, 2017"
+      }
+    },
+    "statistics": {
+      "viewCount": "4037",
+      "likeCount": "77",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "748sFvDEvnU4jJ0ol5gIYh0hPPI",
     "id": "jUW2Z_N5K94",
     "snippet": {
@@ -39094,6 +40669,109 @@
       "likeCount": "75",
       "favoriteCount": "0",
       "commentCount": "4"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "yMq6pJYAjOOgRDTKQ_Ir7DvjpqI",
+    "id": "jXBQumoKMM0",
+    "snippet": {
+      "publishedAt": "2018-04-15T22:21:55Z",
+      "channelId": "UCL0lyK4uME4KuoJEzc8mYsQ",
+      "title": "Dua Lipa, High, Olympia Dublin April 10th 2018",
+      "description": "Dua Lipa performs High at the Olympia Theatre Dublin on April 10th 2018",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jXBQumoKMM0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jXBQumoKMM0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jXBQumoKMM0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jXBQumoKMM0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jXBQumoKMM0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DabbyNoNa",
+      "tags": ["Dua Lipa", "olympia", "April", "High", "2018"],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa, High, Olympia Dublin April 10th 2018",
+        "description": "Dua Lipa performs High at the Olympia Theatre Dublin on April 10th 2018"
+      }
+    },
+    "statistics": {
+      "viewCount": "1163",
+      "likeCount": "22",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "pA5yvjPehyveaAPP9UCyUZHLz-4",
+    "id": "JxbViuPfekw",
+    "snippet": {
+      "publishedAt": "2017-03-13T15:35:16Z",
+      "channelId": "UCCiUoUErcU8tPHdtecHAyfw",
+      "title": "Dua Lipa - Be the One - Houston, TX 03.11.17",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JxbViuPfekw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JxbViuPfekw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JxbViuPfekw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JxbViuPfekw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JxbViuPfekw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sloane Conner",
+      "categoryId": "23",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Be the One - Houston, TX 03.11.17",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "184",
+      "likeCount": "6",
+      "favoriteCount": "0",
+      "commentCount": "1"
     }
   },
   {
@@ -40068,6 +41746,109 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "WX73bfYIb7pjL2vFqOmo5725sos",
+    "id": "KA3RqT_cahw",
+    "snippet": {
+      "publishedAt": "2017-03-13T15:19:09Z",
+      "channelId": "UCCiUoUErcU8tPHdtecHAyfw",
+      "title": "Dua Lipa - Scared to Be Lonely - Houston, TX 03.11.17",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KA3RqT_cahw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KA3RqT_cahw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KA3RqT_cahw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KA3RqT_cahw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KA3RqT_cahw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sloane Conner",
+      "categoryId": "23",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Scared to Be Lonely - Houston, TX 03.11.17",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "169",
+      "likeCount": "6",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "GRunScKyQnt8vz9H_WCQkPlSr6g",
+    "id": "kaR6KzqJec0",
+    "snippet": {
+      "publishedAt": "2017-04-17T22:03:09Z",
+      "channelId": "UCL0lyK4uME4KuoJEzc8mYsQ",
+      "title": "Dua Lipa, Room for 2, O2 empire London, April 2017",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kaR6KzqJec0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kaR6KzqJec0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kaR6KzqJec0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kaR6KzqJec0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kaR6KzqJec0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DabbyNoNa",
+      "tags": ["Dua lipa", "room for 2", "london", "o2empire"],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa, Room for 2, O2 empire London, April 2017",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "1545",
+      "likeCount": "30",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "2QvtoWAfz2s5C005qPbqrqVbBlo",
     "id": "kbCDcTDeu-Q",
     "snippet": {
@@ -40923,6 +42704,57 @@
       "likeCount": "878",
       "favoriteCount": "0",
       "commentCount": "22"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "MulPIEx895aLLEOIBxqhLT9jO-E",
+    "id": "KM00p6T2qmI",
+    "snippet": {
+      "publishedAt": "2018-06-07T06:18:00Z",
+      "channelId": "UCCiUoUErcU8tPHdtecHAyfw",
+      "title": "Dua Lipa - Hotter Than Hell - Houston, TX 06.05.18",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KM00p6T2qmI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KM00p6T2qmI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KM00p6T2qmI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KM00p6T2qmI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KM00p6T2qmI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sloane Conner",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Hotter Than Hell - Houston, TX 06.05.18",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "288",
+      "likeCount": "8",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -42027,6 +43859,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "FKZ7eaPCEDvv4jE4MvHikAf5eTM",
+    "id": "KuZl_Fp1uMg",
+    "snippet": {
+      "publishedAt": "2018-06-07T03:23:52Z",
+      "channelId": "UCCiUoUErcU8tPHdtecHAyfw",
+      "title": "Dua Lipa - Last Dance - Houston, TX 06.05.18",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KuZl_Fp1uMg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KuZl_Fp1uMg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KuZl_Fp1uMg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KuZl_Fp1uMg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KuZl_Fp1uMg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sloane Conner",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Last Dance - Houston, TX 06.05.18",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "392",
+      "likeCount": "10",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "-a1mW0owhN4ll0Jb1vs4bGmXy-8",
     "id": "KVz7BjeenOc",
     "snippet": {
@@ -42420,6 +44303,57 @@
       "likeCount": "8711",
       "favoriteCount": "0",
       "commentCount": "265"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "oW6pSVH_CIbJsGS_6QwVPZa47Ok",
+    "id": "kYncW8hF1Y8",
+    "snippet": {
+      "publishedAt": "2016-10-07T21:19:29Z",
+      "channelId": "UCL0lyK4uME4KuoJEzc8mYsQ",
+      "title": "Dua Lipa, Hotter Than Hell, at The Academy Dublin.",
+      "description": "Dua Lipa performs Hotter than Hell to a full house at the end of her concert at the Academy Dublin on October 5th 2016\n\nwww.dualipa.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kYncW8hF1Y8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kYncW8hF1Y8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kYncW8hF1Y8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kYncW8hF1Y8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kYncW8hF1Y8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DabbyNoNa",
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa, Hotter Than Hell, at The Academy Dublin.",
+        "description": "Dua Lipa performs Hotter than Hell to a full house at the end of her concert at the Academy Dublin on October 5th 2016\n\nwww.dualipa.com"
+      }
+    },
+    "statistics": {
+      "viewCount": "6123",
+      "likeCount": "87",
+      "favoriteCount": "0",
+      "commentCount": "2"
     }
   },
   {
@@ -47248,6 +49182,116 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "mfVo43OT7cC4SRcbEqBXoFmarjo",
+    "id": "mT_N6ItEpmo",
+    "snippet": {
+      "publishedAt": "2017-03-12T22:30:39Z",
+      "channelId": "UCCiUoUErcU8tPHdtecHAyfw",
+      "title": "Dua Lipa - Room For 2 - Houston, TX 03.11.17",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mT_N6ItEpmo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mT_N6ItEpmo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mT_N6ItEpmo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mT_N6ItEpmo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mT_N6ItEpmo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sloane Conner",
+      "categoryId": "23",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Room For 2 - Houston, TX 03.11.17",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "5260",
+      "likeCount": "143",
+      "favoriteCount": "0",
+      "commentCount": "4"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "g1jzEGA7epGnGhpg0QFeG5vvSIM",
+    "id": "muUcBbJu6cA",
+    "snippet": {
+      "publishedAt": "2018-04-11T22:06:02Z",
+      "channelId": "UCL0lyK4uME4KuoJEzc8mYsQ",
+      "title": "Dua Lipa, New love , Dublin Olympia ,10 04 2018",
+      "description": "Dua Lipa  shares New Love , Her first song ever released and the song that \"brought me here\" to the Olympia In Dublin.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/muUcBbJu6cA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/muUcBbJu6cA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/muUcBbJu6cA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/muUcBbJu6cA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/muUcBbJu6cA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DabbyNoNa",
+      "tags": [
+        "Dua Lipa",
+        "new love",
+        "dublin",
+        "olympia",
+        "april 10th",
+        "2018"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa, New love , Dublin Olympia ,10 04 2018",
+        "description": "Dua Lipa  shares New Love , Her first song ever released and the song that \"brought me here\" to the Olympia In Dublin."
+      }
+    },
+    "statistics": {
+      "viewCount": "8312",
+      "likeCount": "256",
+      "favoriteCount": "0",
+      "commentCount": "8"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "rw6wRVtZQhmeRxIWsnrHWEewSdg",
     "id": "Muyd-8FCkb4",
     "snippet": {
@@ -48060,6 +50104,65 @@
     "statistics": {
       "viewCount": "807",
       "likeCount": "10",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "ntRQ2_20EgRMGmMMR_vh7tPqY2k",
+    "id": "nh39K7pTqQ4",
+    "snippet": {
+      "publishedAt": "2017-04-17T22:01:48Z",
+      "channelId": "UCL0lyK4uME4KuoJEzc8mYsQ",
+      "title": "Dua Lipa,  Be the one, O2 Empire London April 13th 2017",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nh39K7pTqQ4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nh39K7pTqQ4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nh39K7pTqQ4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/nh39K7pTqQ4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/nh39K7pTqQ4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DabbyNoNa",
+      "tags": [
+        "Dua Lipa",
+        "be the one",
+        "o2 empire london",
+        "london",
+        "april",
+        "2017"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa,  Be the one, O2 Empire London April 13th 2017",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "1157",
+      "likeCount": "17",
       "favoriteCount": "0",
       "commentCount": "0"
     }
@@ -49082,6 +51185,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "aHEwOrHr8iO5uKK_QiYdcjojauw",
+    "id": "nQKJqoobqQg",
+    "snippet": {
+      "publishedAt": "2018-06-07T06:11:50Z",
+      "channelId": "UCCiUoUErcU8tPHdtecHAyfw",
+      "title": "Dua Lipa - No Goodbyes - Houston, TX 06.05.18",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nQKJqoobqQg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nQKJqoobqQg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nQKJqoobqQg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/nQKJqoobqQg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/nQKJqoobqQg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sloane Conner",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - No Goodbyes - Houston, TX 06.05.18",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "930",
+      "likeCount": "27",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "KERLRjBqd6O7IlF8bdpI2XG8Ng4",
     "id": "nr5yWF7aCWs",
     "snippet": {
@@ -49328,6 +51482,59 @@
       "likeCount": "251",
       "favoriteCount": "0",
       "commentCount": "6"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "w4CbGA3hwWjHz81zD80WusoseSk",
+    "id": "nTGcv4sqcrs",
+    "snippet": {
+      "publishedAt": "2017-03-07T01:44:33Z",
+      "channelId": "UCp_KmeBcYxc1aievmxjXuoQ",
+      "title": "Dua Lipa Performing 'Genesis' Live (03.05)",
+      "description": "Dua Lipa Performing \"Genesis\" 03.05 in Washington D.C at Rock N Roll Hotel with her tour from US.\n(vía @hadidmez on Twitter)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nTGcv4sqcrs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nTGcv4sqcrs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nTGcv4sqcrs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/nTGcv4sqcrs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/nTGcv4sqcrs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dua Lipa Videos",
+      "tags": ["dua lipa", "fifth harmony", "live"],
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Dua Lipa Performing 'Genesis' Live (03.05)",
+        "description": "Dua Lipa Performing \"Genesis\" 03.05 in Washington D.C at Rock N Roll Hotel with her tour from US.\n(vía @hadidmez on Twitter)"
+      }
+    },
+    "statistics": {
+      "viewCount": "493",
+      "likeCount": "10",
+      "favoriteCount": "0",
+      "commentCount": "1"
     }
   },
   {
@@ -51576,6 +53783,52 @@
       "likeCount": "63",
       "favoriteCount": "0",
       "commentCount": "5"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "NMoNdTDEYD8zBxZ-hPDvH4s8u5E",
+    "id": "olj_CFI6GZs",
+    "snippet": {
+      "publishedAt": "2018-06-07T06:04:02Z",
+      "channelId": "UCCiUoUErcU8tPHdtecHAyfw",
+      "title": "Dua Lipa - Homesick - Houston, TX 06.05.18",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/olj_CFI6GZs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/olj_CFI6GZs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/olj_CFI6GZs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/olj_CFI6GZs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Sloane Conner",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Homesick - Houston, TX 06.05.18",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "362",
+      "likeCount": "9",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -54036,6 +56289,75 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "Vzrn1BdDDbXIW3rc0OCaNijgwow",
+    "id": "PczyZ3RPVAA",
+    "snippet": {
+      "publishedAt": "2022-02-23T08:24:13Z",
+      "channelId": "UCnIKsOJBNmJ_UqL4ZDo1Itg",
+      "title": "DUA LIPA- BE THE ONE-LIVE UK(5/28/2017) HD1080/60FPS",
+      "description": "DUA LIPA- BE THE ONE-LIVE UK on 5/28/2017- HD1080/60FPS stereo master\nHer first hit song from her first tour.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PczyZ3RPVAA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PczyZ3RPVAA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PczyZ3RPVAA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PczyZ3RPVAA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PczyZ3RPVAA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Kurt Brady",
+      "tags": [
+        "Be the one",
+        "Dua",
+        "Dua lipa",
+        "Dance",
+        "Pop",
+        "Uk",
+        "British",
+        "No rules physical",
+        "Levitating",
+        "Cool",
+        "Cold heart",
+        "Madonna",
+        "Miley Cyrus",
+        "Elton John",
+        "Live"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "DUA LIPA- BE THE ONE-LIVE UK(5/28/2017) HD1080/60FPS",
+        "description": "DUA LIPA- BE THE ONE-LIVE UK on 5/28/2017- HD1080/60FPS stereo master\nHer first hit song from her first tour."
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "statistics": {
+      "viewCount": "62",
+      "likeCount": "3",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "-36PoJ7Qec5yQB5Y1X7RmCUt9Cw",
     "id": "Pdb80jU9cYQ",
     "snippet": {
@@ -56027,6 +58349,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "KX6foSS9C12XZrICaPYHQX92lLE",
+    "id": "q0hBXf7YAJw",
+    "snippet": {
+      "publishedAt": "2017-03-13T15:40:34Z",
+      "channelId": "UCCiUoUErcU8tPHdtecHAyfw",
+      "title": "Dua Lipa - Blow Your Mind (Mwah) - Houston, TX 03.11.17",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/q0hBXf7YAJw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/q0hBXf7YAJw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/q0hBXf7YAJw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/q0hBXf7YAJw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/q0hBXf7YAJw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sloane Conner",
+      "categoryId": "23",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Blow Your Mind (Mwah) - Houston, TX 03.11.17",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "408",
+      "likeCount": "8",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "dHaY-qQR4B87_AT6WNolmLfYYH8",
     "id": "Q0qa46EO_og",
     "snippet": {
@@ -56213,6 +58586,116 @@
       "likeCount": "4843",
       "favoriteCount": "0",
       "commentCount": "93"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "70iD9sVCARy4hxkI9xSt63Me9E4",
+    "id": "Q5M7iiv5acU",
+    "snippet": {
+      "publishedAt": "2017-03-09T01:29:07Z",
+      "channelId": "UCp_KmeBcYxc1aievmxjXuoQ",
+      "title": "Dua Lipa Performing 'Dreams' Live (03.07)",
+      "description": "Dua Lipa Performing \"Dreams\" 03.07 in The Loft, Atlanta, GA with her tour from US.\n(vía @grigiogoogs on Twitter).",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Q5M7iiv5acU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Q5M7iiv5acU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Q5M7iiv5acU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Q5M7iiv5acU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Q5M7iiv5acU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dua Lipa Videos",
+      "tags": [
+        "dua lipa",
+        "live",
+        "dreams",
+        "performing",
+        "fifth harmony",
+        "lauren jauregui"
+      ],
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Performing 'Dreams' Live (03.07)",
+        "description": "Dua Lipa Performing \"Dreams\" 03.07 in The Loft, Atlanta, GA with her tour from US.\n(vía @grigiogoogs on Twitter)."
+      }
+    },
+    "statistics": {
+      "viewCount": "992",
+      "likeCount": "23",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "JdqhRVfN9eUBsXxyZR5WvXcuG3U",
+    "id": "Q5Smrb39L2w",
+    "snippet": {
+      "publishedAt": "2018-06-07T04:44:55Z",
+      "channelId": "UCCiUoUErcU8tPHdtecHAyfw",
+      "title": "Dua Lipa - Be the One - Houston, TX 06.05.18",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Q5Smrb39L2w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Q5Smrb39L2w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Q5Smrb39L2w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Q5Smrb39L2w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Q5Smrb39L2w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sloane Conner",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Be the One - Houston, TX 06.05.18",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "230",
+      "likeCount": "6",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -58034,6 +60517,64 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "dcfQnrjJmsXRdpe3vPY4cz_zUaQ",
+    "id": "QtwQqHNyXJY",
+    "snippet": {
+      "publishedAt": "2017-03-09T01:05:58Z",
+      "channelId": "UCp_KmeBcYxc1aievmxjXuoQ",
+      "title": "Dua Lipa Performing 'Want To' Live (03.05)",
+      "description": "Dua Lipa Performing \"Want To\" 03.05 in Washington D.C at Rock N Roll Hotel with her tour from US.\n(vía @hadidmez on Twitter).",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QtwQqHNyXJY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QtwQqHNyXJY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QtwQqHNyXJY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QtwQqHNyXJY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QtwQqHNyXJY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Dua Lipa Videos",
+      "tags": [
+        "dua lipa",
+        "performing",
+        "live",
+        "fifth harmony",
+        "lauren jauregui"
+      ],
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Performing 'Want To' Live (03.05)",
+        "description": "Dua Lipa Performing \"Want To\" 03.05 in Washington D.C at Rock N Roll Hotel with her tour from US.\n(vía @hadidmez on Twitter)."
+      }
+    },
+    "statistics": {
+      "viewCount": "258",
+      "likeCount": "8",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "753r7Sxt1XID2oNvdNpM641aDfk",
     "id": "qu2sZ4004OY",
     "snippet": {
@@ -58096,6 +60637,58 @@
       "likeCount": "1948",
       "favoriteCount": "0",
       "commentCount": "95"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "Wg2jwApwgv9K_hngKzr0A0QZU3g",
+    "id": "QUErr5y1L20",
+    "snippet": {
+      "publishedAt": "2017-04-16T22:38:51Z",
+      "channelId": "UCL0lyK4uME4KuoJEzc8mYsQ",
+      "title": "Dua Lipa, Blow you mind (mwah) London April 2017",
+      "description": "Dua lipa sings blow your mind (mwah) at the O2 Empire Shepards Bush long on April 13th 2017  rush",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QUErr5y1L20/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QUErr5y1L20/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QUErr5y1L20/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QUErr5y1L20/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QUErr5y1L20/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DabbyNoNa",
+      "tags": ["Dua Lipa", "blow your mind", "mwah", "london", "shepards bush"],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa, Blow you mind (mwah) London April 2017",
+        "description": "Dua lipa sings blow your mind (mwah) at the O2 Empire Shepards Bush long on April 13th 2017  rush"
+      }
+    },
+    "statistics": {
+      "viewCount": "462",
+      "likeCount": "7",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -58285,6 +60878,57 @@
       "likeCount": "24",
       "favoriteCount": "0",
       "commentCount": "3"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "L3IRvPNtma2hPkhXUiqoCt6TlK4",
+    "id": "qYzl6tqO2wo",
+    "snippet": {
+      "publishedAt": "2018-06-07T05:37:28Z",
+      "channelId": "UCCiUoUErcU8tPHdtecHAyfw",
+      "title": "Dua Lipa - Genesis - Houston, TX 06.05.18",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qYzl6tqO2wo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qYzl6tqO2wo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qYzl6tqO2wo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qYzl6tqO2wo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qYzl6tqO2wo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sloane Conner",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Genesis - Houston, TX 06.05.18",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "197",
+      "likeCount": "4",
+      "favoriteCount": "0",
+      "commentCount": "2"
     }
   },
   {
@@ -58483,6 +61127,49 @@
       "likeCount": "5",
       "favoriteCount": "0",
       "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "gW9ciunjMyZlBCZaynlkfjekZxc",
+    "id": "R5ldKLHIPcc",
+    "snippet": {
+      "publishedAt": "2017-03-05T05:16:22Z",
+      "channelId": "UC68vj3nHm3kH9vrGlAjzOGA",
+      "title": "Dua Lipa - Be The One (Live in Boston 2017)",
+      "description": "\"Be The One\" by Dua Lipa\n\nPerforming live in Boston on March 4, 2017",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/R5ldKLHIPcc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/R5ldKLHIPcc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/R5ldKLHIPcc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Ishrar Hussain",
+      "tags": ["dua lipa", "be the one", "boston", "2017", "concert", "live"],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Dua Lipa - Be The One (Live in Boston 2017)",
+        "description": "\"Be The One\" by Dua Lipa\n\nPerforming live in Boston on March 4, 2017"
+      }
+    },
+    "statistics": {
+      "viewCount": "4753",
+      "likeCount": "86",
+      "favoriteCount": "0",
+      "commentCount": "4"
     }
   },
   {
@@ -59055,6 +61742,47 @@
       "likeCount": "622",
       "favoriteCount": "0",
       "commentCount": "44"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "sfPJuI9IPMYASN1BfOXFggbbW9A",
+    "id": "rD3r4KNnnHA",
+    "snippet": {
+      "publishedAt": "2017-03-09T00:53:49Z",
+      "channelId": "UCp_KmeBcYxc1aievmxjXuoQ",
+      "title": "Dua Lipa Performing 'Last Dance' Live (03.05)",
+      "description": "Dua Lipa Performing \"Last Dance\" 03.05 in Washington D.C at Rock N Roll Hotel with her tour from US.\n(vía @hadidmez on Twitter).",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rD3r4KNnnHA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rD3r4KNnnHA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rD3r4KNnnHA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Dua Lipa Videos",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Performing 'Last Dance' Live (03.05)",
+        "description": "Dua Lipa Performing \"Last Dance\" 03.05 in Washington D.C at Rock N Roll Hotel with her tour from US.\n(vía @hadidmez on Twitter)."
+      }
+    },
+    "statistics": {
+      "viewCount": "293",
+      "likeCount": "5",
+      "favoriteCount": "0",
+      "commentCount": "1"
     }
   },
   {
@@ -60079,6 +62807,57 @@
       "likeCount": "15",
       "favoriteCount": "0",
       "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "aC3sYbakLvQn_Csn_0gIGvVYMQM",
+    "id": "rMqMg_Xj9ns",
+    "snippet": {
+      "publishedAt": "2017-03-13T05:27:22Z",
+      "channelId": "UCCiUoUErcU8tPHdtecHAyfw",
+      "title": "Dua Lipa - Dreams - Houston, TX 03.11.17",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rMqMg_Xj9ns/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rMqMg_Xj9ns/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rMqMg_Xj9ns/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rMqMg_Xj9ns/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rMqMg_Xj9ns/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sloane Conner",
+      "categoryId": "23",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Dreams - Houston, TX 03.11.17",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "778",
+      "likeCount": "11",
+      "favoriteCount": "0",
+      "commentCount": "1"
     }
   },
   {
@@ -62075,6 +64854,47 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "iwYI8ndGtF7CNiHZUI0JDPQ-inY",
+    "id": "Sc57OCSrfzA",
+    "snippet": {
+      "publishedAt": "2022-03-08T02:36:38Z",
+      "channelId": "UCa46vQBD7_OoDesSg3ITl4g",
+      "title": "Dua Lipa 3/4/22",
+      "description": "March 4th 2022",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Sc57OCSrfzA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Sc57OCSrfzA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Sc57OCSrfzA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Alexis Soriano",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa 3/4/22",
+        "description": "March 4th 2022"
+      }
+    },
+    "statistics": {
+      "viewCount": "103",
+      "likeCount": "6",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "UuWukfjbtx8SY9SZA-F7J8EzbRw",
     "id": "SCasU1oo2vA",
     "snippet": {
@@ -63267,6 +66087,57 @@
       "likeCount": "63",
       "favoriteCount": "0",
       "commentCount": "1"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "OqB2rSG8xY9wKo7pLtXL84S0ang",
+    "id": "SOpdp1RUGI0",
+    "snippet": {
+      "publishedAt": "2016-10-07T18:24:43Z",
+      "channelId": "UCL0lyK4uME4KuoJEzc8mYsQ",
+      "title": "Dua Lipa, Want to, Live at the Academy Dublin",
+      "description": "Dua Lipa enthralls the Academy in Dublin with her rendition of Want To, on October 5th 2016\n\nwww.dualipa.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SOpdp1RUGI0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SOpdp1RUGI0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SOpdp1RUGI0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SOpdp1RUGI0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SOpdp1RUGI0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DabbyNoNa",
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa, Want to, Live at the Academy Dublin",
+        "description": "Dua Lipa enthralls the Academy in Dublin with her rendition of Want To, on October 5th 2016\n\nwww.dualipa.com"
+      }
+    },
+    "statistics": {
+      "viewCount": "12851",
+      "likeCount": "276",
+      "favoriteCount": "0",
+      "commentCount": "6"
     }
   },
   {
@@ -65144,6 +68015,57 @@
       "likeCount": "466110",
       "favoriteCount": "0",
       "commentCount": "12612"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "4Erv3hoB1W94CdV9MA_ulqANcWc",
+    "id": "tILmPnQaT2k",
+    "snippet": {
+      "publishedAt": "2018-06-08T16:40:14Z",
+      "channelId": "UCCiUoUErcU8tPHdtecHAyfw",
+      "title": "Dua Lipa - IDGAF part 1 - Houston, TX 06.05.18",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tILmPnQaT2k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tILmPnQaT2k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tILmPnQaT2k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tILmPnQaT2k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/tILmPnQaT2k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sloane Conner",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - IDGAF part 1 - Houston, TX 06.05.18",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "309",
+      "likeCount": "2",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -67029,6 +69951,67 @@
       "likeCount": "64",
       "favoriteCount": "0",
       "commentCount": "3"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "CLpmAfLoYJEiR7g9qaqckwDy46U",
+    "id": "u8gBQ0803w8",
+    "snippet": {
+      "publishedAt": "2017-03-05T04:59:11Z",
+      "channelId": "UC68vj3nHm3kH9vrGlAjzOGA",
+      "title": "Dua Lipa - Thinking 'Bout You (Live in Boston 2017)",
+      "description": "\"Thinking 'Bout You\" by Dua Lipa\n\nPerforming live in Boston on March 4, 2017",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/u8gBQ0803w8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/u8gBQ0803w8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/u8gBQ0803w8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/u8gBQ0803w8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/u8gBQ0803w8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Ishrar Hussain",
+      "tags": [
+        "dua lipa",
+        "thinking about you",
+        "thinking bout you",
+        "boston",
+        "2017",
+        "concert",
+        "live"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Dua Lipa - Thinking 'Bout You (Live in Boston 2017)",
+        "description": "\"Thinking 'Bout You\" by Dua Lipa\n\nPerforming live in Boston on March 4, 2017"
+      }
+    },
+    "statistics": {
+      "viewCount": "5725",
+      "likeCount": "145",
+      "favoriteCount": "0",
+      "commentCount": "4"
     }
   },
   {
@@ -75028,6 +78011,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "zJxhoqtKbB4HdJSOeehk1pxdFgw",
+    "id": "WVxZzUMzMrg",
+    "snippet": {
+      "publishedAt": "2018-06-07T03:15:17Z",
+      "channelId": "UCCiUoUErcU8tPHdtecHAyfw",
+      "title": "Dua Lipa - Garden - Houston, TX 06.05.18",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WVxZzUMzMrg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WVxZzUMzMrg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WVxZzUMzMrg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WVxZzUMzMrg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WVxZzUMzMrg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sloane Conner",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Garden - Houston, TX 06.05.18",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "433",
+      "likeCount": "13",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "maYa1ltRjeXBuXUeVd2KD0UXYII",
     "id": "WWh1-g1VFxA",
     "snippet": {
@@ -75868,6 +78902,63 @@
     "statistics": {
       "viewCount": "435",
       "likeCount": "2",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "7x9CAH0KrJxmYddBy7LqYN9PYqE",
+    "id": "xdqW0mJgld4",
+    "snippet": {
+      "publishedAt": "2017-04-17T01:26:05Z",
+      "channelId": "UCL0lyK4uME4KuoJEzc8mYsQ",
+      "title": "Dua Lipa, Sacred to Be Lonely, London April,2017",
+      "description": "Dua Lipa sings Scared to be lonely at the O2 Empire Shepards Bush, London on April 13th 2017.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xdqW0mJgld4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xdqW0mJgld4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xdqW0mJgld4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xdqW0mJgld4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xdqW0mJgld4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DabbyNoNa",
+      "tags": [
+        "dua lipa",
+        "london",
+        "shepards bush empie",
+        "2017 scared to be lonely"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa, Sacred to Be Lonely, London April,2017",
+        "description": "Dua Lipa sings Scared to be lonely at the O2 Empire Shepards Bush, London on April 13th 2017."
+      }
+    },
+    "statistics": {
+      "viewCount": "2161",
+      "likeCount": "33",
       "favoriteCount": "0",
       "commentCount": "0"
     }
@@ -77164,6 +80255,57 @@
       "likeCount": "37",
       "favoriteCount": "0",
       "commentCount": "3"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "h9q9_Lv5dzz8ynqJ0TY2yFSgia8",
+    "id": "Xroo__jHiso",
+    "snippet": {
+      "publishedAt": "2017-03-13T05:16:05Z",
+      "channelId": "UCCiUoUErcU8tPHdtecHAyfw",
+      "title": "Dua Lipa - Hotter Than Hell - Houston, TX 03.11.17",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Xroo__jHiso/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Xroo__jHiso/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Xroo__jHiso/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Xroo__jHiso/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Xroo__jHiso/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sloane Conner",
+      "categoryId": "23",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Hotter Than Hell - Houston, TX 03.11.17",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "224",
+      "likeCount": "5",
+      "favoriteCount": "0",
+      "commentCount": "1"
     }
   },
   {
@@ -81477,6 +84619,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "pkYfxniWnojyzzIMCREgDLQrWhE",
+    "id": "z8_z3TRLhuw",
+    "snippet": {
+      "publishedAt": "2017-03-12T17:27:51Z",
+      "channelId": "UCCiUoUErcU8tPHdtecHAyfw",
+      "title": "Dua Lipa - Last Dance - Houston TX, 03.11.17",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/z8_z3TRLhuw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/z8_z3TRLhuw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/z8_z3TRLhuw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/z8_z3TRLhuw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/z8_z3TRLhuw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sloane Conner",
+      "categoryId": "23",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Last Dance - Houston TX, 03.11.17",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "660",
+      "likeCount": "19",
+      "favoriteCount": "0",
+      "commentCount": "7"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "McF19oiRkXdMDjJ-lc7-I-IriAY",
     "id": "ZaQkWeTYO3M",
     "snippet": {
@@ -81896,6 +85089,58 @@
       "likeCount": "16344",
       "favoriteCount": "0",
       "commentCount": "579"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "orWEd6MP2htQmaPh_XbOUZ2gtbk",
+    "id": "ZFh5wLCyhek",
+    "snippet": {
+      "publishedAt": "2018-04-11T22:37:32Z",
+      "channelId": "UCL0lyK4uME4KuoJEzc8mYsQ",
+      "title": "Dua Lipa , New rules, Dublin Olympia , 10 04 2018",
+      "description": "Dua Lipa Performs New Rules on her second sold out night at the Olympia Dublin on April 10th 2018",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZFh5wLCyhek/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZFh5wLCyhek/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZFh5wLCyhek/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZFh5wLCyhek/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZFh5wLCyhek/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DabbyNoNa",
+      "tags": ["Dua Lipa", "New Rules", "olympia Dublin", "april", "2018"],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa , New rules, Dublin Olympia , 10 04 2018",
+        "description": "Dua Lipa Performs New Rules on her second sold out night at the Olympia Dublin on April 10th 2018"
+      }
+    },
+    "statistics": {
+      "viewCount": "70908",
+      "likeCount": "1016",
+      "favoriteCount": "0",
+      "commentCount": "29"
     }
   },
   {
@@ -82540,6 +85785,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "NaOqFF6SVHhu1JvTKBvxPoaTT-w",
+    "id": "zJJTHKTVCq4",
+    "snippet": {
+      "publishedAt": "2018-06-08T16:28:57Z",
+      "channelId": "UCCiUoUErcU8tPHdtecHAyfw",
+      "title": "Dua Lipa - Begging - Houston, TX 06.05.18",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zJJTHKTVCq4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zJJTHKTVCq4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zJJTHKTVCq4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zJJTHKTVCq4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zJJTHKTVCq4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sloane Conner",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Begging - Houston, TX 06.05.18",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "161",
+      "likeCount": "5",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "l7EL5CgnfRYzNOscj2Smb8ZD7sQ",
     "id": "Zk0VETikefE",
     "snippet": {
@@ -82792,6 +86088,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "uYOMtexJs4Ehye155Sb5oHchyPU",
+    "id": "Zltfb9kzlj4",
+    "snippet": {
+      "publishedAt": "2018-06-06T17:22:17Z",
+      "channelId": "UCCiUoUErcU8tPHdtecHAyfw",
+      "title": "Dua Lipa - Dreams - Houston, TX 06.05.18",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Zltfb9kzlj4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Zltfb9kzlj4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Zltfb9kzlj4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Zltfb9kzlj4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Zltfb9kzlj4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sloane Conner",
+      "categoryId": "23",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Dreams - Houston, TX 06.05.18",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "2741",
+      "likeCount": "34",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "5OFpHgZ8vIhlnu_vxJzVcsBA4ic",
     "id": "zmkkWH60Zt0",
     "snippet": {
@@ -83006,6 +86353,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "hx_WJA6TPOUb22GuDo51pi8Gox0",
+    "id": "Zq5koAqEl38",
+    "snippet": {
+      "publishedAt": "2018-06-08T16:46:05Z",
+      "channelId": "UCCiUoUErcU8tPHdtecHAyfw",
+      "title": "Dua Lipa - IDGAF part 2 - Houston, TX 06.05.18",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Zq5koAqEl38/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Zq5koAqEl38/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Zq5koAqEl38/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Zq5koAqEl38/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Zq5koAqEl38/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sloane Conner",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - IDGAF part 2 - Houston, TX 06.05.18",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "155",
+      "likeCount": "3",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "MKgW5c_VnGiWEaneoA222WFvZNk",
     "id": "zQd7tQacd5M",
     "snippet": {
@@ -83177,6 +86575,57 @@
       "likeCount": "3206",
       "favoriteCount": "0",
       "commentCount": "176"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "S6VgRIF2KslJJQx0hgz6j8Rfz5w",
+    "id": "ZR93-d2dgQw",
+    "snippet": {
+      "publishedAt": "2018-06-08T16:58:45Z",
+      "channelId": "UCCiUoUErcU8tPHdtecHAyfw",
+      "title": "Dua Lipa - New Rules - Houston, TX 06.05.18",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZR93-d2dgQw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZR93-d2dgQw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZR93-d2dgQw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZR93-d2dgQw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZR93-d2dgQw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Sloane Conner",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - New Rules - Houston, TX 06.05.18",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "479",
+      "likeCount": "5",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {

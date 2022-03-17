@@ -16768,40 +16768,6 @@
 		]
 	},
 	{
-		"id": "7529504d-a06a-407d-8a7b-2618f2ec09d8",
-		"description": "Interview: Dua Lipa Tells Us When To Expect Her Debut Album",
-		"dateDatabase": "12/05/2021",
-		"dateSort": "2016-04-21",
-		"dateEvent": "",
-		"sourceForDateOfEvent": [
-			{
-				"sourceDescription": "",
-				"sourceLink": ""
-			}
-		],
-		"videos": [
-			{
-				"source": "youtube",
-				"videoId": "zTLoxukoE2Q",
-				"videoImage": "",
-				"views": "",
-				"dateUpload": "2016-04-21",
-				"videoDescription": "Interview: Dua Lipa Tells Us When To Expect Her Debut Album",
-				"videoComments": ""
-			}
-		],
-		"categories": [
-			{
-				"category": "Interview"
-			}
-		],
-		"songs": [
-			{
-				"song": ""
-			}
-		]
-	},
-	{
 		"id": "60e3bc91-769a-40c9-9dae-604142f418b2",
 		"description": "Dua Lipa - Be The One. Duet On Smule Sing! Karaoke",
 		"dateDatabase": "12/05/2021",
@@ -51088,6 +51054,2253 @@
 		"songs": [
 			{
 				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "c838359b-33c9-4c9b-b9ca-cd29408b72f7",
+		"description": "Dua Lipa - Thinkin' Bout You - Houston, TX 03.11.17",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-03-11",
+		"dateEvent": "2017-03-11",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/bronze-peacock-room-house-of-blues-houston-tx-53f9cb65.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "-6kkZtE1-i0",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-03-13",
+				"videoDescription": "Dua Lipa - Thinkin' Bout You - Houston, TX 03.11.17",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Thinking 'Bout You"
+			}
+		]
+	},
+	{
+		"id": "6850aff1-df35-4157-9b23-b60009348391",
+		"description": "Dua Lipa Performing 'Blow Your Mind' at LOS40 in Spain (03.31)",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-03-30",
+		"dateEvent": "2017-03-30",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/los-40-principales-madrid-spain-13e6b1b9.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "-AD18wDGnYU",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-04-02",
+				"videoDescription": "Dua Lipa Performing 'Blow Your Mind' at LOS40 in Spain (03.31)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Studio"
+			}
+		],
+		"songs": [
+			{
+				"song": "Blow Your Mind (Mwah!)"
+			}
+		]
+	},
+	{
+		"id": "065a6d89-384a-4c5b-b282-6d605ecf8e14",
+		"description": "Dua Lipa   For Julian, live at the Academy Dublin",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2016-10-05",
+		"dateEvent": "2016-10-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2016/the-academy-dublin-ireland-73fd3269.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "-d2pNSwmHXo",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2016-10-08",
+				"videoDescription": "Dua Lipa   For Julian, live at the Academy Dublin",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "For Julian"
+			}
+		]
+	},
+	{
+		"id": "7b2411e0-6b87-4ff2-b0ab-5b68fcdf221b",
+		"description": "Dua Lipa - Scared to Be Lonely - Houston, TX 06.05.18",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2018-06-05",
+		"dateEvent": "2018-06-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/revention-music-center-houston-tx-53ed5785.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "09Le0DUB9LQ",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2018-06-07",
+				"videoDescription": "Dua Lipa - Scared to Be Lonely - Houston, TX 06.05.18",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Scared To Be Lonely"
+			}
+		]
+	},
+	{
+		"id": "57aa5eec-cd68-42b5-a4f9-8cdc3a8ef407",
+		"description": "Dua Lipa- We’re Good (Future Nostalgia Tour)",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2022-03-04",
+		"dateEvent": "2022-03-04",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/prudential-center-newark-nj-6389a2ab.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "0MKD8i3ZRpg",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-08",
+				"videoDescription": "Dua Lipa- We’re Good (Future Nostalgia Tour)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "We're Good"
+			}
+		]
+	},
+	{
+		"id": "751945fd-4065-429e-a381-bf4f991271da",
+		"description": "Dua Lipa - Genesis (Live in Boston 2017)",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-03-04",
+		"dateEvent": "2017-03-04",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/paradise-rock-club-boston-ma-bf9f5c6.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "1YxfNDzG9Y8",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-03-05",
+				"videoDescription": "Dua Lipa - Genesis (Live in Boston 2017)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Genesis"
+			}
+		]
+	},
+	{
+		"id": "b196df60-4d4d-4d1b-bfd9-a813acaafc25",
+		"description": "Dua Lipa Performing 'Bad Together' Live (03.05)",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-03-05",
+		"dateEvent": "2017-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/rock-and-roll-hotel-washington-dc-3bf9f028.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "2sT391H3xC0",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-03-09",
+				"videoDescription": "Dua Lipa Performing 'Bad Together' Live (03.05)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Bad Together"
+			}
+		]
+	},
+	{
+		"id": "8065f91e-bf18-4b13-8ffa-d7c252e68f6e",
+		"description": "Dua Lipa Performing Scared To Be Lonely Live (03.05)",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-03-05",
+		"dateEvent": "2017-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/rock-and-roll-hotel-washington-dc-3bf9f028.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "2ZFcMH-BEow",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-03-07",
+				"videoDescription": "Dua Lipa Performing Scared To Be Lonely Live (03.05)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Scared To Be Lonely"
+			}
+		]
+	},
+	{
+		"id": "273947dc-eb26-4bb1-b92b-4733cf99a21a",
+		"description": "Dua Lipa - No Lie - Houston, TX 03.11.17",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-03-11",
+		"dateEvent": "2017-03-11",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/bronze-peacock-room-house-of-blues-houston-tx-53f9cb65.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "3Z6tgOUQR1A",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-03-13",
+				"videoDescription": "Dua Lipa - No Lie - Houston, TX 03.11.17",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "No Lie"
+			}
+		]
+	},
+	{
+		"id": "d93da2d2-f647-411e-aee8-3cde52bf053b",
+		"description": "Dua Lipa Performing 'Room For 2' Live (03.05)",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-03-05",
+		"dateEvent": "2017-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/rock-and-roll-hotel-washington-dc-3bf9f028.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "4hJnQsJi1YA",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-03-07",
+				"videoDescription": "Dua Lipa Performing 'Room For 2' Live (03.05)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Room For 2"
+			}
+		]
+	},
+	{
+		"id": "03d2a0be-7ea9-48b4-98b2-22f66d77ba68",
+		"description": "Dua Lipa, Thinking about you , O2 Empire Shepards Bush, London",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-04-13",
+		"dateEvent": "2017-04-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/o2-shepherds-bush-empire-london-england-33e6e829.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "58VFikvukcs",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-04-16",
+				"videoDescription": "Dua Lipa, Thinking about you , O2 Empire Shepards Bush, London",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Thinking 'Bout You"
+			}
+		]
+	},
+	{
+		"id": "ae59cc0e-9ff8-48aa-99b7-197492c7d407",
+		"description": "Dua Lipa - Bad Together - Houston, TX 03.11.17",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-03-11",
+		"dateEvent": "2017-03-11",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/bronze-peacock-room-house-of-blues-houston-tx-53f9cb65.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "6bamjH_6EUc",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-03-12",
+				"videoDescription": "Dua Lipa - Bad Together - Houston, TX 03.11.17",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Bad Together"
+			}
+		]
+	},
+	{
+		"id": "acdac875-b1d5-4c41-93ac-d247ec4d9d69",
+		"description": "Dua Lipa - Genesis - Houston, TX 03.11.17",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-03-11",
+		"dateEvent": "2017-03-11",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/bronze-peacock-room-house-of-blues-houston-tx-53f9cb65.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "8mHjR-JqTyY",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-03-13",
+				"videoDescription": "Dua Lipa - Genesis - Houston, TX 03.11.17",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Genesis"
+			}
+		]
+	},
+	{
+		"id": "31cbe9fa-4770-4205-9668-4ed25ce6b376",
+		"description": "Dua Lipa- Don’t Start Now (Future Nostalgia Tour)",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2022-03-04",
+		"dateEvent": "2022-03-04",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/prudential-center-newark-nj-6389a2ab.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "9t1rGI4KYJc",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-08",
+				"videoDescription": "Dua Lipa- Don’t Start Now (Future Nostalgia Tour)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Don't Start Now"
+			}
+		]
+	},
+	{
+		"id": "debaafa5-5adf-46a5-b964-1e7721e139d4",
+		"description": "Dua Lipa - Last Dance & Want To (Live in Boston 2017)",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-03-04",
+		"dateEvent": "2017-03-04",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/paradise-rock-club-boston-ma-bf9f5c6.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "9TpveXyChLI",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-03-05",
+				"videoDescription": "Dua Lipa - Last Dance & Want To (Live in Boston 2017)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Last Dance"
+			},
+			{
+				"song": "Want To"
+			}
+		]
+	},
+	{
+		"id": "08e423db-8a6b-4431-be53-54e604492fd9",
+		"description": "Dual Lipa, Hotter than Hell, O2 Empire , Shepard's Bush  April 2017",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-04-13",
+		"dateEvent": "2017-04-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/o2-shepherds-bush-empire-london-england-33e6e829.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "A28xFmbPJCc",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-04-15",
+				"videoDescription": "Dual Lipa, Hotter than Hell, O2 Empire , Shepard's Bush  April 2017",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Hotter Than Hell"
+			}
+		]
+	},
+	{
+		"id": "19d163f6-8d06-43f3-b17a-92104991acf4",
+		"description": "Dua Lipa, Last Dance, O2 Empire London , April 13th 2017",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-04-13",
+		"dateEvent": "2017-04-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/o2-shepherds-bush-empire-london-england-33e6e829.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "Ba9KuykBWx0",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-04-17",
+				"videoDescription": "Dua Lipa, Last Dance, O2 Empire London , April 13th 2017",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Last Dance"
+			}
+		]
+	},
+	{
+		"id": "8ce4cf90-e1bd-49f0-9835-de1f07fb7bd8",
+		"description": "Dua Lipa - Blow Your Mind - Houston, TX 06.05.18",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2018-06-05",
+		"dateEvent": "2018-06-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/revention-music-center-houston-tx-53ed5785.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "CLl2XwRBcGs",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2018-06-06",
+				"videoDescription": "Dua Lipa - Blow Your Mind - Houston, TX 06.05.18",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Blow Your Mind (Mwah!)"
+			}
+		]
+	},
+	{
+		"id": "5436a90e-2a90-41c9-b917-1b3e76cd276e",
+		"description": "Dua Lipa Cantando New Rules En Sao Pablo (09.11)",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-11-09",
+		"dateEvent": "2017-11-09",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/audio-club-sao-paulo-brazil-1be0b130.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "DK9Gskh3Fpw",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-11-11",
+				"videoDescription": "Dua Lipa Cantando New Rules En Sao Pablo (09.11)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "New Rules"
+			}
+		]
+	},
+	{
+		"id": "f3216c05-def5-4c50-b9dc-d6a1f2843835",
+		"description": "Dua Lipa- Boys Will Be Boys (Future Nostalgia Tour)",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2022-03-04",
+		"dateEvent": "2022-03-04",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/prudential-center-newark-nj-6389a2ab.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "En37sVzpz1c",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-08",
+				"videoDescription": "Dua Lipa- Boys Will Be Boys (Future Nostalgia Tour)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Boys Will Be Boys"
+			}
+		]
+	},
+	{
+		"id": "97951da0-b7a4-4410-997e-efa096745e84",
+		"description": "Dua Lipa - Thinking ‘Bout You - Houston, TX 06.05.18",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2018-06-05",
+		"dateEvent": "2018-06-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/revention-music-center-houston-tx-53ed5785.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "erxJIMn6eoM",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2018-06-07",
+				"videoDescription": "Dua Lipa - Thinking ‘Bout You - Houston, TX 06.05.18",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Thinking 'Bout You"
+			}
+		]
+	},
+	{
+		"id": "a065a641-5b23-4a6f-bea1-267e509c60eb",
+		"description": "Dua Lipa - Want To - Houston TX, 03.11.17",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-03-11",
+		"dateEvent": "2017-03-11",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/bronze-peacock-room-house-of-blues-houston-tx-53f9cb65.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "EX9JGwzJ0fs",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-03-12",
+				"videoDescription": "Dua Lipa - Want To - Houston TX, 03.11.17",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Want To"
+			}
+		]
+	},
+	{
+		"id": "69943ecc-f817-42f2-9b5a-97579eae7cdf",
+		"description": "Dua Lipa , Garden, Olympia Dublin April 10th 2018",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2018-04-10",
+		"dateEvent": "2018-04-10",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/olympia-theatre-dublin-ireland-6bec92e6.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "F9VSUBrhS9E",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2018-04-15",
+				"videoDescription": "Dua Lipa , Garden, Olympia Dublin April 10th 2018",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Garden"
+			}
+		]
+	},
+	{
+		"id": "b738891b-34c1-4200-808b-83e7ac13344f",
+		"description": "Dua Lipa Performing 'Hotter Than Hell' Live (03.05)",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-03-05",
+		"dateEvent": "2017-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/rock-and-roll-hotel-washington-dc-3bf9f028.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "fYJP2SozEy8",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-03-09",
+				"videoDescription": "Dua Lipa Performing 'Hotter Than Hell' Live (03.05)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Hotter Than Hell"
+			}
+		]
+	},
+	{
+		"id": "eada21fc-0ef7-4f8c-9cd6-588450b0ee83",
+		"description": "Dua Lipa - New Love - Houston, TX 06.05.18",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2018-06-05",
+		"dateEvent": "2018-06-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/revention-music-center-houston-tx-53ed5785.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "GAlo0HIBOO0",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2018-06-07",
+				"videoDescription": "Dua Lipa - New Love - Houston, TX 06.05.18",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "New Love"
+			}
+		]
+	},
+	{
+		"id": "c19a69c8-9c36-4d3f-979e-dd3ee1e59aa1",
+		"description": "Dua Lipa - Lost in Your Light - Houston, TX 06.05.18",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2018-06-05",
+		"dateEvent": "2018-06-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/revention-music-center-houston-tx-53ed5785.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "GHcmi4Pn_nA",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2018-06-06",
+				"videoDescription": "Dua Lipa - Lost in Your Light - Houston, TX 06.05.18",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Lost In Your Light"
+			}
+		]
+	},
+	{
+		"id": "633af84f-cb6a-4229-a976-69b31a66dd19",
+		"description": "Dua Lipa, Homesick , Dublin Olympia, 10th April 2018.",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2018-04-10",
+		"dateEvent": "2018-04-10",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/olympia-theatre-dublin-ireland-6bec92e6.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "GPYBaYBBiGI",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2018-04-11",
+				"videoDescription": "Dua Lipa, Homesick , Dublin Olympia, 10th April 2018.",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Homesick"
+			}
+		]
+	},
+	{
+		"id": "7c5fbaee-63b3-4bb1-bc7b-67bd8981e7dc",
+		"description": "Dua Lipa Performing 'Thinking Bout You' Live (03.05)",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-03-05",
+		"dateEvent": "2017-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/rock-and-roll-hotel-washington-dc-3bf9f028.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "Hiw1Ra12InI",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-03-09",
+				"videoDescription": "Dua Lipa Performing 'Thinking Bout You' Live (03.05)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Thinking 'Bout You"
+			}
+		]
+	},
+	{
+		"id": "3e74b13c-ffe7-4f06-911b-0f5cb6a0402c",
+		"description": "Dua Lipa,  Blow Your Mind (Mwah)  at the Academy Dublin",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2016-10-05",
+		"dateEvent": "2016-10-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2016/the-academy-dublin-ireland-73fd3269.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "hjz2K_y_o3g",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2016-10-06",
+				"videoDescription": "Dua Lipa,  Blow Your Mind (Mwah)  at the Academy Dublin",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Blow Your Mind (Mwah!)"
+			}
+		]
+	},
+	{
+		"id": "8d179dc1-e62a-4af7-bdbd-a0a378c0fe23",
+		"description": "Dua Lipa - Blow Your Mind (Live in Boston 2017)",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-03-04",
+		"dateEvent": "2017-03-04",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/paradise-rock-club-boston-ma-bf9f5c6.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "juCCRJY4KVE",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-03-05",
+				"videoDescription": "Dua Lipa - Blow Your Mind (Live in Boston 2017)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Blow Your Mind (Mwah!)"
+			}
+		]
+	},
+	{
+		"id": "c0ca6968-82a5-428a-8b1f-8491b4cd226b",
+		"description": "Dua Lipa, High, Olympia Dublin April 10th 2018",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2018-04-10",
+		"dateEvent": "2018-04-10",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/olympia-theatre-dublin-ireland-6bec92e6.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "jXBQumoKMM0",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2018-04-15",
+				"videoDescription": "Dua Lipa, High, Olympia Dublin April 10th 2018",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "High"
+			}
+		]
+	},
+	{
+		"id": "627c1099-0085-4957-b01c-0880ef31a6af",
+		"description": "Dua Lipa - Be the One - Houston, TX 03.11.17",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-03-11",
+		"dateEvent": "2017-03-11",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/bronze-peacock-room-house-of-blues-houston-tx-53f9cb65.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "JxbViuPfekw",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-03-13",
+				"videoDescription": "Dua Lipa - Be the One - Houston, TX 03.11.17",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Be The One"
+			}
+		]
+	},
+	{
+		"id": "a5bb5cb0-1abd-4fcf-9574-ccc904183406",
+		"description": "Dua Lipa - Scared to Be Lonely - Houston, TX 03.11.17",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-03-11",
+		"dateEvent": "2017-03-11",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/bronze-peacock-room-house-of-blues-houston-tx-53f9cb65.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "KA3RqT_cahw",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-03-13",
+				"videoDescription": "Dua Lipa - Scared to Be Lonely - Houston, TX 03.11.17",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Scared To Be Lonely"
+			}
+		]
+	},
+	{
+		"id": "4abb0d00-0215-4693-be3b-d4dc5518fdf7",
+		"description": "Dua Lipa, Room for 2, O2 empire London, April 2017",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-04-13",
+		"dateEvent": "2017-04-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/o2-shepherds-bush-empire-london-england-33e6e829.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "kaR6KzqJec0",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-04-17",
+				"videoDescription": "Dua Lipa, Room for 2, O2 empire London, April 2017",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Room For 2"
+			}
+		]
+	},
+	{
+		"id": "190ea5ed-367b-4767-a29b-8a4696c54281",
+		"description": "Dua Lipa - Hotter Than Hell - Houston, TX 06.05.18",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2018-06-05",
+		"dateEvent": "2018-06-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/revention-music-center-houston-tx-53ed5785.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "KM00p6T2qmI",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2018-06-07",
+				"videoDescription": "Dua Lipa - Hotter Than Hell - Houston, TX 06.05.18",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Hotter Than Hell"
+			}
+		]
+	},
+	{
+		"id": "96e60ef7-50d4-4458-af31-f26c923c51a5",
+		"description": "Dua Lipa - Last Dance - Houston, TX 06.05.18",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2018-06-05",
+		"dateEvent": "2018-06-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/revention-music-center-houston-tx-53ed5785.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "KuZl_Fp1uMg",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2018-06-07",
+				"videoDescription": "Dua Lipa - Last Dance - Houston, TX 06.05.18",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Last Dance"
+			}
+		]
+	},
+	{
+		"id": "b752a9a9-50f5-4265-860c-3fac21e18f25",
+		"description": "Dua Lipa, Hotter Than Hell, at The Academy Dublin.",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2016-10-05",
+		"dateEvent": "2016-10-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2016/the-academy-dublin-ireland-73fd3269.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "kYncW8hF1Y8",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2016-10-07",
+				"videoDescription": "Dua Lipa, Hotter Than Hell, at The Academy Dublin.",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Hotter Than Hell"
+			}
+		]
+	},
+	{
+		"id": "f81214bb-89ee-475b-9635-6e697ee53e91",
+		"description": "Dua Lipa - Room For 2 - Houston, TX 03.11.17",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-03-11",
+		"dateEvent": "2017-03-11",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/bronze-peacock-room-house-of-blues-houston-tx-53f9cb65.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "mT_N6ItEpmo",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-03-12",
+				"videoDescription": "Dua Lipa - Room For 2 - Houston, TX 03.11.17",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Room For 2"
+			}
+		]
+	},
+	{
+		"id": "688c784d-bab8-4b0f-9dda-e861cf827de7",
+		"description": "Dua Lipa, New love , Dublin Olympia ,10 04 2018",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2018-04-10",
+		"dateEvent": "2018-04-10",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/olympia-theatre-dublin-ireland-6bec92e6.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "muUcBbJu6cA",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2018-04-11",
+				"videoDescription": "Dua Lipa, New love , Dublin Olympia ,10 04 2018",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "New Love"
+			}
+		]
+	},
+	{
+		"id": "b8d5d203-f860-4acc-a0f7-082c9a32232b",
+		"description": "Dua Lipa,  Be the one, O2 Empire London April 13th 2017",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-04-13",
+		"dateEvent": "2017-04-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/o2-shepherds-bush-empire-london-england-33e6e829.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "nh39K7pTqQ4",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-04-17",
+				"videoDescription": "Dua Lipa,  Be the one, O2 Empire London April 13th 2017",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Be The One"
+			}
+		]
+	},
+	{
+		"id": "1756fa97-b24f-4a69-a082-1c12cc966f66",
+		"description": "Dua Lipa - No Goodbyes - Houston, TX 06.05.18",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2018-06-05",
+		"dateEvent": "2018-06-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/revention-music-center-houston-tx-53ed5785.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "nQKJqoobqQg",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2018-06-07",
+				"videoDescription": "Dua Lipa - No Goodbyes - Houston, TX 06.05.18",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "No Goodbyes"
+			}
+		]
+	},
+	{
+		"id": "dd41daf1-6208-4c42-b44b-9d3c670fee08",
+		"description": "Dua Lipa Performing 'Genesis' Live (03.05)",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-03-05",
+		"dateEvent": "2017-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/rock-and-roll-hotel-washington-dc-3bf9f028.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "nTGcv4sqcrs",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-03-07",
+				"videoDescription": "Dua Lipa Performing 'Genesis' Live (03.05)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Genesis"
+			}
+		]
+	},
+	{
+		"id": "9436c8b8-ae59-44d2-a28c-89b1b405f514",
+		"description": "Dua Lipa - Homesick - Houston, TX 06.05.18",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2018-06-05",
+		"dateEvent": "2018-06-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/revention-music-center-houston-tx-53ed5785.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "olj_CFI6GZs",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2018-06-07",
+				"videoDescription": "Dua Lipa - Homesick - Houston, TX 06.05.18",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Homesick"
+			}
+		]
+	},
+	{
+		"id": "3a40cc62-17eb-443b-b91a-a2a853852bfc",
+		"description": "DUA LIPA- BE THE ONE-LIVE UK(5/28/2017) HD1080/60FPS",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-05-28",
+		"dateEvent": "2017-05-28",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/burton-constable-hall-and-grounds-kingston-upon-hull-england-5be737d4.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "PczyZ3RPVAA",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-02-23",
+				"videoDescription": "DUA LIPA- BE THE ONE-LIVE UK(5/28/2017) HD1080/60FPS",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Be The One"
+			}
+		]
+	},
+	{
+		"id": "c4a9262c-60da-4000-a128-b101da4f6845",
+		"description": "Dua Lipa - Blow Your Mind (Mwah) - Houston, TX 03.11.17",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-03-11",
+		"dateEvent": "2017-03-11",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/bronze-peacock-room-house-of-blues-houston-tx-53f9cb65.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "q0hBXf7YAJw",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-03-13",
+				"videoDescription": "Dua Lipa - Blow Your Mind (Mwah) - Houston, TX 03.11.17",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Blow Your Mind (Mwah!)"
+			}
+		]
+	},
+	{
+		"id": "2f513fd6-6858-42d5-8478-f90da3974371",
+		"description": "Dua Lipa Performing 'Dreams' Live (03.07)",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-03-07",
+		"dateEvent": "2017-03-07",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/the-loft-at-center-stage-atlanta-ga-1bf9e51c.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "Q5M7iiv5acU",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-03-09",
+				"videoDescription": "Dua Lipa Performing 'Dreams' Live (03.07)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Dreams"
+			}
+		]
+	},
+	{
+		"id": "5c7f81a5-04d3-46bc-af83-82c1cbfa00a1",
+		"description": "Dua Lipa - Be the One - Houston, TX 06.05.18",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2018-06-05",
+		"dateEvent": "2018-06-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/revention-music-center-houston-tx-53ed5785.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "Q5Smrb39L2w",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2018-06-07",
+				"videoDescription": "Dua Lipa - Be the One - Houston, TX 06.05.18",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Be The One"
+			}
+		]
+	},
+	{
+		"id": "a66d185d-d7b1-454b-8c77-1fb6a61b4be1",
+		"description": "Dua Lipa Performing 'Want To' Live (03.05)",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-03-05",
+		"dateEvent": "2017-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/rock-and-roll-hotel-washington-dc-3bf9f028.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "QtwQqHNyXJY",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-03-09",
+				"videoDescription": "Dua Lipa Performing 'Want To' Live (03.05)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Want To"
+			}
+		]
+	},
+	{
+		"id": "83667c9d-14ef-4007-8384-9bffd070086c",
+		"description": "Dua Lipa, Blow you mind (mwah) London April 2017",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-04-13",
+		"dateEvent": "2017-04-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "video description and wiki",
+				"sourceLink": "https://en.wikipedia.org/wiki/List_of_Dua_Lipa_concert_tours"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "QUErr5y1L20",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-04-16",
+				"videoDescription": "Dua Lipa, Blow you mind (mwah) London April 2017",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Blow Your Mind (Mwah!)"
+			}
+		]
+	},
+	{
+		"id": "0e8d2cc3-9ec6-4a0c-8270-81e82ee03c44",
+		"description": "Dua Lipa - Genesis - Houston, TX 06.05.18",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2018-06-05",
+		"dateEvent": "2018-06-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/revention-music-center-houston-tx-53ed5785.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "qYzl6tqO2wo",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2018-06-07",
+				"videoDescription": "Dua Lipa - Genesis - Houston, TX 06.05.18",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Genesis"
+			}
+		]
+	},
+	{
+		"id": "40deb7b2-d040-46fb-b002-a145a0925eee",
+		"description": "Dua Lipa - Be The One (Live in Boston 2017)",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-03-04",
+		"dateEvent": "2017-03-04",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/paradise-rock-club-boston-ma-bf9f5c6.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "R5ldKLHIPcc",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-03-05",
+				"videoDescription": "Dua Lipa - Be The One (Live in Boston 2017)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Be The One"
+			}
+		]
+	},
+	{
+		"id": "5e23d2b3-e1bb-4b0c-a3e7-06affd9a08dd",
+		"description": "Dua Lipa Performing 'Last Dance' Live (03.05)",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-03-05",
+		"dateEvent": "2017-03-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/rock-and-roll-hotel-washington-dc-3bf9f028.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "rD3r4KNnnHA",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-03-09",
+				"videoDescription": "Dua Lipa Performing 'Last Dance' Live (03.05)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Last Dance"
+			}
+		]
+	},
+	{
+		"id": "790a4258-6934-45ec-9a24-d12ed7e20b72",
+		"description": "Dua Lipa - Dreams - Houston, TX 03.11.17",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-03-11",
+		"dateEvent": "2017-03-11",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/bronze-peacock-room-house-of-blues-houston-tx-53f9cb65.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "rMqMg_Xj9ns",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-03-13",
+				"videoDescription": "Dua Lipa - Dreams - Houston, TX 03.11.17",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Dreams"
+			}
+		]
+	},
+	{
+		"id": "88785c6e-e73b-4187-a535-afa210669ed9",
+		"description": "Dua Lipa 3/4/22",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2022-03-04",
+		"dateEvent": "2022-03-04",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/prudential-center-newark-nj-6389a2ab.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "Sc57OCSrfzA",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-08",
+				"videoDescription": "Dua Lipa 3/4/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Future Nostalgia"
+			}
+		]
+	},
+	{
+		"id": "3d75278f-b241-44da-bd84-a8a5112c0aae",
+		"description": "Dua Lipa, Want to, Live at the Academy Dublin",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2016-10-05",
+		"dateEvent": "2016-10-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2016/the-academy-dublin-ireland-73fd3269.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "SOpdp1RUGI0",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2016-10-07",
+				"videoDescription": "Dua Lipa, Want to, Live at the Academy Dublin",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Want To"
+			}
+		]
+	},
+	{
+		"id": "4f0a4e0d-ad10-47a8-9321-f7bfdd6d7aea",
+		"description": "Dua Lipa - IDGAF part 1 - Houston, TX 06.05.18",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2018-06-05",
+		"dateEvent": "2018-06-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/revention-music-center-houston-tx-53ed5785.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "tILmPnQaT2k",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2018-06-08",
+				"videoDescription": "Dua Lipa - IDGAF part 1 - Houston, TX 06.05.18",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "IDGAF"
+			}
+		]
+	},
+	{
+		"id": "b5b5796b-b3fe-44aa-83e5-a01c2c2b40d4",
+		"description": "Dua Lipa - Thinking 'Bout You (Live in Boston 2017)",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-03-04",
+		"dateEvent": "2017-03-04",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/paradise-rock-club-boston-ma-bf9f5c6.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "u8gBQ0803w8",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-03-05",
+				"videoDescription": "Dua Lipa - Thinking 'Bout You (Live in Boston 2017)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Thinking 'Bout You"
+			}
+		]
+	},
+	{
+		"id": "aa0e7841-4849-450d-9c26-49bb1735d7bc",
+		"description": "Dua Lipa - Garden - Houston, TX 06.05.18",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2018-06-05",
+		"dateEvent": "2018-06-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/revention-music-center-houston-tx-53ed5785.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "WVxZzUMzMrg",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2018-06-07",
+				"videoDescription": "Dua Lipa - Garden - Houston, TX 06.05.18",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Garden"
+			}
+		]
+	},
+	{
+		"id": "2375fcbd-a55c-4dbf-aa38-352b299c08a7",
+		"description": "Dua Lipa, Sacred to Be Lonely, London April,2017",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-04-13",
+		"dateEvent": "2017-04-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "video description and wiki",
+				"sourceLink": "https://en.wikipedia.org/wiki/List_of_Dua_Lipa_concert_tours"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "xdqW0mJgld4",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-04-17",
+				"videoDescription": "Dua Lipa, Sacred to Be Lonely, London April,2017",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Scared To Be Lonely"
+			}
+		]
+	},
+	{
+		"id": "007388ff-a8fc-4a50-b097-4890a60cb644",
+		"description": "Dua Lipa - Hotter Than Hell - Houston, TX 03.11.17",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-03-11",
+		"dateEvent": "2017-03-11",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/bronze-peacock-room-house-of-blues-houston-tx-53f9cb65.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "Xroo__jHiso",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-03-13",
+				"videoDescription": "Dua Lipa - Hotter Than Hell - Houston, TX 03.11.17",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Hotter Than Hell"
+			}
+		]
+	},
+	{
+		"id": "2aa6b5bf-9900-4191-8632-9d464549c07d",
+		"description": "Dua Lipa - Last Dance - Houston TX, 03.11.17",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2017-03-11",
+		"dateEvent": "2017-03-11",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2017/bronze-peacock-room-house-of-blues-houston-tx-53f9cb65.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "z8_z3TRLhuw",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2017-03-12",
+				"videoDescription": "Dua Lipa - Last Dance - Houston TX, 03.11.17",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Last Dance"
+			}
+		]
+	},
+	{
+		"id": "920c8afe-54df-4e20-9e3d-931175b964f3",
+		"description": "Dua Lipa , New rules, Dublin Olympia , 10 04 2018",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2018-04-10",
+		"dateEvent": "2018-04-10",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/olympia-theatre-dublin-ireland-6bec92e6.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "ZFh5wLCyhek",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2018-04-11",
+				"videoDescription": "Dua Lipa , New rules, Dublin Olympia , 10 04 2018",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "New Rules"
+			}
+		]
+	},
+	{
+		"id": "73813f0d-5214-432b-8fc7-9e40709faf0e",
+		"description": "Dua Lipa - Begging - Houston, TX 06.05.18",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2018-06-05",
+		"dateEvent": "2018-06-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/revention-music-center-houston-tx-53ed5785.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "zJJTHKTVCq4",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2018-06-08",
+				"videoDescription": "Dua Lipa - Begging - Houston, TX 06.05.18",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Begging"
+			}
+		]
+	},
+	{
+		"id": "9a09ea94-cf33-4b19-bd3e-36274d322d73",
+		"description": "Dua Lipa - Dreams - Houston, TX 06.05.18",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2018-06-05",
+		"dateEvent": "2018-06-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/revention-music-center-houston-tx-53ed5785.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "Zltfb9kzlj4",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2018-06-06",
+				"videoDescription": "Dua Lipa - Dreams - Houston, TX 06.05.18",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Dreams"
+			}
+		]
+	},
+	{
+		"id": "a5874f4e-735d-41cf-9126-0a6155a4b7ef",
+		"description": "Dua Lipa - IDGAF part 2 - Houston, TX 06.05.18",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2018-06-05",
+		"dateEvent": "2018-06-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/revention-music-center-houston-tx-53ed5785.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "Zq5koAqEl38",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2018-06-08",
+				"videoDescription": "Dua Lipa - IDGAF part 2 - Houston, TX 06.05.18",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "IDGAF"
+			}
+		]
+	},
+	{
+		"id": "2a97adee-b71b-476c-be6d-b61f4422b95b",
+		"description": "Dua Lipa - New Rules - Houston, TX 06.05.18",
+		"dateDatabase": "03/16/2022",
+		"dateSort": "2018-06-05",
+		"dateEvent": "2018-06-05",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2018/revention-music-center-houston-tx-53ed5785.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "ZR93-d2dgQw",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2018-06-08",
+				"videoDescription": "Dua Lipa - New Rules - Houston, TX 06.05.18",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "New Rules"
 			}
 		]
 	}

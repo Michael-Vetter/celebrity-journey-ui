@@ -5320,6 +5320,15 @@
             "countryName": "USA"
           },
           {
+            "id": "d1a4edcc-74f8-9999-9664-9bedd9d73e5b",
+            "name": "FN Tour, Los Angeles,CA",
+            "date": "2022-03-23",
+            "org": "",
+            "locality": "Los Angeles",
+            "region": "CA",
+            "countryName": "USA"
+          },
+          {
             "id": "90a0be79-f030-481e-aa6f-b496825d5f35",
             "name": "FN Tour, Las Vegas,NV",
             "date": "2022-03-25",
@@ -5678,7 +5687,7 @@
           },
           {
             "id": "6e96d4a9-0812-4901-85a3-390bd4507e32",
-            "name": "FN Tour, Helsinki,",
+            "name": "CANCELLED FN Tour, Helsinki,",
             "date": "2022-06-23",
             "org": "",
             "locality": "Helsinki",
@@ -5736,6 +5745,15 @@
             "countryName": "Canada"
           },
           {
+            "id": "2edefa77-dd65-4610-8a17-tttt99dfb627",
+            "name": "Lollapalooza, Chicago, IL; Exact date TBD",
+            "date": "2022-07-30",
+            "org": "",
+            "locality": "Chicago",
+            "region": "IL",
+            "countryName": "USA"
+          },
+          {
             "id": "2edefa77-dd65-4610-8a17-57c999dfb627",
             "name": "Osheaga Music Festival, Montreal Canada",
             "date": "2022-07-31",
@@ -5743,6 +5761,20 @@
             "locality": "Montreal",
             "region": "",
             "countryName": "Canada"
+          }
+        ]
+      },
+      {
+        "month": "August",
+        "events": [
+          {
+            "id": "1etttt3f-1378-44c4-a8f7-f98f1a2ca812",
+            "name": "Sunnyhill Festival - exact date TBD",
+            "date": "2022-08-01",
+            "org": "",
+            "locality": "Prishtine",
+            "region": "",
+            "countryName": "Kosovo"
           }
         ]
       },

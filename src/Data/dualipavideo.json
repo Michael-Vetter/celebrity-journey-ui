@@ -812,6 +812,47 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "c0xC-gYFvoCmb6xiuUMf-PH00HI",
+    "id": "-R7xpQlS4XE",
+    "snippet": {
+      "publishedAt": "2022-03-23T05:47:58Z",
+      "channelId": "UC6SAoPtqfAdAuW3xuxBffEQ",
+      "title": "Intro/Physical - Dua Lipa, Future Nostalgia Tour (Phoenix, AZ)",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-R7xpQlS4XE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-R7xpQlS4XE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-R7xpQlS4XE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Phoenix Concerts",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Intro/Physical - Dua Lipa, Future Nostalgia Tour (Phoenix, AZ)",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "56",
+      "likeCount": "3",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "yDYHqXu44Dqe35oAkN6DWvS6u0c",
     "id": "-vvneFx4MO4",
     "snippet": {
@@ -1547,7 +1588,10 @@
       },
       "defaultAudioLanguage": "en"
     },
-    "statistics": { "viewCount": "1678985", "favoriteCount": "0" }
+    "statistics": {
+      "viewCount": "1678985",
+      "favoriteCount": "0"
+    }
   },
   {
     "kind": "youtube#video",
@@ -2316,6 +2360,56 @@
       "likeCount": "2823",
       "favoriteCount": "0",
       "commentCount": "56"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "IwcRIfFygG73QxrokCfiV8jzMKc",
+    "id": "16b3y5EJXvs",
+    "snippet": {
+      "publishedAt": "2022-03-23T10:55:09Z",
+      "channelId": "UCwTI6Rz9r6Yh5H9xkM3ZV7Q",
+      "title": "Dua Lipa “Break My Heart” @ The Forum LA 3/22/22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/16b3y5EJXvs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/16b3y5EJXvs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/16b3y5EJXvs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "joel angel",
+      "tags": [
+        "Dua Lipa",
+        "Break my heart",
+        "Future nostalgia tour",
+        "The forum",
+        "Los Angeles",
+        "LA",
+        "3/22/22"
+      ],
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa “Break My Heart” @ The Forum LA 3/22/22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "365",
+      "likeCount": "19",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -5673,6 +5767,111 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "yzy78v3VPZRBk2SY_0H_Xx1qJD0",
+    "id": "3J2nyrVylnI",
+    "snippet": {
+      "publishedAt": "2022-03-19T15:29:52Z",
+      "channelId": "UC5YI-ObXJSfD0tqOljU_ilQ",
+      "title": "Dua Lipa - Boys Will Be Boys [HD] LIVE 3/13/2022",
+      "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3J2nyrVylnI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3J2nyrVylnI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3J2nyrVylnI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3J2nyrVylnI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3J2nyrVylnI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JYeahJasonJude",
+      "tags": [
+        "Boys Will Be Boys",
+        "Dua Lipa",
+        "Live",
+        "Music",
+        "Video",
+        "jasonjude",
+        "Jason Jude",
+        "Jasonjayeah",
+        "JasonJyeah",
+        "JYeah",
+        "JasonJude1",
+        "JYeahJasonJude",
+        "HD",
+        "1080p",
+        "great quality",
+        "San Antonio",
+        "Texas",
+        "3/13/22",
+        "2022",
+        "dallas",
+        "american airlines center",
+        "denver",
+        "tulsa",
+        "phoenix",
+        "los angeles",
+        "las vegas",
+        "san jose",
+        "portland",
+        "seattle",
+        "vancouver",
+        "houston",
+        "chicago",
+        "minneapolis",
+        "buffalo",
+        "newark",
+        "washington",
+        "new york",
+        "columbus",
+        "detroit",
+        "toronto",
+        "montreal",
+        "philadelphia",
+        "boston",
+        "charlotte",
+        "nashville",
+        "atlanta",
+        "orlando",
+        "miami",
+        "manchester",
+        "london",
+        "leeds",
+        "dublin"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Boys Will Be Boys [HD] LIVE 3/13/2022",
+        "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU."
+      }
+    },
+    "statistics": {
+      "viewCount": "44",
+      "likeCount": "1",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "OcwT22RxMbf1NdELBiZMHarJK6Y",
     "id": "3jNf6wGJ-hw",
     "snippet": {
@@ -7372,6 +7571,58 @@
     "statistics": {
       "viewCount": "912",
       "likeCount": "43",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "UyP1OQjjMUKQLpkNz8jn5wg14vQ",
+    "id": "4H_eSMeUfSs",
+    "snippet": {
+      "publishedAt": "2022-03-23T14:44:38Z",
+      "channelId": "UCk17EiY8As4ImPh6rw05n6A",
+      "title": "Dua Lipa - Electricity (Future Nostalgia Tour) Los Angeles Night 1 Live 3/22/22 #100ConcertsIn2022",
+      "description": "I do not own this song.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4H_eSMeUfSs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4H_eSMeUfSs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4H_eSMeUfSs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4H_eSMeUfSs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4H_eSMeUfSs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Patrick Ma",
+      "tags": ["#100ConcertsIn2022"],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Electricity (Future Nostalgia Tour) Los Angeles Night 1 Live 3/22/22 #100ConcertsIn2022",
+        "description": "I do not own this song."
+      }
+    },
+    "statistics": {
+      "viewCount": "231",
+      "likeCount": "8",
       "favoriteCount": "0",
       "commentCount": "0"
     }
@@ -9226,6 +9477,112 @@
     "statistics": {
       "viewCount": "121",
       "likeCount": "6",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "9XsTw6Vr3DNfoQsTjaFxwlb7tEU",
+    "id": "5w_BZIofBhc",
+    "snippet": {
+      "publishedAt": "2022-03-21T02:51:40Z",
+      "channelId": "UC5YI-ObXJSfD0tqOljU_ilQ",
+      "title": "Dua Lipa - Love Again [HD] LIVE 3/13/2022",
+      "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5w_BZIofBhc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5w_BZIofBhc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5w_BZIofBhc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5w_BZIofBhc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5w_BZIofBhc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JYeahJasonJude",
+      "tags": [
+        "Love Again",
+        "Dua Lipa",
+        "Live",
+        "Music",
+        "Video",
+        "jasonjude",
+        "Jason Jude",
+        "Jasonjayeah",
+        "JasonJyeah",
+        "JYeah",
+        "JasonJude1",
+        "JYeahJasonJude",
+        "HD",
+        "1080p",
+        "great quality",
+        "concert",
+        "San Antonio",
+        "Texas",
+        "3/13/22",
+        "2022",
+        "dallas",
+        "american airlines center",
+        "denver",
+        "tulsa",
+        "phoenix",
+        "los angeles",
+        "las vegas",
+        "san jose",
+        "portland",
+        "seattle",
+        "vancouver",
+        "houston",
+        "chicago",
+        "minneapolis",
+        "buffalo",
+        "newark",
+        "washington",
+        "new york",
+        "columbus",
+        "detroit",
+        "toronto",
+        "montreal",
+        "philadelphia",
+        "boston",
+        "charlotte",
+        "nashville",
+        "atlanta",
+        "orlando",
+        "miami",
+        "manchester",
+        "london",
+        "leeds",
+        "dublin"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Love Again [HD] LIVE 3/13/2022",
+        "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU."
+      }
+    },
+    "statistics": {
+      "viewCount": "50",
+      "likeCount": "1",
       "favoriteCount": "0",
       "commentCount": "0"
     }
@@ -11743,6 +12100,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "gdzQT3a64kZFl18nJiQlVEMaBwk",
+    "id": "80uoEY7nPuA",
+    "snippet": {
+      "publishedAt": "2022-03-16T17:42:09Z",
+      "channelId": "UCK9mlaFtEZSSW_ABKqd-VQw",
+      "title": "DUA LIPA WE’RE GOOD BALL ARENA DENVER CO 3-15-22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/80uoEY7nPuA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/80uoEY7nPuA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/80uoEY7nPuA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/80uoEY7nPuA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/80uoEY7nPuA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mike Amolsch",
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "DUA LIPA WE’RE GOOD BALL ARENA DENVER CO 3-15-22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "433",
+      "likeCount": "8",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "N3xb8BmgeOhvPuhpJWU9nzMKROQ",
     "id": "87uJDz6_SzI",
     "snippet": {
@@ -12231,6 +12639,109 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "qWv94aGZ7P6GttXrGCk_RD4Fq9U",
+    "id": "8Pr1aVwst3I",
+    "snippet": {
+      "publishedAt": "2022-03-21T15:01:55Z",
+      "channelId": "UCk17EiY8As4ImPh6rw05n6A",
+      "title": "Dua Lipa - Don't Start Now (Future Nostalgia Tour, Live in Phoenix AZ 3/20/22) 4K #100ConcertsIn2022",
+      "description": "I do not own this song.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8Pr1aVwst3I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8Pr1aVwst3I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8Pr1aVwst3I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Patrick Ma",
+      "tags": ["#100ConcertsIn2022"],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Don't Start Now (Future Nostalgia Tour, Live in Phoenix AZ 3/20/22) 4K #100ConcertsIn2022",
+        "description": "I do not own this song."
+      }
+    },
+    "statistics": {
+      "viewCount": "1534",
+      "likeCount": "49",
+      "favoriteCount": "0",
+      "commentCount": "5"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "GF9shhhFOtoWVFbg9Ltvw3Du-7Q",
+    "id": "8Re0FLIDeH8",
+    "snippet": {
+      "publishedAt": "2022-03-23T11:29:03Z",
+      "channelId": "UCwTI6Rz9r6Yh5H9xkM3ZV7Q",
+      "title": "Dua Lipa “Good In Bed” @ The Forum LA 3/22/22",
+      "description": "Shot on iPhone.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8Re0FLIDeH8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8Re0FLIDeH8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8Re0FLIDeH8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8Re0FLIDeH8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8Re0FLIDeH8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "joel angel",
+      "tags": [
+        "Dua Lipa",
+        "Good in bed",
+        "Future nostalgia tour",
+        "The forum",
+        "Los angeles",
+        "la",
+        "2022",
+        "3/22/22"
+      ],
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa “Good In Bed” @ The Forum LA 3/22/22",
+        "description": "Shot on iPhone."
+      }
+    },
+    "statistics": {
+      "viewCount": "796",
+      "likeCount": "28",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "SLPLyIc_DdsZsxjTs2BK9vDFyL8",
     "id": "8ssfaVwSNCg",
     "snippet": {
@@ -12417,6 +12928,57 @@
     "statistics": {
       "viewCount": "2557",
       "likeCount": "50",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "toS2V6k-na4uwMZOnJqyvsPUDMY",
+    "id": "8W8Fl-xqjao",
+    "snippet": {
+      "publishedAt": "2022-03-23T11:37:37Z",
+      "channelId": "UCwTI6Rz9r6Yh5H9xkM3ZV7Q",
+      "title": "Dua Lipa “Fever” @ The Forum LA 3/22/22",
+      "description": "Shot on iPhone.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8W8Fl-xqjao/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8W8Fl-xqjao/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8W8Fl-xqjao/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8W8Fl-xqjao/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8W8Fl-xqjao/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "joel angel",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa “Fever” @ The Forum LA 3/22/22",
+        "description": "Shot on iPhone."
+      }
+    },
+    "statistics": {
+      "viewCount": "466",
+      "likeCount": "18",
       "favoriteCount": "0",
       "commentCount": "1"
     }
@@ -13938,6 +14500,112 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "mSDFndklDdHeNejXHZHg1BeaWls",
+    "id": "9zRkPUSTpoM",
+    "snippet": {
+      "publishedAt": "2022-03-21T02:14:48Z",
+      "channelId": "UC5YI-ObXJSfD0tqOljU_ilQ",
+      "title": "Dua Lipa - We're Good [HD] LIVE 3/13/2022",
+      "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9zRkPUSTpoM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9zRkPUSTpoM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9zRkPUSTpoM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9zRkPUSTpoM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9zRkPUSTpoM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JYeahJasonJude",
+      "tags": [
+        "We're Good",
+        "Dua Lipa",
+        "Live",
+        "Music",
+        "Video",
+        "jasonjude",
+        "Jason Jude",
+        "Jasonjayeah",
+        "JasonJyeah",
+        "JYeah",
+        "JasonJude1",
+        "JYeahJasonJude",
+        "HD",
+        "1080p",
+        "great quality",
+        "concert",
+        "San Antonio",
+        "Texas",
+        "3/13/22",
+        "2022",
+        "dallas",
+        "american airlines center",
+        "denver",
+        "tulsa",
+        "phoenix",
+        "los angeles",
+        "las vegas",
+        "san jose",
+        "portland",
+        "seattle",
+        "vancouver",
+        "houston",
+        "chicago",
+        "minneapolis",
+        "buffalo",
+        "newark",
+        "washington",
+        "new york",
+        "columbus",
+        "detroit",
+        "toronto",
+        "montreal",
+        "philadelphia",
+        "boston",
+        "charlotte",
+        "nashville",
+        "atlanta",
+        "orlando",
+        "miami",
+        "manchester",
+        "london",
+        "leeds",
+        "dublin"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - We're Good [HD] LIVE 3/13/2022",
+        "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU."
+      }
+    },
+    "statistics": {
+      "viewCount": "34",
+      "likeCount": "0",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "mlQvU6YNutsPJjMKmL-hlWrIiIM",
     "id": "9_w5WHtDmgo",
     "snippet": {
@@ -14370,6 +15038,48 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "7IihXYDbAmDC0YRNweNV9PHZbu0",
+    "id": "aChI8WBWd1g",
+    "snippet": {
+      "publishedAt": "2022-03-21T14:45:27Z",
+      "channelId": "UCk17EiY8As4ImPh6rw05n6A",
+      "title": "Dua Lipa - Levitating (Future Nostalgia Tour, Live in Phoenix, AZ 3/20/22) 4K #100ConcertsIn2022",
+      "description": "I do not own this song.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aChI8WBWd1g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aChI8WBWd1g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aChI8WBWd1g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Patrick Ma",
+      "tags": ["#100ConcertsIn2022"],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Levitating (Future Nostalgia Tour, Live in Phoenix, AZ 3/20/22) 4K #100ConcertsIn2022",
+        "description": "I do not own this song."
+      }
+    },
+    "statistics": {
+      "viewCount": "329",
+      "likeCount": "12",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "Tnz_npaM2AybyHYeL08_xYGItCE",
     "id": "AcvRtbYBvgA",
     "snippet": {
@@ -14397,7 +15107,10 @@
       "channelTitle": "Monica Hegeman",
       "categoryId": "22",
       "liveBroadcastContent": "none",
-      "localized": { "title": "Dua Lipa", "description": "" }
+      "localized": {
+        "title": "Dua Lipa",
+        "description": ""
+      }
     },
     "statistics": {
       "viewCount": "9",
@@ -15137,6 +15850,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "NcrekyRcGCtapVW2i0C1yGBrTg0",
+    "id": "aLnMXK9KUaw",
+    "snippet": {
+      "publishedAt": "2022-03-18T17:45:59Z",
+      "channelId": "UC6SK6FosLuieeeBB3Fvg55w",
+      "title": "3/17/22 Dua Lipa & Megan Thee Stallion perform new song together “Sweetest Pie”",
+      "description": "BOK Center\nMarch 17, 2022\nTulsa, OK\n\nCheck out my other videos\n\nI am not claiming this song as my own, it’s only for entertainment purposes",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aLnMXK9KUaw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aLnMXK9KUaw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aLnMXK9KUaw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/aLnMXK9KUaw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/aLnMXK9KUaw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "rekcutx",
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "3/17/22 Dua Lipa & Megan Thee Stallion perform new song together “Sweetest Pie”",
+        "description": "BOK Center\nMarch 17, 2022\nTulsa, OK\n\nCheck out my other videos\n\nI am not claiming this song as my own, it’s only for entertainment purposes"
+      }
+    },
+    "statistics": {
+      "viewCount": "876",
+      "likeCount": "22",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "PoFnC8xs-i8fH6iVnJ48wv0RCFg",
     "id": "aMnkLdy3-kE",
     "snippet": {
@@ -15285,7 +16049,10 @@
       "channelTitle": "Jareth Johnson",
       "categoryId": "10",
       "liveBroadcastContent": "none",
-      "localized": { "title": "February 27, 2022", "description": "" }
+      "localized": {
+        "title": "February 27, 2022",
+        "description": ""
+      }
     },
     "statistics": {
       "viewCount": "51",
@@ -16138,6 +16905,58 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "5yfAki7HMqohINvpLcAcc_Qgffk",
+    "id": "b7ue4myTeEA",
+    "snippet": {
+      "publishedAt": "2022-03-21T01:44:41Z",
+      "channelId": "UCOQ9e-txk84dS_OZauKPBSg",
+      "title": "Dua Lipa - Love Again & Cool LIVE - Denver",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/b7ue4myTeEA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/b7ue4myTeEA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/b7ue4myTeEA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/b7ue4myTeEA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/b7ue4myTeEA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Vladimir Avina",
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Love Again & Cool LIVE - Denver",
+        "description": ""
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "statistics": {
+      "viewCount": "491",
+      "likeCount": "24",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "no0ZITIav4Lco7evUGNeNW4Aa4k",
     "id": "b9xckWC8QYc",
     "snippet": {
@@ -16406,6 +17225,58 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "1T7fKyjmmLJC8sNl39pM8k_d8uw",
+    "id": "Be1rdPio8Z8",
+    "snippet": {
+      "publishedAt": "2022-03-23T13:55:31Z",
+      "channelId": "UCk17EiY8As4ImPh6rw05n6A",
+      "title": "Dua Lipa - We're Good (Future Nostalgia Tour) Los Angeles Night 1 Live 3/22/22 #100ConcertsIn2022",
+      "description": "I do not own this song.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Be1rdPio8Z8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Be1rdPio8Z8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Be1rdPio8Z8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Be1rdPio8Z8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Be1rdPio8Z8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Patrick Ma",
+      "tags": ["#100ConcertsIn2022"],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - We're Good (Future Nostalgia Tour) Los Angeles Night 1 Live 3/22/22 #100ConcertsIn2022",
+        "description": "I do not own this song."
+      }
+    },
+    "statistics": {
+      "viewCount": "142",
+      "likeCount": "6",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "zFybiRN82v9UwcpgzSsKh5D1Rjs",
     "id": "bEZG-0Kmxes",
     "snippet": {
@@ -16660,6 +17531,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "GRJtVMBsKMN6TDg7cvy_Sk3jNEY",
+    "id": "bhxClNlHLXw",
+    "snippet": {
+      "publishedAt": "2022-03-23T18:42:06Z",
+      "channelId": "UCwTI6Rz9r6Yh5H9xkM3ZV7Q",
+      "title": "Dua Lipa “Don’t Start Now” @ The Forum LA 3/22/22",
+      "description": "Shot on iPhone.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bhxClNlHLXw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bhxClNlHLXw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bhxClNlHLXw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bhxClNlHLXw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bhxClNlHLXw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "joel angel",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa “Don’t Start Now” @ The Forum LA 3/22/22",
+        "description": "Shot on iPhone."
+      }
+    },
+    "statistics": {
+      "viewCount": "3144",
+      "likeCount": "98",
+      "favoriteCount": "0",
+      "commentCount": "5"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "qV6QWv2KX61zIkFhBLNjQ3jPqhI",
     "id": "bIF0bT-V3Ck",
     "snippet": {
@@ -16707,6 +17629,57 @@
       "likeCount": "4",
       "favoriteCount": "0",
       "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "nG-rO8l8BcdlhDwrvNxkk0567Rw",
+    "id": "BIksBScUo2U",
+    "snippet": {
+      "publishedAt": "2022-03-17T17:57:33Z",
+      "channelId": "UCZmSahBEdP3iIRHSWEkPbyg",
+      "title": "Dua Lipa & Megan Thee Stallion - Sweetest Pie LIVE Denver",
+      "description": "The First live performance of Sweetest Pie - From Denver Colorado 3/15/22",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BIksBScUo2U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BIksBScUo2U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BIksBScUo2U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BIksBScUo2U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/BIksBScUo2U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "wade dalke",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa & Megan Thee Stallion - Sweetest Pie LIVE Denver",
+        "description": "The First live performance of Sweetest Pie - From Denver Colorado 3/15/22"
+      }
+    },
+    "statistics": {
+      "viewCount": "4638",
+      "likeCount": "125",
+      "favoriteCount": "0",
+      "commentCount": "6"
     }
   },
   {
@@ -17060,7 +18033,10 @@
       "channelTitle": "Renan Oliveira",
       "categoryId": "23",
       "liveBroadcastContent": "none",
-      "localized": { "title": "IDGAF Dua", "description": "" }
+      "localized": {
+        "title": "IDGAF Dua",
+        "description": ""
+      }
     },
     "statistics": {
       "viewCount": "989",
@@ -17137,6 +18113,57 @@
       "likeCount": "441",
       "favoriteCount": "0",
       "commentCount": "24"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "4vaWAUekq7Jw0qWUaj3wqLO8hjs",
+    "id": "boa76AwRh7Y",
+    "snippet": {
+      "publishedAt": "2022-03-18T09:51:33Z",
+      "channelId": "UC3Sc_NSRVQSbtrLkgVWJXuQ",
+      "title": "Dua Lipa Future Nostalgia Tour Tulsa Oklahoma",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/boa76AwRh7Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/boa76AwRh7Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/boa76AwRh7Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/boa76AwRh7Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/boa76AwRh7Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Cole Waters",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Future Nostalgia Tour Tulsa Oklahoma",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "191",
+      "likeCount": "5",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -17280,6 +18307,58 @@
       "likeCount": "139",
       "favoriteCount": "0",
       "commentCount": "9"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "AS5AR1EWQ9VGSBCEqubipK8lkFY",
+    "id": "BpjdWxH17ik",
+    "snippet": {
+      "publishedAt": "2022-03-21T00:13:38Z",
+      "channelId": "UCOQ9e-txk84dS_OZauKPBSg",
+      "title": "Levitating LIVE - Dua Lipa - Denver",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BpjdWxH17ik/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BpjdWxH17ik/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BpjdWxH17ik/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BpjdWxH17ik/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/BpjdWxH17ik/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Vladimir Avina",
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Levitating LIVE - Dua Lipa - Denver",
+        "description": ""
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "statistics": {
+      "viewCount": "259",
+      "likeCount": "11",
+      "favoriteCount": "0",
+      "commentCount": "1"
     }
   },
   {
@@ -17452,6 +18531,47 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "-DGLGnRwhV6TJ4J7K_WjHB_o65w",
+    "id": "BSHf1glBL20",
+    "snippet": {
+      "publishedAt": "2022-03-23T05:46:56Z",
+      "channelId": "UC6SAoPtqfAdAuW3xuxBffEQ",
+      "title": "Be the One - Dua Lipa, Future Nostalgia Tour (Phoenix, AZ)",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BSHf1glBL20/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BSHf1glBL20/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BSHf1glBL20/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Phoenix Concerts",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Be the One - Dua Lipa, Future Nostalgia Tour (Phoenix, AZ)",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "124",
+      "likeCount": "5",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "mmSgVZPQJi8TCIxOHL7tCTz9bmM",
     "id": "btpqJXtUyNA",
     "snippet": {
@@ -17573,6 +18693,47 @@
     "statistics": {
       "viewCount": "4228",
       "likeCount": "95",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "FrNdrS9JG-hscbk-uMW8dFvCH-Q",
+    "id": "BTzsrepjmLc",
+    "snippet": {
+      "publishedAt": "2022-03-23T18:24:12Z",
+      "channelId": "UCwTI6Rz9r6Yh5H9xkM3ZV7Q",
+      "title": "Dua Lipa “Levitating” @ The Forum LA 3/22/22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BTzsrepjmLc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BTzsrepjmLc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BTzsrepjmLc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "joel angel",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa “Levitating” @ The Forum LA 3/22/22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "576",
+      "likeCount": "21",
       "favoriteCount": "0",
       "commentCount": "0"
     }
@@ -19518,6 +20679,47 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "08Hze3ZHEgGmiJKQK4eDKBkqwok",
+    "id": "cgnKHGDbOU8",
+    "snippet": {
+      "publishedAt": "2022-03-16T09:15:51Z",
+      "channelId": "UCXNGGWQoRozdnh2zsGEI4Rw",
+      "title": "Dua Lipa - Physical LIVE at Future Nostalgia Tour in Denver, CO",
+      "description": "Dua Lipa singing Physical LIVE at the Future Nostalgia Tour in Denver, CO on March 15, 2022 at Ball Arena",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cgnKHGDbOU8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cgnKHGDbOU8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cgnKHGDbOU8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Dylan Flores",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Physical LIVE at Future Nostalgia Tour in Denver, CO",
+        "description": "Dua Lipa singing Physical LIVE at the Future Nostalgia Tour in Denver, CO on March 15, 2022 at Ball Arena"
+      }
+    },
+    "statistics": {
+      "viewCount": "2564",
+      "likeCount": "69",
+      "favoriteCount": "0",
+      "commentCount": "8"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "u5JbMxWk0YYhJ0S3FCQH8y1pGc4",
     "id": "cHQlPlvnjHo",
     "snippet": {
@@ -20070,6 +21272,163 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "6ZbNp998j4ZrA-NZM2RuDDLRwlQ",
+    "id": "cLZsoan7rWM",
+    "snippet": {
+      "publishedAt": "2022-03-18T10:06:30Z",
+      "channelId": "UC3Sc_NSRVQSbtrLkgVWJXuQ",
+      "title": "Dua Lipa Tulsa Oklahoma",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cLZsoan7rWM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cLZsoan7rWM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cLZsoan7rWM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cLZsoan7rWM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cLZsoan7rWM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Cole Waters",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Tulsa Oklahoma",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "359",
+      "likeCount": "13",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "7ii130J2hyN_4ILV-9FnjfzQ9Ts",
+    "id": "cL_yARql_zM",
+    "snippet": {
+      "publishedAt": "2022-03-21T02:30:57Z",
+      "channelId": "UC5YI-ObXJSfD0tqOljU_ilQ",
+      "title": "Dua Lipa - Be The One [HD] LIVE 3/13/2022",
+      "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cL_yARql_zM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cL_yARql_zM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cL_yARql_zM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cL_yARql_zM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cL_yARql_zM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JYeahJasonJude",
+      "tags": [
+        "Be The One",
+        "Dua Lipa",
+        "Live",
+        "Music",
+        "Video",
+        "jasonjude",
+        "Jason Jude",
+        "Jasonjayeah",
+        "JasonJyeah",
+        "JYeah",
+        "JasonJude1",
+        "JYeahJasonJude",
+        "HD",
+        "1080p",
+        "great quality",
+        "concert",
+        "San Antonio",
+        "Texas",
+        "3/13/22",
+        "2022",
+        "dallas",
+        "american airlines center",
+        "denver",
+        "tulsa",
+        "phoenix",
+        "los angeles",
+        "las vegas",
+        "san jose",
+        "portland",
+        "seattle",
+        "vancouver",
+        "houston",
+        "chicago",
+        "minneapolis",
+        "buffalo",
+        "newark",
+        "washington",
+        "new york",
+        "columbus",
+        "detroit",
+        "toronto",
+        "montreal",
+        "philadelphia",
+        "boston",
+        "charlotte",
+        "nashville",
+        "atlanta",
+        "orlando",
+        "miami",
+        "manchester",
+        "london",
+        "leeds",
+        "dublin"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Be The One [HD] LIVE 3/13/2022",
+        "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU."
+      }
+    },
+    "statistics": {
+      "viewCount": "35",
+      "likeCount": "0",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "nBF5_7ZNmxu4EfnJAQYy8oi34xc",
     "id": "cmnlPhspCn8",
     "snippet": {
@@ -20291,6 +21650,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "CR4Y5JmhXFB9roeSW1BF_trYJJc",
+    "id": "cPCay1e9gbk",
+    "snippet": {
+      "publishedAt": "2022-03-21T09:23:26Z",
+      "channelId": "UCkoI0tAKRkVmuuVlFA8tt4g",
+      "title": "Dua Lipa One Kiss Live Footprint Center Phoenix, AZ 03/20/22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cPCay1e9gbk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cPCay1e9gbk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cPCay1e9gbk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cPCay1e9gbk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cPCay1e9gbk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Alfred Rossy Mark Padilla",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa One Kiss Live Footprint Center Phoenix, AZ 03/20/22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "386",
+      "likeCount": "13",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "gqD7Fp2GAQ7Ft_zi8XC3V6B-7lo",
     "id": "CQPABcy9rXU",
     "snippet": {
@@ -20446,6 +21856,53 @@
       "likeCount": "113",
       "favoriteCount": "0",
       "commentCount": "18"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "Sbrfv-i8UImg18-bcVzTelba-DM",
+    "id": "Crnsxd2ucg4",
+    "snippet": {
+      "publishedAt": "2022-03-21T06:03:19Z",
+      "channelId": "UCk17EiY8As4ImPh6rw05n6A",
+      "title": "#1 Dua Lipa - Physical (Future Nostalgia Tour, Live in Phoenix, AZ 3/20/22) 4K #100ConcertsIn2022",
+      "description": "I do not own this song.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Crnsxd2ucg4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Crnsxd2ucg4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Crnsxd2ucg4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Crnsxd2ucg4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Patrick Ma",
+      "tags": ["#100ConcertsIn2022"],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "#1 Dua Lipa - Physical (Future Nostalgia Tour, Live in Phoenix, AZ 3/20/22) 4K #100ConcertsIn2022",
+        "description": "I do not own this song."
+      }
+    },
+    "statistics": {
+      "viewCount": "248",
+      "likeCount": "11",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -21340,7 +22797,10 @@
         "description": "Dua Lipa México 2017 En vivo concierto completo Corona Capital"
       }
     },
-    "statistics": { "viewCount": "164641", "favoriteCount": "0" }
+    "statistics": {
+      "viewCount": "164641",
+      "favoriteCount": "0"
+    }
   },
   {
     "kind": "youtube#video",
@@ -21936,6 +23396,47 @@
       "likeCount": "1068",
       "favoriteCount": "0",
       "commentCount": "33"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "LpgDdVI8eKR_P9nf3uDZPV8smAs",
+    "id": "dei_eh3Zw0g",
+    "snippet": {
+      "publishedAt": "2022-03-23T06:19:06Z",
+      "channelId": "UC6SAoPtqfAdAuW3xuxBffEQ",
+      "title": "Levitating - Dua Lipa, Future Nostalgia Tour (Phoenix, AZ)",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dei_eh3Zw0g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dei_eh3Zw0g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dei_eh3Zw0g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Phoenix Concerts",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Levitating - Dua Lipa, Future Nostalgia Tour (Phoenix, AZ)",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "66",
+      "likeCount": "1",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -23898,7 +25399,10 @@
       "channelTitle": "Avanith",
       "categoryId": "22",
       "liveBroadcastContent": "none",
-      "localized": { "title": "Electricity - Dua Lipa", "description": "" }
+      "localized": {
+        "title": "Electricity - Dua Lipa",
+        "description": ""
+      }
     },
     "statistics": {
       "viewCount": "13",
@@ -24225,7 +25729,10 @@
       "channelTitle": "Jareth Johnson",
       "categoryId": "10",
       "liveBroadcastContent": "none",
-      "localized": { "title": "February 27, 2022", "description": "" }
+      "localized": {
+        "title": "February 27, 2022",
+        "description": ""
+      }
     },
     "statistics": {
       "viewCount": "56",
@@ -24520,7 +26027,10 @@
       "channelTitle": "Monica Hegeman",
       "categoryId": "22",
       "liveBroadcastContent": "none",
-      "localized": { "title": "Dua Lipa", "description": "" }
+      "localized": {
+        "title": "Dua Lipa",
+        "description": ""
+      }
     },
     "statistics": {
       "viewCount": "32",
@@ -24692,7 +26202,10 @@
       "channelTitle": "Avanith",
       "categoryId": "22",
       "liveBroadcastContent": "none",
-      "localized": { "title": "Don't Stop Now - Dua Lipa", "description": "" }
+      "localized": {
+        "title": "Don't Stop Now - Dua Lipa",
+        "description": ""
+      }
     },
     "statistics": {
       "viewCount": "15",
@@ -25089,6 +26602,58 @@
       "likeCount": "189",
       "favoriteCount": "0",
       "commentCount": "6"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "ubqFH1WGknTAuFMlvyYLPZfz08Q",
+    "id": "eJypGUgq_8s",
+    "snippet": {
+      "publishedAt": "2022-03-23T10:31:35Z",
+      "channelId": "UC_H-qrIP8dY6dLxe4KqiVwA",
+      "title": "Dua Lipa - Good in Bed live The Forum, Inglewood, Los Angeles, CA 3-22-2022",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eJypGUgq_8s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eJypGUgq_8s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eJypGUgq_8s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eJypGUgq_8s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/eJypGUgq_8s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Bound2Fate",
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Good in Bed live The Forum, Inglewood, Los Angeles, CA 3-22-2022",
+        "description": ""
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "statistics": {
+      "viewCount": "298",
+      "likeCount": "6",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -27073,6 +28638,112 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "3cElaSMFF-V23Pe347iPUQQEHpU",
+    "id": "FAKJLV7esg8",
+    "snippet": {
+      "publishedAt": "2022-03-21T02:49:50Z",
+      "channelId": "UC5YI-ObXJSfD0tqOljU_ilQ",
+      "title": "Dua Lipa - Pretty Please [HD] LIVE 3/13/2022",
+      "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FAKJLV7esg8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FAKJLV7esg8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FAKJLV7esg8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/FAKJLV7esg8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/FAKJLV7esg8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JYeahJasonJude",
+      "tags": [
+        "Pretty Please",
+        "Dua Lipa",
+        "Live",
+        "Music",
+        "Video",
+        "jasonjude",
+        "Jason Jude",
+        "Jasonjayeah",
+        "JasonJyeah",
+        "JYeah",
+        "JasonJude1",
+        "JYeahJasonJude",
+        "HD",
+        "1080p",
+        "great quality",
+        "concert",
+        "San Antonio",
+        "Texas",
+        "3/13/22",
+        "2022",
+        "dallas",
+        "american airlines center",
+        "denver",
+        "tulsa",
+        "phoenix",
+        "los angeles",
+        "las vegas",
+        "san jose",
+        "portland",
+        "seattle",
+        "vancouver",
+        "houston",
+        "chicago",
+        "minneapolis",
+        "buffalo",
+        "newark",
+        "washington",
+        "new york",
+        "columbus",
+        "detroit",
+        "toronto",
+        "montreal",
+        "philadelphia",
+        "boston",
+        "charlotte",
+        "nashville",
+        "atlanta",
+        "orlando",
+        "miami",
+        "manchester",
+        "london",
+        "leeds",
+        "dublin"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Pretty Please [HD] LIVE 3/13/2022",
+        "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU."
+      }
+    },
+    "statistics": {
+      "viewCount": "27",
+      "likeCount": "0",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "ZTpx7dJp4b13TQ2qyZCKmWyzciI",
     "id": "FaP2EXQp4eU",
     "snippet": {
@@ -27276,6 +28947,56 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "2Jq475tByPEyPCNmowqonyaOL-4",
+    "id": "fBp753aHfVo",
+    "snippet": {
+      "publishedAt": "2022-03-23T10:38:43Z",
+      "channelId": "UCwTI6Rz9r6Yh5H9xkM3ZV7Q",
+      "title": "Dua Lipa “Pretty Please” @ The Forum LA 3/22/22",
+      "description": "Shot on iPhone.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fBp753aHfVo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fBp753aHfVo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fBp753aHfVo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "joel angel",
+      "tags": [
+        "Dua Lipa",
+        "Pretty please",
+        "The forum",
+        "Future nostalgia tour",
+        "Los Angeles",
+        "LA",
+        "3/22/22"
+      ],
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa “Pretty Please” @ The Forum LA 3/22/22",
+        "description": "Shot on iPhone."
+      }
+    },
+    "statistics": {
+      "viewCount": "520",
+      "likeCount": "26",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "ehjBc55uiiIr8LOfxJNM2QdTXTg",
     "id": "FByFz0g_t-U",
     "snippet": {
@@ -27459,6 +29180,57 @@
       "likeCount": "5",
       "favoriteCount": "0",
       "commentCount": "1"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "7YgXcr1S8y-M61eHr0sd63RgpyI",
+    "id": "FfV0fVKV0H4",
+    "snippet": {
+      "publishedAt": "2022-03-21T09:38:52Z",
+      "channelId": "UCkoI0tAKRkVmuuVlFA8tt4g",
+      "title": "Dua Lipa Levitating Live Footprint Center Phoenix, AZ 03/20/22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FfV0fVKV0H4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FfV0fVKV0H4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FfV0fVKV0H4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/FfV0fVKV0H4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/FfV0fVKV0H4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Alfred Rossy Mark Padilla",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Levitating Live Footprint Center Phoenix, AZ 03/20/22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "425",
+      "likeCount": "13",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -27777,6 +29549,111 @@
       "likeCount": "9",
       "favoriteCount": "0",
       "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "KSxMBrypwQI-EDp20q5SkDtEyKk",
+    "id": "fKDEwCNYGSY",
+    "snippet": {
+      "publishedAt": "2022-03-17T17:42:12Z",
+      "channelId": "UC5YI-ObXJSfD0tqOljU_ilQ",
+      "title": "Dua Lipa - Future Nostalgia [HD] LIVE 3/13/2022",
+      "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fKDEwCNYGSY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fKDEwCNYGSY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fKDEwCNYGSY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fKDEwCNYGSY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fKDEwCNYGSY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JYeahJasonJude",
+      "tags": [
+        "Future Nostalgia",
+        "Dua Lipa",
+        "Live",
+        "Music",
+        "Video",
+        "jasonjude",
+        "Jason Jude",
+        "Jasonjayeah",
+        "JasonJyeah",
+        "JYeah",
+        "JasonJude1",
+        "JYeahJasonJude",
+        "HD",
+        "1080p",
+        "great quality",
+        "San Antonio",
+        "Texas",
+        "3/13/22",
+        "2022",
+        "dallas",
+        "american airlines center",
+        "denver",
+        "tulsa",
+        "phoenix",
+        "los angeles",
+        "las vegas",
+        "san jose",
+        "portland",
+        "seattle",
+        "vancouver",
+        "houston",
+        "chicago",
+        "minneapolis",
+        "buffalo",
+        "newark",
+        "washington",
+        "new york",
+        "columbus",
+        "detroit",
+        "toronto",
+        "montreal",
+        "philadelphia",
+        "boston",
+        "charlotte",
+        "nashville",
+        "atlanta",
+        "orlando",
+        "miami",
+        "manchester",
+        "london",
+        "leeds",
+        "dublin"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Future Nostalgia [HD] LIVE 3/13/2022",
+        "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU."
+      }
+    },
+    "statistics": {
+      "viewCount": "102",
+      "likeCount": "6",
+      "favoriteCount": "0",
+      "commentCount": "1"
     }
   },
   {
@@ -28403,6 +30280,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "uL_441EkWKtXW7vJJP2fi9E3Ys0",
+    "id": "frhEC4RpSlU",
+    "snippet": {
+      "publishedAt": "2022-03-23T17:41:00Z",
+      "channelId": "UCwTI6Rz9r6Yh5H9xkM3ZV7Q",
+      "title": "Dua Lipa “Hallucinate” @ The Forum LA 3/22/22",
+      "description": "Shot on iPhone.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/frhEC4RpSlU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/frhEC4RpSlU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/frhEC4RpSlU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/frhEC4RpSlU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/frhEC4RpSlU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "joel angel",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa “Hallucinate” @ The Forum LA 3/22/22",
+        "description": "Shot on iPhone."
+      }
+    },
+    "statistics": {
+      "viewCount": "724",
+      "likeCount": "28",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "P_VMNLgWqIb-UHyxYhqNBHbmjD8",
     "id": "ftLZYD0aPyM",
     "snippet": {
@@ -28547,6 +30475,112 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "xfLyshzGY-F9gn-M1v0AwzecYUY",
+    "id": "FvnAV68er-0",
+    "snippet": {
+      "publishedAt": "2022-03-21T02:52:46Z",
+      "channelId": "UC5YI-ObXJSfD0tqOljU_ilQ",
+      "title": "Dua Lipa - New Rules [HD] LIVE 3/13/2022",
+      "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FvnAV68er-0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FvnAV68er-0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FvnAV68er-0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/FvnAV68er-0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/FvnAV68er-0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JYeahJasonJude",
+      "tags": [
+        "New Rules",
+        "Dua Lipa",
+        "Live",
+        "Music",
+        "Video",
+        "jasonjude",
+        "Jason Jude",
+        "Jasonjayeah",
+        "JasonJyeah",
+        "JYeah",
+        "JasonJude1",
+        "JYeahJasonJude",
+        "HD",
+        "1080p",
+        "great quality",
+        "concert",
+        "San Antonio",
+        "Texas",
+        "3/13/22",
+        "2022",
+        "dallas",
+        "american airlines center",
+        "denver",
+        "tulsa",
+        "phoenix",
+        "los angeles",
+        "las vegas",
+        "san jose",
+        "portland",
+        "seattle",
+        "vancouver",
+        "houston",
+        "chicago",
+        "minneapolis",
+        "buffalo",
+        "newark",
+        "washington",
+        "new york",
+        "columbus",
+        "detroit",
+        "toronto",
+        "montreal",
+        "philadelphia",
+        "boston",
+        "charlotte",
+        "nashville",
+        "atlanta",
+        "orlando",
+        "miami",
+        "manchester",
+        "london",
+        "leeds",
+        "dublin"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - New Rules [HD] LIVE 3/13/2022",
+        "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU."
+      }
+    },
+    "statistics": {
+      "viewCount": "38",
+      "likeCount": "0",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "rNyilJsxElu_RnTd5v-ADFsNXns",
     "id": "fw6YsZhVH54",
     "snippet": {
@@ -28684,6 +30718,53 @@
       "likeCount": "296",
       "favoriteCount": "0",
       "commentCount": "6"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "NmjODZHILefo85M9rcNamomzN3s",
+    "id": "fXBw_DEyGqY",
+    "snippet": {
+      "publishedAt": "2022-03-23T08:33:24Z",
+      "channelId": "UCk17EiY8As4ImPh6rw05n6A",
+      "title": "#3 Dua Lipa - Be The One (Future Nostalgia Tour) Los Angeles Night 1 Live 3/22/22 #100ConcertsIn2022",
+      "description": "I do not own this song.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fXBw_DEyGqY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fXBw_DEyGqY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fXBw_DEyGqY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fXBw_DEyGqY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Patrick Ma",
+      "tags": ["#100ConcertsIn2022"],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "#3 Dua Lipa - Be The One (Future Nostalgia Tour) Los Angeles Night 1 Live 3/22/22 #100ConcertsIn2022",
+        "description": "I do not own this song."
+      }
+    },
+    "statistics": {
+      "viewCount": "174",
+      "likeCount": "7",
+      "favoriteCount": "0",
+      "commentCount": "1"
     }
   },
   {
@@ -29057,7 +31138,10 @@
       "tags": ["Dualipa", "vogue", "magazine", "new", "york"],
       "categoryId": "22",
       "liveBroadcastContent": "none",
-      "localized": { "title": "Dua Lipa New York", "description": "" }
+      "localized": {
+        "title": "Dua Lipa New York",
+        "description": ""
+      }
     },
     "statistics": {
       "viewCount": "1462",
@@ -29683,6 +31767,65 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "lPDT41rHL4omXCu999AtGxIUVik",
+    "id": "G7yHy5y1jD4",
+    "snippet": {
+      "publishedAt": "2022-03-23T11:47:19Z",
+      "channelId": "UCwTI6Rz9r6Yh5H9xkM3ZV7Q",
+      "title": "Dua Lipa “Boys Will Be Boys” @ The Forum LA 3/22/22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/G7yHy5y1jD4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/G7yHy5y1jD4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/G7yHy5y1jD4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/G7yHy5y1jD4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/G7yHy5y1jD4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "joel angel",
+      "tags": [
+        "Dua Lipa",
+        "Boys Will Be Boys",
+        "2022",
+        "The forum.",
+        "los Angeles",
+        "LA"
+      ],
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa “Boys Will Be Boys” @ The Forum LA 3/22/22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "437",
+      "likeCount": "23",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "rY7G1oFLsFNrBIEKrX5twpax1o8",
     "id": "g8qQYOjQNNc",
     "snippet": {
@@ -30123,6 +32266,57 @@
       "likeCount": "467",
       "favoriteCount": "0",
       "commentCount": "14"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "G44TeSe632cTcNKauGQsW7IyfjU",
+    "id": "gBdU3x-VqJA",
+    "snippet": {
+      "publishedAt": "2022-03-16T19:24:05Z",
+      "channelId": "UCK9mlaFtEZSSW_ABKqd-VQw",
+      "title": "DUA LIPA DONT START NOW BALL ARENA DENVER CO 3-15-22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gBdU3x-VqJA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gBdU3x-VqJA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gBdU3x-VqJA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gBdU3x-VqJA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gBdU3x-VqJA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mike Amolsch",
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "DUA LIPA DONT START NOW BALL ARENA DENVER CO 3-15-22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "1265",
+      "likeCount": "25",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -31109,6 +33303,112 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "552vl_2skKsDKbpBcXScEz5h16I",
+    "id": "gNRHNKaIMzI",
+    "snippet": {
+      "publishedAt": "2022-03-17T17:19:08Z",
+      "channelId": "UC5YI-ObXJSfD0tqOljU_ilQ",
+      "title": "Dua Lipa - Don't Start Now [HD] LIVE 3/13/2022",
+      "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gNRHNKaIMzI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gNRHNKaIMzI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gNRHNKaIMzI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gNRHNKaIMzI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gNRHNKaIMzI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JYeahJasonJude",
+      "tags": [
+        "Don't Start Now",
+        "Dua Lipa",
+        "Live",
+        "Music",
+        "Video",
+        "jasonjude",
+        "Jason Jude",
+        "Jasonjayeah",
+        "JasonJyeah",
+        "JYeah",
+        "JasonJude1",
+        "JYeahJasonJude",
+        "HD",
+        "1080p",
+        "great quality",
+        "concert",
+        "San Antonio",
+        "Texas",
+        "3/13/22",
+        "2022",
+        "dallas",
+        "american airlines center",
+        "denver",
+        "tulsa",
+        "phoenix",
+        "los angeles",
+        "las vegas",
+        "san jose",
+        "portland",
+        "seattle",
+        "vancouver",
+        "houston",
+        "chicago",
+        "minneapolis",
+        "buffalo",
+        "newark",
+        "washington",
+        "new york",
+        "columbus",
+        "detroit",
+        "toronto",
+        "montreal",
+        "philadelphia",
+        "boston",
+        "charlotte",
+        "nashville",
+        "atlanta",
+        "orlando",
+        "miami",
+        "manchester",
+        "london",
+        "leeds",
+        "dublin"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Don't Start Now [HD] LIVE 3/13/2022",
+        "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU."
+      }
+    },
+    "statistics": {
+      "viewCount": "119",
+      "likeCount": "5",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "BSHBb33wL96Y5Cs5VU4px3CLrpY",
     "id": "GPYBaYBBiGI",
     "snippet": {
@@ -31202,6 +33502,57 @@
       "likeCount": "769",
       "favoriteCount": "0",
       "commentCount": "31"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "yIfqFsjRxwTz_K0cR1RIZ8Wc_kY",
+    "id": "GQOOibSkdDo",
+    "snippet": {
+      "publishedAt": "2022-03-22T05:12:09Z",
+      "channelId": "UChnQc0mUmYQWEbChcNl1yfg",
+      "title": "Dua Lipa - Physical (Live in Phoenix)",
+      "description": "Dua Lipa performing her single \"Physical\" from her album \"Future Nostalgia\".",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GQOOibSkdDo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GQOOibSkdDo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GQOOibSkdDo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GQOOibSkdDo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GQOOibSkdDo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "George Luna",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Physical (Live in Phoenix)",
+        "description": "Dua Lipa performing her single \"Physical\" from her album \"Future Nostalgia\"."
+      }
+    },
+    "statistics": {
+      "viewCount": "564",
+      "likeCount": "15",
+      "favoriteCount": "0",
+      "commentCount": "4"
     }
   },
   {
@@ -37524,7 +39875,10 @@
       "channelTitle": "Ryan Kendall",
       "categoryId": "27",
       "liveBroadcastContent": "none",
-      "localized": { "title": "#dualipa in Columbus, Ohio", "description": "" }
+      "localized": {
+        "title": "#dualipa in Columbus, Ohio",
+        "description": ""
+      }
     },
     "statistics": {
       "viewCount": "270",
@@ -37739,6 +40093,57 @@
       "likeCount": "4005",
       "favoriteCount": "0",
       "commentCount": "70"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "QFZst54AIglVx1K-Cs8f2rUjJEI",
+    "id": "iwX5nw1k3Wc",
+    "snippet": {
+      "publishedAt": "2022-03-21T14:16:36Z",
+      "channelId": "UCk17EiY8As4ImPh6rw05n6A",
+      "title": "Dua Lipa - Break My Heart (Future Nostalgia Tour, Live in Phoenix, AZ 3/20/22) 4K #100ConcertsIn2022",
+      "description": "I do not own this song.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iwX5nw1k3Wc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iwX5nw1k3Wc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iwX5nw1k3Wc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/iwX5nw1k3Wc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/iwX5nw1k3Wc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Patrick Ma",
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Break My Heart (Future Nostalgia Tour, Live in Phoenix, AZ 3/20/22) 4K #100ConcertsIn2022",
+        "description": "I do not own this song."
+      }
+    },
+    "statistics": {
+      "viewCount": "189",
+      "likeCount": "7",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -38688,6 +41093,47 @@
     "statistics": {
       "viewCount": "582",
       "likeCount": "16",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "xQvpDVed-wQ3lpobQeLYHe0QuBI",
+    "id": "jAzUVxkif-M",
+    "snippet": {
+      "publishedAt": "2022-03-23T05:50:41Z",
+      "channelId": "UC6SAoPtqfAdAuW3xuxBffEQ",
+      "title": "Hallucinate - Dua Lipa, Future Nostalgia Tour (Phoenix, AZ)",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jAzUVxkif-M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jAzUVxkif-M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jAzUVxkif-M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Phoenix Concerts",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Hallucinate - Dua Lipa, Future Nostalgia Tour (Phoenix, AZ)",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "33",
+      "likeCount": "1",
       "favoriteCount": "0",
       "commentCount": "0"
     }
@@ -41565,6 +44011,112 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "28QnmVBOaN7LMye_eJFXRuGBe28",
+    "id": "K4Z3Vh4LGdw",
+    "snippet": {
+      "publishedAt": "2022-03-21T02:54:59Z",
+      "channelId": "UC5YI-ObXJSfD0tqOljU_ilQ",
+      "title": "Dua Lipa - Physical [HD] LIVE 3/13/2022",
+      "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/K4Z3Vh4LGdw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/K4Z3Vh4LGdw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/K4Z3Vh4LGdw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/K4Z3Vh4LGdw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/K4Z3Vh4LGdw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JYeahJasonJude",
+      "tags": [
+        "Physical",
+        "Dua Lipa",
+        "Live",
+        "Music",
+        "Video",
+        "jasonjude",
+        "Jason Jude",
+        "Jasonjayeah",
+        "JasonJyeah",
+        "JYeah",
+        "JasonJude1",
+        "JYeahJasonJude",
+        "HD",
+        "1080p",
+        "great quality",
+        "concert",
+        "San Antonio",
+        "Texas",
+        "3/13/22",
+        "2022",
+        "dallas",
+        "american airlines center",
+        "denver",
+        "tulsa",
+        "phoenix",
+        "los angeles",
+        "las vegas",
+        "san jose",
+        "portland",
+        "seattle",
+        "vancouver",
+        "houston",
+        "chicago",
+        "minneapolis",
+        "buffalo",
+        "newark",
+        "washington",
+        "new york",
+        "columbus",
+        "detroit",
+        "toronto",
+        "montreal",
+        "philadelphia",
+        "boston",
+        "charlotte",
+        "nashville",
+        "atlanta",
+        "orlando",
+        "miami",
+        "manchester",
+        "london",
+        "leeds",
+        "dublin"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Physical [HD] LIVE 3/13/2022",
+        "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU."
+      }
+    },
+    "statistics": {
+      "viewCount": "101",
+      "likeCount": "2",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "-u8RdWWAJfBd5JA4FAHDyfbLoQU",
     "id": "K52OGJcKcJc",
     "snippet": {
@@ -41663,6 +44215,57 @@
       "likeCount": "6",
       "favoriteCount": "0",
       "commentCount": "1"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "6_cQh8g9jvOduBV3HvEbk3N7VYI",
+    "id": "k9P-6MBDDzI",
+    "snippet": {
+      "publishedAt": "2022-03-16T05:40:17Z",
+      "channelId": "UCK9mlaFtEZSSW_ABKqd-VQw",
+      "title": "DUA LIPA & MEGAN THEE STALLION SWEETEST PIE BALL ARENA DENVER CO 3-15-22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/k9P-6MBDDzI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/k9P-6MBDDzI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/k9P-6MBDDzI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/k9P-6MBDDzI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/k9P-6MBDDzI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mike Amolsch",
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "DUA LIPA & MEGAN THEE STALLION SWEETEST PIE BALL ARENA DENVER CO 3-15-22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "30690",
+      "likeCount": "962",
+      "favoriteCount": "0",
+      "commentCount": "58"
     }
   },
   {
@@ -41793,6 +44396,57 @@
       "likeCount": "6",
       "favoriteCount": "0",
       "commentCount": "2"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "zn0Z3utGQ9QraOu3-H9tNQPw6oY",
+    "id": "kAMRXBKvBeg",
+    "snippet": {
+      "publishedAt": "2022-03-21T09:08:37Z",
+      "channelId": "UCkoI0tAKRkVmuuVlFA8tt4g",
+      "title": "Dua Lipa Break My Heart Live Footprint Center Phoenix, AZ 03/20/22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kAMRXBKvBeg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kAMRXBKvBeg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kAMRXBKvBeg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kAMRXBKvBeg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kAMRXBKvBeg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Alfred Rossy Mark Padilla",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Break My Heart Live Footprint Center Phoenix, AZ 03/20/22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "288",
+      "likeCount": "8",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -42640,6 +45294,58 @@
       "likeCount": "14",
       "favoriteCount": "0",
       "commentCount": "2"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "-Hn29dKLrva8LX_2ytZMDQSninE",
+    "id": "KL1sBYq8AGo",
+    "snippet": {
+      "publishedAt": "2022-03-16T05:22:51Z",
+      "channelId": "UCOQ9e-txk84dS_OZauKPBSg",
+      "title": "Dua Lipa & Megan Thee Stallion - Sweetest Pie LIVE - Denver",
+      "description": "Dua Lipa and Megan Thee Stallion performing “Sweetest Pie” for the FIRST TIME EVER at the Ball Arena (Pepsi Center) in Denver, Colorado.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KL1sBYq8AGo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KL1sBYq8AGo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KL1sBYq8AGo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KL1sBYq8AGo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KL1sBYq8AGo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Vladimir Avina",
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa & Megan Thee Stallion - Sweetest Pie LIVE - Denver",
+        "description": "Dua Lipa and Megan Thee Stallion performing “Sweetest Pie” for the FIRST TIME EVER at the Ball Arena (Pepsi Center) in Denver, Colorado."
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "statistics": {
+      "viewCount": "223113",
+      "likeCount": "9692",
+      "favoriteCount": "0",
+      "commentCount": "177"
     }
   },
   {
@@ -43561,7 +46267,10 @@
       "channelTitle": "Jareth Johnson",
       "categoryId": "10",
       "liveBroadcastContent": "none",
-      "localized": { "title": "Dua Lipa Columbus, Ohio", "description": "" }
+      "localized": {
+        "title": "Dua Lipa Columbus, Ohio",
+        "description": ""
+      }
     },
     "statistics": {
       "viewCount": "207",
@@ -43859,6 +46568,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "44lx5NnonS3K80JWA3QS8PyJgus",
+    "id": "KuUm0vqGvn8",
+    "snippet": {
+      "publishedAt": "2022-03-18T07:47:25Z",
+      "channelId": "UC3Sc_NSRVQSbtrLkgVWJXuQ",
+      "title": "Dua Lipa Future Nostalgia Tour Tulsa Oklahoma",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KuUm0vqGvn8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KuUm0vqGvn8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KuUm0vqGvn8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KuUm0vqGvn8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KuUm0vqGvn8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Cole Waters",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Future Nostalgia Tour Tulsa Oklahoma",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "485",
+      "likeCount": "10",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "FKZ7eaPCEDvv4jE4MvHikAf5eTM",
     "id": "KuZl_Fp1uMg",
     "snippet": {
@@ -43906,6 +46666,112 @@
       "likeCount": "10",
       "favoriteCount": "0",
       "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "ZyRscujOA69D4uYNNIxG3MU3ENA",
+    "id": "kVkHKi-3SYk",
+    "snippet": {
+      "publishedAt": "2022-03-17T17:47:49Z",
+      "channelId": "UC5YI-ObXJSfD0tqOljU_ilQ",
+      "title": "Dua Lipa - Levitating [HD] LIVE 3/13/2022",
+      "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kVkHKi-3SYk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kVkHKi-3SYk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kVkHKi-3SYk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kVkHKi-3SYk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kVkHKi-3SYk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JYeahJasonJude",
+      "tags": [
+        "Levitating",
+        "Dua Lipa",
+        "Live",
+        "Music",
+        "Video",
+        "jasonjude",
+        "Jason Jude",
+        "Jasonjayeah",
+        "JasonJyeah",
+        "JYeah",
+        "JasonJude1",
+        "JYeahJasonJude",
+        "HD",
+        "1080p",
+        "great quality",
+        "concert",
+        "San Antonio",
+        "Texas",
+        "3/13/22",
+        "2022",
+        "dallas",
+        "american airlines center",
+        "denver",
+        "tulsa",
+        "phoenix",
+        "los angeles",
+        "las vegas",
+        "san jose",
+        "portland",
+        "seattle",
+        "vancouver",
+        "houston",
+        "chicago",
+        "minneapolis",
+        "buffalo",
+        "newark",
+        "washington",
+        "new york",
+        "columbus",
+        "detroit",
+        "toronto",
+        "montreal",
+        "philadelphia",
+        "boston",
+        "charlotte",
+        "nashville",
+        "atlanta",
+        "orlando",
+        "miami",
+        "manchester",
+        "london",
+        "leeds",
+        "dublin"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Levitating [HD] LIVE 3/13/2022",
+        "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU."
+      }
+    },
+    "statistics": {
+      "viewCount": "89",
+      "likeCount": "5",
+      "favoriteCount": "0",
+      "commentCount": "3"
     }
   },
   {
@@ -44200,6 +47066,112 @@
       "likeCount": "22990",
       "favoriteCount": "0",
       "commentCount": "803"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "Sx_kvxDG7EyQxs1v1koS9-eCiOA",
+    "id": "KYD2nmFLt6M",
+    "snippet": {
+      "publishedAt": "2022-03-18T08:33:26Z",
+      "channelId": "UC5YI-ObXJSfD0tqOljU_ilQ",
+      "title": "Dua Lipa - Cold Heart [HD] LIVE 3/13/2022",
+      "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KYD2nmFLt6M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KYD2nmFLt6M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KYD2nmFLt6M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KYD2nmFLt6M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KYD2nmFLt6M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JYeahJasonJude",
+      "tags": [
+        "Cold Heart",
+        "Dua Lipa",
+        "Live",
+        "Music",
+        "Video",
+        "jasonjude",
+        "Jason Jude",
+        "Jasonjayeah",
+        "JasonJyeah",
+        "JYeah",
+        "JasonJude1",
+        "JYeahJasonJude",
+        "HD",
+        "1080p",
+        "great quality",
+        "concert",
+        "San Antonio",
+        "Texas",
+        "3/13/22",
+        "2022",
+        "dallas",
+        "american airlines center",
+        "denver",
+        "tulsa",
+        "phoenix",
+        "los angeles",
+        "las vegas",
+        "san jose",
+        "portland",
+        "seattle",
+        "vancouver",
+        "houston",
+        "chicago",
+        "minneapolis",
+        "buffalo",
+        "newark",
+        "washington",
+        "new york",
+        "columbus",
+        "detroit",
+        "toronto",
+        "montreal",
+        "philadelphia",
+        "boston",
+        "charlotte",
+        "nashville",
+        "atlanta",
+        "orlando",
+        "miami",
+        "manchester",
+        "london",
+        "leeds",
+        "dublin"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Cold Heart [HD] LIVE 3/13/2022",
+        "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU."
+      }
+    },
+    "statistics": {
+      "viewCount": "91",
+      "likeCount": "2",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -44533,6 +47505,66 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "ePz7eX0eVs3UlKJmwN49DAR6aq8",
+    "id": "KZPJXXQikk0",
+    "snippet": {
+      "publishedAt": "2022-03-23T11:19:49Z",
+      "channelId": "UCwTI6Rz9r6Yh5H9xkM3ZV7Q",
+      "title": "Dua Lipa “We’re Good” @ The Forum LA 3/22/22",
+      "description": "Shot on iPhone.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KZPJXXQikk0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KZPJXXQikk0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KZPJXXQikk0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KZPJXXQikk0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KZPJXXQikk0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "joel angel",
+      "tags": [
+        "Dua Lipa",
+        "We’re good",
+        "Future nostalgia tour",
+        "The forum",
+        "Los angeles",
+        "LA",
+        "3/22/22"
+      ],
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa “We’re Good” @ The Forum LA 3/22/22",
+        "description": "Shot on iPhone."
+      }
+    },
+    "statistics": {
+      "viewCount": "318",
+      "likeCount": "18",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "n6mWO6PStEJSwZAqHQ4Nx-9UB_A",
     "id": "KZRzS4XwpOY",
     "snippet": {
@@ -44598,6 +47630,57 @@
       "likeCount": "2317",
       "favoriteCount": "0",
       "commentCount": "129"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "QECwsXvdnL5sr3GMss1bkREvZBo",
+    "id": "l-D_-uScwt8",
+    "snippet": {
+      "publishedAt": "2022-03-16T19:16:04Z",
+      "channelId": "UCK9mlaFtEZSSW_ABKqd-VQw",
+      "title": "DUA LIPA LEVITATING LIVE BALL ARENA DENVER CO 3-15-22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/l-D_-uScwt8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/l-D_-uScwt8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/l-D_-uScwt8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/l-D_-uScwt8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/l-D_-uScwt8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mike Amolsch",
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "DUA LIPA LEVITATING LIVE BALL ARENA DENVER CO 3-15-22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "1322",
+      "likeCount": "29",
+      "favoriteCount": "0",
+      "commentCount": "2"
     }
   },
   {
@@ -45190,6 +48273,112 @@
       "likeCount": "1073",
       "favoriteCount": "0",
       "commentCount": "69"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "Ui9id-f1ZpuJjitRB_itFeKNT14",
+    "id": "LFNH3g34HKg",
+    "snippet": {
+      "publishedAt": "2022-03-21T02:50:32Z",
+      "channelId": "UC5YI-ObXJSfD0tqOljU_ilQ",
+      "title": "Dua Lipa - Cool [HD] LIVE 3/13/2022",
+      "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LFNH3g34HKg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LFNH3g34HKg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LFNH3g34HKg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LFNH3g34HKg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LFNH3g34HKg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JYeahJasonJude",
+      "tags": [
+        "Cool",
+        "Dua Lipa",
+        "Live",
+        "Music",
+        "Video",
+        "jasonjude",
+        "Jason Jude",
+        "Jasonjayeah",
+        "JasonJyeah",
+        "JYeah",
+        "JasonJude1",
+        "JYeahJasonJude",
+        "HD",
+        "1080p",
+        "great quality",
+        "concert",
+        "San Antonio",
+        "Texas",
+        "3/13/22",
+        "2022",
+        "dallas",
+        "american airlines center",
+        "denver",
+        "tulsa",
+        "phoenix",
+        "los angeles",
+        "las vegas",
+        "san jose",
+        "portland",
+        "seattle",
+        "vancouver",
+        "houston",
+        "chicago",
+        "minneapolis",
+        "buffalo",
+        "newark",
+        "washington",
+        "new york",
+        "columbus",
+        "detroit",
+        "toronto",
+        "montreal",
+        "philadelphia",
+        "boston",
+        "charlotte",
+        "nashville",
+        "atlanta",
+        "orlando",
+        "miami",
+        "manchester",
+        "london",
+        "leeds",
+        "dublin"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Cool [HD] LIVE 3/13/2022",
+        "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU."
+      }
+    },
+    "statistics": {
+      "viewCount": "53",
+      "likeCount": "2",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -46144,6 +49333,57 @@
       "likeCount": "865",
       "favoriteCount": "0",
       "commentCount": "112"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "P4Oa_HgCNUGO_9N1MGbyPCi_njk",
+    "id": "LPhsGRYPTIM",
+    "snippet": {
+      "publishedAt": "2022-03-23T17:51:00Z",
+      "channelId": "UCwTI6Rz9r6Yh5H9xkM3ZV7Q",
+      "title": "Dua Lipa “Cold Heart” @ The Forum LA 3/22/22",
+      "description": "Shot on iPhone.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LPhsGRYPTIM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LPhsGRYPTIM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LPhsGRYPTIM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LPhsGRYPTIM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LPhsGRYPTIM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "joel angel",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa “Cold Heart” @ The Forum LA 3/22/22",
+        "description": "Shot on iPhone."
+      }
+    },
+    "statistics": {
+      "viewCount": "584",
+      "likeCount": "21",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -47308,6 +50548,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "tTkUC1kzLGgnZuF9CKZvCOBFAjA",
+    "id": "M9q1KNR3Uzg",
+    "snippet": {
+      "publishedAt": "2022-03-16T14:46:31Z",
+      "channelId": "UCK9mlaFtEZSSW_ABKqd-VQw",
+      "title": "DUA LIPA NEW RULES BALL ARENA DENVER CO 3-15-22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/M9q1KNR3Uzg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/M9q1KNR3Uzg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/M9q1KNR3Uzg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/M9q1KNR3Uzg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/M9q1KNR3Uzg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mike Amolsch",
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "DUA LIPA NEW RULES BALL ARENA DENVER CO 3-15-22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "1322",
+      "likeCount": "29",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "MGgNekWdyjyO5m0b-el0wa-NvO0",
     "id": "mchObYr0S3A",
     "snippet": {
@@ -47460,6 +50751,67 @@
       "likeCount": "44",
       "favoriteCount": "0",
       "commentCount": "3"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "i5bFktNfvlGFOkBIkCcqmgz-X_4",
+    "id": "MDoNcb3OUqI",
+    "snippet": {
+      "publishedAt": "2022-03-23T08:50:54Z",
+      "channelId": "UCwTI6Rz9r6Yh5H9xkM3ZV7Q",
+      "title": "Dua Lipa “Physical” @ The Forum LA 3/22/22",
+      "description": "Shot on iPhone.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MDoNcb3OUqI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MDoNcb3OUqI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MDoNcb3OUqI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MDoNcb3OUqI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/MDoNcb3OUqI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "joel angel",
+      "tags": [
+        "Dua Lipa",
+        "Future Nostalgia Tour",
+        "Physical",
+        "The Forum",
+        "LA",
+        "Los Angeles",
+        "2022",
+        "3/22/22"
+      ],
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa “Physical” @ The Forum LA 3/22/22",
+        "description": "Shot on iPhone."
+      }
+    },
+    "statistics": {
+      "viewCount": "2826",
+      "likeCount": "75",
+      "favoriteCount": "0",
+      "commentCount": "4"
     }
   },
   {
@@ -47880,7 +51232,10 @@
       "channelTitle": "Monica Hegeman",
       "categoryId": "22",
       "liveBroadcastContent": "none",
-      "localized": { "title": "Dua Lipa", "description": "" }
+      "localized": {
+        "title": "Dua Lipa",
+        "description": ""
+      }
     },
     "statistics": {
       "viewCount": "32",
@@ -49405,6 +52760,58 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "8dI1LkChby_4zwkWzYt6rM6lTWk",
+    "id": "mx6qkioXsDk",
+    "snippet": {
+      "publishedAt": "2022-03-23T15:16:02Z",
+      "channelId": "UCk17EiY8As4ImPh6rw05n6A",
+      "title": "Dua Lipa - Levitating (Future Nostalgia Tour) Los Angeles Night 1 Live 3/22/22 #100ConcertsIn2022",
+      "description": "I do not own this song.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mx6qkioXsDk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mx6qkioXsDk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mx6qkioXsDk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mx6qkioXsDk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mx6qkioXsDk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Patrick Ma",
+      "tags": ["#100ConcertsIn2022"],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Levitating (Future Nostalgia Tour) Los Angeles Night 1 Live 3/22/22 #100ConcertsIn2022",
+        "description": "I do not own this song."
+      }
+    },
+    "statistics": {
+      "viewCount": "511",
+      "likeCount": "9",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "pG2rq67utl01albDGyeIRur3fWI",
     "id": "myKjx4vh3bQ",
     "snippet": {
@@ -49626,6 +53033,47 @@
       "likeCount": "179",
       "favoriteCount": "0",
       "commentCount": "2"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "vAZEnIZ7CGr4YDIqrCnAJcwd91E",
+    "id": "n0XV2c7idLs",
+    "snippet": {
+      "publishedAt": "2022-03-23T05:49:10Z",
+      "channelId": "UC6SAoPtqfAdAuW3xuxBffEQ",
+      "title": "Good In Bed - Dua Lipa, Future Nostalgia Tour (Phoenix, AZ)",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/n0XV2c7idLs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/n0XV2c7idLs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/n0XV2c7idLs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Phoenix Concerts",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Good In Bed - Dua Lipa, Future Nostalgia Tour (Phoenix, AZ)",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "209",
+      "likeCount": "6",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -50110,6 +53558,47 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "MZ9GeB-M0MjoE2fnPshKQ55VEro",
+    "id": "NdmnKhcsWOA",
+    "snippet": {
+      "publishedAt": "2022-03-23T06:08:22Z",
+      "channelId": "UC6SAoPtqfAdAuW3xuxBffEQ",
+      "title": "Sweetest Pie - Dua Lipa & Megan Thee Stallion, Future Nostalgia Tour (Phoenix, AZ)",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NdmnKhcsWOA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NdmnKhcsWOA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NdmnKhcsWOA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Phoenix Concerts",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Sweetest Pie - Dua Lipa & Megan Thee Stallion, Future Nostalgia Tour (Phoenix, AZ)",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "48",
+      "likeCount": "3",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "ntRQ2_20EgRMGmMMR_vh7tPqY2k",
     "id": "nh39K7pTqQ4",
     "snippet": {
@@ -50580,7 +54069,10 @@
       ],
       "categoryId": "24",
       "liveBroadcastContent": "none",
-      "localized": { "title": "DUA LIPA EXPRESS SUMMER KTV", "description": "" }
+      "localized": {
+        "title": "DUA LIPA EXPRESS SUMMER KTV",
+        "description": ""
+      }
     },
     "statistics": {
       "viewCount": "55080",
@@ -51781,6 +55273,109 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "fUuEmzp-PfHj7ki_8RpvOg38UJQ",
+    "id": "nvvnFG3jawQ",
+    "snippet": {
+      "publishedAt": "2022-03-16T17:04:19Z",
+      "channelId": "UCK9mlaFtEZSSW_ABKqd-VQw",
+      "title": "DUA LIPA BE THE ONE BALL ARENA DENVER CO 3-15-22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nvvnFG3jawQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nvvnFG3jawQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nvvnFG3jawQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/nvvnFG3jawQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/nvvnFG3jawQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mike Amolsch",
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "DUA LIPA BE THE ONE BALL ARENA DENVER CO 3-15-22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "718",
+      "likeCount": "11",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "64Tc-BmTWlEXjGgnG5uL-cZ8fZA",
+    "id": "NWVV7kYqN_M",
+    "snippet": {
+      "publishedAt": "2022-03-21T09:19:48Z",
+      "channelId": "UCk17EiY8As4ImPh6rw05n6A",
+      "title": "Dua Lipa - New Rules (Future Nostalgia Tour, Live in Phoenix, AZ 3/20/22) 4K #100ConcertsIn2022",
+      "description": "I do not own this song.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NWVV7kYqN_M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NWVV7kYqN_M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NWVV7kYqN_M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NWVV7kYqN_M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NWVV7kYqN_M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Patrick Ma",
+      "tags": ["#100ConcertsIn2022"],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - New Rules (Future Nostalgia Tour, Live in Phoenix, AZ 3/20/22) 4K #100ConcertsIn2022",
+        "description": "I do not own this song."
+      }
+    },
+    "statistics": {
+      "viewCount": "612",
+      "likeCount": "16",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "49bVfeluqbH8T1qMFpjhVG5pdWk",
     "id": "NXT6jvOAPpY",
     "snippet": {
@@ -52973,6 +56568,112 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "UaBRG0oohOg16bjxNpTb6vmgULs",
+    "id": "oaeVIXi1MkU",
+    "snippet": {
+      "publishedAt": "2022-03-18T14:49:54Z",
+      "channelId": "UC5YI-ObXJSfD0tqOljU_ilQ",
+      "title": "Dua Lipa - Hallucinate [HD] LIVE 3/13/2022",
+      "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oaeVIXi1MkU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oaeVIXi1MkU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oaeVIXi1MkU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/oaeVIXi1MkU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/oaeVIXi1MkU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JYeahJasonJude",
+      "tags": [
+        "Hallucinate",
+        "Dua Lipa",
+        "Live",
+        "Music",
+        "Video",
+        "jasonjude",
+        "Jason Jude",
+        "Jasonjayeah",
+        "JasonJyeah",
+        "JYeah",
+        "JasonJude1",
+        "JYeahJasonJude",
+        "HD",
+        "1080p",
+        "great quality",
+        "concert",
+        "San Antonio",
+        "Texas",
+        "3/13/22",
+        "2022",
+        "dallas",
+        "american airlines center",
+        "denver",
+        "tulsa",
+        "phoenix",
+        "los angeles",
+        "las vegas",
+        "san jose",
+        "portland",
+        "seattle",
+        "vancouver",
+        "houston",
+        "chicago",
+        "minneapolis",
+        "buffalo",
+        "newark",
+        "washington",
+        "new york",
+        "columbus",
+        "detroit",
+        "toronto",
+        "montreal",
+        "philadelphia",
+        "boston",
+        "charlotte",
+        "nashville",
+        "atlanta",
+        "orlando",
+        "miami",
+        "manchester",
+        "london",
+        "leeds",
+        "dublin"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Hallucinate [HD] LIVE 3/13/2022",
+        "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU."
+      }
+    },
+    "statistics": {
+      "viewCount": "132",
+      "likeCount": "1",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "VpUNfYaFxAfBleynnf_aumkY5Ng",
     "id": "OafvOIrAJ_A",
     "snippet": {
@@ -53416,6 +57117,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "EddSwmy09lr21CbbmQFmXVf3xu4",
+    "id": "OdoED-rYEgI",
+    "snippet": {
+      "publishedAt": "2022-03-21T05:26:33Z",
+      "channelId": "UCvUtihccIM7G-bdNTHm5Amw",
+      "title": "Sweetest Pie Live Tulsa 2022 Dua Lipa and Megan Thee Stallion",
+      "description": "Dua Lipa and Megan thee stallion live in Tulsa.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OdoED-rYEgI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OdoED-rYEgI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OdoED-rYEgI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OdoED-rYEgI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OdoED-rYEgI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Austin Lopez",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Sweetest Pie Live Tulsa 2022 Dua Lipa and Megan Thee Stallion",
+        "description": "Dua Lipa and Megan thee stallion live in Tulsa."
+      }
+    },
+    "statistics": {
+      "viewCount": "74",
+      "likeCount": "3",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "yPIDzRHQme4jCWYnhgSozgxGLns",
     "id": "OdR9EjBQk74",
     "snippet": {
@@ -53725,6 +57477,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "lGXsjxTP1RZjhTYYGH7SMAkDWBQ",
+    "id": "OJmYV94tM5g",
+    "snippet": {
+      "publishedAt": "2022-03-18T07:27:21Z",
+      "channelId": "UC3Sc_NSRVQSbtrLkgVWJXuQ",
+      "title": "Dua Lipa Future Nostalgia Tour Tulsa Oklahoma",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OJmYV94tM5g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OJmYV94tM5g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OJmYV94tM5g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OJmYV94tM5g/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OJmYV94tM5g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Cole Waters",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Future Nostalgia Tour Tulsa Oklahoma",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "124",
+      "likeCount": "3",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "WcBpAIzDqfhraKjzTe6zRdefv9k",
     "id": "OkEwN9ZyMsg",
     "snippet": {
@@ -53783,6 +57586,109 @@
       "likeCount": "63",
       "favoriteCount": "0",
       "commentCount": "5"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "R5sAnr_3UEgCDRAIvClP9R8bKAY",
+    "id": "OLE44qlTeas",
+    "snippet": {
+      "publishedAt": "2022-03-23T18:34:13Z",
+      "channelId": "UCwTI6Rz9r6Yh5H9xkM3ZV7Q",
+      "title": "Dua Lipa “Future Nostalgia” @ The Forum LA 3/22/22",
+      "description": "Shot on iPhone",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OLE44qlTeas/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OLE44qlTeas/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OLE44qlTeas/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OLE44qlTeas/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OLE44qlTeas/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "joel angel",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa “Future Nostalgia” @ The Forum LA 3/22/22",
+        "description": "Shot on iPhone"
+      }
+    },
+    "statistics": {
+      "viewCount": "707",
+      "likeCount": "25",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "XX5XtWjQs6YNeyp2AV0WyBad30c",
+    "id": "olegCdVn8Pk",
+    "snippet": {
+      "publishedAt": "2022-03-17T16:13:30Z",
+      "channelId": "UCOQ9e-txk84dS_OZauKPBSg",
+      "title": "Future Nostalgia - Dua Lipa LIVE - Denver",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/olegCdVn8Pk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/olegCdVn8Pk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/olegCdVn8Pk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/olegCdVn8Pk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/olegCdVn8Pk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Vladimir Avina",
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Future Nostalgia - Dua Lipa LIVE - Denver",
+        "description": ""
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "statistics": {
+      "viewCount": "336",
+      "likeCount": "11",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -54017,6 +57923,110 @@
       "likeCount": "892",
       "favoriteCount": "0",
       "commentCount": "56"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "GWj-rDFtUoUxQ1cfhH--hD5jjqE",
+    "id": "om_JExeMuZE",
+    "snippet": {
+      "publishedAt": "2022-03-19T15:26:41Z",
+      "channelId": "UC5YI-ObXJSfD0tqOljU_ilQ",
+      "title": "Dua Lipa - Club Future Nostalgia Mix [HD] LIVE 3/13/2022",
+      "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/om_JExeMuZE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/om_JExeMuZE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/om_JExeMuZE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/om_JExeMuZE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/om_JExeMuZE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JYeahJasonJude",
+      "tags": [
+        "Club Future Nostalgia Mix",
+        "Dua Lipa",
+        "Live",
+        "Music",
+        "Video",
+        "jasonjude",
+        "Jason Jude",
+        "Jasonjayeah",
+        "JasonJyeah",
+        "JYeah",
+        "JasonJude1",
+        "JYeahJasonJude",
+        "HD",
+        "1080p",
+        "San Antonio",
+        "Texas",
+        "3/13/22",
+        "2022",
+        "dallas",
+        "american airlines center",
+        "denver",
+        "tulsa",
+        "phoenix",
+        "los angeles",
+        "las vegas",
+        "san jose",
+        "portland",
+        "seattle",
+        "vancouver",
+        "houston",
+        "chicago",
+        "minneapolis",
+        "buffalo",
+        "newark",
+        "washington",
+        "new york",
+        "columbus",
+        "detroit",
+        "toronto",
+        "montreal",
+        "philadelphia",
+        "boston",
+        "charlotte",
+        "nashville",
+        "atlanta",
+        "orlando",
+        "miami",
+        "manchester",
+        "london",
+        "leeds",
+        "dublin"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Club Future Nostalgia Mix [HD] LIVE 3/13/2022",
+        "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU."
+      }
+    },
+    "statistics": {
+      "viewCount": "46",
+      "likeCount": "1",
+      "favoriteCount": "0",
+      "commentCount": "1"
     }
   },
   {
@@ -56072,6 +60082,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "C1G5CQEcYTBRsEhdeQrwxQyjP-o",
+    "id": "P7HGSoHQcuM",
+    "snippet": {
+      "publishedAt": "2022-03-21T09:16:18Z",
+      "channelId": "UCkoI0tAKRkVmuuVlFA8tt4g",
+      "title": "Dua Lipa & Megan Thee Stallion Sweetest Pie Live Footprint Center Phoenix, AZ 03/20/22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/P7HGSoHQcuM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/P7HGSoHQcuM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/P7HGSoHQcuM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/P7HGSoHQcuM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/P7HGSoHQcuM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Alfred Rossy Mark Padilla",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa & Megan Thee Stallion Sweetest Pie Live Footprint Center Phoenix, AZ 03/20/22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "6568",
+      "likeCount": "209",
+      "favoriteCount": "0",
+      "commentCount": "8"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "XfShWHk92XBy2L-cTDCcY4LgbEU",
     "id": "P9ehJv2LH8I",
     "snippet": {
@@ -57120,6 +61181,65 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "eIQzgsGUqcya-VlKFuqyG5eeSKs",
+    "id": "pMPUuW2t_MY",
+    "snippet": {
+      "publishedAt": "2022-03-23T10:10:33Z",
+      "channelId": "UCwTI6Rz9r6Yh5H9xkM3ZV7Q",
+      "title": "Dua Lipa “Love Again” @ The Forum LA 3/22/22",
+      "description": "Shot on iPhone.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pMPUuW2t_MY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pMPUuW2t_MY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pMPUuW2t_MY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/pMPUuW2t_MY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/pMPUuW2t_MY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "joel angel",
+      "tags": [
+        "Dua Lipa",
+        "Love Again",
+        "Future nostalgia tour",
+        "The forum",
+        "Los Angeles",
+        "LA"
+      ],
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa “Love Again” @ The Forum LA 3/22/22",
+        "description": "Shot on iPhone."
+      }
+    },
+    "statistics": {
+      "viewCount": "821",
+      "likeCount": "34",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "4pbCMVV5P5xrU6LYMw_kT3u8mfY",
     "id": "PN-5_R81RmU",
     "snippet": {
@@ -58057,7 +62177,10 @@
       "channelTitle": "Avanith",
       "categoryId": "22",
       "liveBroadcastContent": "none",
-      "localized": { "title": "New Rules Dua Lipa", "description": "" }
+      "localized": {
+        "title": "New Rules Dua Lipa",
+        "description": ""
+      }
     },
     "statistics": {
       "viewCount": "10",
@@ -58166,6 +62289,112 @@
       "likeCount": "19",
       "favoriteCount": "0",
       "commentCount": "1"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "iqBM-msGbZBVu6H6EViPTGtxI4I",
+    "id": "pyvrOy9b5KA",
+    "snippet": {
+      "publishedAt": "2022-03-21T00:57:09Z",
+      "channelId": "UC5YI-ObXJSfD0tqOljU_ilQ",
+      "title": "Dua Lipa - Good In Bed [HD] LIVE 3/13/2022",
+      "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pyvrOy9b5KA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pyvrOy9b5KA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pyvrOy9b5KA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/pyvrOy9b5KA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/pyvrOy9b5KA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JYeahJasonJude",
+      "tags": [
+        "Good In Bed",
+        "Dua Lipa",
+        "Live",
+        "Music",
+        "Video",
+        "jasonjude",
+        "Jason Jude",
+        "Jasonjayeah",
+        "JasonJyeah",
+        "JYeah",
+        "JasonJude1",
+        "JYeahJasonJude",
+        "HD",
+        "1080p",
+        "great quality",
+        "concert",
+        "San Antonio",
+        "Texas",
+        "3/13/22",
+        "2022",
+        "dallas",
+        "american airlines center",
+        "denver",
+        "tulsa",
+        "phoenix",
+        "los angeles",
+        "las vegas",
+        "san jose",
+        "portland",
+        "seattle",
+        "vancouver",
+        "houston",
+        "chicago",
+        "minneapolis",
+        "buffalo",
+        "newark",
+        "washington",
+        "new york",
+        "columbus",
+        "detroit",
+        "toronto",
+        "montreal",
+        "philadelphia",
+        "boston",
+        "charlotte",
+        "nashville",
+        "atlanta",
+        "orlando",
+        "miami",
+        "manchester",
+        "london",
+        "leeds",
+        "dublin"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Good In Bed [HD] LIVE 3/13/2022",
+        "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU."
+      }
+    },
+    "statistics": {
+      "viewCount": "78",
+      "likeCount": "3",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -58345,6 +62574,66 @@
       "likeCount": "251",
       "favoriteCount": "0",
       "commentCount": "6"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "qcU1l3mbUf-TjY-ZO0fpS2pc-DM",
+    "id": "q-TsJEgfi8k",
+    "snippet": {
+      "publishedAt": "2022-03-23T12:08:56Z",
+      "channelId": "UCwTI6Rz9r6Yh5H9xkM3ZV7Q",
+      "title": "Dua Lipa “One Kiss/Electricity” @ The Forum LA 3/22/22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/q-TsJEgfi8k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/q-TsJEgfi8k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/q-TsJEgfi8k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/q-TsJEgfi8k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/q-TsJEgfi8k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "joel angel",
+      "tags": [
+        "Dua Lipa",
+        "One Kiss",
+        "Future Nostalgia Tour",
+        "The Forum",
+        "LA",
+        "Los Angeles",
+        "3/22/22"
+      ],
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa “One Kiss/Electricity” @ The Forum LA 3/22/22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "697",
+      "likeCount": "26",
+      "favoriteCount": "0",
+      "commentCount": "2"
     }
   },
   {
@@ -66033,6 +70322,112 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "vnY0KpobPlBQEX8lGWfvQaQX5Ik",
+    "id": "SNVVkXb18lo",
+    "snippet": {
+      "publishedAt": "2022-03-19T15:25:53Z",
+      "channelId": "UC5YI-ObXJSfD0tqOljU_ilQ",
+      "title": "Dua Lipa - One Kiss [HD] LIVE 3/13/2022",
+      "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SNVVkXb18lo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SNVVkXb18lo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SNVVkXb18lo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SNVVkXb18lo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SNVVkXb18lo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JYeahJasonJude",
+      "tags": [
+        "One Kiss",
+        "Dua Lipa",
+        "Live",
+        "Music",
+        "Video",
+        "jasonjude",
+        "Jason Jude",
+        "Jasonjayeah",
+        "JasonJyeah",
+        "JYeah",
+        "JasonJude1",
+        "JYeahJasonJude",
+        "HD",
+        "1080p",
+        "great quality",
+        "concert",
+        "San Antonio",
+        "Texas",
+        "3/13/22",
+        "2022",
+        "dallas",
+        "american airlines center",
+        "denver",
+        "tulsa",
+        "phoenix",
+        "los angeles",
+        "las vegas",
+        "san jose",
+        "portland",
+        "seattle",
+        "vancouver",
+        "houston",
+        "chicago",
+        "minneapolis",
+        "buffalo",
+        "newark",
+        "washington",
+        "new york",
+        "columbus",
+        "detroit",
+        "toronto",
+        "montreal",
+        "philadelphia",
+        "boston",
+        "charlotte",
+        "nashville",
+        "atlanta",
+        "orlando",
+        "miami",
+        "manchester",
+        "london",
+        "leeds",
+        "dublin"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - One Kiss [HD] LIVE 3/13/2022",
+        "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU."
+      }
+    },
+    "statistics": {
+      "viewCount": "78",
+      "likeCount": "1",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "cwp0Kpwtz8fmBAvJr_h2f3iSKLw",
     "id": "soJtvuoYy1o",
     "snippet": {
@@ -66566,6 +70961,112 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "rvYoP6JFBhnp1Z34eMxqRtbHzM4",
+    "id": "SUnPYImsPNM",
+    "snippet": {
+      "publishedAt": "2022-03-15T19:29:40Z",
+      "channelId": "UC5YI-ObXJSfD0tqOljU_ilQ",
+      "title": "Dua Lipa Full Concert [HD] LIVE 3/13/2022",
+      "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n     Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SUnPYImsPNM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SUnPYImsPNM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SUnPYImsPNM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SUnPYImsPNM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SUnPYImsPNM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JYeahJasonJude",
+      "tags": [
+        "Full Concert",
+        "Dua Lipa",
+        "Live",
+        "Music",
+        "Video",
+        "jasonjude",
+        "Jason Jude",
+        "Jasonjayeah",
+        "JasonJyeah",
+        "JYeah",
+        "JasonJude1",
+        "JYeahJasonJude",
+        "HD",
+        "1080p",
+        "great quality",
+        "concert",
+        "San Antonio",
+        "Texas",
+        "3/13/22",
+        "2022",
+        "dallas",
+        "american airlines center",
+        "denver",
+        "tulsa",
+        "phoenix",
+        "los angeles",
+        "las vegas",
+        "san jose",
+        "portland",
+        "seattle",
+        "vancouver",
+        "houston",
+        "chicago",
+        "minneapolis",
+        "buffalo",
+        "newark",
+        "washington",
+        "new york",
+        "columbus",
+        "detroit",
+        "toronto",
+        "montreal",
+        "philadelphia",
+        "boston",
+        "charlotte",
+        "nashville",
+        "atlanta",
+        "orlando",
+        "miami",
+        "manchester",
+        "london",
+        "leeds",
+        "dublin"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Full Concert [HD] LIVE 3/13/2022",
+        "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n     Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU."
+      }
+    },
+    "statistics": {
+      "viewCount": "13033",
+      "likeCount": "422",
+      "favoriteCount": "0",
+      "commentCount": "23"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "rJKTMWBqbD3MJ3PWkD0i1qwWS7I",
     "id": "sUtwow3m8SQ",
     "snippet": {
@@ -66866,7 +71367,10 @@
       "tags": ["Dua Lipa", "97.1 ZHT", "Wayne"],
       "categoryId": "23",
       "liveBroadcastContent": "none",
-      "localized": { "title": "Wayne Talks With Dua Lipa", "description": "" }
+      "localized": {
+        "title": "Wayne Talks With Dua Lipa",
+        "description": ""
+      }
     },
     "statistics": {
       "viewCount": "5099",
@@ -67133,6 +71637,58 @@
       "likeCount": "535",
       "favoriteCount": "0",
       "commentCount": "45"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "2EOkToFyKVn48_f84G_QYvrQrMs",
+    "id": "T-0Q5m2kZ1o",
+    "snippet": {
+      "publishedAt": "2022-03-16T06:42:29Z",
+      "channelId": "UCEV3JutXRfYTVZrgnKcgA0g",
+      "title": "Sweetest Pie - Dua Lipa & Mega Thee Stallion (First Live Full Performance Ball Arena Denver)",
+      "description": "First ever live performance of Sweetest Pie by Dua Lipa & Megan Thee Stallion during Future Nostalgia Tour stop in Denver, Tuesday March 15th, 2022.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/T-0Q5m2kZ1o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/T-0Q5m2kZ1o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/T-0Q5m2kZ1o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/T-0Q5m2kZ1o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/T-0Q5m2kZ1o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "iHeartMacsH8r5",
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Sweetest Pie - Dua Lipa & Mega Thee Stallion (First Live Full Performance Ball Arena Denver)",
+        "description": "First ever live performance of Sweetest Pie by Dua Lipa & Megan Thee Stallion during Future Nostalgia Tour stop in Denver, Tuesday March 15th, 2022."
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "statistics": {
+      "viewCount": "81726",
+      "likeCount": "3297",
+      "favoriteCount": "0",
+      "commentCount": "87"
     }
   },
   {
@@ -68580,6 +73136,106 @@
       "likeCount": "1010",
       "favoriteCount": "0",
       "commentCount": "87"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "N-R2eDrWmMdzEYqSra9d8h6MJLg",
+    "id": "TnPjSATw7Do",
+    "snippet": {
+      "publishedAt": "2022-03-23T11:05:07Z",
+      "channelId": "UCwTI6Rz9r6Yh5H9xkM3ZV7Q",
+      "title": "Dua Lipa “Be The One” @ The Forum LA 3/22/22",
+      "description": "Shot on iPhone.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TnPjSATw7Do/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TnPjSATw7Do/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TnPjSATw7Do/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TnPjSATw7Do/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TnPjSATw7Do/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "joel angel",
+      "tags": [
+        "Dua Lipa",
+        "Be the one",
+        "Future nostalgia",
+        "Los Angeles",
+        "Pa",
+        "LA"
+      ],
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa “Be The One” @ The Forum LA 3/22/22",
+        "description": "Shot on iPhone."
+      }
+    },
+    "statistics": {
+      "viewCount": "829",
+      "likeCount": "25",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "X8yMzgmZhF3tXsRkfIUNMrmgbCs",
+    "id": "TPgCBw-r1FM",
+    "snippet": {
+      "publishedAt": "2022-03-18T08:53:17Z",
+      "channelId": "UC3Sc_NSRVQSbtrLkgVWJXuQ",
+      "title": "Dua Lipa Future Nostalgia Tour Tulsa Oklahoma",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TPgCBw-r1FM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TPgCBw-r1FM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TPgCBw-r1FM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Cole Waters",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Future Nostalgia Tour Tulsa Oklahoma",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "141",
+      "likeCount": "0",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -70214,6 +74870,57 @@
     "statistics": {
       "viewCount": "2179",
       "likeCount": "50",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "uTg9IBojEymBK50ZRg_9veN7EtY",
+    "id": "UBmt6yt_nTg",
+    "snippet": {
+      "publishedAt": "2022-03-18T09:46:49Z",
+      "channelId": "UC3Sc_NSRVQSbtrLkgVWJXuQ",
+      "title": "Dua Lipa Future Nostalgia Tour Tulsa Oklahoma",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UBmt6yt_nTg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UBmt6yt_nTg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UBmt6yt_nTg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UBmt6yt_nTg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UBmt6yt_nTg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Cole Waters",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Future Nostalgia Tour Tulsa Oklahoma",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "183",
+      "likeCount": "3",
       "favoriteCount": "0",
       "commentCount": "0"
     }
@@ -71947,6 +76654,108 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "qI4UTHb__ra2RM8TwIFMhIvb15A",
+    "id": "USo_ct7pD-0",
+    "snippet": {
+      "publishedAt": "2022-03-18T09:05:59Z",
+      "channelId": "UC3Sc_NSRVQSbtrLkgVWJXuQ",
+      "title": "Dua Lipa Future Nostalgia Tour Tulsa Oklahoma",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/USo_ct7pD-0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/USo_ct7pD-0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/USo_ct7pD-0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/USo_ct7pD-0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/USo_ct7pD-0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Cole Waters",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Future Nostalgia Tour Tulsa Oklahoma",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "157",
+      "likeCount": "3",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "8Hitqh8-CQ-8XZppHIVyFWrxfXo",
+    "id": "uueaIrYeX-8",
+    "snippet": {
+      "publishedAt": "2022-03-18T09:58:21Z",
+      "channelId": "UC3Sc_NSRVQSbtrLkgVWJXuQ",
+      "title": "Dua Lipa Future Nostalgia Tour Tulsa Oklahoma",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uueaIrYeX-8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uueaIrYeX-8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uueaIrYeX-8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uueaIrYeX-8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/uueaIrYeX-8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Cole Waters",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Future Nostalgia Tour Tulsa Oklahoma",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "326",
+      "likeCount": "7",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "qipV00lZbi5HqBVLlxtyE8D7Xt4",
     "id": "uuugSkuNZZA",
     "snippet": {
@@ -72086,6 +76895,48 @@
       "likeCount": "8",
       "favoriteCount": "0",
       "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "TXRHl35dAdSbonG-iWspdAyr-5s",
+    "id": "UYIZRPIbZ74",
+    "snippet": {
+      "publishedAt": "2022-03-21T14:29:05Z",
+      "channelId": "UCk17EiY8As4ImPh6rw05n6A",
+      "title": "Dua Lipa - One Kiss (Future Nostalgia Your, Live in Phoenix, AZ 3/20/22) 4K #100ConcertsIn2022",
+      "description": "I do not own this song.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UYIZRPIbZ74/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UYIZRPIbZ74/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UYIZRPIbZ74/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Patrick Ma",
+      "tags": ["#100ConcertsIn2022"],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - One Kiss (Future Nostalgia Your, Live in Phoenix, AZ 3/20/22) 4K #100ConcertsIn2022",
+        "description": "I do not own this song."
+      }
+    },
+    "statistics": {
+      "viewCount": "166",
+      "likeCount": "6",
+      "favoriteCount": "0",
+      "commentCount": "1"
     }
   },
   {
@@ -73323,7 +78174,10 @@
         "description": ""
       }
     },
-    "statistics": { "viewCount": "5081", "favoriteCount": "0" }
+    "statistics": {
+      "viewCount": "5081",
+      "favoriteCount": "0"
+    }
   },
   {
     "kind": "youtube#video",
@@ -73991,6 +78845,56 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "kQ_skoQL1VmwffGx_8SJwPgst_8",
+    "id": "Vn00mbz-oTA",
+    "snippet": {
+      "publishedAt": "2022-03-23T10:22:47Z",
+      "channelId": "UCwTI6Rz9r6Yh5H9xkM3ZV7Q",
+      "title": "Dua Lipa “Cool” @ The Forum LA 3/22/22",
+      "description": "Shot on iPhone.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Vn00mbz-oTA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Vn00mbz-oTA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Vn00mbz-oTA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "joel angel",
+      "tags": [
+        "Dua Lipa",
+        "cool",
+        "Future Nostalgia Tour",
+        "LA",
+        "Los Angeles",
+        "the forum",
+        "3/22/22"
+      ],
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa “Cool” @ The Forum LA 3/22/22",
+        "description": "Shot on iPhone."
+      }
+    },
+    "statistics": {
+      "viewCount": "410",
+      "likeCount": "23",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "sAR7G6jkVCXgJLiqTeRw-B8rtXg",
     "id": "VNJx6C6Y98g",
     "snippet": {
@@ -74535,6 +79439,66 @@
       "likeCount": "5",
       "favoriteCount": "0",
       "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "YrORng7RFPZsycmtzUHOv45qMik",
+    "id": "VS4HDpNldHI",
+    "snippet": {
+      "publishedAt": "2022-03-23T09:58:41Z",
+      "channelId": "UCwTI6Rz9r6Yh5H9xkM3ZV7Q",
+      "title": "Dua Lipa “New Rules” @ The Forum LA 3/22/22",
+      "description": "Shot on iPhone.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VS4HDpNldHI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VS4HDpNldHI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VS4HDpNldHI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VS4HDpNldHI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VS4HDpNldHI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "joel angel",
+      "tags": [
+        "Dua Lipa",
+        "New Rules",
+        "Future Nostalgia Tour",
+        "Los Angeles",
+        "LA",
+        "The Forum",
+        "3/22/22"
+      ],
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa “New Rules” @ The Forum LA 3/22/22",
+        "description": "Shot on iPhone."
+      }
+    },
+    "statistics": {
+      "viewCount": "603",
+      "likeCount": "25",
+      "favoriteCount": "0",
+      "commentCount": "2"
     }
   },
   {
@@ -75881,6 +80845,58 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "SeL2Ru4E6XRWMAZgKRXbKDIsbQI",
+    "id": "wegqApzao7M",
+    "snippet": {
+      "publishedAt": "2022-03-20T01:21:31Z",
+      "channelId": "UCOQ9e-txk84dS_OZauKPBSg",
+      "title": "Dua Lipa - We’re Good INTRO - LIVE @ Denver",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wegqApzao7M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wegqApzao7M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wegqApzao7M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wegqApzao7M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wegqApzao7M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Vladimir Avina",
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - We’re Good INTRO - LIVE @ Denver",
+        "description": ""
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "statistics": {
+      "viewCount": "256",
+      "likeCount": "10",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "RtuKlxfx4ox8B5FQsGXtB6inFH0",
     "id": "weZpsoyJZGI",
     "snippet": {
@@ -76271,6 +81287,47 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "UOd96SpZxwve-6lbI95FGp216f4",
+    "id": "wHy8lDDwDhw",
+    "snippet": {
+      "publishedAt": "2022-03-16T09:09:18Z",
+      "channelId": "UCXNGGWQoRozdnh2zsGEI4Rw",
+      "title": "Dua Lipa - Don’t Start Now LIVE at Future Nostalgia Tour in Denver, CO",
+      "description": "Dua Lipa singing Don’t Start Now LIVE at the Future Nostalgia Tour in Denver, CO on March 15, 2022 at Ball Arena",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wHy8lDDwDhw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wHy8lDDwDhw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wHy8lDDwDhw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Dylan Flores",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Don’t Start Now LIVE at Future Nostalgia Tour in Denver, CO",
+        "description": "Dua Lipa singing Don’t Start Now LIVE at the Future Nostalgia Tour in Denver, CO on March 15, 2022 at Ball Arena"
+      }
+    },
+    "statistics": {
+      "viewCount": "2829",
+      "likeCount": "73",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "3avdFqFXJDQMm8FR2YUJb_9R7X8",
     "id": "Wj06vElhYa0",
     "snippet": {
@@ -76476,6 +81533,112 @@
       "likeCount": "99",
       "favoriteCount": "0",
       "commentCount": "6"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "Ij45zxdfPZlnU6-zu6rfP2Uf2mQ",
+    "id": "wLJnxoU7s-0",
+    "snippet": {
+      "publishedAt": "2022-03-20T07:08:42Z",
+      "channelId": "UC5YI-ObXJSfD0tqOljU_ilQ",
+      "title": "Dua Lipa - Fever [HD] LIVE 3/13/2022",
+      "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wLJnxoU7s-0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wLJnxoU7s-0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wLJnxoU7s-0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wLJnxoU7s-0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wLJnxoU7s-0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JYeahJasonJude",
+      "tags": [
+        "Fever",
+        "Dua Lipa",
+        "Live",
+        "Music",
+        "Video",
+        "jasonjude",
+        "Jason Jude",
+        "Jasonjayeah",
+        "JasonJyeah",
+        "JYeah",
+        "JasonJude1",
+        "JYeahJasonJude",
+        "HD",
+        "1080p",
+        "great quality",
+        "concert",
+        "San Antonio",
+        "Texas",
+        "3/13/22",
+        "2022",
+        "dallas",
+        "american airlines center",
+        "denver",
+        "tulsa",
+        "phoenix",
+        "los angeles",
+        "las vegas",
+        "san jose",
+        "portland",
+        "seattle",
+        "vancouver",
+        "houston",
+        "chicago",
+        "minneapolis",
+        "buffalo",
+        "newark",
+        "washington",
+        "new york",
+        "columbus",
+        "detroit",
+        "toronto",
+        "montreal",
+        "philadelphia",
+        "boston",
+        "charlotte",
+        "nashville",
+        "atlanta",
+        "orlando",
+        "miami",
+        "manchester",
+        "london",
+        "leeds",
+        "dublin"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Fever [HD] LIVE 3/13/2022",
+        "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU."
+      }
+    },
+    "statistics": {
+      "viewCount": "74",
+      "likeCount": "4",
+      "favoriteCount": "0",
+      "commentCount": "1"
     }
   },
   {
@@ -78570,6 +83733,58 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "wJzeOIr03_bwKj-46EUtqCQktPA",
+    "id": "X8sHcWbct1A",
+    "snippet": {
+      "publishedAt": "2022-03-21T14:36:11Z",
+      "channelId": "UCk17EiY8As4ImPh6rw05n6A",
+      "title": "Dua Lipa - Cold Heart (Future Nostalgia Tour, Live in Phoenix, AZ 3/20/22) 4K #100ConcertsIn2022",
+      "description": "I do not own this song.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/X8sHcWbct1A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/X8sHcWbct1A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/X8sHcWbct1A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/X8sHcWbct1A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/X8sHcWbct1A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Patrick Ma",
+      "tags": ["#100ConcertsIn2022"],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Cold Heart (Future Nostalgia Tour, Live in Phoenix, AZ 3/20/22) 4K #100ConcertsIn2022",
+        "description": "I do not own this song."
+      }
+    },
+    "statistics": {
+      "viewCount": "265",
+      "likeCount": "4",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "or_KWddFSD-uHFN85D4IiHJmE1I",
     "id": "x91veAlXPFc",
     "snippet": {
@@ -79757,6 +84972,57 @@
     "statistics": {
       "viewCount": "344",
       "likeCount": "3",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "R3bfs-HIBuRMCMA-fQpx68OFl0A",
+    "id": "xOmqwCbhdWU",
+    "snippet": {
+      "publishedAt": "2022-03-21T09:31:49Z",
+      "channelId": "UCkoI0tAKRkVmuuVlFA8tt4g",
+      "title": "Dua Lipa Cold Heart Live Footprint Center Phoenix, AZ 03/20/22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xOmqwCbhdWU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xOmqwCbhdWU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xOmqwCbhdWU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xOmqwCbhdWU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xOmqwCbhdWU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Alfred Rossy Mark Padilla",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Cold Heart Live Footprint Center Phoenix, AZ 03/20/22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "423",
+      "likeCount": "11",
       "favoriteCount": "0",
       "commentCount": "0"
     }
@@ -81781,6 +87047,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "AeOcwcLQAXxLGY5Cs_puvV6A1S0",
+    "id": "YaXqEQIxqX4",
+    "snippet": {
+      "publishedAt": "2022-03-16T17:49:35Z",
+      "channelId": "UCK9mlaFtEZSSW_ABKqd-VQw",
+      "title": "DUA LIPA ONE KISS DENVER CO 3-15-22",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YaXqEQIxqX4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YaXqEQIxqX4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YaXqEQIxqX4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/YaXqEQIxqX4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/YaXqEQIxqX4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mike Amolsch",
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "DUA LIPA ONE KISS DENVER CO 3-15-22",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "441",
+      "likeCount": "8",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "dfeGj66MMn2YMFzAUh1yg8kl55k",
     "id": "yayKmjTf_hE",
     "snippet": {
@@ -82012,6 +87329,57 @@
       "likeCount": "1267",
       "favoriteCount": "0",
       "commentCount": "66"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "wA-2m5ux_S7y3HOSZrnFsrrk-PA",
+    "id": "Yc3J4aZUW50",
+    "snippet": {
+      "publishedAt": "2022-03-21T07:01:54Z",
+      "channelId": "UCvUtihccIM7G-bdNTHm5Amw",
+      "title": "Dua Lipa Don’t Start Now Live Future Nostalgia Tour Tulsa 2022 3/17/22",
+      "description": "Dua Lipa live 2022 Future Nostalgia Tour Tulsa",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Yc3J4aZUW50/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Yc3J4aZUW50/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Yc3J4aZUW50/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Yc3J4aZUW50/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Yc3J4aZUW50/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Austin Lopez",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa Don’t Start Now Live Future Nostalgia Tour Tulsa 2022 3/17/22",
+        "description": "Dua Lipa live 2022 Future Nostalgia Tour Tulsa"
+      }
+    },
+    "statistics": {
+      "viewCount": "198",
+      "likeCount": "9",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -82839,6 +88207,112 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "jS-UpOFSye5u-FevtSPciaSu4fc",
+    "id": "YJQrGYxK1Kk",
+    "snippet": {
+      "publishedAt": "2022-03-21T02:31:58Z",
+      "channelId": "UC5YI-ObXJSfD0tqOljU_ilQ",
+      "title": "Dua Lipa - Break My Heart [HD] LIVE 3/13/2022",
+      "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YJQrGYxK1Kk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YJQrGYxK1Kk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YJQrGYxK1Kk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/YJQrGYxK1Kk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/YJQrGYxK1Kk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JYeahJasonJude",
+      "tags": [
+        "Break My Heart",
+        "Dua Lipa",
+        "Live",
+        "Music",
+        "Video",
+        "jasonjude",
+        "Jason Jude",
+        "Jasonjayeah",
+        "JasonJyeah",
+        "JYeah",
+        "JasonJude1",
+        "JYeahJasonJude",
+        "HD",
+        "1080p",
+        "great quality",
+        "concert",
+        "San Antonio",
+        "Texas",
+        "3/13/22",
+        "2022",
+        "dallas",
+        "american airlines center",
+        "denver",
+        "tulsa",
+        "phoenix",
+        "los angeles",
+        "las vegas",
+        "san jose",
+        "portland",
+        "seattle",
+        "vancouver",
+        "houston",
+        "chicago",
+        "minneapolis",
+        "buffalo",
+        "newark",
+        "washington",
+        "new york",
+        "columbus",
+        "detroit",
+        "toronto",
+        "montreal",
+        "philadelphia",
+        "boston",
+        "charlotte",
+        "nashville",
+        "atlanta",
+        "orlando",
+        "miami",
+        "manchester",
+        "london",
+        "leeds",
+        "dublin"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Break My Heart [HD] LIVE 3/13/2022",
+        "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU."
+      }
+    },
+    "statistics": {
+      "viewCount": "27",
+      "likeCount": "0",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "kib8xUrW0tVNQX98SSIylg0zerM",
     "id": "yjvycXnlZEo",
     "snippet": {
@@ -82876,7 +88350,10 @@
       "channelTitle": "Avanith",
       "categoryId": "22",
       "liveBroadcastContent": "none",
-      "localized": { "title": "Rocket Man - Dua Lipa", "description": "" }
+      "localized": {
+        "title": "Rocket Man - Dua Lipa",
+        "description": ""
+      }
     },
     "statistics": {
       "viewCount": "12",
@@ -83076,6 +88553,58 @@
       "viewCount": "18338",
       "favoriteCount": "0",
       "commentCount": "11"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "3FXKQl1uArEMrpJIwxn1dJdTQeM",
+    "id": "ynpOqj-J9dQ",
+    "snippet": {
+      "publishedAt": "2022-03-23T10:31:08Z",
+      "channelId": "UC_H-qrIP8dY6dLxe4KqiVwA",
+      "title": "Dua Lipa - Be the One live The Forum, Inglewood, Los Angeles, CA 3-22-2022",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ynpOqj-J9dQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ynpOqj-J9dQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ynpOqj-J9dQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ynpOqj-J9dQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ynpOqj-J9dQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Bound2Fate",
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Be the One live The Forum, Inglewood, Los Angeles, CA 3-22-2022",
+        "description": ""
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "statistics": {
+      "viewCount": "177",
+      "likeCount": "5",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -84358,6 +89887,57 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "bOP_YZGQbxz9Xv2hPqEIj2px7zU",
+    "id": "y_5aN98KXTM",
+    "snippet": {
+      "publishedAt": "2022-03-21T06:44:46Z",
+      "channelId": "UChnQc0mUmYQWEbChcNl1yfg",
+      "title": "Dua Lipa - Levitating (Live in Phoenix AZ)",
+      "description": "Dua Lipa performing her single \"Levitating\" in Phoenix!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/y_5aN98KXTM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/y_5aN98KXTM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/y_5aN98KXTM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/y_5aN98KXTM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/y_5aN98KXTM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "George Luna",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Levitating (Live in Phoenix AZ)",
+        "description": "Dua Lipa performing her single \"Levitating\" in Phoenix!"
+      }
+    },
+    "statistics": {
+      "viewCount": "290",
+      "likeCount": "8",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "DcxtmbvcgZO-rAe8S8zumwDitu8",
     "id": "Y_VPrf2In78",
     "snippet": {
@@ -84446,7 +90026,10 @@
       "channelTitle": "Monica Hegeman",
       "categoryId": "22",
       "liveBroadcastContent": "none",
-      "localized": { "title": "Dua Lipa Finale", "description": "" }
+      "localized": {
+        "title": "Dua Lipa Finale",
+        "description": ""
+      }
     },
     "statistics": {
       "viewCount": "26",
@@ -84666,6 +90249,47 @@
       "likeCount": "19",
       "favoriteCount": "0",
       "commentCount": "7"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "aFZZA8OowEV1NXONT97TYeVy9-E",
+    "id": "zAHv90rEaT8",
+    "snippet": {
+      "publishedAt": "2022-03-23T05:56:07Z",
+      "channelId": "UC6SAoPtqfAdAuW3xuxBffEQ",
+      "title": "Don’t Start Now [Encore] - Dua Lipa, Future Nostalgia Tour (Phoenix, AZ)",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zAHv90rEaT8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zAHv90rEaT8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zAHv90rEaT8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Phoenix Concerts",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Don’t Start Now [Encore] - Dua Lipa, Future Nostalgia Tour (Phoenix, AZ)",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "83",
+      "likeCount": "2",
+      "favoriteCount": "0",
+      "commentCount": "0"
     }
   },
   {
@@ -85773,7 +91397,10 @@
       "channelTitle": "Curtis",
       "categoryId": "10",
       "liveBroadcastContent": "none",
-      "localized": { "title": "Dua Lipa - Good in Bed", "description": "" },
+      "localized": {
+        "title": "Dua Lipa - Good in Bed",
+        "description": ""
+      },
       "defaultAudioLanguage": "en-US"
     },
     "statistics": {
@@ -88153,6 +93780,112 @@
   },
   {
     "kind": "youtube#video",
+    "etag": "otekLR0Y2fItF5bIUGgKRCVw19k",
+    "id": "_6TfVal-Kk4",
+    "snippet": {
+      "publishedAt": "2022-03-19T06:41:18Z",
+      "channelId": "UC5YI-ObXJSfD0tqOljU_ilQ",
+      "title": "Dua Lipa - Electricity [HD] LIVE 3/13/2022",
+      "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_6TfVal-Kk4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_6TfVal-Kk4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_6TfVal-Kk4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_6TfVal-Kk4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_6TfVal-Kk4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "JYeahJasonJude",
+      "tags": [
+        "Electricity",
+        "Dua Lipa",
+        "Live",
+        "Music",
+        "Video",
+        "jasonjude",
+        "Jason Jude",
+        "Jasonjayeah",
+        "JasonJyeah",
+        "JYeah",
+        "JasonJude1",
+        "JYeahJasonJude",
+        "HD",
+        "1080p",
+        "great quality",
+        "concert",
+        "San Antonio",
+        "Texas",
+        "3/13/22",
+        "2022",
+        "dallas",
+        "american airlines center",
+        "denver",
+        "tulsa",
+        "phoenix",
+        "los angeles",
+        "las vegas",
+        "san jose",
+        "portland",
+        "seattle",
+        "vancouver",
+        "houston",
+        "chicago",
+        "minneapolis",
+        "buffalo",
+        "newark",
+        "washington",
+        "new york",
+        "columbus",
+        "detroit",
+        "toronto",
+        "montreal",
+        "philadelphia",
+        "boston",
+        "charlotte",
+        "nashville",
+        "atlanta",
+        "orlando",
+        "miami",
+        "manchester",
+        "london",
+        "leeds",
+        "dublin"
+      ],
+      "categoryId": "10",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dua Lipa - Electricity [HD] LIVE 3/13/2022",
+        "description": "LIKE & FOLLOW my page for concert updates\nhttps://www.facebook.com/Jasonjayeah \n       Dua Lipa performs on Sunday March 13, 2022 at american airlines center in dallas Texas. COPYRIGHT OWNERS CONTACT ME IF VIDEOS NEED TO BE TAKEN DOWN. THANK YOU."
+      }
+    },
+    "statistics": {
+      "viewCount": "86",
+      "likeCount": "2",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  },
+  {
+    "kind": "youtube#video",
     "etag": "_bxukWBFM4rl2e4BgSccRkHX3EE",
     "id": "_99ugOz8iX8",
     "snippet": {
@@ -88357,7 +94090,10 @@
       "channelTitle": "Avanith",
       "categoryId": "22",
       "liveBroadcastContent": "none",
-      "localized": { "title": "Levitating - Dua Lipa", "description": "" }
+      "localized": {
+        "title": "Levitating - Dua Lipa",
+        "description": ""
+      }
     },
     "statistics": {
       "viewCount": "9",

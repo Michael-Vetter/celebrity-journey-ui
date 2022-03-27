@@ -15362,40 +15362,6 @@
 		]
 	},
 	{
-		"id": "47edd536-5c04-4b81-adf9-0adcadca3c72",
-		"description": "Dua Lipa and Elton John - Instagram Live (Mar 22, 2021)",
-		"dateDatabase": "12/05/2021",
-		"dateSort": "2021-03-22",
-		"dateEvent": "2021-03-22",
-		"sourceForDateOfEvent": [
-			{
-				"sourceDescription": "video description",
-				"sourceLink": ""
-			}
-		],
-		"videos": [
-			{
-				"source": "youtube",
-				"videoId": "XTImdDeYi-8",
-				"videoImage": "",
-				"views": "",
-				"dateUpload": "2021-03-22",
-				"videoDescription": "Dua Lipa and Elton John - Instagram Live (Mar 22, 2021)",
-				"videoComments": ""
-			}
-		],
-		"categories": [
-			{
-				"category": "Interview"
-			}
-		],
-		"songs": [
-			{
-				"song": ""
-			}
-		]
-	},
-	{
 		"id": "2ea629a2-d0be-454b-8fd4-bf9df3198d68",
 		"description": "Dua Lipa I 90-second Interview",
 		"dateDatabase": "12/05/2021",
@@ -22181,7 +22147,7 @@
 		],
 		"songs": [
 			{
-				"song": "No Lies"
+				"song": "No Lie"
 			}
 		]
 	},
@@ -29824,94 +29790,6 @@
 		"songs": [
 			{
 				"song": ""
-			}
-		]
-	},
-	{
-		"id": "9c042a6f-8131-4771-9b22-a03a3f73316d",
-		"description": "Dua Lipa - Studio 2054 (Full Concert)",
-		"dateDatabase": "12/05/2021",
-		"dateSort": "2020-11-27",
-		"dateEvent": "2020-11-27",
-		"sourceForDateOfEvent": [
-			{
-				"sourceDescription": "www.setlist.fm",
-				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2020/printworks-london-england-2b8270b6.html"
-			}
-		],
-		"videos": [
-			{
-				"source": "youtube",
-				"videoId": "IkS39Ut-CBo",
-				"videoImage": "",
-				"views": "",
-				"dateUpload": "2021-12-10",
-				"videoDescription": "Dua Lipa - Studio 2054 (Full Concert)",
-				"videoComments": ""
-			}
-		],
-		"categories": [
-			{
-				"category": "Studio"
-			}
-		],
-		"songs": [
-			{
-				"song": "Future Nostalgia"
-			},
-			{
-				"song": "Levitating"
-			},
-			{
-				"song": "Pretty Please"
-			},
-			{
-				"song": "Break My Heart"
-			},
-			{
-				"song": "Why Don't You Love Me"
-			},
-			{
-				"song": "Physical"
-			},
-			{
-				"song": "Club Disco"
-			},
-			{
-				"song": "Cool"
-			},
-			{
-				"song": "New Rules"
-			},
-			{
-				"song": "Prisoner"
-			},
-			{
-				"song": "UN DIA (ONE DAY)"
-			},
-			{
-				"song": "Fever"
-			},
-			{
-				"song": "One Kiss"
-			},
-			{
-				"song": "Real Groove"
-			},
-			{
-				"song": "Electricity"
-			},
-			{
-				"song": "Moon"
-			},
-			{
-				"song": "Rocket Man"
-			},
-			{
-				"song": "Hallucinate"
-			},
-			{
-				"song": "Don't Start Now"
 			}
 		]
 	},
@@ -47030,40 +46908,6 @@
 		]
 	},
 	{
-		"id": "6d4f233d-28e1-4c72-88a9-4ced6c2470a4",
-		"description": "Dua Lipa - Levitating (Live From New Jersey - Future Nostalgia Tour)",
-		"dateDatabase": "03/06/2022",
-		"dateSort": "2022-03-04",
-		"dateEvent": "2022-03-04",
-		"sourceForDateOfEvent": [
-			{
-				"sourceDescription": "www.setlist.fm",
-				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/prudential-center-newark-nj-6389a2ab.html"
-			}
-		],
-		"videos": [
-			{
-				"source": "youtube",
-				"videoId": "AuyBZdEXSX4",
-				"videoImage": "",
-				"views": "",
-				"dateUpload": "2022-03-05",
-				"videoDescription": "Dua Lipa - Levitating (Live From New Jersey - Future Nostalgia Tour)",
-				"videoComments": ""
-			}
-		],
-		"categories": [
-			{
-				"category": "Concert"
-			}
-		],
-		"songs": [
-			{
-				"song": "Levitating"
-			}
-		]
-	},
-	{
 		"id": "0e38a844-a445-4b3f-8193-ecdec864e7eb",
 		"description": "Dua Lipa - Break My Heart Live @ Prudential Center, Newark (2022)",
 		"dateDatabase": "03/06/2022",
@@ -47233,52 +47077,6 @@
 		"songs": [
 			{
 				"song": "Levitating"
-			}
-		]
-	},
-	{
-		"id": "8d16acc5-fe7e-4859-a26f-c9d03cc7d268",
-		"description": "Dua Lipa - Future Nostalgia Tour @ Prudential Center, Newark (2022)",
-		"dateDatabase": "03/06/2022",
-		"dateSort": "2022-03-04",
-		"dateEvent": "2022-03-04",
-		"sourceForDateOfEvent": [
-			{
-				"sourceDescription": "www.setlist.fm",
-				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/prudential-center-newark-nj-6389a2ab.html"
-			}
-		],
-		"videos": [
-			{
-				"source": "youtube",
-				"videoId": "IKvoL7en0H8",
-				"videoImage": "",
-				"views": "",
-				"dateUpload": "2022-03-06",
-				"videoDescription": "Dua Lipa - Future Nostalgia Tour @ Prudential Center, Newark (2022)",
-				"videoComments": ""
-			}
-		],
-		"categories": [
-			{
-				"category": "Concert"
-			}
-		],
-		"songs": [
-			{
-				"song": "Physical"
-			},
-			{
-				"song": "New Rules"
-			},
-			{
-				"song": "One Kiss"
-			},
-			{
-				"song": "Cold Heart"
-			},
-			{
-				"song": "Don't Start Now"
 			}
 		]
 	},
@@ -53301,6 +53099,3191 @@
 		"songs": [
 			{
 				"song": "New Rules"
+			}
+		]
+	},
+	{
+		"id": "b74cbff5-b168-4175-88ee-0b360581d3d7",
+		"description": "Dua Lipa - Boys Will Be Boys [HD] LIVE 3/13/2022",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "3J2nyrVylnI",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-19",
+				"videoDescription": "Dua Lipa - Boys Will Be Boys [HD] LIVE 3/13/2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Boys Will Be Boys"
+			}
+		]
+	},
+	{
+		"id": "00c3a821-0ab2-4ab7-9b3c-4eee780bb03e",
+		"description": "Dua Lipa - Love Again [HD] LIVE 3/13/2022",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "5w_BZIofBhc",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-21",
+				"videoDescription": "Dua Lipa - Love Again [HD] LIVE 3/13/2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Love Again"
+			}
+		]
+	},
+	{
+		"id": "3da54009-2964-407d-ae39-4e9bc8f1ec6a",
+		"description": "Dua Lipa - We're Good [HD] LIVE 3/13/2022",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "9zRkPUSTpoM",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-21",
+				"videoDescription": "Dua Lipa - We're Good [HD] LIVE 3/13/2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "We're Good"
+			}
+		]
+	},
+	{
+		"id": "d4120598-4908-40d5-887c-ac383113d2db",
+		"description": "Dua Lipa - Be The One [HD] LIVE 3/13/2022",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "cL_yARql_zM",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-21",
+				"videoDescription": "Dua Lipa - Be The One [HD] LIVE 3/13/2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Be The One"
+			}
+		]
+	},
+	{
+		"id": "0778e3b8-7693-4432-9f9a-696f084987ec",
+		"description": "Dua Lipa - Pretty Please [HD] LIVE 3/13/2022",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "FAKJLV7esg8",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-21",
+				"videoDescription": "Dua Lipa - Pretty Please [HD] LIVE 3/13/2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Pretty Please"
+			}
+		]
+	},
+	{
+		"id": "e51767a3-f237-4b39-b8b3-bd5027776080",
+		"description": "Dua Lipa - Future Nostalgia [HD] LIVE 3/13/2022",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "fKDEwCNYGSY",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-17",
+				"videoDescription": "Dua Lipa - Future Nostalgia [HD] LIVE 3/13/2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Future Nostalgia"
+			}
+		]
+	},
+	{
+		"id": "be313651-5167-4f3d-98b5-8835534a4b9f",
+		"description": "Dua Lipa - New Rules [HD] LIVE 3/13/2022",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "FvnAV68er-0",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-21",
+				"videoDescription": "Dua Lipa - New Rules [HD] LIVE 3/13/2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "New Rules"
+			}
+		]
+	},
+	{
+		"id": "cff79a2d-d86d-467d-9e39-de240d6990c3",
+		"description": "Dua Lipa - Don't Start Now [HD] LIVE 3/13/2022",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "gNRHNKaIMzI",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-17",
+				"videoDescription": "Dua Lipa - Don't Start Now [HD] LIVE 3/13/2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Don't Start Now"
+			}
+		]
+	},
+	{
+		"id": "6d8f2d9b-9de0-435f-b76b-46b485cd196f",
+		"description": "Dua Lipa - Physical [HD] LIVE 3/13/2022",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "K4Z3Vh4LGdw",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-21",
+				"videoDescription": "Dua Lipa - Physical [HD] LIVE 3/13/2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Physical"
+			}
+		]
+	},
+	{
+		"id": "d1a726ed-71ab-44d5-960b-2d587a061b69",
+		"description": "Dua Lipa - Levitating [HD] LIVE 3/13/2022",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "kVkHKi-3SYk",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-17",
+				"videoDescription": "Dua Lipa - Levitating [HD] LIVE 3/13/2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "31a6adaf-f742-44dc-9ddd-2d1244629588",
+		"description": "Dua Lipa - Cold Heart [HD] LIVE 3/13/2022",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "KYD2nmFLt6M",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-18",
+				"videoDescription": "Dua Lipa - Cold Heart [HD] LIVE 3/13/2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Cold Heart"
+			}
+		]
+	},
+	{
+		"id": "0e17f7b6-2d76-4a24-9c67-69f1ba1ec966",
+		"description": "Dua Lipa - Cool [HD] LIVE 3/13/2022",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "LFNH3g34HKg",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-21",
+				"videoDescription": "Dua Lipa - Cool [HD] LIVE 3/13/2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Cool"
+			}
+		]
+	},
+	{
+		"id": "f9660641-5f73-4e92-a3ba-1e1ba918fb06",
+		"description": "Dua Lipa - Hallucinate [HD] LIVE 3/13/2022",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "oaeVIXi1MkU",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-18",
+				"videoDescription": "Dua Lipa - Hallucinate [HD] LIVE 3/13/2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Hallucinate"
+			}
+		]
+	},
+	{
+		"id": "fe39f6f1-4918-4594-83e3-ca8d932c98c5",
+		"description": "Dua Lipa - Club Future Nostalgia Mix [HD] LIVE 3/13/2022",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "om_JExeMuZE",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-19",
+				"videoDescription": "Dua Lipa - Club Future Nostalgia Mix [HD] LIVE 3/13/2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Future Nostalgia"
+			}
+		]
+	},
+	{
+		"id": "7afb5b9d-7210-4db7-ba63-39497d9b9133",
+		"description": "Dua Lipa - Good In Bed [HD] LIVE 3/13/2022",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "pyvrOy9b5KA",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-21",
+				"videoDescription": "Dua Lipa - Good In Bed [HD] LIVE 3/13/2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Good In Bed"
+			}
+		]
+	},
+	{
+		"id": "bc96e513-686b-4972-95f0-64f39b66eee8",
+		"description": "Dua Lipa - One Kiss [HD] LIVE 3/13/2022",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "SNVVkXb18lo",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-19",
+				"videoDescription": "Dua Lipa - One Kiss [HD] LIVE 3/13/2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "One Kiss"
+			}
+		]
+	},
+	{
+		"id": "786fd305-53c4-43b3-9e4a-7a14834a9405",
+		"description": "Dua Lipa Full Concert [HD] LIVE 3/13/2022",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "SUnPYImsPNM",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-15",
+				"videoDescription": "Dua Lipa Full Concert [HD] LIVE 3/13/2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Physical"
+			},
+			{
+				"song": "New Rules"
+			},
+			{
+				"song": "Love Again"
+			},
+			{
+				"song": "Cool"
+			},
+			{
+				"song": "Pretty Please"
+			},
+			{
+				"song": "Break My Heart"
+			},
+			{
+				"song": "Be The One"
+			},
+			{
+				"song": "We're Good"
+			},
+			{
+				"song": "Good In Bed"
+			},
+			{
+				"song": "Fever"
+			},
+			{
+				"song": "Boys Will Be Boys"
+			},
+			{
+				"song": "One Kiss"
+			},
+			{
+				"song": "Electricity"
+			},
+			{
+				"song": "Hallucinate"
+			},
+			{
+				"song": "Cold Heart"
+			},
+			{
+				"song": "Levitating"
+			},
+			{
+				"song": "Future Nostalgia"
+			},
+			{
+				"song": "Don't Start Now"
+			}
+		]
+	},
+	{
+		"id": "eff411aa-fecb-4c8d-8cf5-da52b313eb34",
+		"description": "Dua Lipa - Fever [HD] LIVE 3/13/2022",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "wLJnxoU7s-0",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-20",
+				"videoDescription": "Dua Lipa - Fever [HD] LIVE 3/13/2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Fever"
+			}
+		]
+	},
+	{
+		"id": "2c2b2a0b-0094-4a47-b425-c23051db8dbf",
+		"description": "Dua Lipa - Break My Heart [HD] LIVE 3/13/2022",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "YJQrGYxK1Kk",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-21",
+				"videoDescription": "Dua Lipa - Break My Heart [HD] LIVE 3/13/2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Break My Heart"
+			}
+		]
+	},
+	{
+		"id": "34249479-4e56-4c5e-b5f5-596e4d6f38b0",
+		"description": "Interview: Dua Lipa Tells Us When To Expect Her Debut Album",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "",
+				"sourceLink": ""
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "zTLoxukoE2Q",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2016-04-22",
+				"videoDescription": "Interview: Dua Lipa Tells Us When To Expect Her Debut Album",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Interview"
+			}
+		],
+		"songs": [
+			{
+				"song": ""
+			}
+		]
+	},
+	{
+		"id": "25038c8a-603b-4928-8f7e-d3055e4e9996",
+		"description": "Dua Lipa - Electricity [HD] LIVE 3/13/2022",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-13",
+		"dateEvent": "2022-03-13",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/american-airlines-center-dallas-tx-b89e192.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "_6TfVal-Kk4",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-19",
+				"videoDescription": "Dua Lipa - Electricity [HD] LIVE 3/13/2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Electricity"
+			}
+		]
+	},
+	{
+		"id": "b6641955-00d4-4912-a1d8-594c9f295ac5",
+		"description": "DUA LIPA WE’RE GOOD BALL ARENA DENVER CO 3-15-22",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-15",
+		"dateEvent": "2022-03-15",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/ball-arena-denver-co-6389d2d3.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "80uoEY7nPuA",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-16",
+				"videoDescription": "DUA LIPA WE’RE GOOD BALL ARENA DENVER CO 3-15-22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "We're Good"
+			}
+		]
+	},
+	{
+		"id": "3a7eac46-ee93-436e-802e-ac32fddc2c52",
+		"description": "Dua Lipa - Love Again & Cool LIVE - Denver",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-15",
+		"dateEvent": "2022-03-15",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/ball-arena-denver-co-6389d2d3.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "b7ue4myTeEA",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-21",
+				"videoDescription": "Dua Lipa - Love Again & Cool LIVE - Denver",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Love Again"
+			},
+			{
+				"song": "Cool"
+			}
+		]
+	},
+	{
+		"id": "c3775b86-df09-4f16-9c96-28867fa66a42",
+		"description": "Dua Lipa & Megan Thee Stallion - Sweetest Pie LIVE Denver",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-15",
+		"dateEvent": "2022-03-15",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/ball-arena-denver-co-6389d2d3.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "BIksBScUo2U",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-17",
+				"videoDescription": "Dua Lipa & Megan Thee Stallion - Sweetest Pie LIVE Denver",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Sweetest Pie"
+			}
+		]
+	},
+	{
+		"id": "c1879877-449c-4b46-8d20-bf708e134d2f",
+		"description": "Levitating LIVE - Dua Lipa - Denver",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-15",
+		"dateEvent": "2022-03-15",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/ball-arena-denver-co-6389d2d3.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "BpjdWxH17ik",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-21",
+				"videoDescription": "Levitating LIVE - Dua Lipa - Denver",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "89c69c40-310c-4dbc-b7f3-a51bbafb5d82",
+		"description": "Dua Lipa - Physical LIVE at Future Nostalgia Tour in Denver, CO",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-15",
+		"dateEvent": "2022-03-15",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/ball-arena-denver-co-6389d2d3.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "cgnKHGDbOU8",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-16",
+				"videoDescription": "Dua Lipa - Physical LIVE at Future Nostalgia Tour in Denver, CO",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Physical"
+			}
+		]
+	},
+	{
+		"id": "5f5ecac7-dba1-4a66-a213-9de2b68f17e7",
+		"description": "DUA LIPA DONT START NOW BALL ARENA DENVER CO 3-15-22",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-15",
+		"dateEvent": "2022-03-15",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/ball-arena-denver-co-6389d2d3.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "gBdU3x-VqJA",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-16",
+				"videoDescription": "DUA LIPA DONT START NOW BALL ARENA DENVER CO 3-15-22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Don't Start Now"
+			}
+		]
+	},
+	{
+		"id": "df96f6ac-a758-4a04-b158-97fa735296e4",
+		"description": "DUA LIPA & MEGAN THEE STALLION SWEETEST PIE BALL ARENA DENVER CO 3-15-22",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-15",
+		"dateEvent": "2022-03-15",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/ball-arena-denver-co-6389d2d3.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "k9P-6MBDDzI",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-16",
+				"videoDescription": "DUA LIPA & MEGAN THEE STALLION SWEETEST PIE BALL ARENA DENVER CO 3-15-22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Sweetest Pie"
+			}
+		]
+	},
+	{
+		"id": "f68b75ea-1aac-4a83-b6c1-7a6d0b1bfcf9",
+		"description": "Dua Lipa & Megan Thee Stallion - Sweetest Pie LIVE - Denver",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-15",
+		"dateEvent": "2022-03-15",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/ball-arena-denver-co-6389d2d3.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "KL1sBYq8AGo",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-16",
+				"videoDescription": "Dua Lipa & Megan Thee Stallion - Sweetest Pie LIVE - Denver",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Sweetest Pie"
+			}
+		]
+	},
+	{
+		"id": "f617a490-4f26-465a-a442-81b666f541a4",
+		"description": "DUA LIPA LEVITATING LIVE BALL ARENA DENVER CO 3-15-22",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-15",
+		"dateEvent": "2022-03-15",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/ball-arena-denver-co-6389d2d3.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "l-D_-uScwt8",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-16",
+				"videoDescription": "DUA LIPA LEVITATING LIVE BALL ARENA DENVER CO 3-15-22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "45df04f5-c6c6-4972-bd52-9272656cb794",
+		"description": "DUA LIPA NEW RULES BALL ARENA DENVER CO 3-15-22",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-15",
+		"dateEvent": "2022-03-15",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/ball-arena-denver-co-6389d2d3.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "M9q1KNR3Uzg",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-16",
+				"videoDescription": "DUA LIPA NEW RULES BALL ARENA DENVER CO 3-15-22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "New Rules"
+			}
+		]
+	},
+	{
+		"id": "f7c515c1-5c30-4111-adf9-4de20f4b38d2",
+		"description": "DUA LIPA BE THE ONE BALL ARENA DENVER CO 3-15-22",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-15",
+		"dateEvent": "2022-03-15",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/ball-arena-denver-co-6389d2d3.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "nvvnFG3jawQ",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-16",
+				"videoDescription": "DUA LIPA BE THE ONE BALL ARENA DENVER CO 3-15-22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Be The One"
+			}
+		]
+	},
+	{
+		"id": "d99a09fb-44d9-497c-aae9-7461b42bfbbc",
+		"description": "Future Nostalgia - Dua Lipa LIVE - Denver",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-15",
+		"dateEvent": "2022-03-15",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/ball-arena-denver-co-6389d2d3.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "olegCdVn8Pk",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-17",
+				"videoDescription": "Future Nostalgia - Dua Lipa LIVE - Denver",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Future Nostalgia"
+			}
+		]
+	},
+	{
+		"id": "130734f2-8403-408a-aafb-ba40e0c61280",
+		"description": "Sweetest Pie - Dua Lipa & Mega Thee Stallion (First Live Full Performance Ball Arena Denver)",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-15",
+		"dateEvent": "2022-03-15",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/ball-arena-denver-co-6389d2d3.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "T-0Q5m2kZ1o",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-16",
+				"videoDescription": "Sweetest Pie - Dua Lipa & Mega Thee Stallion (First Live Full Performance Ball Arena Denver)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Sweetest Pie"
+			}
+		]
+	},
+	{
+		"id": "ed440505-bf2d-49ce-9589-77eef023916f",
+		"description": "Dua Lipa - We’re Good INTRO - LIVE @ Denver",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-15",
+		"dateEvent": "2022-03-15",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/ball-arena-denver-co-6389d2d3.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "wegqApzao7M",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-20",
+				"videoDescription": "Dua Lipa - We’re Good INTRO - LIVE @ Denver",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "We're Good"
+			}
+		]
+	},
+	{
+		"id": "41e8d94c-8097-4959-a986-a12ceafeff7b",
+		"description": "Dua Lipa - Don’t Start Now LIVE at Future Nostalgia Tour in Denver, CO",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-15",
+		"dateEvent": "2022-03-15",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/ball-arena-denver-co-6389d2d3.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "wHy8lDDwDhw",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-16",
+				"videoDescription": "Dua Lipa - Don’t Start Now LIVE at Future Nostalgia Tour in Denver, CO",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Don't Start Now"
+			}
+		]
+	},
+	{
+		"id": "85aa6e8d-c23e-4bcc-a2aa-24ae3ffa6886",
+		"description": "DUA LIPA ONE KISS DENVER CO 3-15-22",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-15",
+		"dateEvent": "2022-03-15",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/ball-arena-denver-co-6389d2d3.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "YaXqEQIxqX4",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-16",
+				"videoDescription": "DUA LIPA ONE KISS DENVER CO 3-15-22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "One Kiss"
+			}
+		]
+	},
+	{
+		"id": "e66f8dac-acf7-4029-968e-4edf9169b952",
+		"description": "3/17/22 Dua Lipa & Megan Thee Stallion perform new song together “Sweetest Pie”",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-17",
+		"dateEvent": "2022-03-17",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/bok-center-tulsa-ok-3893943.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "aLnMXK9KUaw",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-18",
+				"videoDescription": "3/17/22 Dua Lipa & Megan Thee Stallion perform new song together “Sweetest Pie”",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Sweetest Pie"
+			}
+		]
+	},
+	{
+		"id": "9a3370b6-945b-4979-be10-7de9b3534314",
+		"description": "Dua Lipa Future Nostalgia Tour Tulsa Oklahoma",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-17",
+		"dateEvent": "2022-03-17",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/bok-center-tulsa-ok-3893943.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "boa76AwRh7Y",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-18",
+				"videoDescription": "Dua Lipa Future Nostalgia Tour Tulsa Oklahoma",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Cool"
+			}
+		]
+	},
+	{
+		"id": "443d8b01-2ac2-4379-9ab7-4a47e278474b",
+		"description": "Dua Lipa Tulsa Oklahoma",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-17",
+		"dateEvent": "2022-03-17",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/bok-center-tulsa-ok-3893943.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "cLZsoan7rWM",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-18",
+				"videoDescription": "Dua Lipa Tulsa Oklahoma",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Physical"
+			}
+		]
+	},
+	{
+		"id": "07d505ae-50f7-46e9-8f67-63af704358fc",
+		"description": "Dua Lipa Future Nostalgia Tour Tulsa Oklahoma",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-17",
+		"dateEvent": "2022-03-17",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/bok-center-tulsa-ok-3893943.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "KuUm0vqGvn8",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-18",
+				"videoDescription": "Dua Lipa Future Nostalgia Tour Tulsa Oklahoma",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Break My Heart"
+			}
+		]
+	},
+	{
+		"id": "b4cd0581-8283-4c11-986f-a06485cca53f",
+		"description": "Sweetest Pie Live Tulsa 2022 Dua Lipa and Megan Thee Stallion",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-17",
+		"dateEvent": "2022-03-17",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/bok-center-tulsa-ok-3893943.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "OdoED-rYEgI",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-21",
+				"videoDescription": "Sweetest Pie Live Tulsa 2022 Dua Lipa and Megan Thee Stallion",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Sweetest Pie"
+			}
+		]
+	},
+	{
+		"id": "f337c2e2-ed69-49f7-b925-4d52a2b1815d",
+		"description": "Dua Lipa Future Nostalgia Tour Tulsa Oklahoma",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-17",
+		"dateEvent": "2022-03-17",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/bok-center-tulsa-ok-3893943.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "OJmYV94tM5g",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-18",
+				"videoDescription": "Dua Lipa Future Nostalgia Tour Tulsa Oklahoma",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Be The One"
+			}
+		]
+	},
+	{
+		"id": "c7cc81cc-aebe-471b-9aaa-65958b99fa4b",
+		"description": "Dua Lipa Future Nostalgia Tour Tulsa Oklahoma",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-17",
+		"dateEvent": "2022-03-17",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/bok-center-tulsa-ok-3893943.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "TPgCBw-r1FM",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-18",
+				"videoDescription": "Dua Lipa Future Nostalgia Tour Tulsa Oklahoma",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Be The One"
+			}
+		]
+	},
+	{
+		"id": "1abf4c3e-bb4a-4fee-8e5f-982a49dae7c1",
+		"description": "Dua Lipa Future Nostalgia Tour Tulsa Oklahoma",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-17",
+		"dateEvent": "2022-03-17",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/bok-center-tulsa-ok-3893943.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "UBmt6yt_nTg",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-18",
+				"videoDescription": "Dua Lipa Future Nostalgia Tour Tulsa Oklahoma",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Love Again"
+			}
+		]
+	},
+	{
+		"id": "0f59fd11-899e-4af4-a16d-5a28dfc75db3",
+		"description": "Dua Lipa Future Nostalgia Tour Tulsa Oklahoma",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-17",
+		"dateEvent": "2022-03-17",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/bok-center-tulsa-ok-3893943.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "USo_ct7pD-0",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-18",
+				"videoDescription": "Dua Lipa Future Nostalgia Tour Tulsa Oklahoma",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "We're Good"
+			}
+		]
+	},
+	{
+		"id": "3723977f-5d68-48e9-8143-974020e0cb9d",
+		"description": "Dua Lipa Future Nostalgia Tour Tulsa Oklahoma",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-17",
+		"dateEvent": "2022-03-17",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/bok-center-tulsa-ok-3893943.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "uueaIrYeX-8",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-18",
+				"videoDescription": "Dua Lipa Future Nostalgia Tour Tulsa Oklahoma",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Good In Bed"
+			}
+		]
+	},
+	{
+		"id": "71176d18-05c5-410b-817a-31ce43c96afd",
+		"description": "Dua Lipa Don’t Start Now Live Future Nostalgia Tour Tulsa 2022 3/17/22",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-17",
+		"dateEvent": "2022-03-17",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/bok-center-tulsa-ok-3893943.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "Yc3J4aZUW50",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-21",
+				"videoDescription": "Dua Lipa Don’t Start Now Live Future Nostalgia Tour Tulsa 2022 3/17/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Don't Start Now"
+			}
+		]
+	},
+	{
+		"id": "e4fa7691-ae51-403e-9750-8d78d0da114d",
+		"description": "Intro/Physical - Dua Lipa, Future Nostalgia Tour (Phoenix, AZ)",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-20",
+		"dateEvent": "2022-03-20",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/footprint-center-phoenix-az-33892081.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "-R7xpQlS4XE",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-23",
+				"videoDescription": "Intro/Physical - Dua Lipa, Future Nostalgia Tour (Phoenix, AZ)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Physical"
+			}
+		]
+	},
+	{
+		"id": "dcdce464-8df7-4f1d-b229-f7a1be31a5dd",
+		"description": "Dua Lipa - Don't Start Now (Future Nostalgia Tour, Live in Phoenix AZ 3/20/22) 4K #100ConcertsIn2022",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-20",
+		"dateEvent": "2022-03-20",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/footprint-center-phoenix-az-33892081.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "8Pr1aVwst3I",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-21",
+				"videoDescription": "Dua Lipa - Don't Start Now (Future Nostalgia Tour, Live in Phoenix AZ 3/20/22) 4K #100ConcertsIn2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Don't Start Now"
+			}
+		]
+	},
+	{
+		"id": "8df6be5f-1db9-4b5e-a2a6-4c94e3ac9842",
+		"description": "Dua Lipa - Levitating (Future Nostalgia Tour, Live in Phoenix, AZ 3/20/22) 4K #100ConcertsIn2022",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-20",
+		"dateEvent": "2022-03-20",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/footprint-center-phoenix-az-33892081.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "aChI8WBWd1g",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-21",
+				"videoDescription": "Dua Lipa - Levitating (Future Nostalgia Tour, Live in Phoenix, AZ 3/20/22) 4K #100ConcertsIn2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "abdcb8d5-12b2-4462-a2b0-4cdf68c7282f",
+		"description": "Be the One - Dua Lipa, Future Nostalgia Tour (Phoenix, AZ)",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-20",
+		"dateEvent": "2022-03-20",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/footprint-center-phoenix-az-33892081.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "BSHf1glBL20",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-23",
+				"videoDescription": "Be the One - Dua Lipa, Future Nostalgia Tour (Phoenix, AZ)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Be The One"
+			}
+		]
+	},
+	{
+		"id": "9eb5ec9f-a17b-43b5-90d4-0e7545fef589",
+		"description": "Dua Lipa One Kiss Live Footprint Center Phoenix, AZ 03/20/22",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-20",
+		"dateEvent": "2022-03-20",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/footprint-center-phoenix-az-33892081.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "cPCay1e9gbk",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-21",
+				"videoDescription": "Dua Lipa One Kiss Live Footprint Center Phoenix, AZ 03/20/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "One Kiss"
+			}
+		]
+	},
+	{
+		"id": "53789a38-290e-4174-96ac-afad651ab90e",
+		"description": "#1 Dua Lipa - Physical (Future Nostalgia Tour, Live in Phoenix, AZ 3/20/22) 4K #100ConcertsIn2022",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-20",
+		"dateEvent": "2022-03-20",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/footprint-center-phoenix-az-33892081.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "Crnsxd2ucg4",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-21",
+				"videoDescription": "#1 Dua Lipa - Physical (Future Nostalgia Tour, Live in Phoenix, AZ 3/20/22) 4K #100ConcertsIn2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Physical"
+			}
+		]
+	},
+	{
+		"id": "c6931dc3-cb71-45b3-be31-45e6b858ca10",
+		"description": "Levitating - Dua Lipa, Future Nostalgia Tour (Phoenix, AZ)",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-20",
+		"dateEvent": "2022-03-20",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/footprint-center-phoenix-az-33892081.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "dei_eh3Zw0g",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-23",
+				"videoDescription": "Levitating - Dua Lipa, Future Nostalgia Tour (Phoenix, AZ)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "7f144b45-2637-4ead-8ad3-77c039bb5d99",
+		"description": "Dua Lipa Levitating Live Footprint Center Phoenix, AZ 03/20/22",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-20",
+		"dateEvent": "2022-03-20",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/footprint-center-phoenix-az-33892081.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "FfV0fVKV0H4",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-21",
+				"videoDescription": "Dua Lipa Levitating Live Footprint Center Phoenix, AZ 03/20/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "e33ee000-4890-4c17-8d5f-e7a833451b71",
+		"description": "Dua Lipa - Physical (Live in Phoenix)",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-20",
+		"dateEvent": "2022-03-20",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/footprint-center-phoenix-az-33892081.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "GQOOibSkdDo",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-22",
+				"videoDescription": "Dua Lipa - Physical (Live in Phoenix)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Physical"
+			}
+		]
+	},
+	{
+		"id": "2549f32c-6d2c-4a30-87a7-43e91d83b558",
+		"description": "Dua Lipa - Break My Heart (Future Nostalgia Tour, Live in Phoenix, AZ 3/20/22) 4K #100ConcertsIn2022",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-20",
+		"dateEvent": "2022-03-20",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/footprint-center-phoenix-az-33892081.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "iwX5nw1k3Wc",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-21",
+				"videoDescription": "Dua Lipa - Break My Heart (Future Nostalgia Tour, Live in Phoenix, AZ 3/20/22) 4K #100ConcertsIn2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Break My Heart"
+			}
+		]
+	},
+	{
+		"id": "f0c18179-b4f8-4305-b934-68e2ec1ed238",
+		"description": "Hallucinate - Dua Lipa, Future Nostalgia Tour (Phoenix, AZ)",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-20",
+		"dateEvent": "2022-03-20",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/footprint-center-phoenix-az-33892081.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "jAzUVxkif-M",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-23",
+				"videoDescription": "Hallucinate - Dua Lipa, Future Nostalgia Tour (Phoenix, AZ)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Hallucinate"
+			}
+		]
+	},
+	{
+		"id": "5b55d4df-1589-4b79-af6f-cfd02a68a082",
+		"description": "Dua Lipa Break My Heart Live Footprint Center Phoenix, AZ 03/20/22",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-20",
+		"dateEvent": "2022-03-20",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/footprint-center-phoenix-az-33892081.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "kAMRXBKvBeg",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-21",
+				"videoDescription": "Dua Lipa Break My Heart Live Footprint Center Phoenix, AZ 03/20/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Break My Heart"
+			}
+		]
+	},
+	{
+		"id": "d09434dd-a576-4ad9-9f7d-0e3f357493b7",
+		"description": "Good In Bed - Dua Lipa, Future Nostalgia Tour (Phoenix, AZ)",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-20",
+		"dateEvent": "2022-03-20",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/footprint-center-phoenix-az-33892081.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "n0XV2c7idLs",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-23",
+				"videoDescription": "Good In Bed - Dua Lipa, Future Nostalgia Tour (Phoenix, AZ)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Good In Bed"
+			}
+		]
+	},
+	{
+		"id": "b7986b2f-de50-4059-8655-4b42af1a297e",
+		"description": "Sweetest Pie - Dua Lipa & Megan Thee Stallion, Future Nostalgia Tour (Phoenix, AZ)",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-20",
+		"dateEvent": "2022-03-20",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/footprint-center-phoenix-az-33892081.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "NdmnKhcsWOA",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-23",
+				"videoDescription": "Sweetest Pie - Dua Lipa & Megan Thee Stallion, Future Nostalgia Tour (Phoenix, AZ)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Sweetest Pie"
+			}
+		]
+	},
+	{
+		"id": "99d9f4ec-8265-418c-9a59-510d600e9e3f",
+		"description": "Dua Lipa - New Rules (Future Nostalgia Tour, Live in Phoenix, AZ 3/20/22) 4K #100ConcertsIn2022",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-20",
+		"dateEvent": "2022-03-20",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/footprint-center-phoenix-az-33892081.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "NWVV7kYqN_M",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-21",
+				"videoDescription": "Dua Lipa - New Rules (Future Nostalgia Tour, Live in Phoenix, AZ 3/20/22) 4K #100ConcertsIn2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "New Rules"
+			}
+		]
+	},
+	{
+		"id": "0e0b6f46-bf6c-4f96-821d-1bd6f175ee6d",
+		"description": "Dua Lipa & Megan Thee Stallion Sweetest Pie Live Footprint Center Phoenix, AZ 03/20/22",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-20",
+		"dateEvent": "2022-03-20",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/footprint-center-phoenix-az-33892081.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "P7HGSoHQcuM",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-21",
+				"videoDescription": "Dua Lipa & Megan Thee Stallion Sweetest Pie Live Footprint Center Phoenix, AZ 03/20/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Sweetest Pie"
+			}
+		]
+	},
+	{
+		"id": "c9d62445-e894-4573-b755-29db73ae684e",
+		"description": "Dua Lipa - One Kiss (Future Nostalgia Your, Live in Phoenix, AZ 3/20/22) 4K #100ConcertsIn2022",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-20",
+		"dateEvent": "2022-03-20",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/footprint-center-phoenix-az-33892081.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "UYIZRPIbZ74",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-21",
+				"videoDescription": "Dua Lipa - One Kiss (Future Nostalgia Your, Live in Phoenix, AZ 3/20/22) 4K #100ConcertsIn2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "One Kiss"
+			}
+		]
+	},
+	{
+		"id": "6b1645b0-552e-42d2-bc31-d8ef60dffa37",
+		"description": "Dua Lipa - Cold Heart (Future Nostalgia Tour, Live in Phoenix, AZ 3/20/22) 4K #100ConcertsIn2022",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-20",
+		"dateEvent": "2022-03-20",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/footprint-center-phoenix-az-33892081.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "X8sHcWbct1A",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-21",
+				"videoDescription": "Dua Lipa - Cold Heart (Future Nostalgia Tour, Live in Phoenix, AZ 3/20/22) 4K #100ConcertsIn2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Cold Heart"
+			}
+		]
+	},
+	{
+		"id": "9aee8fca-7d5d-4c93-b4f3-39cef3191f18",
+		"description": "Dua Lipa Cold Heart Live Footprint Center Phoenix, AZ 03/20/22",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-20",
+		"dateEvent": "2022-03-20",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/footprint-center-phoenix-az-33892081.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "xOmqwCbhdWU",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-21",
+				"videoDescription": "Dua Lipa Cold Heart Live Footprint Center Phoenix, AZ 03/20/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Cold Heart"
+			}
+		]
+	},
+	{
+		"id": "cce05c15-e422-4b7e-b290-1ea3831569d1",
+		"description": "Dua Lipa - Levitating (Live in Phoenix AZ)",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-20",
+		"dateEvent": "2022-03-20",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/footprint-center-phoenix-az-33892081.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "y_5aN98KXTM",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-21",
+				"videoDescription": "Dua Lipa - Levitating (Live in Phoenix AZ)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "c8e90675-0e91-480a-9f67-12f0261dadb3",
+		"description": "Don’t Start Now [Encore] - Dua Lipa, Future Nostalgia Tour (Phoenix, AZ)",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-20",
+		"dateEvent": "2022-03-20",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/footprint-center-phoenix-az-33892081.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "zAHv90rEaT8",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-23",
+				"videoDescription": "Don’t Start Now [Encore] - Dua Lipa, Future Nostalgia Tour (Phoenix, AZ)",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Don't Start Now"
+			}
+		]
+	},
+	{
+		"id": "245e51f1-cce3-4677-863f-d4abe474dac4",
+		"description": "Dua Lipa “Break My Heart” @ The Forum LA 3/22/22",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-22",
+		"dateEvent": "2022-03-22",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/the-forum-inglewood-ca-5b891300.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "16b3y5EJXvs",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-23",
+				"videoDescription": "Dua Lipa “Break My Heart” @ The Forum LA 3/22/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Break My Heart"
+			}
+		]
+	},
+	{
+		"id": "8abadf9b-766e-483f-8cb8-626ddc65e6d6",
+		"description": "Dua Lipa - Electricity (Future Nostalgia Tour) Los Angeles Night 1 Live 3/22/22 #100ConcertsIn2022",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-22",
+		"dateEvent": "2022-03-22",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/the-forum-inglewood-ca-5b891300.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "4H_eSMeUfSs",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-23",
+				"videoDescription": "Dua Lipa - Electricity (Future Nostalgia Tour) Los Angeles Night 1 Live 3/22/22 #100ConcertsIn2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Electricity"
+			}
+		]
+	},
+	{
+		"id": "da421b75-171a-4984-bdd0-ff4cfdff4a56",
+		"description": "Dua Lipa “Good In Bed” @ The Forum LA 3/22/22",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-22",
+		"dateEvent": "2022-03-22",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/the-forum-inglewood-ca-5b891300.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "8Re0FLIDeH8",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-23",
+				"videoDescription": "Dua Lipa “Good In Bed” @ The Forum LA 3/22/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Good In Bed"
+			}
+		]
+	},
+	{
+		"id": "152f1c20-b5e1-46f6-9991-83540bb35328",
+		"description": "Dua Lipa “Fever” @ The Forum LA 3/22/22",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-22",
+		"dateEvent": "2022-03-22",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/the-forum-inglewood-ca-5b891300.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "8W8Fl-xqjao",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-23",
+				"videoDescription": "Dua Lipa “Fever” @ The Forum LA 3/22/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Fever"
+			}
+		]
+	},
+	{
+		"id": "72a3138a-d5b3-4fd5-abca-a21905fa47ae",
+		"description": "Dua Lipa - We're Good (Future Nostalgia Tour) Los Angeles Night 1 Live 3/22/22 #100ConcertsIn2022",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-22",
+		"dateEvent": "2022-03-22",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/the-forum-inglewood-ca-5b891300.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "Be1rdPio8Z8",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-23",
+				"videoDescription": "Dua Lipa - We're Good (Future Nostalgia Tour) Los Angeles Night 1 Live 3/22/22 #100ConcertsIn2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "We're Good"
+			}
+		]
+	},
+	{
+		"id": "cf86832c-d935-4b63-97b0-c8cc499e5e01",
+		"description": "Dua Lipa “Don’t Start Now” @ The Forum LA 3/22/22",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-22",
+		"dateEvent": "2022-03-22",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/the-forum-inglewood-ca-5b891300.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "bhxClNlHLXw",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-23",
+				"videoDescription": "Dua Lipa “Don’t Start Now” @ The Forum LA 3/22/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Don't Start Now"
+			}
+		]
+	},
+	{
+		"id": "ded5df6d-6f17-4b39-ae19-b32058f37e1f",
+		"description": "Dua Lipa “Levitating” @ The Forum LA 3/22/22",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-22",
+		"dateEvent": "2022-03-22",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/the-forum-inglewood-ca-5b891300.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "BTzsrepjmLc",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-23",
+				"videoDescription": "Dua Lipa “Levitating” @ The Forum LA 3/22/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "093b2c98-4eef-40a5-be84-bb7f9139e570",
+		"description": "Dua Lipa - Good in Bed live The Forum, Inglewood, Los Angeles, CA 3-22-2022",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-22",
+		"dateEvent": "2022-03-22",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/the-forum-inglewood-ca-5b891300.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "eJypGUgq_8s",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-23",
+				"videoDescription": "Dua Lipa - Good in Bed live The Forum, Inglewood, Los Angeles, CA 3-22-2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Good In Bed"
+			}
+		]
+	},
+	{
+		"id": "9f949d97-def1-4c78-b69a-d722a2847962",
+		"description": "Dua Lipa “Pretty Please” @ The Forum LA 3/22/22",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-22",
+		"dateEvent": "2022-03-22",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/the-forum-inglewood-ca-5b891300.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "fBp753aHfVo",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-23",
+				"videoDescription": "Dua Lipa “Pretty Please” @ The Forum LA 3/22/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Pretty Please"
+			}
+		]
+	},
+	{
+		"id": "6dde955b-0c8c-468a-a446-151a8e7bba2b",
+		"description": "Dua Lipa “Hallucinate” @ The Forum LA 3/22/22",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-22",
+		"dateEvent": "2022-03-22",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/the-forum-inglewood-ca-5b891300.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "frhEC4RpSlU",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-23",
+				"videoDescription": "Dua Lipa “Hallucinate” @ The Forum LA 3/22/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Hallucinate"
+			}
+		]
+	},
+	{
+		"id": "29d01297-41d7-4329-b1ec-1381401152f3",
+		"description": "#3 Dua Lipa - Be The One (Future Nostalgia Tour) Los Angeles Night 1 Live 3/22/22 #100ConcertsIn2022",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-22",
+		"dateEvent": "2022-03-22",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/the-forum-inglewood-ca-5b891300.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "fXBw_DEyGqY",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-23",
+				"videoDescription": "#3 Dua Lipa - Be The One (Future Nostalgia Tour) Los Angeles Night 1 Live 3/22/22 #100ConcertsIn2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Be The One"
+			}
+		]
+	},
+	{
+		"id": "58a2b2a8-8b90-4cf3-acd6-71bacc7570a8",
+		"description": "Dua Lipa “Boys Will Be Boys” @ The Forum LA 3/22/22",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-22",
+		"dateEvent": "2022-03-22",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/the-forum-inglewood-ca-5b891300.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "G7yHy5y1jD4",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-23",
+				"videoDescription": "Dua Lipa “Boys Will Be Boys” @ The Forum LA 3/22/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Boys Will Be Boys"
+			}
+		]
+	},
+	{
+		"id": "ff516dd9-6c49-4254-a494-2a39f43a404e",
+		"description": "Dua Lipa “We’re Good” @ The Forum LA 3/22/22",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-22",
+		"dateEvent": "2022-03-22",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/the-forum-inglewood-ca-5b891300.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "KZPJXXQikk0",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-23",
+				"videoDescription": "Dua Lipa “We’re Good” @ The Forum LA 3/22/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "We're Good"
+			}
+		]
+	},
+	{
+		"id": "4d6c38ca-2ce7-4d61-9cce-2e40ac4a66a1",
+		"description": "Dua Lipa “Cold Heart” @ The Forum LA 3/22/22",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-22",
+		"dateEvent": "2022-03-22",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/the-forum-inglewood-ca-5b891300.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "LPhsGRYPTIM",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-23",
+				"videoDescription": "Dua Lipa “Cold Heart” @ The Forum LA 3/22/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Cold Heart"
+			}
+		]
+	},
+	{
+		"id": "01f48e0c-367e-486a-9545-77d2565379b0",
+		"description": "Dua Lipa “Physical” @ The Forum LA 3/22/22",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-22",
+		"dateEvent": "2022-03-22",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/the-forum-inglewood-ca-5b891300.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "MDoNcb3OUqI",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-23",
+				"videoDescription": "Dua Lipa “Physical” @ The Forum LA 3/22/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Physical"
+			}
+		]
+	},
+	{
+		"id": "a46fb3ba-52c5-47cc-bdb2-84e5ea98e305",
+		"description": "Dua Lipa - Levitating (Future Nostalgia Tour) Los Angeles Night 1 Live 3/22/22 #100ConcertsIn2022",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-22",
+		"dateEvent": "2022-03-22",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/the-forum-inglewood-ca-5b891300.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "mx6qkioXsDk",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-23",
+				"videoDescription": "Dua Lipa - Levitating (Future Nostalgia Tour) Los Angeles Night 1 Live 3/22/22 #100ConcertsIn2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Levitating"
+			}
+		]
+	},
+	{
+		"id": "fb39b0ef-fc7d-41a8-ac60-150c6125366e",
+		"description": "Dua Lipa “Future Nostalgia” @ The Forum LA 3/22/22",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-22",
+		"dateEvent": "2022-03-22",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/the-forum-inglewood-ca-5b891300.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "OLE44qlTeas",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-23",
+				"videoDescription": "Dua Lipa “Future Nostalgia” @ The Forum LA 3/22/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Future Nostalgia"
+			}
+		]
+	},
+	{
+		"id": "0944bd41-19c4-41a3-90c6-0ce121440aed",
+		"description": "Dua Lipa “Love Again” @ The Forum LA 3/22/22",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-22",
+		"dateEvent": "2022-03-22",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/the-forum-inglewood-ca-5b891300.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "pMPUuW2t_MY",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-23",
+				"videoDescription": "Dua Lipa “Love Again” @ The Forum LA 3/22/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Love Again"
+			}
+		]
+	},
+	{
+		"id": "b86c365e-91ff-4f31-8be7-004087c83b89",
+		"description": "Dua Lipa “One Kiss/Electricity” @ The Forum LA 3/22/22",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-22",
+		"dateEvent": "2022-03-22",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/the-forum-inglewood-ca-5b891300.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "q-TsJEgfi8k",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-23",
+				"videoDescription": "Dua Lipa “One Kiss/Electricity” @ The Forum LA 3/22/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "One Kiss"
+			},
+			{
+				"song": "Electricity"
+			}
+		]
+	},
+	{
+		"id": "be60c96f-db5d-4edb-834a-2b63e395a4a5",
+		"description": "Dua Lipa “Be The One” @ The Forum LA 3/22/22",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-22",
+		"dateEvent": "2022-03-22",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/the-forum-inglewood-ca-5b891300.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "TnPjSATw7Do",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-23",
+				"videoDescription": "Dua Lipa “Be The One” @ The Forum LA 3/22/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Be The One"
+			}
+		]
+	},
+	{
+		"id": "fd348f8d-f226-4180-b46a-a6932afada63",
+		"description": "Dua Lipa “Cool” @ The Forum LA 3/22/22",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-22",
+		"dateEvent": "2022-03-22",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/the-forum-inglewood-ca-5b891300.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "Vn00mbz-oTA",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-23",
+				"videoDescription": "Dua Lipa “Cool” @ The Forum LA 3/22/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Cool"
+			}
+		]
+	},
+	{
+		"id": "b31d9cca-4f92-490c-b421-674fb49dc823",
+		"description": "Dua Lipa “New Rules” @ The Forum LA 3/22/22",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-22",
+		"dateEvent": "2022-03-22",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/the-forum-inglewood-ca-5b891300.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "VS4HDpNldHI",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-23",
+				"videoDescription": "Dua Lipa “New Rules” @ The Forum LA 3/22/22",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "New Rules"
+			}
+		]
+	},
+	{
+		"id": "68eb329d-7b33-4d58-895f-ac3ca15ad0f6",
+		"description": "Dua Lipa - Be the One live The Forum, Inglewood, Los Angeles, CA 3-22-2022",
+		"dateDatabase": "03/25/2022",
+		"dateSort": "2022-03-22",
+		"dateEvent": "2022-03-22",
+		"sourceForDateOfEvent": [
+			{
+				"sourceDescription": "www.setlist.fm",
+				"sourceLink": "https://www.setlist.fm/setlist/dua-lipa/2022/the-forum-inglewood-ca-5b891300.html"
+			}
+		],
+		"videos": [
+			{
+				"source": "youtube",
+				"videoId": "ynpOqj-J9dQ",
+				"videoImage": "",
+				"views": "",
+				"dateUpload": "2022-03-23",
+				"videoDescription": "Dua Lipa - Be the One live The Forum, Inglewood, Los Angeles, CA 3-22-2022",
+				"videoComments": ""
+			}
+		],
+		"categories": [
+			{
+				"category": "Concert"
+			}
+		],
+		"songs": [
+			{
+				"song": "Be The One"
 			}
 		]
 	}

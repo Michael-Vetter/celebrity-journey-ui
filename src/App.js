@@ -2,12 +2,15 @@ import ReactRouterSetup from "./Components/router";
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import Logger from "./Components/logger";
+import GetCalendarBody from "./Components/getCalendarBody";
+import { parseISO } from "date-fns";
 
 let data = require("./Data/dualipa.json");
 let cats = require("./Data/categories.json");
 let songs = require("./Data/songs.json");
 
 function App() {
+  const [adminAccount, setAdminAccount] = useState("wherewasdualipa"); //wherewasdualipa
   const [showEventModal, setShowEventModal] = useState(false);
   const [eventDate, setEventDate] = useState("9999-88-77");
   const [videos, setVideos] = useState([]);
@@ -19,7 +22,22 @@ function App() {
     new Array(songs.length).fill(false)
   );
   const [ip, setIP] = useState("");
+  const [calendarNavData, setCalendarNavData] = useState({
+    Loading: {
+      label: "Loading...",
+      index: 0,
+      nodes: {},
+    },
+  });
+  const [calendarBody, setCalendarBody] = useState([
+    {
+      title: "BBC Music Sound Of 2016 (Video count: 1)",
+      date: parseISO("2016-01-03"),
+    },
+  ]);
   //const [ipCount, setIpCount] = useState(0);
+
+  const [currentCalKey, setCurrentCalKey] = useState("2016/January");
 
   const getData = async () => {
     const res = await axios.get("https://geolocation-db.com/json/");
@@ -31,6 +49,10 @@ function App() {
     // }
     setIP(res.data);
   };
+
+  useEffect(() => {
+    GetCalendarBody("2016/January", setCalendarBody);
+  }, []);
 
   useEffect(() => {
     data.sort((a, b) => Date.parse(a.dateSort) - Date.parse(b.dateSort));
@@ -57,6 +79,14 @@ function App() {
       songsState={songsState}
       setSongsState={setSongsState}
       ip={ip}
+      calendarNavData={calendarNavData}
+      setCalendarNavData={setCalendarNavData}
+      calendarBody={calendarBody}
+      setCalendarBody={setCalendarBody}
+      currentCalKey={currentCalKey}
+      setCurrentCalKey={setCurrentCalKey}
+      adminAccount={adminAccount}
+      setAdminAccount={setAdminAccount}
     />
   );
 }

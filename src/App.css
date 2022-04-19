@@ -12,6 +12,14 @@
   }
 }
 
+.dropbox {
+  text-align: center;
+  padding: 20px;
+  width: 90%;
+  margin: auto;
+  margin-top: 50px;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -59,4 +67,44 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.mdc-event,
+.mdc-day-slot .mdc-background-event {
+  border: none;
+  box-sizing: border-box;
+  box-shadow: none;
+  margin: 0;
+  padding: 2px 5px;
+  background-color: #3174ad;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+}
+
+.mdc-ellipsis,
+.mdc-show-more,
+.mdc-row-segment .mdc-event-content,
+.mdc-event-label {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.mdc-event.mdc-selected,
+.mdc-day-slot .mdc-selected.mdc-background-event {
+  background-color: #265985;
+}
+
+.mdc-time-view .mdc-allday-events {
+  position: relative;
+  z-index: 4;
+}
+
+.rc-cursor-pointer {
+  cursor: default;
+  color: transparent;
 }

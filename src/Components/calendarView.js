@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useCallback, useState } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Accordion } from "semantic-ui-react";
 import { Row, Col } from "react-bootstrap";
@@ -6,10 +6,16 @@ import { Calendar, momentLocalizer } from "react-big-calendar";
 import moment from "moment";
 import "../react-big-calendar.css";
 import EventItems from "./eventItems";
+import DropBox from "./dropbox";
+//import { uploadToS3 } from "./upload-file";
 
 //https://medium.com/nerd-for-tech/making-a-nested-accordion-in-react-from-json-7d307b038f84#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6ImNhMDA2MjBjNWFhN2JlOGNkMDNhNmYzYzY4NDA2ZTQ1ZTkzYjNjYWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJuYmYiOjE2NDI0NjM5MzQsImF1ZCI6IjIxNjI5NjAzNTgzNC1rMWs2cWUwNjBzMnRwMmEyamFtNGxqZGNtczAwc3R0Zy5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsInN1YiI6IjEwMzk4MzU3MTI5OTc4MTU0MTY1MSIsImVtYWlsIjoibWljaGFlbHNjb3R0dmV0dGVyQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhenAiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJuYW1lIjoiTm9SYWluSW5NeUNsb3VkIiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hL0FBVFhBSnpBbkp1UmhJRzh2cDR2Yk8zaE1JQU1KdUtwQ2NYbndodkRjLUU9czk2LWMiLCJnaXZlbl9uYW1lIjoiTm9SYWluSW5NeUNsb3VkIiwiaWF0IjoxNjQyNDY0MjM0LCJleHAiOjE2NDI0Njc4MzQsImp0aSI6ImQ1ZjU0NjYwYzg2YmU1MzA5MDY3ZTAwN2JkOTI4ZjcwMWNlYjhmMzgifQ.uXASX11g2KgX6l6GVKDPyP-vA7y71AMnbP5HuYuLuQaF279C2bOVL4Et_itphaonO7JCoSPgtMk5nAvGhSdMaCE-W0VpnYwJheZfdpBke3bClCKnEpKqfyDGo8Fu5n5lv1sJHNjtmDRnziQhPRM5G0f5hJCJddUTuwLBV75mlrrkiZfqMdbjcFSVP0Q6Vg-CFEw0zFFdgJhXaoB3xOIMC40UZWeNe3r_24aFZXcwz8J3w3wQxkwviSXqQNfy17c-kS_bOIFX7Xh_8VQ24Jwv3XGGicYLTZsNppMH9YVjdVspsEkHwZqqNRmkWWxyCmcK1VmHU2rJNM3RNqkZJtpCJQ
 //https://www.npmjs.com/package/react-big-calendar
+
+//replacement? https://reactjsexample.com/simple-and-flexible-events-calendar-written-in-react/
+
 const localizer = momentLocalizer(moment);
+
 //console.log("localizer", localizer);
 const styleLink = document.createElement("link");
 styleLink.rel = "stylesheet";
@@ -35,6 +41,38 @@ const CalendarView = (props) => {
     "November",
     "December",
   ];
+
+  const [images, setImages] = useState([]);
+
+  if (images === undefined) console.log("referencing images to avoid warning");
+
+  const doUpload = async (file) => {
+    const fileName = file.name;
+    const fileType = file.type;
+    const fileContents = file;
+    if (fileName && fileType && fileContents) {
+      console.log("GotHere");
+      //const filePath = await uploadToS3({ fileName, fileType, fileContents });
+    }
+  };
+
+  const onDrop = useCallback((acceptedFiles) => {
+    acceptedFiles.map((file, index) => {
+      const reader = new FileReader();
+      reader.onload = function (e) {
+        console.log("reader onload", JSON.stringify(e.target));
+        setImages((prevState) => [
+          ...prevState,
+          { id: index, src: e.target.result },
+        ]);
+      };
+      reader.readAsDataURL(file);
+      doUpload(file);
+      //uploadToS3(file.name, file.type, file);
+      return file;
+    });
+  }, []);
+
   function videoCountYear(year) {
     return data.filter((_) => _.dateSort.indexOf(year) >= 0).length;
   }
@@ -152,7 +190,7 @@ const CalendarView = (props) => {
               event date.
             </h4>
             <h4>Current Video Count: {data.length}</h4>
-
+            <DropBox onDrop={onDrop} />
             <div>{accordify(eventData)}</div>
           </Col>
           {/* <Col sm={0} lg={0} xl={1}></Col> */}

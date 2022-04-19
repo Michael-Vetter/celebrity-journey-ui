@@ -2,17 +2,17 @@ import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Tab from "react-bootstrap/Tab";
 import Tabs from "react-bootstrap/Tabs";
-import CalendarView from "./calendarView";
 import DuaLipa from "./duaLipa";
 import { Container, Row, Col } from "react-bootstrap";
+import CalendarView2 from "./calendarView2";
 
 const MainTab = (props) => {
   return (
     <div>
       <Container fluid>
         <Row>
-          <Col sm={0} lg={0} xl={1}></Col>
-          <Col sm={12} lg={12} xl={10}>
+          <Col sm={0} lg={0} xl={0}></Col>
+          <Col sm={12} lg={12} xl={12}>
             <h1>Dua Lipa Fan Site</h1>
             <h3>
               This site lists most Youtube videos showing performances,
@@ -30,19 +30,31 @@ const MainTab = (props) => {
               Instagram)
             </h4>
             <Tabs
-              defaultActiveKey="Calendar"
+              defaultActiveKey="Calendar2"
               id="uncontrolled-tab-example"
               className="mb-3"
               mountOnEnter={true}
             >
-              <Tab eventKey="Calendar" title="Calendar View">
+              <Tab eventKey="Calendar2" title="Calendar View 2">
+                <CalendarView2
+                  calendarNavData={props.calendarNavData}
+                  setCalendarNavData={props.setCalendarNavData}
+                  currentCalKey={props.currentCalKey}
+                  setCurrentCalKey={props.setCurrentCalKey}
+                  calendarBody={props.calendarBody}
+                  setCalendarBody={props.setCalendarBody}
+                  adminAccount={props.adminAccount}
+                  setAdminAccount={props.setAdminAccount}
+                />
+              </Tab>
+              {/* <Tab eventKey="Calendar" title="Calendar View">
                 <CalendarView
                   showEventModal={props.showEventModal}
                   setShowEventModal={props.setShowEventModal}
                   eventDate={props.eventDate}
                   setEventDate={props.setEventDate}
                 />
-              </Tab>
+              </Tab> */}
               <Tab eventKey="All Videos" title="All Videos">
                 <DuaLipa
                   videos={props.videos}
@@ -57,7 +69,7 @@ const MainTab = (props) => {
               </Tab>
             </Tabs>
           </Col>
-          <Col sm={0} lg={0} xl={1}></Col>
+          <Col sm={0} lg={0} xl={0}></Col>
         </Row>
       </Container>
     </div>

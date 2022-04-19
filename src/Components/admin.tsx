@@ -19,8 +19,8 @@ const Admin: React.FC = () => {
 
     try {
       if (fileName && fileType && fileContents) {
-        const filePath = await uploadToS3({ fileName, fileType, fileContents });
-        setS3FileUrl(`${S3_BUCKET_URL}/${filePath}`);
+        //const filePath = await uploadToS3({ fileName, fileType, fileContents });
+        //setS3FileUrl(`${S3_BUCKET_URL}/${filePath}`);
         //console.log("filePath is", filePath);
         fileDispatch({ type: "RESET_FILE_STATE" });
       }

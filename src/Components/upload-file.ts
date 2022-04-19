@@ -5,14 +5,33 @@ export async function uploadToS3({
   fileName,
   fileType,
   fileContents,
+  adminAccount,
+  fileDate,
+  source,
 }: {
   fileName: string;
   fileType: string;
   fileContents: File;
+  adminAccount: string;
+  fileDate: string;
+  source: string;
 }) {
-  //todo turn on wait; put in try-catch?
-  const presignedPostUrl = await getPresignedPostUrl(fileName, fileType);
+  console.log("uploadToS3 fileName", fileName);
+  console.log("uploadToS3 fileType", fileType);
+  //console.log("uploadToS3 fileContents", fileContents);
+  console.log("uploadToS3 adminAccount", adminAccount);
+  console.log("uploadToS3 fileDate", fileDate);
+  console.log("uploadToS3 source", source);
 
+  //todo turn on wait; put in try-catch?
+  const presignedPostUrl = await getPresignedPostUrl(
+    fileName,
+    fileType,
+    adminAccount,
+    fileDate,
+    source
+  );
+  console.log("presignedPostUrl", presignedPostUrl);
   fetch(presignedPostUrl.url, {
     method: "PUT",
     headers: {
@@ -44,9 +63,15 @@ type PresignedPostUrlResponse = {
 
 const GET_PRESIGNED_URL_API_PATH = "api/uploadurl";
 
-async function getPresignedPostUrl(fileName: string, fileType: string) {
+async function getPresignedPostUrl(
+  fileName: string,
+  fileType: string,
+  adminAccount: string,
+  fileDate: string,
+  source: string
+) {
   const { data: presignedPostUrl } = await axios.get<PresignedPostUrlResponse>(
-    `${API_BASE_URL}/${GET_PRESIGNED_URL_API_PATH}/${fileName}?fileType=${fileType}`
+    `${API_BASE_URL}/${GET_PRESIGNED_URL_API_PATH}/${fileName}?fileType=${fileType}&fileDate=${fileDate}&source=${source}&account=${adminAccount}`
   );
 
   return presignedPostUrl;

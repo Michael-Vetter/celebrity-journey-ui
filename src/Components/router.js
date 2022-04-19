@@ -32,6 +32,14 @@ const ReactRouterSetup = (props) => {
               ip={props.ip}
               ipCount={props.ipCount}
               setIpCount={props.setIpCount}
+              calendarNavData={props.calendarNavData}
+              setCalendarNavData={props.setCalendarNavData}
+              currentCalKey={props.currentCalKey}
+              setCurrentCalKey={props.setCurrentCalKey}
+              calendarBody={props.calendarBody}
+              setCalendarBody={props.setCalendarBody}
+              adminAccount={props.adminAccount}
+              setAdminAccount={props.setAdminAccount}
             />
           }
         />

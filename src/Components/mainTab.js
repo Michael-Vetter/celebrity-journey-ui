@@ -45,6 +45,12 @@ const MainTab = (props) => {
                   setCalendarBody={props.setCalendarBody}
                   adminAccount={props.adminAccount}
                   setAdminAccount={props.setAdminAccount}
+                  showEventForm={props.showEventForm}
+                  setShowEventForm={props.setShowEventForm}
+                  popUpMessage={props.popUpMessage}
+                  setPopUpMessage={props.setPopUpMessage}
+                  showPopUp={props.showPopUp}
+                  setShowPopUp={props.setShowPopUp}
                 />
               </Tab>
               {/* <Tab eventKey="Calendar" title="Calendar View">

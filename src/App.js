@@ -12,9 +12,12 @@ let songs = require("./Data/songs.json");
 function App() {
   const [adminAccount, setAdminAccount] = useState("wherewasdualipa"); //wherewasdualipa
   const [showEventModal, setShowEventModal] = useState(false);
+  const [showEventForm, setShowEventForm] = useState(false);
   const [eventDate, setEventDate] = useState("9999-88-77");
   const [videos, setVideos] = useState([]);
   const [showFilters, setShowFilters] = useState(false);
+  const [popUpMessage, setPopUpMessage] = useState("");
+  const [showPopUp, setShowPopUp] = useState(false);
   const [categoriesState, setCategoriesState] = useState(
     new Array(cats.length).fill(false)
   );
@@ -87,6 +90,12 @@ function App() {
       setCurrentCalKey={setCurrentCalKey}
       adminAccount={adminAccount}
       setAdminAccount={setAdminAccount}
+      showEventForm={showEventForm}
+      setShowEventForm={setShowEventForm}
+      popUpMessage={popUpMessage}
+      setPopUpMessage={setPopUpMessage}
+      showPopUp={showPopUp}
+      setShowPopUp={setShowPopUp}
     />
   );
 }

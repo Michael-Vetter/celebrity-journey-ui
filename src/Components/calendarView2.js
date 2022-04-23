@@ -30,6 +30,13 @@ const CalendarView2 = (props) => {
               setCurrentCalKey={props.setCurrentCalKey}
               calendarBody={props.calendarBody}
               setCalendarBody={props.setCalendarBody}
+              adminAccount={props.adminAccount}
+              showEventForm={props.showEventForm}
+              setShowEventForm={props.setShowEventForm}
+              popUpMessage={props.popUpMessage}
+              setPopUpMessage={props.setPopUpMessage}
+              showPopUp={props.showPopUp}
+              setShowPopUp={props.setShowPopUp}
             ></CalendarView2Nav>
           </Col>
           <Col sm={10} lg={10} xl={11} className="border">

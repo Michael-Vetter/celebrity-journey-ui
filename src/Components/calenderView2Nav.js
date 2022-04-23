@@ -1,8 +1,11 @@
-import React from "react";
+import React, { useState } from "react";
 import { ListGroupItem, ListGroup } from "reactstrap";
 import TreeMenu from "react-simple-tree-menu";
 import "../../node_modules/react-simple-tree-menu/dist/main.css";
 import GetCalendarBody from "./getCalendarBody";
+import { Button } from "react-bootstrap";
+import AddEventForm from "./addEventForm";
+import PopUpMessage from "./popUpMessage";
 
 //https://github.com/iannbing/react-simple-tree-menu/blob/master/stories/index.stories.js
 
@@ -51,36 +54,62 @@ const CalendarView2Nav = (myProps) => {
     </ListGroupItem>
   );
 
+  const popUpClose = function () {
+    GetCalendarBody(myProps.currentCalKey, myProps.setCalendarBody);
+  };
+
   return (
-    <TreeMenu
-      data={myProps.calendarNavData}
-      onClickItem={({ key, label, ...props }) => {
-        myProps.setCurrentCalKey(key);
-        if (key.indexOf("/") >= 0) {
-          GetCalendarBody(key, myProps.setCalendarBody);
-        }
-        //this.navigate(props.url); // user defined prop
-      }}
-      initialActiveKey={myProps.currentCalKey} // the path to the active node
-      debounceTime={125}
-    >
-      {({ search, items }) => (
-        <>
-          {/* <Input
+    <div>
+      <div hidden={myProps.adminAccount.length === 0}>
+        <Button
+          className="d-grid gap-2"
+          onClick={() => myProps.setShowEventForm(true)}
+        >
+          Add Event
+        </Button>
+        <AddEventForm
+          showEventForm={myProps.showEventForm}
+          setShowEventForm={myProps.setShowEventForm}
+          setPopUpMessage={myProps.setPopUpMessage}
+          setShowPopUp={myProps.setShowPopUp}
+        />
+      </div>
+      <PopUpMessage
+        message={myProps.popUpMessage}
+        showFlag={myProps.showPopUp}
+        setShowFlag={myProps.setShowPopUp}
+        callback={popUpClose}
+      />
+      <TreeMenu
+        data={myProps.calendarNavData}
+        onClickItem={({ key, label, ...props }) => {
+          myProps.setCurrentCalKey(key);
+          if (key.indexOf("/") >= 0) {
+            GetCalendarBody(key, myProps.setCalendarBody);
+          }
+          //this.navigate(props.url); // user defined prop
+        }}
+        initialActiveKey={myProps.currentCalKey} // the path to the active node
+        debounceTime={125}
+      >
+        {({ search, items }) => (
+          <>
+            {/* <Input
             onChange={(e) => search(e.target.value)}
             placeholder="Type and search"
           /> */}
-          <ListGroup>
-            {items.map((props) => (
-              // You might need to wrap the third-party component to consume the props
-              // check the story as an example
-              // https://github.com/iannbing/react-simple-tree-menu/blob/master/stories/index.stories.js
-              <ListItem {...props} />
-            ))}
-          </ListGroup>
-        </>
-      )}
-    </TreeMenu>
+            <ListGroup>
+              {items.map((props) => (
+                // You might need to wrap the third-party component to consume the props
+                // check the story as an example
+                // https://github.com/iannbing/react-simple-tree-menu/blob/master/stories/index.stories.js
+                <ListItem {...props} />
+              ))}
+            </ListGroup>
+          </>
+        )}
+      </TreeMenu>
+    </div>
   );
 };
 

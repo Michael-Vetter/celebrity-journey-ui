@@ -1,4 +1,3 @@
-import React, { useState } from "react";
 import { useDropzone } from "react-dropzone";
 import styled from "styled-components";
 //import { uploadToS3 } from "./upload-file";
@@ -50,11 +49,11 @@ function DropBox({ onDrop, myDate }) {
     noKeyboard: true,
   });
   //const [imageSent, setImageSent] = useState([]);
-  const lists = acceptedFiles.map((list) => (
-    <li key={list.path}>
-      {list.path} - {list.size} bytes
-    </li>
-  ));
+  // const lists = acceptedFiles.map((list) => (
+  //   <li key={list.path}>
+  //     {list.path} - {list.size} bytes
+  //   </li>
+  // ));
 
   return (
     <>

@@ -13,7 +13,7 @@ import GetCalendarBody from "./getCalendarBody";
 const CalendarView2 = (props) => {
   useEffect(() => {
     //passing getData method to the lifecycle method
-    console.log("CalendarView2 useEffect", props.currentCalKey);
+    //console.log("CalendarView2 useEffect", props.currentCalKey);
     GetCalendarNav(props.setCalendarNavData);
     GetCalendarBody(props.currentCalKey, props.setCalendarBody);
   }, []);

@@ -1,11 +1,7 @@
 import React from "react";
-// react router
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-// pages
 import Home from "./home";
-//import DuaLipa from "./duaLipa";
 import MainTab from "./mainTab";
-import Admin from "./admin";
 
 const ReactRouterSetup = (props) => {
   return (
@@ -49,7 +45,6 @@ const ReactRouterSetup = (props) => {
             />
           }
         />
-        <Route path="/admin" element={<Admin />} />
       </Routes>
     </Router>
   );

@@ -24,7 +24,7 @@ function GetCalendarBody(calendarNavData, setCalendarBody) {
   fetch(eventUrl, requestOptions)
     .then(CheckError)
     .then((data) => {
-      console.log("GetCalendarBody data", data);
+      //console.log("GetCalendarBody data", data);
       let newEvents = [] as EventType[];
       data.events.map((_) => {
         let newEvent: EventType = { title: _.title, date: parseISO(_.date) };

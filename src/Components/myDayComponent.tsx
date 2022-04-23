@@ -18,8 +18,7 @@ export default function MyDayComponent(props: DefaultEventItemProps) {
     const fileDate: string = props.date;
     const source: string = "instagram";
     if (fileName && fileType && fileContents && props.adminAccount) {
-      console.log("GotHere");
-      const filePath = await uploadToS3({
+      await uploadToS3({
         fileName,
         fileType,
         fileContents,

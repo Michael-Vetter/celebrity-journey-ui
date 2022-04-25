@@ -13,6 +13,8 @@ const CalendarView2Nav = (myProps) => {
   const ICON_SIZE = 8;
   const LEVEL_SPACE = 16;
 
+  console.log("myProps.calendarNavData", myProps.calendarNavData);
+
   const ToggleIcon = ({ on }) => (
     <span style={{ marginRight: 8 }}>{on ? "-" : "+"}</span>
   );
@@ -89,6 +91,7 @@ const CalendarView2Nav = (myProps) => {
           //this.navigate(props.url); // user defined prop
         }}
         initialActiveKey={myProps.currentCalKey} // the path to the active node
+        initialOpenNodes={myProps.calendarNavData["2016"]}
         debounceTime={125}
       >
         {({ search, items }) => (

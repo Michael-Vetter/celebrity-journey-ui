@@ -2,7 +2,7 @@ import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Tab from "react-bootstrap/Tab";
 import Tabs from "react-bootstrap/Tabs";
-import DuaLipa from "./duaLipa";
+import DuaLipa2 from "./duaLipa2";
 import { Container, Row, Col } from "react-bootstrap";
 import CalendarView2 from "./calendarView2";
 
@@ -62,9 +62,9 @@ const MainTab = (props) => {
                 />
               </Tab> */}
               <Tab eventKey="All Videos" title="All Videos">
-                <DuaLipa
-                  videos={props.videos}
-                  setVideos={props.setVideos}
+                <DuaLipa2
+                  // videos={props.videos}
+                  // setVideos={props.setVideos}
                   showFilters={props.showFilters}
                   setShowFilters={props.setShowFilters}
                   categoriesState={props.categoriesState}

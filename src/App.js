@@ -5,7 +5,7 @@ import Logger from "./Components/logger";
 import GetCalendarBody from "./Components/getCalendarBody";
 import { parseISO } from "date-fns";
 
-let data = require("./Data/dualipa.json");
+//let data = require("./Data/dualipa.json");
 let cats = require("./Data/categories.json");
 let songs = require("./Data/songs.json");
 
@@ -14,7 +14,7 @@ function App() {
   const [showEventModal, setShowEventModal] = useState(false);
   const [showEventForm, setShowEventForm] = useState(false);
   const [eventDate, setEventDate] = useState("9999-88-77");
-  const [videos, setVideos] = useState([]);
+  //const [videos, setVideos] = useState([]);
   const [showFilters, setShowFilters] = useState(false);
   const [popUpMessage, setPopUpMessage] = useState("");
   const [showPopUp, setShowPopUp] = useState(false);
@@ -57,10 +57,10 @@ function App() {
     GetCalendarBody("2016/January", setCalendarBody);
   }, []);
 
-  useEffect(() => {
-    data.sort((a, b) => Date.parse(a.dateSort) - Date.parse(b.dateSort));
-    setVideos(data);
-  }, []);
+  // useEffect(() => {
+  //   data.sort((a, b) => Date.parse(a.dateSort) - Date.parse(b.dateSort));
+  //   setVideos(data);
+  // }, []);
 
   useEffect(() => {
     //passing getData method to the lifecycle method
@@ -73,8 +73,8 @@ function App() {
       setShowEventModal={setShowEventModal}
       eventDate={eventDate}
       setEventDate={setEventDate}
-      videos={videos}
-      setVideos={setVideos}
+      //videos={videos}
+      //setVideos={setVideos}
       showFilters={showFilters}
       setShowFilters={setShowFilters}
       categoriesState={categoriesState}

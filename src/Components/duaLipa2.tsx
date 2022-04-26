@@ -46,7 +46,7 @@ const DuaLipa2 = (props) => {
   };
 
   const handleOnCatChange = (position) => {
-    console.log("handleOnCatChange");
+    console.log("handleOnCatChange", position);
     const updatedCheckedState = props.categoriesState.map((item, index) =>
       index === position ? !item : item
     );
@@ -54,7 +54,7 @@ const DuaLipa2 = (props) => {
     props.setCategoriesState(updatedCheckedState);
   };
   const handleOnSongChange = (position) => {
-    console.log("handleOnSongChange");
+    console.log("handleOnSongChange", position);
     const updatedCheckedState = props.songsState.map((item, index) =>
       index === position ? !item : item
     );
@@ -82,10 +82,10 @@ const DuaLipa2 = (props) => {
                 <div className="filterContainer">
                   {cats.map(({ name }, index) => {
                     return (
-                      <div key={`custom-checkbox-${index}`}>
+                      <div key={`custom-checkbox-cat-${index}`}>
                         <Form.Check
                           type="checkbox"
-                          id={`custom-checkbox-${index}`}
+                          id={`custom-checkbox-cat-${index}`}
                           name={name}
                           label={name}
                           checked={props.categoriesState[index]}
@@ -99,10 +99,10 @@ const DuaLipa2 = (props) => {
                 <div className="filterContainer">
                   {songs.map(({ name }, index) => {
                     return (
-                      <div key={`custom-checkbox-${index}`}>
+                      <div key={`custom-checkbox-song-${index}`}>
                         <Form.Check
                           type="checkbox"
-                          id={`custom-checkbox-${index}`}
+                          id={`custom-checkbox-song-${index}`}
                           name={name}
                           label={name}
                           checked={props.songsState[index]}

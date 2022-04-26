@@ -17,8 +17,8 @@ const ReactRouterSetup = (props) => {
               setShowEventModal={props.setShowEventModal}
               eventDate={props.eventDate}
               setEventDate={props.setEventDate}
-              videos={props.videos}
-              setVideos={props.setVideos}
+              //videos={props.videos}
+              //setVideos={props.setVideos}
               showFilters={props.showFilters}
               setShowFilters={props.setShowFilters}
               categoriesState={props.categoriesState}

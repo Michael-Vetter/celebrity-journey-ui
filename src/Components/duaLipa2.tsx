@@ -3,6 +3,7 @@ import RecordHeader2 from "./recordHeader2";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Button, Offcanvas, Form } from "react-bootstrap";
 import GetVideosWithFilter from "./getVideosWithFilter";
+import Image from "react-bootstrap/Image";
 
 //let data = require("../Data/dualipa.json");
 let cats = require("../Data/categories.json");
@@ -14,14 +15,16 @@ const DuaLipa2 = (props) => {
   const handleShow = () => props.setShowFilters(true);
 
   const [videoData, setVideoData] = useState([]);
+  const [videosLoading, setVideosLoading] = useState(true);
 
   useEffect(() => {
     //passing getData method to the lifecycle method
-    GetVideosWithFilter(setVideoData, "", "");
+    GetVideosWithFilter(setVideoData, "", "", setVideosLoading);
   }, []);
 
   const handleFilter = (e) => {
     e.preventDefault();
+    setVideosLoading(true);
     //console.log("Filter to be implemented");
     let newCatFilter = "";
     props.categoriesState.map((s, index) => {
@@ -40,13 +43,18 @@ const DuaLipa2 = (props) => {
     });
     //console.log("newSongFilter", newSongFilter);
 
-    GetVideosWithFilter(setVideoData, newSongFilter, newCatFilter);
+    GetVideosWithFilter(
+      setVideoData,
+      newSongFilter,
+      newCatFilter,
+      setVideosLoading
+    );
 
     props.setShowFilters(false);
   };
 
   const handleOnCatChange = (position) => {
-    console.log("handleOnCatChange", position);
+    //console.log("handleOnCatChange", position);
     const updatedCheckedState = props.categoriesState.map((item, index) =>
       index === position ? !item : item
     );
@@ -54,7 +62,7 @@ const DuaLipa2 = (props) => {
     props.setCategoriesState(updatedCheckedState);
   };
   const handleOnSongChange = (position) => {
-    console.log("handleOnSongChange", position);
+    //console.log("handleOnSongChange", position);
     const updatedCheckedState = props.songsState.map((item, index) =>
       index === position ? !item : item
     );
@@ -119,18 +127,27 @@ const DuaLipa2 = (props) => {
             </Offcanvas.Body>
           </Offcanvas>
         </h4>
-        <div>Video Count: {videoData.length}</div>
-        <div className="row row-cols-sm-1 row-cols-md-2 row-cols-lg-3  row-cols-xl-4 p-1 m-10">
-          {videoData.map((record, index) => {
-            return (
-              <RecordHeader2
-                className="col"
-                key={index}
-                record={record}
-                videoIndex={index}
-              />
-            );
-          })}
+        <div hidden={!videosLoading} className="imageHeader">
+          <Image
+            className="imageHeader"
+            src={require("../img/loading.png").default}
+            alt="loading..."
+          ></Image>
+        </div>
+        <div hidden={videosLoading}>
+          <div>Video Count: {videoData.length}</div>
+          <div className="row row-cols-sm-1 row-cols-md-2 row-cols-lg-3  row-cols-xl-4 p-1 m-10">
+            {videoData.map((record, index) => {
+              return (
+                <RecordHeader2
+                  className="col"
+                  key={index}
+                  record={record}
+                  videoIndex={index}
+                />
+              );
+            })}
+          </div>
         </div>
       </div>
     </div>

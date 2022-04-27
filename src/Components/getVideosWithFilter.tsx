@@ -1,4 +1,9 @@
-function GetVideosWithFilter(setAllVideos, songs, categories) {
+function GetVideosWithFilter(
+  setAllVideos,
+  songs,
+  categories,
+  setVideosLoading
+) {
   function CheckError(response) {
     if (response.status >= 200 && response.status <= 299) {
       return response.json();
@@ -28,9 +33,11 @@ function GetVideosWithFilter(setAllVideos, songs, categories) {
   fetch(eventUrl, requestOptions)
     .then(CheckError)
     .then((data) => {
+      setVideosLoading(false);
       setAllVideos(data.videos);
     })
     .catch((error) => {
+      setVideosLoading(false);
       console.log("GetVideosWithFilter data error", error);
     });
 }

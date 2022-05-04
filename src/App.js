@@ -10,9 +10,19 @@ let cats = require("./Data/categories.json");
 let songs = require("./Data/songs.json");
 
 function App() {
-  const [adminAccount, setAdminAccount] = useState("wherewasdualipa"); //wherewasdualipa
+  const [adminAccount, setAdminAccount] = useState(""); //wherewasdualipa
+
+  useEffect(() => {
+    let ls = window.localStorage.getItem("adminAccount");
+    //console.log("ls1", ls);
+    if (ls === null) ls = "";
+    //console.log("ls2", ls);
+    setAdminAccount(ls);
+  }, []);
+
   const [showEventModal, setShowEventModal] = useState(false);
   const [showEventForm, setShowEventForm] = useState(false);
+  const [showVideoForm, setShowVideoForm] = useState(false);
   const [eventDate, setEventDate] = useState("9999-88-77");
   //const [videos, setVideos] = useState([]);
   const [showFilters, setShowFilters] = useState(false);
@@ -96,6 +106,8 @@ function App() {
       setPopUpMessage={setPopUpMessage}
       showPopUp={showPopUp}
       setShowPopUp={setShowPopUp}
+      showVideoForm={showVideoForm}
+      setShowVideoForm={setShowVideoForm}
     />
   );
 }

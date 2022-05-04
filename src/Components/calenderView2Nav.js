@@ -13,8 +13,6 @@ const CalendarView2Nav = (myProps) => {
   const ICON_SIZE = 8;
   const LEVEL_SPACE = 16;
 
-  //console.log("myProps.calendarNavData", myProps.calendarNavData);
-
   const ToggleIcon = ({ on }) => (
     <span style={{ marginRight: 8 }}>{on ? "-" : "+"}</span>
   );

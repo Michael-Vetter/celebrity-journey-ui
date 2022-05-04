@@ -71,6 +71,11 @@ const MainTab = (props) => {
                   setCategoriesState={props.setCategoriesState}
                   songsState={props.songsState}
                   setSongsState={props.setSongsState}
+                  showVideoForm={props.showVideoForm}
+                  setShowVideoForm={props.setShowVideoForm}
+                  setPopUpMessage={props.setPopUpMessage}
+                  setShowPopUp={props.setShowPopUp}
+                  adminAccount={props.adminAccount}
                 />
               </Tab>
             </Tabs>

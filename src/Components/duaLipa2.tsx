@@ -4,6 +4,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import { Button, Offcanvas, Form } from "react-bootstrap";
 import GetVideosWithFilter from "./getVideosWithFilter";
 import Image from "react-bootstrap/Image";
+import AddVideoForm from "./addVideoForm";
 
 //let data = require("../Data/dualipa.json");
 let cats = require("../Data/categories.json");
@@ -13,6 +14,7 @@ let songs = require("../Data/songs.json");
 const DuaLipa2 = (props) => {
   const handleClose = () => props.setShowFilters(false);
   const handleShow = () => props.setShowFilters(true);
+  const handleShowVideo = () => props.setShowVideoForm(true);
 
   const [videoData, setVideoData] = useState([]);
   const [videosLoading, setVideosLoading] = useState(true);
@@ -74,10 +76,23 @@ const DuaLipa2 = (props) => {
     <div>
       <div className="container-fluid">
         <h4>
-          <Button variant="primary" onClick={handleShow}>
+          <Button className="m-1" variant="primary" onClick={handleShow}>
             Filter Videos
           </Button>
-
+          <div hidden={props.adminAccount.length === 0}>
+            <Button className="m-1" variant="primary" onClick={handleShowVideo}>
+              Add Video
+            </Button>
+          </div>
+          <div hidden={props.showVideoForm}>
+            <AddVideoForm
+              showVideoForm={props.showVideoForm}
+              setShowVideoForm={props.setShowVideoForm}
+              setPopUpMessage={props.setPopUpMessage}
+              setShowPopUp={props.setShowPopUp}
+              songs={songs}
+            />
+          </div>
           <Offcanvas show={props.showFilters} onHide={handleClose}>
             <Offcanvas.Header closeButton>
               <Offcanvas.Title>

@@ -15,20 +15,10 @@ export default function EventItems2(props) {
           <h2>Images</h2>
 
           <div hidden={props.popUpImgs.length > 0}>No images for this date</div>
-          <div hidden={props.popUpImgs.length === 0}>
-            (Images from{" "}
-            <a
-              href="https://www.instagram.com/dualipaloversbr/"
-              rel="noreferrer"
-              target="_blank"
-            >
-              @dualipaloversbr
-            </a>{" "}
-            Instagram account)
-          </div>
           <div className="row row-cols-sm-1 row-cols-md-2 row-cols-lg-6  row-cols-xl-10 p-1 m-10">
             {props.popUpImgs.map((record, index) => {
-              return <ImageHeader2 key={index} file={record.fileName} />;
+              console.log("record", record);
+              return <ImageHeader2 key={index} record={record} />;
             })}
           </div>
 

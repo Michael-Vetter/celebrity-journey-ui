@@ -2,6 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Home from "./home";
 import MainTab from "./mainTab";
+import AdminLogin from "./adminLogin";
 
 const ReactRouterSetup = (props) => {
   return (
@@ -42,6 +43,18 @@ const ReactRouterSetup = (props) => {
               setPopUpMessage={props.setPopUpMessage}
               showPopUp={props.showPopUp}
               setShowPopUp={props.setShowPopUp}
+              showVideoForm={props.showVideoForm}
+              setShowVideoForm={props.setShowVideoForm}
+            />
+          }
+        />
+        <Route
+          path="/admin"
+          element={
+            <AdminLogin
+              setPopUpMessage={props.setPopUpMessage}
+              setShowPopUp={props.setShowPopUp}
+              setAdminAccount={props.setAdminAccount}
             />
           }
         />

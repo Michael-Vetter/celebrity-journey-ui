@@ -19,7 +19,7 @@ export default function AdminLogin(props) {
     setButtonEnabled(true);
     props.setShowPopUp(true);
     if (message === "Successful login") {
-      window.localStorage.setItem("adminAccount", userName);
+      window.sessionStorage.setItem("adminAccount", userName);
       props.setAdminAccount(userName);
       goHome();
     }

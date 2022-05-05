@@ -13,7 +13,7 @@ function App() {
   const [adminAccount, setAdminAccount] = useState(""); //wherewasdualipa
 
   useEffect(() => {
-    let ls = window.localStorage.getItem("adminAccount");
+    let ls = window.sessionStorage.getItem("adminAccount");
     //console.log("ls1", ls);
     if (ls === null) ls = "";
     //console.log("ls2", ls);

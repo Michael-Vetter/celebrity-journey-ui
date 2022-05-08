@@ -1,8 +1,12 @@
 import React, { useState } from "react";
-import "bootstrap/dist/css/bootstrap.min.css";
-import { Button, Form } from "react-bootstrap";
+import styled from "styled-components";
+import { Button, Form, Container, Row, Col } from "react-bootstrap";
 import PostAdminLogin from "./postAdminLogin";
 import { useNavigate } from "react-router-dom";
+
+const ExtraSpace = styled.div`
+  height: 100px;
+`;
 
 export default function AdminLogin(props) {
   const [buttonEnabled, setButtonEnabled] = useState(true);
@@ -13,7 +17,7 @@ export default function AdminLogin(props) {
     navigate("/dualipa");
   };
   const AfterUpload = function AfterUpload(message: string) {
-    console.log("AfterUpload", message);
+    //console.log("AfterUpload", message);
     //handleClose();
     props.setPopUpMessage(message);
     setButtonEnabled(true);
@@ -30,7 +34,7 @@ export default function AdminLogin(props) {
     setButtonEnabled(false);
     const formData = new FormData(e.target),
       formDataObj = Object.fromEntries(formData.entries());
-    console.log(formDataObj);
+    //console.log(formDataObj);
     userName = formDataObj.formLoginUserName.toString();
     PostAdminLogin(
       formDataObj.formLoginUserName.toString(),
@@ -42,7 +46,7 @@ export default function AdminLogin(props) {
 
   return (
     <>
-      <div>
+      <Container>
         <h1>Admin Login</h1>
         <Form onSubmit={handleSend}>
           <Form.Group className="mb-3" controlId="formLoginUserName">
@@ -73,7 +77,15 @@ export default function AdminLogin(props) {
             Cancel
           </Button>
         </Form>
-      </div>
+        <Row>
+          <Col>
+            <ExtraSpace />
+            <div>
+              <h3>What you can do as an admin:</h3>
+            </div>
+          </Col>
+        </Row>
+      </Container>
     </>
   );
 }

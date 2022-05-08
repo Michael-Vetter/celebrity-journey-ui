@@ -27,7 +27,7 @@ export function useFileChange() {
       return;
     }
 
-    console.log("fileObj is", fileObj);
+    //console.log("fileObj is", fileObj);
 
     const [type] = fileObj.type.split("/");
     if (!type || type !== "image") {

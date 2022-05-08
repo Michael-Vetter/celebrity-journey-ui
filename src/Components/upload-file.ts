@@ -8,6 +8,8 @@ export async function uploadToS3({
   adminAccount,
   fileDate,
   source,
+  setPopUpMessage,
+  setShowPopUp,
 }: {
   fileName: string;
   fileType: string;
@@ -15,13 +17,15 @@ export async function uploadToS3({
   adminAccount: string;
   fileDate: string;
   source: string;
+  setPopUpMessage;
+  setShowPopUp;
 }) {
-  console.log("uploadToS3 fileName", fileName);
-  console.log("uploadToS3 fileType", fileType);
+  //console.log("uploadToS3 fileName", fileName);
+  //console.log("uploadToS3 fileType", fileType);
   //console.log("uploadToS3 fileContents", fileContents);
-  console.log("uploadToS3 adminAccount", adminAccount);
-  console.log("uploadToS3 fileDate", fileDate);
-  console.log("uploadToS3 source", source);
+  //console.log("uploadToS3 adminAccount", adminAccount);
+  //console.log("uploadToS3 fileDate", fileDate);
+  //console.log("uploadToS3 source", source);
 
   //todo turn on wait; put in try-catch?
   const presignedPostUrl = await getPresignedPostUrl(
@@ -31,7 +35,7 @@ export async function uploadToS3({
     fileDate,
     source
   );
-  console.log("presignedPostUrl", presignedPostUrl);
+  //console.log("presignedPostUrl", presignedPostUrl);
   fetch(presignedPostUrl.url, {
     method: "PUT",
     headers: {
@@ -40,12 +44,16 @@ export async function uploadToS3({
     body: fileContents,
   })
     .then(() => {
-      console.log("image uploaded succ");
+      //console.log("image uploaded succ");
       //todo turn off wait
+      setPopUpMessage("Image Uploaded!");
+      setShowPopUp(true);
     })
     .catch((error) => {
-      console.log("error", error);
+      //console.log("error", error);
       //todo turn off wait
+      setPopUpMessage("Error uploading - please try again");
+      setShowPopUp(true);
     });
 
   return presignedPostUrl.filePath;
@@ -71,7 +79,7 @@ async function getPresignedPostUrl(
   source: string
 ) {
   const { data: presignedPostUrl } = await axios.get<PresignedPostUrlResponse>(
-    `${API_BASE_URL}/${GET_PRESIGNED_URL_API_PATH}/${fileName}?fileType=${fileType}&fileDate=${fileDate}&source=${source}&account=${adminAccount}`
+    `${API_BASE_URL}/${GET_PRESIGNED_URL_API_PATH}/${fileName}?fileType=${fileType}&fileDate=${fileDate}&source=${source}&account=${adminAccount}&comment=`
   );
 
   return presignedPostUrl;

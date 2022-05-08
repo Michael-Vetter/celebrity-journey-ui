@@ -17,7 +17,7 @@ export default function PutEvent(
     dateString: eventDate,
   };
 
-  console.log("PutEvent newEvent", newEvent);
+  //console.log("PutEvent newEvent", newEvent);
 
   function CheckError(response) {
     if (response.status >= 200 && response.status <= 299) {

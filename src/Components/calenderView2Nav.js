@@ -1,6 +1,6 @@
 import { ListGroupItem, ListGroup } from "reactstrap";
 import TreeMenu from "react-simple-tree-menu";
-import "../../node_modules/react-simple-tree-menu/dist/main.css";
+//import "../../node_modules/react-simple-tree-menu/dist/main.css";
 import GetCalendarBody from "./getCalendarBody";
 import { Button } from "react-bootstrap";
 import AddEventForm from "./addEventForm";

@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "bootstrap/dist/css/bootstrap.min.css";
+//import "bootstrap/dist/css/bootstrap.min.css";
 import { Modal, Button, Form } from "react-bootstrap";
 import PutEvent from "./putEvent";
 
@@ -8,7 +8,7 @@ export default function AddEventForm(props) {
   const handleClose = () => props.setShowEventForm(false);
 
   const AfterUpload = function AfterUpload(message: string) {
-    console.log("AfterUpload", message);
+    //console.log("AfterUpload", message);
     handleClose();
     props.setPopUpMessage(message);
     setButtonEnabled(true);

@@ -38,7 +38,7 @@ function GetVideosWithFilter(
     })
     .catch((error) => {
       setVideosLoading(false);
-      console.log("GetVideosWithFilter data error", error);
+      //console.log("GetVideosWithFilter data error", error);
     });
 }
 

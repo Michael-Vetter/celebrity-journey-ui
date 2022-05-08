@@ -34,7 +34,7 @@ function GetCalendarBody(calendarNavData, setCalendarBody) {
       setCalendarBody(newEvents);
     })
     .catch((error) => {
-      console.log("GetCalendarBody data error", error);
+      //console.log("GetCalendarBody data error", error);
       //setIsLoading(false);
       //setState(StateAddResultsFromApi(state, ["error, try again"]));
     });

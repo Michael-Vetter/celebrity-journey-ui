@@ -1,14 +1,20 @@
 import React, { useState } from "react";
+// import {
+//   MonthlyBody,
+//   MonthlyDay,
+//   MonthlyCalendar,
+//   MonthlyNav,
+// } from "@zach.codes/react-calendar";
 import {
   MonthlyBody,
   MonthlyDay,
   MonthlyCalendar,
   MonthlyNav,
-} from "@zach.codes/react-calendar";
-import "../../node_modules/react-simple-tree-menu/dist/main.css";
+} from "../CalendarCopy";
+//import "../../node_modules/react-simple-tree-menu/dist/main.css";
 import { format, startOfMonth } from "date-fns";
 import MyDayComponent from "./myDayComponent";
-import "@zach.codes/react-calendar/dist/calendar-tailwind.css";
+//import "@zach.codes/react-calendar/dist/calendar-tailwind.css";
 import EventItems2 from "./eventItems2";
 import GetPopupVidsImgs from "./getPopupVidsImgs";
 
@@ -79,6 +85,8 @@ const CalendarView2Body = (myProps) => {
                       date={format(item.date, "yyyy-MM-dd")}
                       onClick={showEvents}
                       adminAccount={myProps.adminAccount}
+                      setPopUpMessage={myProps.setPopUpMessage}
+                      setShowPopUp={myProps.setShowPopUp}
                     />
                   </div>
                 </div>

@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import RecordHeader2 from "./recordHeader2";
-import "bootstrap/dist/css/bootstrap.min.css";
+//import "bootstrap/dist/css/bootstrap.min.css";
 import { Button, Offcanvas, Form } from "react-bootstrap";
 import GetVideosWithFilter from "./getVideosWithFilter";
 import Image from "react-bootstrap/Image";

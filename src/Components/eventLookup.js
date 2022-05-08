@@ -15,7 +15,7 @@ const EventLookup = async (year, month) => {
   const url = "https://api.celebrity-journey.com";
   const eventUrl = url + "/api/events/" + year + "/" + month;
 
-  console.log("EventLookup begin eventUrl", eventUrl);
+  //console.log("EventLookup begin eventUrl", eventUrl);
 
   fetch(eventUrl, requestOptions)
     .then(CheckError)
@@ -28,7 +28,7 @@ const EventLookup = async (year, month) => {
       if (data[0] === "default return") {
         data[0] = "no results";
       }
-      console.log("event data", data);
+      //console.log("event data", data);
       return data;
       //setState(StateAddResultsFromApi(state, data));
     })

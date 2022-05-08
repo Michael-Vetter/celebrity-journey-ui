@@ -7,8 +7,12 @@ interface DefaultEventItemProps {
   date: string;
   onClick;
   adminAccount: string;
+  setPopUpMessage;
+  setShowPopUp;
 }
-
+//
+//                      setPopUpMessage={myProps.setPopUpMessage}
+//                      setShowPopUp={myProps.setShowPopUp}
 export default function MyDayComponent(props: DefaultEventItemProps) {
   const doUpload = async (file) => {
     const fileName: string = file.name;
@@ -17,6 +21,8 @@ export default function MyDayComponent(props: DefaultEventItemProps) {
     const adminAccount: string = props.adminAccount;
     const fileDate: string = props.date;
     const source: string = "instagram";
+    const setPopUpMessage = props.setPopUpMessage;
+    const setShowPopUp = props.setShowPopUp;
     if (fileName && fileType && fileContents && props.adminAccount) {
       await uploadToS3({
         fileName,
@@ -25,31 +31,21 @@ export default function MyDayComponent(props: DefaultEventItemProps) {
         adminAccount,
         fileDate,
         source,
+        setPopUpMessage,
+        setShowPopUp,
       });
     }
   };
 
   const onDrop = useCallback((acceptedFiles) => {
-    console.log("MyDayComponent onDrop acceptedFiles", acceptedFiles);
-    console.log("MyDayComponent onDrop date", props.date);
-
     acceptedFiles.map((file, index) => {
       const reader = new FileReader();
-      //reader.onload = function (e) {
-      //console.log("reader onload", JSON.stringify(e.target));
-      // setImages((prevState) => [
-      //   ...prevState,
-      //   { id: index, src: e.target.result },
-      // ]);
-      //};
       reader.readAsDataURL(file);
       doUpload(file);
-      //not this one  uploadToS3(file.name, file.type, file);
       return file;
     });
   }, []);
 
-  //console.log("mydate", props.date);
   return (
     <>
       <div>

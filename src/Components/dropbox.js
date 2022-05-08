@@ -1,8 +1,5 @@
 import { useDropzone } from "react-dropzone";
 import styled from "styled-components";
-//import { uploadToS3 } from "./upload-file";
-
-//https://blog.logrocket.com/create-drag-and-drop-component-react-dropzone/
 
 const getColor = (props) => {
   if (props.isDragAccept) {
@@ -34,27 +31,12 @@ const Container = styled.div`
   transition: border 0.24s ease-in-out;
 `;
 function DropBox({ onDrop, myDate }) {
-  const {
-    getRootProps,
-    getInputProps,
-    acceptedFiles,
-    open,
-    isDragAccept,
-    isFocused,
-    isDragReject,
-  } = useDropzone({
+  const { getRootProps, isDragAccept, isFocused, isDragReject } = useDropzone({
     accept: "image/*",
     onDrop,
     noClick: true,
     noKeyboard: true,
   });
-  //const [imageSent, setImageSent] = useState([]);
-  // const lists = acceptedFiles.map((list) => (
-  //   <li key={list.path}>
-  //     {list.path} - {list.size} bytes
-  //   </li>
-  // ));
-
   return (
     <>
       {" "}
@@ -76,7 +58,7 @@ function DropBox({ onDrop, myDate }) {
               onChange: handleFile,
             })}
           /> */}
-          <p>Drag images here</p>
+          <p>Drop Image Here</p>
         </Container>
       </section>
     </>

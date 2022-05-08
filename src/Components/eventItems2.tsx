@@ -1,5 +1,5 @@
 import React from "react";
-import "bootstrap/dist/css/bootstrap.min.css";
+//import "bootstrap/dist/css/bootstrap.min.css";
 import { Modal } from "react-bootstrap";
 import RecordHeader2 from "./recordHeader2";
 import ImageHeader2 from "./imageHeader2";
@@ -17,7 +17,7 @@ export default function EventItems2(props) {
           <div hidden={props.popUpImgs.length > 0}>No images for this date</div>
           <div className="row row-cols-sm-1 row-cols-md-2 row-cols-lg-6  row-cols-xl-10 p-1 m-10">
             {props.popUpImgs.map((record, index) => {
-              console.log("record", record);
+              //console.log("record", record);
               return <ImageHeader2 key={index} record={record} />;
             })}
           </div>

@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 //import { ListGroupItem, Input, ListGroup } from "reactstrap";
 //import TreeMenu from "react-simple-tree-menu";
-import "../../node_modules/react-simple-tree-menu/dist/main.css";
+//import "../../node_modules/react-simple-tree-menu/dist/main.css";
 import CalendarView2Nav from "./calenderView2Nav";
 import GetCalendarNav from "./getCalendarNav";
 import CalendarView2Body from "./calendarView2Body";
@@ -47,6 +47,8 @@ const CalendarView2 = (props) => {
               setCalendarBody={props.setCalendarBody}
               adminAccount={props.adminAccount}
               setAdminAccount={props.setAdminAccount}
+              setPopUpMessage={props.setPopUpMessage}
+              setShowPopUp={props.setShowPopUp}
             ></CalendarView2Body>
           </Col>
         </Row>

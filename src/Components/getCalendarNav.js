@@ -20,7 +20,7 @@ function GetCalendarNav(setCalendarNavData) {
       setCalendarNavData(data);
     })
     .catch((error) => {
-      console.log("GetCalendarNav data error", error);
+      //console.log("GetCalendarNav data error", error);
       //setIsLoading(false);
       //setState(StateAddResultsFromApi(state, ["error, try again"]));
     });

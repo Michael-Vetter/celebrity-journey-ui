@@ -2,7 +2,7 @@ import React from "react";
 import Image from "react-bootstrap/Image";
 
 const ImageHeader2 = (props) => {
-  console.log("ImageHeader2 props", props);
+  //console.log("ImageHeader2 props", props);
   return (
     <div>
       (Image from{" "}

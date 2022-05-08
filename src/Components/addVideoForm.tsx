@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "bootstrap/dist/css/bootstrap.min.css";
+//import "bootstrap/dist/css/bootstrap.min.css";
 import { Modal, Button, Form } from "react-bootstrap";
 import PostVideo from "./postVideo";
 
@@ -8,7 +8,7 @@ export default function AddVideoForm(props) {
   const handleClose = () => props.setShowVideoForm(false);
 
   const AfterUpload = function AfterUpload(message: string) {
-    console.log("AfterUpload", message);
+    //console.log("AfterUpload", message);
     //handleClose();
     props.setPopUpMessage(message);
     setButtonEnabled(true);
@@ -21,7 +21,7 @@ export default function AddVideoForm(props) {
     setButtonEnabled(false);
     const formData = new FormData(e.target),
       formDataObj = Object.fromEntries(formData.entries());
-    console.log(formDataObj);
+    //console.log(formDataObj);
 
     let songsList: string = "";
     Object.keys(formDataObj).forEach((key, index) => {

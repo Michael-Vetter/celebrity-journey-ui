@@ -1,5 +1,5 @@
 import React from "react";
-import "bootstrap/dist/css/bootstrap.min.css";
+//import "bootstrap/dist/css/bootstrap.min.css";
 import Tab from "react-bootstrap/Tab";
 import Tabs from "react-bootstrap/Tabs";
 import DuaLipa2 from "./duaLipa2";
@@ -35,7 +35,7 @@ const MainTab = (props) => {
               className="mb-3"
               mountOnEnter={true}
             >
-              <Tab eventKey="Calendar2" title="Calendar View 2">
+              <Tab eventKey="Calendar2" title="Calendar View">
                 <CalendarView2
                   calendarNavData={props.calendarNavData}
                   setCalendarNavData={props.setCalendarNavData}

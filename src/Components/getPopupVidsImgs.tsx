@@ -34,7 +34,7 @@ function GetPopupVidsImgs(
       //   setCalendarBody(newEvents);
     })
     .catch((error) => {
-      console.log("GetPopupVidsImgs data error", error);
+      //console.log("GetPopupVidsImgs data error", error);
       setPopUpLoading(false);
       //setIsLoading(false);
       //setState(StateAddResultsFromApi(state, ["error, try again"]));

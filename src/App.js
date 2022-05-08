@@ -44,8 +44,8 @@ function App() {
   });
   const [calendarBody, setCalendarBody] = useState([
     {
-      title: "BBC Music Sound Of 2016 (Video count: 1)",
-      date: parseISO("2016-01-03"),
+      title: "Loading...",
+      date: parseISO("2016-01-01"),
     },
   ]);
   //const [ipCount, setIpCount] = useState(0);

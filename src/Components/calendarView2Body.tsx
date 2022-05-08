@@ -72,12 +72,6 @@ const CalendarView2Body = (myProps) => {
             renderDay={(data) =>
               data.map((item, index) => (
                 <div className="border" key={1000 + index}>
-                  {/* <DefaultMonthlyEventItem
-                  key={index}
-                  title={item.title}
-                  // Format the date here to be in the format you prefer
-                  date={format(item.date, "k:mm")}
-                /> */}
                   <div>
                     <MyDayComponent
                       key={2000 + index}

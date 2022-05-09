@@ -52,6 +52,13 @@ code {
   overflow-y: scroll;
 }
 
+.filterContainerLg {
+  border: 2px solid #ccc;
+  width: 300px;
+  height: 360px;
+  overflow-y: scroll;
+}
+
 .modal-90w {
   width: 90% !important;
   max-width: none !important;

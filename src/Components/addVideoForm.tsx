@@ -1,10 +1,15 @@
 import React, { useState } from "react";
 //import "bootstrap/dist/css/bootstrap.min.css";
-import { Modal, Button, Form } from "react-bootstrap";
+import { Modal, Button, Form, Col, Row } from "react-bootstrap";
 import PostVideo from "./postVideo";
 
 export default function AddVideoForm(props) {
   const [buttonEnabled, setButtonEnabled] = useState(true);
+
+  const [songsState, setSongsState] = useState(
+    new Array(props.songs.length).fill(false)
+  );
+
   const handleClose = () => props.setShowVideoForm(false);
 
   const AfterUpload = function AfterUpload(message: string) {
@@ -24,12 +29,15 @@ export default function AddVideoForm(props) {
     //console.log(formDataObj);
 
     let songsList: string = "";
-    Object.keys(formDataObj).forEach((key, index) => {
-      if (key.indexOf("SONG:") >= 0) {
+    //let newSongFilter = "";
+    songsState.map((s, index) => {
+      if (s) {
         if (songsList.length > 0) songsList += ",";
-        songsList += key.substring(5);
+        songsList += props.songs[index].name;
       }
+      return "";
     });
+    console.log("songsList", songsList);
     PostVideo(
       formDataObj.formVideoAddEventDate.toString(),
       formDataObj.formVideoAddVideoId.toString(),
@@ -38,6 +46,26 @@ export default function AddVideoForm(props) {
       AfterUpload
     );
     e.target.reset();
+  };
+
+  const checkFnSongs = (e) => {
+    const newSongsChecked = new Array(props.songs.length).fill(false);
+    newSongsChecked.map((s, index) => {
+      if (props.songs[index].setlist === "FN") {
+        newSongsChecked[index] = true;
+      }
+      return "";
+    });
+    setSongsState(newSongsChecked);
+  };
+
+  const handleOnSongChange = (position) => {
+    //console.log("handleOnSongChange", position);
+    const updatedCheckedState = songsState.map((item, index) =>
+      index === position ? !item : item
+    );
+
+    setSongsState(updatedCheckedState);
   };
 
   return (
@@ -88,23 +116,33 @@ export default function AddVideoForm(props) {
                   <option value="Studio">Studio</option>
                 </Form.Select>
               </Form.Group>
-              <Form.Group className="mb-3" controlId="formVideoAddSongs">
-                <div className="filterContainer">
-                  {props.songs.map(({ name }, index) => {
-                    return (
-                      <div key={`custom-checkbox-song-${index}`}>
-                        <Form.Check
-                          type="checkbox"
-                          id={`custom-checkbox-song-${index}`}
-                          name={"SONG:" + name}
-                          label={name}
-                          defaultChecked={false}
-                        />
-                      </div>
-                    );
-                  })}
-                </div>
-              </Form.Group>
+              <Row>
+                <Col sm={8}>
+                  <Form.Group className="mb-3" controlId="formVideoAddSongs">
+                    <div className="filterContainerLg">
+                      {props.songs.map(({ name }, index) => {
+                        return (
+                          <div key={`custom-checkbox-song-${index}`}>
+                            <Form.Check
+                              type="checkbox"
+                              id={`custom-checkbox-song-${index}`}
+                              name={"SONG:" + name}
+                              label={name}
+                              checked={songsState[index]}
+                              onChange={() => handleOnSongChange(index)}
+                            />
+                          </div>
+                        );
+                      })}
+                    </div>
+                  </Form.Group>
+                </Col>
+                <Col sm={4}>
+                  <Button variant="primary" onClick={checkFnSongs}>
+                    Select All FN-Tour Songs
+                  </Button>
+                </Col>
+              </Row>
               <Button
                 id="SendButton"
                 type="submit"

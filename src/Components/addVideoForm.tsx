@@ -37,7 +37,7 @@ export default function AddVideoForm(props) {
       }
       return "";
     });
-    console.log("songsList", songsList);
+    //console.log("songsList", songsList);
     PostVideo(
       formDataObj.formVideoAddEventDate.toString(),
       formDataObj.formVideoAddVideoId.toString(),
@@ -46,6 +46,7 @@ export default function AddVideoForm(props) {
       AfterUpload
     );
     e.target.reset();
+    setSongsState(new Array(props.songs.length).fill(false));
   };
 
   const checkFnSongs = (e) => {

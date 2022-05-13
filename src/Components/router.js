@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Home from "./home";
 import MainTab from "./mainTab";
 import AdminLogin from "./adminLogin";
+import ActivityLog from "./activityLog";
 
 const ReactRouterSetup = (props) => {
   return (
@@ -58,6 +59,7 @@ const ReactRouterSetup = (props) => {
             />
           }
         />
+        <Route path="/activitylog" element={<ActivityLog />} />
       </Routes>
     </Router>
   );

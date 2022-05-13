@@ -14,11 +14,15 @@ const MainTab = (props) => {
           <Col sm={0} lg={0} xl={0}></Col>
           <Col sm={12} lg={12} xl={12}>
             <h1>Dua Lipa Fan Site</h1>
-            <h3>
+            <h4>
               This site lists most Youtube videos showing performances,
               interviews, and fan encounters with Dua Lipa.
-            </h3>
+            </h4>
             <h4>
+              Click on any date in the calendar to see images and videos from
+              that day.
+            </h4>
+            <h5>
               <a
                 href="https://www.instagram.com/wherewasdualipa/"
                 rel="noreferrer"
@@ -28,7 +32,7 @@ const MainTab = (props) => {
               </a>{" "}
               (If I'm missing a video or have any suggestions, DM me on
               Instagram)
-            </h4>
+            </h5>
             <Tabs
               defaultActiveKey="Calendar2"
               id="uncontrolled-tab-example"

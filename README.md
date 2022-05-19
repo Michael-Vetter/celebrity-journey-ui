@@ -1,70 +1,19 @@
-# Getting Started with Create React App
+# celebrity-journey.com
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is to create a Dua Lipa fan site. It originally started to teach myself React. The files are a bit of a mess as I changed direction several times. At first, all data was in files, but the content got so big, I had to put them in an API. Also, I started with everything in Javascript, but then later learned some Typescript and started converting some stuff over.
 
-## Available Scripts
+The project needs a lot of work. To name a few:
 
-In the project directory, you can run:
+1. Needs a lot of refactor. My api url is hard-coded all over the place. I put most of my "useState" constants in app.js because I couldn't figure out how to use them on other pages without getting an error. I'm getting warnings for some of useEffect items and I haven't had time to figure that out.
+2. UX. I'm not a UI person at all. Could use some professional help with pictures and colors.
+3. There is an faux admin login. This is just so I (and anyone else I choose) can add content easily. Not the end of the world if someone figures out how to add content. I can always restore the files to a previous state.
 
-### `yarn start`
+## Help is encouraged
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Love Dua Lipa and want to help? The backend could also use a lot of help. I do this in my limited spare time while still trying to keep up on the content on the site.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## How to run locally
 
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. npm install
+2. yarn start
+3. Note: the url's will hit my production endpoints (there are no CORS restrictions currently). If you add content via your local instance, it will be added to production. Just keep that in mind if you add random pictures or videos. Removing content must be done manually by me, so send me a note (my instagran is mentioned on the site)

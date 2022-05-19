@@ -1,0 +1,135 @@
+.App {
+  text-align: center;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.dropbox {
+  text-align: center;
+  padding: 20px;
+  width: 90%;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.filterContainer {
+  border: 2px solid #ccc;
+  width: 300px;
+  height: 180px;
+  overflow-y: scroll;
+}
+
+.filterContainerLg {
+  border: 2px solid #ccc;
+  width: 300px;
+  height: 360px;
+  overflow-y: scroll;
+}
+
+.modal-90w {
+  width: 90% !important;
+  max-width: none !important;
+}
+
+.imageHeader {
+  width: 120px;
+  height: auto;
+  position: relative;
+}
+
+.imageHeader:hover {
+  width: 400px;
+  height: auto;
+  z-index: 10;
+  position: relative;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.mdc-event,
+.mdc-day-slot .mdc-background-event {
+  border: none;
+  box-sizing: border-box;
+  box-shadow: none;
+  margin: 0;
+  padding: 2px 5px;
+  background-color: #3174ad;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+}
+
+.mdc-ellipsis,
+.mdc-show-more,
+.mdc-row-segment .mdc-event-content,
+.mdc-event-label {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.mdc-event.mdc-selected,
+.mdc-day-slot .mdc-selected.mdc-background-event {
+  background-color: #265985;
+}
+
+.mdc-time-view .mdc-allday-events {
+  position: relative;
+  z-index: 4;
+}
+
+.rc-cursor-pointer {
+  cursor: default;
+  color: transparent;
+}
+
+.rc-w-custom {
+  width: 14rem;
+}
